@@ -1,6 +1,8 @@
 /target
 /sde
 /store
+/public
+deploy.sh
 # Build #
 #########
 MANIFEST.MF

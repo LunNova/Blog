@@ -1,11 +1,15 @@
 # The URL the site will be built for
-base_url = "https://moonstruck.dev/blog/"
+base_url = "https://moonstruck.dev/blog"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+
+theme = "oceanic-zen"
+
+generate_feed = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -14,3 +18,6 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+author = "Luna Nova"
+github = "TransLunarInjection"
+twitter = "LunaNovae"
