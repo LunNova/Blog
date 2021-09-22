@@ -1,6 +1,9 @@
 +++
 title = "HBA mode on the Smart Array Controller for the BL460c G8"
 date = 2021-09-19
+
+[taxonomies]
+tags = ["bladesystem", "homelab"]
 +++
 
 ## Enabling HBA mode
