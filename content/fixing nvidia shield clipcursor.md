@@ -1,6 +1,7 @@
 +++
-title = "Fixing Nvidia Shield Streaming service locking the cursor to the primary monitor"
+title = "Fixing Nvidia Shield streaming service cursor locking"
 date = 2021-10-27
+description = "Fixing an Nvidia Shield streaming service bug which locks the cursor to the primary monitor"
 
 [taxonomies]
 tags = ["afternoon project"]
