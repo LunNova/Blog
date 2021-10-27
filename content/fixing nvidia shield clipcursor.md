@@ -7,11 +7,15 @@ description = "Fixing an Nvidia Shield streaming service bug which locks the cur
 tags = ["afternoon project"]
 +++
 
-This post describes some details of an afternoon project from 2017.
+This post describes some details of [an afternoon project from 2017](https://github.com/TransLunarInjection/NoCursorLock/releases "NoCursorLock repository").
 
-Nvidia's shield streaming service locks the cursor to the primary monitor when streaming any game. There isn't really any need to do this, but reports over the years had gone unanswered.
+Nvidia's shield streaming service locks the cursor to the primary monitor when streaming any game and [reports][r1] over [the][r2] years [asking][r3] to turn this off went unanswered.
 
 Let's fix it.
+
+[r1]: https://www.nvidia.com/en-us/geforce/forums/gamestream/19/277489/can-gamestream-not-lock-the-cursor-to-primary-moni/
+[r2]: https://www.nvidia.com/en-us/geforce/forums/gamestream/19/304525/please-disable-cursor-lock-to-single-display/
+[r3]: https://www.nvidia.com/en-us/geforce/forums/gamestream/19/464574/disable-cursor-lock/
 
 ### Detailed problem
 
