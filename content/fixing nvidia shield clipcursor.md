@@ -7,7 +7,7 @@ description = "Fixing an Nvidia Shield streaming service bug which locks the cur
 tags = ["afternoon project"]
 +++
 
-This post describes some details of [an afternoon project from 2017](https://github.com/TransLunarInjection/NoCursorLock/releases "NoCursorLock repository").
+This post describes some details of [an afternoon project from 2017](https://github.com/LunNova/NoCursorLock/releases "NoCursorLock repository").
 
 Nvidia's shield streaming service locks the cursor to the primary monitor when streaming any game and [reports][r1] over [the][r2] years [asking][r3] to turn this off went unanswered.
 
