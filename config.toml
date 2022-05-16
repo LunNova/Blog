@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://lunnova.dev/blog/"
+base_url = "https://lunnova.dev/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -11,7 +11,7 @@ theme = "lunar-zen"
 
 generate_feed = true
 
-title = "lunnova.dev blog"
+title = "lunnova.dev"
 description = "Luna Nova's personal blog, security research and odds and ends."
 
 taxonomies = [
