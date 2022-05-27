@@ -1,6 +1,6 @@
 +++
 title = "Why is my tmpfs / full?"
-date = 2022-05-22
+date = 2022-05-26
 description = "Afternoon debugging session with a full tmpfs root"
 
 [taxonomies]
