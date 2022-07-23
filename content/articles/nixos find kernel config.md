@@ -40,11 +40,6 @@ How did I find these?
 Glad you asked. Here some commands I ran while ~~flailing around~~ looking for it before writing this article.
 
 ```fish
-$ nix eval pkgs#linuxPackages_latest.kernel.configfile.structuredConfig
-$ nix eval --apply builtins.attrNames pkgs#linuxPackages_latest
-
-$ nix eval --apply builtins.attrNames pkgs#linuxPackages_latest.kernel
-
 # It's a derivation, where's it defined? There's a proper way of checking that...
 
 nix-repl> :e pkgs#linuxPackages_latest.kernel
@@ -58,8 +53,7 @@ $ nix eval --apply builtins.attrNames pkgs#linuxPackages_latest.kernel.config
 
 # Doesn't look like the right thing
 
-$ nix eval --apply builtins.attrNames pkgs#linuxPackages_latest.kernel.struc
-turedConfig
+$ nix eval --apply builtins.attrNames pkgs#linuxPackages_latest.kernel.structuredConfig
 
 error: flake 'flake:pkgs' does not provide attribute 'packages.x86_64-linux.linuxPackages_latest.kernel.structuredConfig', 'legacyPackages.x86_64-linux.linuxPackages_latest.kernel.structuredConfig' or 'linuxPackages_latest.kernel.structuredConfig'
 
