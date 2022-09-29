@@ -11,16 +11,18 @@ Stable diffusion uses an Exponential Moving Average of the model's weights to im
 
 # What is an Exponential Moving Average anyway?
 
-An EMA is a moving average which can be calculated only by knowing the last EMA value, and the current value. The EMA doesn't require retaining all the data points over a sliding window
+An EMA is a moving average which can be calculated only by knowing the last EMA value, and the current value. The EMA doesn't require retaining the last N data points, making it quite memory efficient.
 
 ```py
 def next_ema(val: float, last_ema: float, decay: float) -> float:
     return last_ema * decay + val * (1-decay)
 ```
 
+You've probably seen this before, even if you didn't know the name. It's a simple idea and has been independently reinvented many times! I can remember using this sort of average [as far back as 2013](https://github.com/MinimallyCorrect/TickThreading/blob/8a80f377eb0e8575f079b698cdb168b9e746d491/src/common/me/nallar/patched/PatchMinecraftServer.java#L213).
+
 # How do you implement an EMA for a machine learning model?
 
-It's actually very similar, except rather than single floats as inputs you input a matrix and calculate the result for each entry in the matrix.
+It's very similar, except rather than single floats as inputs you input a matrix and calculate the result for each entry in the matrix.
 
 # EMA in Stable Diffusion
 
