@@ -190,6 +190,10 @@ This only happens with fsdp, I haven't worked out why yet.
 
 TODO: file a bug at lightning repo seeking assistance?
 
+# Optimized EMA 
+
+See [Stable diffusion optimization: EMA weights on CPU](@/articles/stable-diffusion-ema-on-cpu/index.md).
+
 # Autoencoder training
 
 Training a custom autoencoder on your dataset may be worth doing if it is mostly art, as the autoencoder in the base stable diffusion model seems to be pretty poor at anime or furry style eyes.
@@ -197,6 +201,7 @@ Training a custom autoencoder on your dataset may be worth doing if it is mostly
 FIXME: This only works at fp32, fp16 gives NaN loss
 
 See training-encoder.yml for a configuration for training the encoder.
+
 
 # Setup
 
