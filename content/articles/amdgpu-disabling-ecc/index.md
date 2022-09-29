@@ -1,7 +1,7 @@
 +++
 title = "Disabling ECC on a Radeon Pro GPU on Linux"
 date = 2022-09-28
-description = "I fine-tuned stable diffusion at home over a few days, and you can too."
+description = "Get 7% more VRAM for your machine learning misadventures!"
 draft = false
 
 [taxonomies]
