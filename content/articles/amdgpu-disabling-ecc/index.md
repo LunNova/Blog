@@ -8,7 +8,7 @@ draft = false
 tags = ["amdgpu", "linux", "ecc"]
 +++
 
-ECC is optional on AMD's Pro GPUs, if you turn it off you get slightly more VRAM. On windows, this is as easy as flipping a switch in the Radeon control panel.
+ECC is optional on AMD's Pro GPUs, if you turn it off you get about 7% more VRAM - 30700MiB to 32768MiB on a Pro W6800. On Windows, this is as easy as flipping a switch in the Radeon control panel.
 
 ![](./windows-amd-settings.png "Screenshot of AMD's settings, showing an On-Board ECC/EDC toggle in the enabled state, and some of the surrounding options.")
 
@@ -18,10 +18,11 @@ On Linux, this is possible but not documented.
 
 Boot once with a patched kernel which returns false from `amdgpu_atomfirmware_mem_ecc_supported`
 
+TODO: You *might* just need to reboot twice with the kernel param below and be able to skip this patch, but I don't think so. Should confirm this!
+
 <details>
 
 <summary>amdgpu-no-ecc.patch</summary>
-
 
 ```
 diff --git a/drivers/gpu/drm/amd/amdgpu/amdgpu_atomfirmware.c b/drivers/gpu/drm/amd/amdgpu/amdgpu_atomfirmware.c
@@ -60,7 +61,7 @@ amdgpu 0000:06:00.0: amdgpu: SRAM ECC is not presented.
 amdgpu 0000:06:00.0: amdgpu: GECC is disabled
 ```
 
-### Turning it back off
+### Turning it back on
 
 Revert the patch, remove the param, and reboot.  
 You may have to reboot twice.
