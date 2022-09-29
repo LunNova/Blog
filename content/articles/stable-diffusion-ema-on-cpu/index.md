@@ -70,7 +70,7 @@ Yep, it's taking an extra second per batch to update on the CPU. Saving VRAM isn
 
 Fortunately for us, in our particular context we don't need to update the weights on every single batch. Machine learning model weights drift slowly, so we can apply an EMA update only on every Nth batch and still get mostly the same results, as long as N isn't set too high!
 
-We'll also need to set the initial `delay` value to `math.pow(delay, update_every)` so we still make a big enough change.
+We'll also need to set the initial `decay` value to `math.pow(decay, update_every)` so we still make a big enough change.
 
 ## What's going on with `collected_params`?
 
