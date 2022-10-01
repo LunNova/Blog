@@ -11,6 +11,13 @@ tags = ["machine learning", "image generation", "stable diffusion", "cuda", "roc
 This is a living document which I am using to keep track of my findings during development.  
 It is less organized than a typical blog post, and full of TODO and FIXME notes.
 
+Repositories referenced by this post:
+
+- Containers, launcher, and dataloader - https://github.com/LunNova/translunar-diffusion
+- Base stable diffusion with optimizations for training - https://github.com/LunNova/InvokeAI-nyoom
+
+Clone "translunar-diffusion" as a dir called "lun" inside the other one. It's also compatible with other SD forks, which is why it's separate.
+
 ----
 
 Stable diffusion is an awesome txt2img model. Let's get it ready to train.
