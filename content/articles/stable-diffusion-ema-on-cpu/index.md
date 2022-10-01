@@ -9,6 +9,16 @@ tags = ["machine learning", "stable diffusion", "cuda", "rocm"]
 
 Stable diffusion uses an Exponential Moving Average of the model's weights to improve quality of resulting images and avoid overfitting to the most recently trained images. It also gives us a more stable EMA validation loss to use to pick the best checkpoints. See [Understanding the use of EMA in Diffusion models](https://old.reddit.com/r/MachineLearning/comments/ucflc2/d_understanding_the_use_of_ema_in_diffusion_models/) on reddit for some discussion.
 
+
+<details>
+
+<summary> I want to skip to the code </summary>
+
+This optimization, along with some others, are in this fork of InvokeAI: [github:LunNova/InvokeAI-nyoom](
+https://github.com/LunNova/InvokeAI-nyoom/).
+
+</details>
+
 # What is an Exponential Moving Average anyway?
 
 An EMA is a moving average which can be calculated only by knowing the last EMA value, and the current value. The EMA doesn't require retaining the last N data points, making it quite memory efficient.
@@ -22,7 +32,7 @@ You've probably seen this before, even if you didn't know the name. It's a simpl
 
 # How do you implement an EMA for a machine learning model?
 
-It's very similar, except rather than single floats as inputs you input a matrix and calculate the result for each entry in the matrix.
+It's very similar, except rather than single floats as inputs you have to do this for every model parameter that you want to be part of the EMA. With PyTorch modules you can use [the `named_parameters()` iterator](https://pytorch.org/docs/stable/generated/torch.nn.Module.html#torch.nn.Module.named_parameters) to access all parameters.
 
 # EMA in Stable Diffusion
 
