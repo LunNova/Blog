@@ -228,7 +228,7 @@ See training-encoder.yml for a configuration for training the encoder.
 
 # Setup
 
-Clone [github:LunNova/lunar-diffusion](github.com/LunNova/lunar-diffusion), including submodules.
+Clone [github:LunNova/lunar-diffusion](https://github.com/LunNova/translunar-diffusion), including submodules.
 
 # Checkpoints and Logging
 
@@ -435,3 +435,5 @@ This is a cut down example of a real dataloader I used to train recently.
             sketch: -75
 ```
 </details>
+
+Once you've prepared your dataset and config yaml, save it in the configs directory and add it to the `--base` option when launching the trainer.
