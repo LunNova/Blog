@@ -56,7 +56,7 @@ The training captions used comma separated tags.
 
 These models were trained using [github:LunNova/translunar-diffusion](https://github.com/LunNova/translunar-diffusion).
 
-Please see [the stable diffusion training notes](@/articles/stable-diffusion-training-notes/index.md#amdgpu-hang) for more details.
+Please see [the stable diffusion training notes](@/articles/stable-diffusion-training-notes/index.md) for more details.
 
 # Model Licenses
 
