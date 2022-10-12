@@ -1,8 +1,7 @@
 +++
 title = "amdgpu gpu_recovery is impressive but required too often"
-date = 2022-09-27
-description = "I fine-tuned stable diffusion at home over a few days, and you can too."
-draft = true
+date = 2022-10-01
+description = "amdgpu keeps hanging when using ROCM"
 
 [taxonomies]
 tags = ["amdgpu", "rocm", "linux"]
@@ -14,4 +13,4 @@ It keeps letting me down by crashing whenever I run mixed compute and graphics l
 
 Very mixed feelings on this. Can I trade the awesome crash recovery for not crashing in the first place please?
 
-See [the stable diffusion post's AMD section for some more details](@/articles/stable-diffusion-training.md#amdgpu-hang).
+See [the stable diffusion post's AMD section for some more details](@/articles/stable-diffusion-training-notes/index.md#amdgpu-hang).

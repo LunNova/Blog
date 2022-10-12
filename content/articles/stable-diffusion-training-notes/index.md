@@ -1,8 +1,7 @@
 +++
-title = "Training stable diffusion at home, or lunar-diffusion"
-date = 2022-09-27
+title = "Stable Diffusion Training Notes"
+date = 2022-10-01
 description = "I fine-tuned stable diffusion at home over a few days, and you can too."
-draft = true
 
 [taxonomies]
 tags = ["machine learning", "image generation", "stable diffusion", "cuda", "rocm"]
@@ -16,7 +15,7 @@ Repositories referenced by this post:
 - Containers, launcher, and dataloader - https://github.com/LunNova/translunar-diffusion
 - Base stable diffusion with optimizations for training - https://github.com/LunNova/InvokeAI-nyoom
 
-Clone "translunar-diffusion" as a dir called "lun" inside the other one. It's also compatible with other SD forks, which is why it's separate.
+Clone "translunar-diffusion" with submodules and use `start.sh` in the docker folder to get a container.
 
 ----
 
@@ -48,9 +47,9 @@ We're going to start with the [InvokeAI fork](https://github.com/invoke-ai/Invok
 
 # Hardware
 
-You need at minimum a GPU with 24GB of VRAM to train, and that's cutting it fine and will only work when using deepspeed.
+You need at minimum a GPU with 16GB of VRAM to train, and that's cutting it fine and will only work when using deepspeed.
 
-I tested using a Radeon Pro W6800 32GB GPU which allows training without deepspeed with a batch size of one.
+I tested using a Radeon Pro W6800 32GB GPU which allows training without deepspeed with a batch size of 3.
 
 I haven't tested with any NVIDIA GPUs as I don't have any with sufficient VRAM yet.
 
@@ -163,14 +162,17 @@ The only other required change was [removing the deprecated `dataloader_idx` arg
 
 Pytorch Lightning supports ["hardware agnostic training"](https://pytorch-lightning.readthedocs.io/en/latest/accelerators/accelerator_prepare.html)
 
+Implementing this is mostly just removing casts and .to calls. My changes are in [this commit](https://github.com/LunNova/InvokeAI-nyoom/commit/d839da77f2b0908da775ca484abfbf2e5219339e).
 
 # fp16/bf16
 
-After the above two changes, fp16 just works. Ensure `precision: 16` or `precision: bf16` is set in the lightning section of the training config.
+On a modern pytorch lightning version with hardware agnostic training fp16 just works. Ensure `precision: 16` is set in the lightning section of the training config.
+
+`bf16` likely also works but I don't have an NVIDIA card to test on.
 
 # deepspeed
 
-Deepspeed's most important feature for us is offloading the optimizer state to the CPU/system RAM.
+Deepspeed's most important feature for us is called [ZeRO-Offload](https://www.deepspeed.ai/tutorials/zero-offload/). This offloads the optimizer state and compute to the CPU/system RAM.
 
 ```yaml
   trainer:
@@ -187,19 +189,34 @@ Deepspeed's most important feature for us is offloading the optimizer state to t
 
 Add these options to your training yml to enable deepspeed. VRAM usage will go down, CPU usage and PCIE bandwidth usage will go up. Training speed will slow to a crawl, partly due to fp16 not working. :(
 
-# fsdp_native
+In my experience this isn't really practical, as the reduction in training speed outweighs any increase in batch size.
+
+# FSDP / Fully Sharded Data Parallel
 
 Fully sharded data parallel training allows splitting the model across GPUs without storing the full model weights and optimizer state on each GPU, reducing VRAM usage.
 
+## fsdp
+
+`fsdp` uses facebook's [fairscale](https://github.com/facebookresearch/fairscale) FSDP implementation.
+
+Training seems to work, but occasionally hangs making it unusable for a full dataset.
+
+TODO: Look into this hang
+
+## fsdp_native
+
+`fsdp_native` is Pytorch Lightning's native fsdp implementation.
+
 In theory, setting the `strategy` parameter to the pytorch lightning `Trainer` to `fsdp_native` should be the only necessary change. In practice, this doesn't work as some weights for the autoencoder are left on the CPU.
 
-This only happens with fsdp, I haven't worked out why yet.
-
-TODO: file a bug at lightning repo seeking assistance?
+There's an [open bug for this](https://github.com/Lightning-AI/lightning/issues/14900) which seems to match my issue.
 
 # Optimized EMA 
 
 See [Stable diffusion optimization: EMA weights on CPU](@/articles/stable-diffusion-ema-on-cpu/index.md).
+
+TL;DR: EMA weights can be stored in system RAM and updated only ever N batches to reduce compute and VRAM requirements.
+I also fixed a memory leak that was doubling the required VRAM.
 
 # Autoencoder training
 
@@ -209,7 +226,6 @@ FIXME: This only works at fp32, fp16 gives NaN loss
 
 See training-encoder.yml for a configuration for training the encoder.
 
-
 # Setup
 
 Clone [github:LunNova/lunar-diffusion](github.com/LunNova/lunar-diffusion), including submodules.
@@ -217,7 +233,7 @@ Clone [github:LunNova/lunar-diffusion](github.com/LunNova/lunar-diffusion), incl
 # Checkpoints and Logging
 
 <details>
-<summary>Example `lightning` section of training yml file</summary>
+<summary>Example `lightning` yml file</summary>
 
 ```yaml
 lightning:
@@ -225,7 +241,7 @@ lightning:
     tensorboard:
       target: pytorch_lightning.loggers.tensorboard.TensorBoardLogger
       params:
-        flush_secs: 60
+        flush_secs: 300
         name: tensorboard
   callbacks:
     progress:
@@ -325,10 +341,9 @@ dataset_dir
   metadata
     <any number of folders deep>
       1.json
-  images
-    <any number of folders deep>
-      1.png
-      2.png
+      2.json
+      ...
+  any arbitrary structure with images
 ```
 
 The `json` metadata files should look like this:
@@ -372,7 +387,6 @@ This is a cut down example of a real dataloader I used to train recently.
       params:
         size: 512
         flip_p: 0.333
-        mode: "train"
         metadata_params: &train_metadata_params # <&so can merge this into validation below!
           # only check every nth .json in the metadata dir
           # good for validation set
@@ -388,22 +402,19 @@ This is a cut down example of a real dataloader I used to train recently.
             - high res
             - alternate version
             - derpibooru exclusive
-            - edit
             - color edit
-            - story in the comments
-            - translated in the comments
           # shortening some common multi word tags to reduce
           # how many tokens are used
           replacements:
             princess cadance: cadance
             princess luna: luna
-            nightmare moon: nmm
-            shining armor: shiny
             'artist:': 'by='
             # recommended if your dataset uses : in any tags
             # as by convention : is used for weighted prompts in most stable diffusion
             # txt2img frontend
             ':': '='
+            ' ': '_'
+          tag_separator: ' '
           # if score's below this it gets filtered out immediately
           abs_min_score: 50
           # if score's below this after applying tag_bonus_scores gets filtered out
@@ -414,10 +425,11 @@ This is a cut down example of a real dataloader I used to train recently.
           # increase or decrease the score used to check min_score
           # used to increase or decrease prevalence of particular tags
           tag_bonus_scores:
+            # want to include more images with 1/2 chars exactly in dataset
             solo: 100
             duo: 100
             pride flag: 50
-            transgender pride flag: 50
+            # preferring full color art
             monochrome: -75
             grayscale: -75
             sketch: -75
