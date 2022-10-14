@@ -17,7 +17,9 @@ The autoencoder was finetuned for ~120,000 steps before finetuning the rest of t
 
 ## Full finetune release
 
-Pending release in a day or so.
+* [`sd1.4 finetuned v2 derpibooru gs=120000.ckpt`](https://mega.nz/file/FdJn3DTY#2AeH-JxJV7i3YJGoE4j2maiX2JzLNmrMRcsPYehSLXA)
+
+TODO: Sample images, release more checkpoints later.
 
 ## Short finetune / Beta (2022-10-11) Model
 
