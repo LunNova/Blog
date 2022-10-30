@@ -13,19 +13,22 @@ tags = ["machine learning", "image generation", "stable diffusion", "my little p
 
 This model was finetuned from Stable Diffusion's 1.4 release with batch size 3 and `5e-6` learning rate on a single Radeon Pro W6800 GPU.
 
+Captions use space separated tags. Spaces within tags should be replaced with underscores.
+
 The autoencoder was finetuned for ~120,000 steps before finetuning the rest of the model.
 
 ## Full finetune release
 
 * [`sd1.4 finetuned v2 derpibooru gs=120000.ckpt`](https://mega.nz/file/FdJn3DTY#2AeH-JxJV7i3YJGoE4j2maiX2JzLNmrMRcsPYehSLXA)
+* [`sd1.4 finetuned v2 derpibooru gs=210000.ckpt`](https://mega.nz/file/ZJQVVAIS#WZCiS32lBmYxRdNjwIaPWjspJk9Y8eyTzalb-oj55XQ)
+
+Global step count in filename doesn't match in the state_dict due to the way I resumed at one point.
 
 TODO: Sample images, release more checkpoints later.
 
 ## Short finetune / Beta (2022-10-11) Model
 
 This checkpoint was captured after ~26,000 steps (~80,000 images) of training, which took 12 hours. This isn't even a full epoch.
-
-Captions use space separated tags. Spaces within tags should be replaced with underscores.
 
 <figure>
 
