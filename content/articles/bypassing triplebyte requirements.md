@@ -1,5 +1,5 @@
 +++
-title = "Bypassing triplebyte Direct Booking requirements"
+title = "OVE-20221020-0021: Bypassing triplebyte Direct Booking requirements"
 date = 2022-07-22
 description = "Triplebyte vulnerability allowing anyone to see the direct link to bypass screening"
 
