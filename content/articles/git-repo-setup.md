@@ -16,6 +16,8 @@ This mini tutorial is dedicated to my wife, who never remembers to add a .gitatt
 * add a `.gitignore` which ignores compiled or temporary files
 * make an initial commit
 
+## Sample .gitattributes file
+
 ```.gitattributes
 # Handle line endings automatically for files detected as text
 # and leave all files detected as binary untouched.
