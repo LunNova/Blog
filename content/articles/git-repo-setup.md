@@ -11,9 +11,9 @@ This mini tutorial is dedicated to my wife, who never remembers to add a .gitatt
 
 ## How to set up a sensible git repo
 
-* init the repo with git init
-* add a .gitattributes file which enforces eol=lf for most filetypes
-* add a .gitignore which ignores compiled or temporary files
+* init the repo with `git init`
+* add a `.gitattributes` file which enforces LF line endings for most filetypes
+* add a `.gitignore` which ignores compiled or temporary files
 * make an initial commit
 
 ```.gitattributes
@@ -28,7 +28,7 @@ This mini tutorial is dedicated to my wife, who never remembers to add a .gitatt
 ## Why is .gitattributes important?
 
 Setting up a .gitattributes file like the one above will ensure commited files always have the same line
-endings, regardless of the user's OS or autocrl options.
+endings, regardless of the user's OS or local git `core.autocrlf` setting.
 
 ## Why is .gitignore important?
 
