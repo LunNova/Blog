@@ -48,6 +48,7 @@ Flat maps can be a great fit for a file format intended to be mmaped directly in
 
 For an indexed flat map with only one prefix bit (two virtual buckets):
 
+```sh
 Index = [
     (0, 6), # keys with msb 0 are in the range 0..=5
     (6, 11) # keys with msb 1 are in the range 6..=10
@@ -58,6 +59,7 @@ Entries = [
     .....,
     (1111, value),
 ]
+```
 
 To look up an entry in this map by key, first we check the prefix.
 Lookup key: 0010
