@@ -61,11 +61,15 @@ Entries = [
 ]
 ```
 
-To look up an entry in this map by key, first we check the prefix.
-Lookup key: 0010
-Prefix: msb = 0.
+To look up an entry in this map by key:
+
+```
+Lookup key:   0010
+Prefix:       msb = 0.
 Search range: Index[0] = (0, 6)
-Binary search for key 0010 in Entries[0..6] -> finds (0010, value)
+Binary search for key 0010 in Entries[0..6] ->
+  finds (0010, value)
+```
 
 A real implementation would use more prefix bits and a bigger vector of entries.  
 It may also need to derive the key to use in indexing with a hash function, if the data you are storing does not already have a unique reasonably sized integer key.
