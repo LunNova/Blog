@@ -78,7 +78,7 @@ It may also need to derive the key to use in indexing with a hash function, if t
 
 ## Resources
 
-C++ flat_map proposal: https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0429r3.pdf
+C++ flat_map proposal: [A Standard `flat_map` by Zach Laine](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/p0429r3.pdf)
 
 Talk which discusses memory locality with examples in C++ and includes flat_maps: [What Do You Mean by "Cache Friendly"? - Björn Fahller - C++ on Sea 2022](https://www.youtube.com/watch?v=yyNWKHoDtMs)
 
