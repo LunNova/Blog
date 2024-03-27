@@ -4,7 +4,7 @@ date = 2022-09-29
 description = "Save a few gigabytes of VRAM while training stable diffusion, with bonus memory leak fix!"
 
 [taxonomies]
-tags = ["machine learning", "stable diffusion", "cuda", "rocm"]
+tags = ["machine learning", "stable diffusion", "cuda", "rocm", "performance"]
 +++
 
 Stable diffusion uses an Exponential Moving Average of the model's weights to improve quality of resulting images and avoid overfitting to the most recently trained images. It also gives us a more stable EMA validation loss to use to pick the best checkpoints. See [Understanding the use of EMA in Diffusion models](https://old.reddit.com/r/MachineLearning/comments/ucflc2/d_understanding_the_use_of_ema_in_diffusion_models/) on reddit for some discussion.
