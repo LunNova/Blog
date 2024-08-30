@@ -2,7 +2,6 @@
 title = "salary transparency"
 render = true
 template = "home.html"
-subsections = [ ]
 weight = 1
 +++
 

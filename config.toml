@@ -9,7 +9,8 @@ build_search_index = false
 
 theme = "lunar-zen"
 
-generate_feed = true
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
 
 title = "lunnova.dev"
 description = "Luna Nova's personal blog, security research and odds and ends."
