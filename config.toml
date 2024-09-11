@@ -30,6 +30,7 @@ highlight_code = true
 meta_author = "LunNova (Luna Nova)"
 author = "Luna Nova"
 github = "LunNova"
+head_comment = "Page by Lun - https://github.com/LunNova"
 twitter = false
 #icon = "icon.png"
 #icon_alt = "avatar image of a crescent moon"
