@@ -1,6 +1,7 @@
 +++
 title = "Disabling ECC on a Radeon Pro GPU on Linux"
 date = 2022-09-28
+updated = 2024-09-06
 description = "Get 7% more VRAM for your machine learning misadventures!"
 draft = false
 
@@ -8,11 +9,14 @@ draft = false
 tags = ["amdgpu", "linux", "ecc"]
 +++
 
-ECC is optional on AMD's Pro GPUs, if you turn it off you get about 7% more VRAM - 30700MiB to 32768MiB on a Pro W6800. On Windows, this is as easy as flipping a switch in the Radeon control panel.
+AMD's Pro GPUs come with Error-Correcting Code (ECC) memory enabled by default. ECC is beneficial for professional applications requiring data integrity; hobbyists and enthusiasts might prefer to eek out every last bit of VRAM for their projects. Consumer GPUs do not support ECC at all, so this is a non-issue for them.
+
+If you turn ECC off you get about 7% more VRAM - 30700MiB to 32768MiB on a Pro W6800.  
+On Windows this is as easy as flipping a switch in the Radeon control panel.
 
 ![](./windows-amd-settings.png "Screenshot of AMD's settings, showing an On-Board ECC/EDC toggle in the enabled state, and some of the surrounding options.")
 
-On Linux, this is possible but not documented.
+On Linux, there is no documented[^1] way to disable it; there is a way to do it by patching the kernel and rebooting with a kernel parameter.
 
 ### Turning it off
 
@@ -24,7 +28,7 @@ TODO: You *might* just need to reboot twice with the kernel param below and be a
 
 <summary>amdgpu-no-ecc.patch</summary>
 
-```
+```diff
 diff --git a/drivers/gpu/drm/amd/amdgpu/amdgpu_atomfirmware.c b/drivers/gpu/drm/amd/amdgpu/amdgpu_atomfirmware.c
 index a06e72f474f..61314fcb161 100644
 --- a/drivers/gpu/drm/amd/amdgpu/amdgpu_atomfirmware.c
@@ -65,3 +69,16 @@ amdgpu 0000:06:00.0: amdgpu: GECC is disabled
 
 Revert the patch, remove the param, and reboot.  
 You may have to reboot twice.
+
+### Notes
+
+- Tested only on systems with 1x and 2x AMD Radeon Pro W6800 cards.
+- Tested only on NixOS
+- Tested on 5.x and 6.x kernels.
+
+[^1]: [amdgpu Kernel Module Documentation](https://docs.kernel.org/gpu/amdgpu/index.html)
+[^2]: [amdgpu Kernel Parameters](https://docs.kernel.org/gpu/amdgpu/module-parameters.html)
+<!--
+TODO: Make this exist
+[^3]: [AMD ML NixOS Kernel Module](https://github.com/LunNova/nixos-ml-flake)
+-->
