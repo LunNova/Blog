@@ -1,28 +1,102 @@
 +++
-title = "Disabling ECC on a Radeon Pro GPU on Linux"
+title = "Disabling ECC on Radeon Pro GPUs on Linux"
 date = 2022-09-28
-updated = 2024-09-06
-description = "Get 7% more VRAM for your machine learning misadventures!"
+updated = 2024-09-10
+description = "Get 7% more VRAM for your machine learning misadventures! Frontier model developers need not take heed."
 draft = false
 
 [taxonomies]
-tags = ["amdgpu", "linux", "ecc"]
+tags = ["amdgpu", "linux", "machine learning"]
 +++
+
+Update: `amdgpu-no-ecc.patch` is unnecessary, only `amdgpu.ras_enable=0` and two reboots are required. This may only apply for 6.x kernels, kept the patch at the bottom in case it's still useful.
+
+---
 
 AMD's Pro GPUs come with Error-Correcting Code (ECC) memory enabled by default. ECC is beneficial for professional applications requiring data integrity; hobbyists and enthusiasts might prefer to eek out every last bit of VRAM for their projects. Consumer GPUs do not support ECC at all, so this is a non-issue for them.
 
-If you turn ECC off you get about 7% more VRAM - 30700MiB to 32768MiB on a Pro W6800.  
+If you turn ECC off you get about 7% more VRAM - 30700MiB to 32768MiB on a Pro W6800.
+
+## Windows: What even is feature parity?
+
 On Windows this is as easy as flipping a switch in the Radeon control panel.
+
+<figure>
 
 ![](./windows-amd-settings.png "Screenshot of AMD's settings, showing an On-Board ECC/EDC toggle in the enabled state, and some of the surrounding options.")
 
-On Linux, there is no documented[^1] way to disable it; there is a way to do it by patching the kernel and rebooting with a kernel parameter.
+<figcaption>Screenshot of AMD's settings, showing an On-Board ECC/EDC toggle in the enabled state, and some of the surrounding options.</figcaption>
+</figure>
 
-### Turning it off
+On Linux, there is no documented[^1] way to disable it; but the `amdgpu.ras_enable=0` kernel parameter can be used to disable it in combination with two (???) reboots.
 
-Boot once with a patched kernel which returns false from `amdgpu_atomfirmware_mem_ecc_supported`
+## Linux: Why document anything?
 
-TODO: You *might* just need to reboot twice with the kernel param below and be able to skip this patch, but I don't think so. Should confirm this!
+### Checking if ECC is enabled
+
+amdgpu logs `amdgpu: MEM ECC is active` or `amdgpu: MEM ECC is not presented` in dmesg.
+rocm-smi shows a lower total VRAM size when ECC is enabled. In this example, rocm-smi shows 30704MiB VRAM per card instead of the 32768MiB advertised.
+
+```sh
+lun@tsukiakari $ dmesg | grep -i ecc
+amdgpu 0000:06:00.0: amdgpu: MEM ECC is active.
+amdgpu 0000:06:00.0: amdgpu: SRAM ECC is not presented.
+amdgpu 0000:06:00.0: amdgpu: GECC is enabled
+lun@tsukiakari $ nix shell pkgs#rocmPackages.rocm-smi -c rocm-smi --showmeminfo vram
+GPU[0]          : VRAM Total Memory (B): 32195477504
+GPU[0]          : VRAM Total Used Memory (B): 17121280
+```
+
+### Turning ECC off
+
+Add `amdgpu.ras_enable=0` to your kernel parameters.
+
+For NixOS: Add `boot.kernelParams = ["amdgpu.ras_enable=0"];` to your config and rebuild with nixos-rebuild.  
+For Debian and Ubuntu: Edit `/etc/default/grub`, add `amdgpu.ras_enable=0` to `GRUB_CMDLINE_LINUX_DEFAULT`, then run `sudo update-grub`.  
+For Arch Linux: Visit [Kernel Parameters](https://wiki.archlinux.org/title/Kernel_parameters) on the Arch wiki for instructions on how to edit your kernel parameters.  
+
+Reboot.
+
+You should see "GECC will be disabled in next boot cycle if set amdgpu_ras_enable and/or amdgpu_ras_mask to 0x0" in dmesg.  
+
+```sh
+lun@tsukiakari $ dmesg | grep -i ecc # first boot
+amdgpu 0000:06:00.0: amdgpu: MEM ECC is active.
+amdgpu 0000:06:00.0: amdgpu: SRAM ECC is not presented.
+amdgpu 0000:06:00.0: amdgpu: GECC will be disabled in next boot cycle if set amdgpu_ras_enable and/or amdgpu_ras_mask to 0x0
+```
+
+Do what it says, and reboot again, keeping the kernel parameter applied.
+Your GPU should now boot with ECC disabled and more VRAM available!
+
+```sh
+lun@tsukiakari $ dmesg | grep -Ei '(ecc|ras)' # second boot
+RAS: Correctable Errors collector initialized.
+amdgpu 0000:06:00.0: amdgpu: MEM ECC is active.
+amdgpu 0000:06:00.0: amdgpu: SRAM ECC is not presented.
+amdgpu 0000:06:00.0: amdgpu: GECC is disabled
+lun@tsukiakari $ nix shell pkgs#rocmPackages.rocm-smi -c rocm-smi --showmeminfo vram
+GPU[0]          : VRAM Total Memory (B): 34342961152
+GPU[0]          : VRAM Total Used Memory (B): 17121280
+```
+
+`rocm-smi --showmeminfo vram` confirms availability of the full 32768MiB VRAM after disabling ECC.
+
+### Turning ECC back on
+
+Remove the kernel parameter, and reboot twice.
+
+### Notes
+
+- Tested only on systems with 1x and 2x AMD Radeon Pro W6800 cards.
+- Tested only on NixOS, should work on other distros
+- Tested on 5.x and 6.x kernels.
+- If you are working on a Frontier model, please do not follow this guide. *I do not want to cause any world-ending bitflips*
+
+### Obsolete Patch
+
+This patch was recommended in an earlier version of this article.  
+It might be needed for 5.x kernels, it's definitely not needed for 6.x.
 
 <details>
 
@@ -53,28 +127,7 @@ index a06e72f474f..61314fcb161 100644
 
 </details>
 
-You should see "GECC will be disabled in next boot cycle if set amdgpu_ras_enable and/or amdgpu_ras_mask to 0x0" in dmesg.  
-Do what it says, and boot again with `amdgpu.ras_enable=0` added as a kernel parameter.
-
-Your GPU should now boot with ECC disabled and more VRAM available!
-
-```
-$ dmesg | grep -i ecc
-amdgpu 0000:06:00.0: amdgpu: MEM ECC is not presented.
-amdgpu 0000:06:00.0: amdgpu: SRAM ECC is not presented.
-amdgpu 0000:06:00.0: amdgpu: GECC is disabled
-```
-
-### Turning it back on
-
-Revert the patch, remove the param, and reboot.  
-You may have to reboot twice.
-
-### Notes
-
-- Tested only on systems with 1x and 2x AMD Radeon Pro W6800 cards.
-- Tested only on NixOS
-- Tested on 5.x and 6.x kernels.
+---
 
 [^1]: [amdgpu Kernel Module Documentation](https://docs.kernel.org/gpu/amdgpu/index.html)
 [^2]: [amdgpu Kernel Parameters](https://docs.kernel.org/gpu/amdgpu/module-parameters.html)
