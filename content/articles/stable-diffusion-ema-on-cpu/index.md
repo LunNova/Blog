@@ -28,7 +28,7 @@ def next_ema(val: float, last_ema: float, decay: float) -> float:
     return last_ema * decay + val * (1-decay)
 ```
 
-You've probably seen this before, even if you didn't know the name. It's a simple idea and has been independently reinvented many times! I can remember using this sort of average [as far back as 2013](https://github.com/MinimallyCorrect/TickThreading/blob/8a80f377eb0e8575f079b698cdb168b9e746d491/src/common/me/nallar/patched/PatchMinecraftServer.java#L213).
+This concept is widely used in various fields and has been independently discovered and applied many times. As an example, I implemented a similar averaging technique in a Minecraft mod project [back in 2013](https://github.com/MinimallyCorrect/TickThreading/blob/8a80f377eb0e8575f079b698cdb168b9e746d491/src/common/me/nallar/patched/PatchMinecraftServer.java#L213) and I had no idea what it was called.
 
 # How do you implement an EMA for a machine learning model?
 
@@ -47,7 +47,8 @@ In this implementation, a device is never explicitly set, so the EMA weights end
 
 Unfortunately, Pytorch Lightning tries quite hard to put buffers on the GPU automatically. This is normally nice, and part of ["hardware agnostic training"](https://pytorch-lightning.readthedocs.io/en/latest/accelerators/accelerator_prepare.html).  
 Some other users have ran into [similar issues](https://github.com/Lightning-AI/lightning/issues/3698).
-We can get around this by avoiding using `register_buffers` and manually creating Tensors on the CPU, and storing them inside a list to avoid Lightning detecting the tensor.
+We can get around this by avoiding using `register_buffers` and manually creating Tensors on the CPU, and storing them inside a list to avoid Lightning detecting the tensor.  
+This is a bit of a fragile hack, but it works for now.
 
 ```py
 self.cpu_shadow_params = [{}] if ema_on_cpu else None
