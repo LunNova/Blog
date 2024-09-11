@@ -13,7 +13,7 @@ generate_feeds = true
 feed_filenames = ["atom.xml", "rss.xml"]
 
 title = "lunnova.dev"
-description = "Luna Nova's personal blog, security research and odds and ends."
+description = "Luna Nova's blog. Opinion pieces and deep dives into tech, security, Linux systems, and software development."
 
 taxonomies = [
     {name = "categories", feed = true},
@@ -27,9 +27,9 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+meta_author = "LunNova (Luna Nova)"
 author = "Luna Nova"
-# TODO: put this somewhere else
-# github = "LunNova"
+github = "LunNova"
 twitter = false
 #icon = "icon.png"
 #icon_alt = "avatar image of a crescent moon"
