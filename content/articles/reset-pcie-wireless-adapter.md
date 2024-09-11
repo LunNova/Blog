@@ -15,7 +15,7 @@ Here's a workaround which is more general and should work for any PCIe wireless 
 #!/usr/bin/env bash
 set -xeu
 # Find wifi remove file
-remove="$(echo /sys/class/net/wlp*/device/remove)"
+remove="$(echo /sys/class/net/wl*/device/remove)"
 # Remove the wireless adapter, log if can't, keep going anyway in case rescanning works
 echo 1 > "$remove" || >&2 echo "$0 can't write to $remove. Wifi card not found or not running as root"
 # Wait a bit
