@@ -4,7 +4,7 @@ date = 2022-05-26
 description = "Afternoon debugging session with a full tmpfs root"
 
 [taxonomies]
-tags = ["linux"]
+tags = ["linux", "nixos"]
 +++
 
 The / tmpfs[^impermanence] on [my desktop](https://github.com/LunNova/nixos-configs/blob/dev/hosts/hisame/default.nix) filled up, and I couldn't work out why.

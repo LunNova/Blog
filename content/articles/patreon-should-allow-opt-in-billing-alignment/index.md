@@ -10,6 +10,8 @@ icon = "/articles/patreon-should-allow-opt-in-billing-alignment/ai-gen-patreon-s
 tags = ["patreon", "finance"]
 +++
 
+<small>This article is speculative, vibes-based analysis. I don't have inside knowledge about Patreon.</small>
+
 Patreon is a platform that allows creators to receive financial support from their fans through recurring payments.
 
 <figure>  

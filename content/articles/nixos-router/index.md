@@ -4,7 +4,7 @@ date = 2023-11-23
 description = "WIP: Setting up a NixOS router on a HP T740 thin client from scratch"
 
 [taxonomies]
-tags = ["nixos"]
+tags = ["nixos", "linux", "homelab"]
 +++
 # WIP Article
 

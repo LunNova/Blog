@@ -4,7 +4,7 @@ date = 2022-10-29
 description = "UPNP on a NixOS router"
 
 [taxonomies]
-tags = ["nixos", "for_future_lun"]
+tags = ["nixos", "for_future_lun", "linux", "homelab"]
 +++
 
 NixOS has UPNP server/daemon and client packages and modules so it's pretty easy to set this up.
