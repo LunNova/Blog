@@ -4,7 +4,7 @@ date = 2024-09-24
 description = "Guide to get AMD P-state support working on Linux systems, with troubleshooting tips and a NixOS config sample"
 
 [taxonomies]
-tags = ["linux", "nixos"]
+tags = ["linux"]
 +++
 
 amd_pstate is a kernel module which implements support for AMD Ryzen P-states, offering more fine grained power management than ACPI C-states allow.
@@ -16,7 +16,7 @@ If you have a system that you believe should have `amd_pstate` support but it is
 # if this prints `CpuDriver:  amd_pstate` then amd_pstate is loaded
 $ powerprofilesctl | grep Cpu | uniq
 # try to load amd_pstate and the amd_pstate_ut test module in multiple ways
-$ sudo modprobe amd_pstate amd_pstate=guided dyndbg==pmf shared_mem=1 -v; sudo modprobe amd_pstate_epp -v; sudo modprobe amd_pstate_ut -v
+$ sudo modprobe amd_pstate dyndbg==pmf amd_pstate=guided amd_pstate.shared_mem=1 -v; sudo modprobe amd_pstate_ut -v
 $ sudo dmesg | grep amd_pstate
 amd_pstate:amd_pstate_init: amd_pstate: the _CPC object is not present in SBIOS
 ```
@@ -53,13 +53,13 @@ If your kernel config is missing a required module it'll error.
 ```nix
 boot = {
   # _ut is for the debug warnings / self test
-  # _epp is for the EPP (powerprofilesctl) hints in earlier (~6.4) kernels, builtin to amd_pstate in newer kernels.
-  kernelModules = [ "amd_pstate" "amd_pstate_epp" "amd_pstate_ut" ];
+  kernelModules = [ "amd_pstate" "amd_pstate_ut" ];
   kernelParams = [
     # mode selection required after cpufreq: amd-pstate: add amd-pstate driver parameter for mode selection
     "amd_pstate=guided"
 
     # sometimes necessary to stop acpi cpufreq loading first, should only be uncommented if you encounter that issue
+    # should only apply for <6.1 kernels
     # "initcall_blacklist=acpi_cpufreq_init"
   ];
 };
@@ -70,3 +70,12 @@ system.requiredKernelConfig = with config.lib.kernelConfig; [
   (isEnabled "X86_AMD_PSTATE_UT")
 ];
 ```
+
+## Abridged amd_pstate history
+
+| Kernel Version | Change |
+|----------------|--------|
+| [5.17](https://github.com/torvalds/linux/blame/v5.17/drivers/cpufreq/amd-pstate.c) | Initial introduction of amd_pstate driver. shared_mem parameter required for support on most processors. |
+| [6.1](https://github.com/torvalds/linux/blame/v6.1/drivers/cpufreq/amd-pstate.c) | Introduction of amd_pstate driver parameter for mode selection (disabled/passive), split of amd_pstate_ut as a separate module, removal of shared_mem parameter |
+| [6.3](https://github.com/torvalds/linux/blame/v6.3/drivers/cpufreq/amd-pstate.c) | Addition of active mode (which corresponds to the amd_pstate_epp cpufreq driver) and guided mode |
+| [6.5](https://github.com/torvalds/linux/blame/v6.5/drivers/cpufreq/amd-pstate.c) | X86_AMD_PSTATE_DEFAULT_MODE Kconfig option added, and defaulted to 'active' |
