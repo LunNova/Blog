@@ -1,6 +1,9 @@
 +++
 title = "AMDGPU 5.15/6.x Power Limit Issues and a Bodge"
 date = "2024-09-14"
+description = "AMDGPU's strict power limit enforcement in recent kernels causes issues for some GPUs. Patch it out, what could go wrong?"
+
+
 [taxonomies]
 tags = ["amdgpu", "linux", "machine learning"]
 +++
@@ -14,7 +17,9 @@ A Radeon Pro W6800 is supposed to have a 250W peak board power limit per the dat
 ![](w6800-pro-spec.png)
 
 <figcaption>
-AMDGPU power limit spec for W6800 Pro, captured from [radeon-pro-w6800-datasheet.pdf](https://www.amd.com/content/dam/amd/en/documents/products/graphics/workstation/radeon-pro-w6800-datasheet.pdf)
+
+[radeon-pro-w6800-datasheet.pdf](https://www.amd.com/content/dam/amd/en/documents/products/graphics/workstation/radeon-pro-w6800-datasheet.pdf) - 250W TDP limit
+
 </figcaption>
 
 </figure>
