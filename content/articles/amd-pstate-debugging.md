@@ -1,6 +1,7 @@
 +++
 title = "Debugging amd_pstate"
 date = 2024-09-24
+updated = 2024-11-02
 description = "Guide to get AMD P-state support working on Linux systems, with troubleshooting tips and a NixOS config sample"
 
 [taxonomies]
@@ -28,8 +29,12 @@ If instead the command above successfully loads amd_pstate, you may need to add 
 If everything is working correctly you should see something like this:
 
 ```bash
+$ cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_driver
+amd-pstate
 $ powerprofilesctl | grep Cpu | uniq
   CpuDriver:  amd_pstate
+# powerprofilesctl will only see amd_pstate if amd_pstate=guided/active
+# amd_pstate=passive doesn't support setting a power profile
 $ sudo dmesg | grep amd_pstate
 [265365.656660] amd_pstate_ut: 1  amd_pstate_ut_acpi_cpc_valid   success!
 [265365.656664] amd_pstate_ut: 2  amd_pstate_ut_check_enabled  success!
