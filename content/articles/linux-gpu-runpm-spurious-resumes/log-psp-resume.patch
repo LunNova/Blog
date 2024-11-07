@@ -1,0 +1,10 @@
+--- a/drivers/gpu/drm/amd/amdgpu/amdgpu_psp.c
++++ b/drivers/gpu/drm/amd/amdgpu/amdgpu_psp.c
+@@ -528,5 +528,6 @@
+ 	struct psp_context *psp = &adev->psp;
+ 
+-	dev_info(adev->dev, "PSP is resuming...\n");
++	if (current && current->comm) dev_warn(adev->dev, "PSP is resuming... Caused by %s[%d]\n", current->comm, task_tgid_nr(current)); else dev_warn(adev->dev, "PSP is resuming...\n");
++	dump_stack();
+ 
+ 	if (psp->mem_train_ctx.enable_mem_training) {
