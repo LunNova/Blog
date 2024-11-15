@@ -3,7 +3,7 @@ title = "Linux GPU Runtime Power Management Spurious Resumes"
 description = "It's not easy keeping your secondary GPUs suspended on a modern Linux system"
 
 date = 2024-11-02
-updated = 2024-11-04
+updated = 2024-11-06
 [taxonomies]
 tags = ["amdgpu", "linux"]
 +++

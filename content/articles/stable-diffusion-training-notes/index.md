@@ -4,7 +4,7 @@ date = 2022-10-01
 description = "I fine-tuned stable diffusion at home over a few days, and you can too."
 
 [taxonomies]
-tags = ["machine learning", "image generation", "stable diffusion", "cuda", "rocm"]
+tags = ["amdgpu", "machine learning", "image generation", "stable diffusion", "cuda", "rocm"]
 +++
 
 This is a living document which I am using to keep track of my findings during development.  
