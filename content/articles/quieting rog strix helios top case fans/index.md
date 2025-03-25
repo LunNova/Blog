@@ -1,7 +1,7 @@
 +++
 title = "Quieting ROG Strix Helios top mounted case fans"
 date = 2022-10-13
-description = "Some one-liners to show your current kernel config"
+description = "3D printing gaskets to reduce noise when mounting case fans"
 
 [taxonomies]
 tags = ["pc building", "3d printing"]
