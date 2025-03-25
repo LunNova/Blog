@@ -4,7 +4,7 @@ date = 2024-01-27
 description = "Disassemble, remove the scroll wheel, add a drop of lubricant, use an air blaster on it, reassemble"
 
 [taxonomies]
-tags = ["hardware", "peripherals"]
+tags = ["hardware", "peripherals", "rog chakram"]
 +++
 
 The ASUS ROG Chakram X is an unusual mouse with a joystick next to your thumb. I've had two with faulty scroll wheels, which is disappointing for such an expensive mouse, and seen the same complaint in some Amazon reviews.  
