@@ -1,7 +1,7 @@
 +++
 title = "Android's screenshot blocking is user hostile; a portent of things to come?"
 date = 2024-04-11
-updated = 2024-09-07
+updated = 2025-06-24
 
 [taxonomies]
 tags = ["griping", "android", "security"]
@@ -31,6 +31,15 @@ My desktop still feels like a device I own. But for how long? Will we soon be re
 I hate tech sometimes. I feel like I can infer the future we're about to leap into, and it's not a good one.
 
 :(
+
+----
+
+2025 Update: I've become aware of the same issue with call recordings. Apps and Android conspire to prevent recording calls, whether through your cell carrier or an E2E encrypted messaging app.  
+It's a sham. We add friction but the analogue hole continues to exist.  
+There are purpose built devices that connect as a bluetooth headset and record both sides like the "PR200 Call Recorder".
+Gotta buy some special device if I want to record something on my "personal" phone without failing Google's attestation.
+
+---
 
 [^1]: Some of my friends get really excited about TPMs and attestation and have done cool things with them, and simple FDE with LUKS+TPM is a solid example of how TPMs can be useful.
 [^2]: I'm looking at you, amd "A solid tenth of the amdgpu mailing list is randomly moving fences around playing whackamole and hoping they'll finally get it not to hang" gpu and the [DRM scheduler](https://vt.social/@lina/113079863228537747). [Patches patches patches patches](https://github.com/LunNova/nixos-configs/tree/6bafa2543690cf843345e8c60e94886036daf2d2/hosts/hisame/kernel). That's not even getting into how my entire system is capable of being built from source because it's NixOS, and I frequently patch random packages when necessary. If we use attestation to insist that these components haven't been tampered with then how am I supposed to develop on a live system?!
