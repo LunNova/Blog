@@ -3,7 +3,7 @@
 {% block main %}
     <article itemscope itemtype="http://schema.org/BlogPosting">
         <div itemprop="headline">
-            <h1>{{ section.title | default(value=page.title) }}</h1>
+            <h1 class="topline">{{ section.title | default(value=page.title) }}</h1>
             <hr class="small">
         </div>
         <div itemprop="articleBody">
