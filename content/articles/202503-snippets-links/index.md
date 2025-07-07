@@ -9,7 +9,7 @@ tags = ["snippets"]
 
 Trying out a new format, hoping this reduces the friction involved in adding more content when it's not long enough to justify a full post.
 
-# Calibre + Supernote Folder Organisation
+## Calibre + Supernote Folder Organisation
 
 Calibre supports the Supernote Android eink devices, but the default setup will send your entire library into the top level of the Documents folder.
 
@@ -24,7 +24,7 @@ Next you have multiple choices. You can change «list of folders» to select a s
 In this example I'm using the «Save template» field. It's set to the `#folder` custom column, which I defined as a «Column built from other columns» with the following template: `{#kobo_collections:contains(paper, papers, fics)}`.  
 This example means that if the `#kobo_collections` tag column contains `paper` the book is sent to the papers folder, otherwise it's sent to the fics folder.
 
-# Set up the compose key and altgr-intl keyboard variant
+## Set up the compose key and altgr-intl keyboard variant
 
 If you use a US keyboard, try out the altgr-intl variant to get access to more useful characters. You can tell I just set this up by my frivolous use of guillemets above…
 
@@ -56,7 +56,7 @@ You can set up a compose key for even more symbols.
 }
 ```
 
-# New box runbook
+## New box runbook
 
 I try to configure most aspects of my systems declaratively in LunNova/nixos-configs.  
 Some things are easier to do impurely.
