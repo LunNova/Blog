@@ -7,8 +7,12 @@ taxonomies.tags:
     -rust
 ---
 
-**wishcasting /ˈwɪʃˌkɑːstɪŋ/**  
-*n.* — The act of interpreting information or a situation in a way that casts it as favorable or desired, although there is no evidence for such a conclusion; a wishful forecast.
+tl;dr: [pattern-wishcast](https://crates.io/crates/pattern-wishcast) for an approximation of enum pattern types, [cargo-derive-doc](https://crates.io/crates/cargo-derive-doc) for a cargo subcommand that documents what macros expand to
+
+---
+
+> **wishcasting /ˈwɪʃˌkɑːstɪŋ/**  
+> *n.*-The act of interpreting information or a situation in a way that casts it as favorable or desired, although there is no evidence for such a conclusion; a wishful forecast.
 
 Rust is going to get pattern types. `edition = 2027`?  
 
