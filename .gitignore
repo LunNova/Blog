@@ -8,6 +8,7 @@ deploy.sh
 MANIFEST.MF
 dependency-reduced-pom.xml
 .sass-cache
+.direnv
 
 # Compiled #
 ############
