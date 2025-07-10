@@ -10,6 +10,7 @@ icon = "/articles/crawlers-please-stop-destroying-the-commons/rip-git-forges.png
 tags = ["rant"]
 +++
 
+*Personal opinion. Not speaking for any org, project, friend, employer or associates.*
 
 <figure>
 

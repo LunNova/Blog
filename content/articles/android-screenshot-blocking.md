@@ -4,8 +4,10 @@ date = 2024-04-11
 updated = 2025-06-24
 
 [taxonomies]
-tags = ["griping", "android", "security"]
+tags = ["rant", "android", "security"]
 +++
+
+*Personal opinion. Not speaking for any org, project, friend, employer or associates.*
 
 This post might not be of much value. It's mostly me being grumpy, feel free to skip over it.
 
