@@ -91,6 +91,8 @@ This is a very heavy approach that will open device nodes and potentially alloca
 ## Recommended Approach (vram_total with BAR fallback)
 
 ```rs
+// SPDX-SnippetBegin
+// SPDX-License-Identifier: MIT OR CC0-1.0
 /// path should be the path to a GPU PCIe device eg /sys/class/drm/card1/device
 fn extract_memory(path: &Path) -> Option<u64> {
     // Try AMD method first (vram_total)
@@ -182,6 +184,7 @@ fn read_resource_file(path: &Path) -> io::Result<Vec<MemoryRegion>> {
 
     Ok(regions)
 }
+// SPDX-SnippetEnd
 ```
 
 This isn't proper production-ready code with robust error handling. That's left as an exercise for the reader.
@@ -191,6 +194,8 @@ This isn't proper production-ready code with robust error handling. That's left 
 This approach uses the `ash` crate's vulkan bindings.
 
 ```rs
+// SPDX-SnippetBegin
+// SPDX-License-Identifier: MIT OR CC0-1.0
 fn enumerate_vulkan_gpus() -> Result<Vec<GPUInfo>, Box<dyn std::error::Error>> {
     let entry = unsafe { Entry::load()? };
 
@@ -267,6 +272,7 @@ fn enumerate_vulkan_gpus() -> Result<Vec<GPUInfo>, Box<dyn std::error::Error>> {
 
     Ok(gpus)
 }
+// SPDX-SnippetEnd
 ```
 
 # Software Versions
