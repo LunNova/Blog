@@ -1,0 +1,609 @@
+@import "colors";
+@import "luna_palette";
+
+$font: "SF Pro Text",
+    "Menlo",
+    "Bahnschrift",
+    "SF Pro",
+    "Inter",
+    "Segoe UI",
+    "Roboto",
+    "Noto Sans",
+    "Ubuntu",
+    -apple-system,
+    sans-serif;
+
+$font-external-serif: 
+    'Palatino',
+    'Crimson Text',
+    'Lora',
+    'Source Serif Pro',
+    'Libertinus Serif',
+    'Sitka Text',
+    'Georgia',
+    'Constantia',
+    'Charter',
+    'Iowan Old Style',
+    'Book Antiqua',
+    'URW Palladio L',
+    'DejaVu Serif',
+    'Liberation Serif',
+    'Noto Serif',
+    'Cambria',
+    serif;
+
+$font-mono: "SF Mono", // macOS/iOS
+    "Cascadia Code", // Windows 11+ 
+    ui-monospace, // Modern system monospace (macOS 10.15+, some Linux)
+    "Source Code Pro", // Often bundled with IDEs
+    "Menlo", // macOS (older)
+    "DejaVu Sans Mono", // Linux
+    "Ubuntu Mono", // Ubuntu
+    "Consolas", // Windows
+    "Liberation Mono", // Linux fallback
+    monospace; // Generic fallback
+
+$padding: 8px;
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: 105% $font;
+    color: $white;
+    padding-bottom: 50vh;
+    // font-feature-settings:
+    //     "ss01", // Geometric alternates (Inter)
+    //     "cv11", // Single-story 'a' (Inter)
+    //     "tnum", // Tabular numbers
+    //     "case"; // Case-sensitive punctuation
+    letter-spacing: 0.011em; // Inter recommends this
+    font-optical-sizing: auto; // Better rendering at different sizes
+}
+
+@view-transition {
+  navigation: auto;
+}
+
+html {
+    background: #000 url("data:image/svg+xml,%3Csvg width='800' height='800' xmlns='http://www.w3.org/2000/svg'%3E%3Cg opacity='0.5'%3E%3Ccircle cx='80' cy='80' r='2' fill='white'/%3E%3Ccircle cx='320' cy='240' r='1' fill='white'/%3E%3Ccircle cx='600' cy='160' r='2' fill='white'/%3E%3Ccircle cx='240' cy='480' r='1' fill='white'/%3E%3Ccircle cx='720' cy='600' r='1.6' fill='white'/%3E%3Ccircle cx='120' cy='720' r='1' fill='white'/%3E%3Ccircle cx='480' cy='400' r='0.6' fill='white'/%3E%3Ccircle cx='680' cy='360' r='1' fill='white'/%3E%3Ccircle cx='160' cy='320' r='0.8' fill='white'/%3E%3Ccircle cx='400' cy='680' r='1.2' fill='white'/%3E%3Ccircle cx='760' cy='120' r='0.6' fill='white'/%3E%3Ccircle cx='40' cy='560' r='1' fill='white'/%3E%3Ccircle cx='560' cy='80' r='1.5' fill='white'/%3E%3Ccircle cx='200' cy='600' r='0.8' fill='white'/%3E%3Ccircle cx='440' cy='280' r='1' fill='white'/%3E%3Ccircle cx='640' cy='520' r='0.5' fill='white'/%3E%3Ccircle cx='360' cy='760' r='1' fill='white'/%3E%3Ccircle cx='520' cy='640' r='0.8' fill='white'/%3E%3Ccircle cx='280' cy='160' r='0.6' fill='white'/%3E%3Ccircle cx='760' cy='440' r='1.2' fill='white'/%3E%3Ccircle cx='160' cy='440' r='0.5' fill='white'/%3E%3Ccircle cx='480' cy='200' r='1' fill='white'/%3E%3Ccircle cx='80' cy='360' r='0.8' fill='white'/%3E%3Ccircle cx='640' cy='720' r='0.6' fill='white'/%3E%3Ccircle cx='320' cy='560' r='1' fill='white'/%3E%3Ccircle cx='560' cy='480' r='0.5' fill='white'/%3E%3Ccircle cx='720' cy='280' r='0.8' fill='white'/%3E%3Ccircle cx='400' cy='120' r='0.6' fill='white'/%3E%3Ccircle cx='200' cy='760' r='1' fill='white'/%3E%3Ccircle cx='600' cy='640' r='0.8' fill='white'/%3E%3C/g%3E%3C/svg%3E") repeat left top / 607px 613px !important;
+}
+body {
+    background: transparent url("data:image/svg+xml,%3Csvg width='373' height='373' xmlns='http://www.w3.org/2000/svg'%3E%3Cg opacity='0.4'%3E%3Ccircle cx='51' cy='89' r='1' fill='white'/%3E%3Ccircle cx='173' cy='234' r='0.8' fill='white'/%3E%3Ccircle cx='298' cy='67' r='1.2' fill='white'/%3E%3Ccircle cx='89' cy='298' r='0.6' fill='white'/%3E%3Ccircle cx='234' cy='156' r='1' fill='white'/%3E%3Ccircle cx='356' cy='312' r='0.5' fill='white'/%3E%3Ccircle cx='134' cy='178' r='0.8' fill='white'/%3E%3Ccircle cx='267' cy='345' r='1' fill='white'/%3E%3Ccircle cx='45' cy='223' r='0.6' fill='white'/%3E%3Ccircle cx='312' cy='134' r='0.8' fill='white'/%3E%3Ccircle cx='178' cy='45' r='0.5' fill='white'/%3E%3Ccircle cx='223' cy='289' r='1' fill='white'/%3E%3C/g%3E%3C/svg%3E");
+    background-size: 373px 373px;
+    background-position: right bottom;
+}
+
+pre,
+code {
+    font-variant-ligatures: none;
+    // font-feature-settings:
+    //     "zero",
+    //     "ss02";
+}
+
+header {
+    padding: 0;
+
+    grid-area: header;
+    view-transition-name: header;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    padding: 0;
+    grid-area: main;
+    view-transition-name: content;
+}
+
+footer {
+    color: $gray_light;
+    padding: 0;
+
+    grid-area: footer;
+    view-transition-name: footer;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    min-height: 31px;
+}
+
+.footer > * {
+    display: flex;
+    align-items: center;
+    gap: 0.33rem;
+}
+
+.footer img {
+    filter: grayscale(85%);
+    transition: filter 0.3s ease;
+}
+
+.footer #badge_lunnova img {
+    filter:initial;
+}
+
+.footer img:hover, .footer img:focus, .footer img:active, .footer *:target img {
+    filter: initial;
+}
+
+.footer-center { 
+    text-align: center;
+    justify-self: center;
+}
+
+.footer-right { 
+    text-align: right;
+    justify-self: end;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    text-align: center;
+    gap: 0.5rem;
+  }
+  
+  .footer > * {
+    justify-content: center;
+    justify-self: center;
+  }
+
+  .footer-right {
+    text-align: center;
+    justify-self: center;
+  }
+}
+
+.next-link {
+    float: right;
+}
+
+nav {
+    list-style-type: none;
+    text-transform: lowercase;
+    font-family: $font-mono;
+    font-weight: 600;
+    font-optical-sizing: auto;
+    letter-spacing: -0.067em;
+}
+
+.nav, address, nav li {
+    display: inline
+}
+
+.home-link {
+    font-size: 26px;
+    letter-spacing: -2px;
+    font-family: monospace, 'Iosevka';
+    font-family: 'Consolas', 'Andale Mono', 'Lucida Console', monospace;
+}
+
+.header-left img {
+    margin-top: -10px;
+}
+
+.header-right nav li a, .header-right nav ul {
+    display: inline-block;
+    height: 24px; //test
+}
+
+.header-right nav li:not(:last-child)::after {
+    content: "|";
+    color: $luna_hair_fill;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+td, th {
+    padding: 0.5rem 0.7rem 0.5rem 0.7rem;
+}
+td:not(:last-child) {
+    text-align: center;
+    border-right: 1px solid $luna_hair_fill;
+}
+
+ul {
+    list-style: none inside none;
+    list-style-type: "·";
+    padding: 0;
+}
+
+li::marker {
+    color: $green;
+}
+
+ul ul {
+    padding-left: 1em;
+}
+
+a {
+    font-size: none;
+    color: $blue;
+}
+
+main a:visited, footer a:visited {
+    color: $luna_hair_stroke;
+}
+
+main {
+    backdrop-filter: blur(10px);
+}
+
+div.content {
+    background-color: #0c0c0c;
+    // border-radius: 1em;
+    box-shadow: 0 0 1em 1em #0d0d0d;
+}
+
+article .article-description {
+    margin-left: 1em;
+}
+
+p {
+    margin: 0 0 1.12em 0;
+}
+
+h1.topline {
+    margin: 0 0 0 0;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+h1 {
+    font-size: 1.75em;
+    margin: 1.5em 0 0 0;
+    font-weight: bold;
+}
+
+h2 {
+    margin: 1em 0 0 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h2:after, h3:after {
+    content: "";
+    display: block;
+    margin: 0 0 1px 0;
+    padding: 0 0 0 0;
+    margin-right: 33%;
+    color: #224;
+    background-color: #224;
+    height: 3px;
+}
+
+
+h3:after {
+    margin-right: 67%;
+    height: 2px;
+}
+
+h3 {
+    margin: 0.75em 0 0 0;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+h6 {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+pre {
+    padding: 1em;
+    margin: 1em;
+    overflow-x: auto;
+}
+
+code {
+    font: 16px $font-mono;
+}
+
+p > code, li > code {
+    font-weight: bold;
+    color: $blue_light;
+}
+
+.date {
+    color: $gray_light;
+    font-size: 14px;
+}
+
+.notfound {
+    text-align: center;
+}
+
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+}
+
+#moon-display {
+    height: initial;
+}
+
+.content {
+    margin: 0 auto;
+    width: calc(min(1500px, max(1000px, 66vw)));
+}
+
+@media (max-width: 1200px) {
+    .content {
+        margin-left: 1em;
+        margin-right: 1em;
+        width: auto;
+        max-width: 1200px;
+        min-width: 200px;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+hr:has(+ .footnote-definition) {
+    margin-top: 2em;
+}
+p:has(+ hr) {
+    margin: 0 0 0.62em 0;
+}
+
+footer hr {
+     height: 0.5em;
+}
+
+hr {
+    border: 0;
+    color: $luna_body_fill;
+    background-color: $luna_body_fill;
+    height: 0.25em;
+    margin: 0.5em 0 0.5em 0;
+}
+
+hr.small {
+    height: 0.2em;
+}
+
+blockquote {
+    margin-left: 1em;
+    padding-left: 0.5em;
+    border-left: 2px solid $luna_body_fill;
+}
+
+hr + p, hr + blockquote {
+    margin-top: 0;
+}
+
+pre[data-lang] {
+    background-color: #151550 !important;
+}
+
+.footnote-definition+.footnote-definition {
+    margin-bottom: 0.33em;
+}
+
+.footnote-definition {
+    margin-top: 1em;
+    font: 95% $font-mono;
+    color: $gray_light;
+    margin-left: 1em;
+}
+
+.footnote-definition-label {
+    margin-left: 2em;
+    vertical-align: text-top;
+}
+
+.footnote-reference > a[href]::before, .footnote-definition-label a[href]::before {
+    content: "#";
+    color: $luna_hoof_slippers;
+    text-decoration: none;
+}
+.footnote-reference > a[href], .footnote-definition-label a[href] {
+    // text-decoration: wavy underline dotted;
+    text-decoration: none;
+    // text-underline-offset: 2px;
+    color: $luna_hair_outer;
+}
+
+.footnote-definition p {
+    display: inline;
+}
+
+// https://github.com/getzola/zola/issues/1285
+figcaption p {
+    display: inline;
+}
+
+sup+sup {
+    margin-left: 0.25em;
+}
+
+blockquote:has(+ p .footnote-reference),
+blockquote:has(+ p .footnote-reference) p:last-child {
+    margin-bottom: 0;
+}
+blockquote:has(+ p .footnote-reference) {
+    font-family: $font-mono;
+    // font-style: oblique;
+    background: $luna_body_stroke;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+// Signal that this footnote is the source of the preceding block quote
+blockquote + p .footnote-reference::before {
+    margin-left: 2em;
+    content: "—\00a0\00a0";
+    display:inline-block;
+}
+
+.footnote-reference:target, .footnote-definition:target, a:target {
+    animation: highlight-on-load 3s ease-in-out;
+}
+
+@keyframes highlight-on-load {
+  0% { 
+    background-color: #99ffff;
+    outline: 3px solid #99ffff;
+  }
+  50% { 
+    background-color: #99ffff99;
+    outline: 3px solid #99ffff99;
+  }
+  100% { 
+    background-color: transparent;
+    outline: 3px solid transparent;
+  }
+}
+
+/* Footnote preview on hover */
+.footnote-reference {
+    position: relative;
+}
+
+.footnote-reference .footnote-preview {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1a1a1a;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 0.1em 0.25em 0.1em 0.25em;
+    margin-bottom: -0.5em;
+    font-size: 90%;
+    max-width: min(500px, 80vw);
+    width: max-content;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+    color: #fff;
+    
+    // Handle links in previews
+    a {
+        color: #8cc8ff;
+        text-decoration: underline;
+    }
+    
+    a:hover {
+        color: #b3d9ff;
+    }
+    
+    p {
+        margin: 0;
+    }
+}
+
+.footnote-reference:hover .footnote-preview, .footnote-reference:active .footnote-preview, .footnote-reference:focus .footnote-preview {
+    display: block;
+}
+
+.footnote-preview::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: #444;
+}
+
+pre, code {
+    white-space: pre-wrap;
+    break-inside: initial;
+    word-break: break-all;
+}
+
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+    cursor: pointer;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+details[open] {
+    padding: .5em;
+    max-height: calc(min(100em, 50vh));
+    overflow-y: scroll;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+    position: sticky;
+    top: -.5em;
+    background-color: black;
+}
+
+figure {  margin: 0 auto; display: table; }
+
+figcaption { display: table-caption; caption-side: bottom ; }
+
+figure > p:first-child {
+    margin: 0;
+    text-align:center;
+}
+
+figure img {
+    max-height: 50vh;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+/* Keep header/footer static while main slides */
+::view-transition-old(content) {
+  animation: slide-out 0.3s ease-in-out;
+}
+
+@keyframes slide-out {
+  to {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+}
+
+/* Prevent header/footer from animating */
+::view-transition-old(header),
+::view-transition-new(header),
+::view-transition-old(footer),
+::view-transition-new(footer) {
+  animation: none;
+}

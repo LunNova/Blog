@@ -1,0 +1,70 @@
+{% macro meta(page) %}
+    <svg style="margin-bottom:-3px" class="i-clock" viewBox="0 0 32 32"
+         width="16" height="16" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+        <title>Clock icon</title>
+        <circle cx="16" cy="16" r="14"/>
+        <path d="M16 8 L16 16 20 20"/>
+    </svg>
+    <span>{{ page.reading_time }} minute read</span>
+    <svg style="margin-bottom: -3px" class="i-edit" viewBox="0 0 32 32"
+         width="16" height="16" fill="none" stroke="currentcolor"
+         stroke-linecap="round" stroke-linejoin="round" stroke-width="6.25%">
+         <title>Edit icon</title>
+        <path d="M30 7 L25 2 5 22 3 29 10 27 Z M21 6 L26 11 Z M5 22 L10 27 Z"/>
+    </svg>
+
+    {% if page.date %}Published: {{ page.date | date(format="%F") }}{% if page.updated %}<span title="Updated: {{ page.updated | date(format='%F') }}">*</span>{% endif %}{% endif %}
+{% endmacro meta %}
+
+{# Get description from URL, trying section first then page #}
+{% macro get_description_from_url(url) %}
+    {%- set section = get_section(path=url) | default(value=false) -%}
+    {%- if section -%}
+        {{ section.description | default(value="") }}
+    {%- else -%}
+        {%- set page = get_page(path=url) | default(value=false) -%}
+        {%- if page -%}
+            {{ page.description | default(value="") }}
+        {%- endif -%}
+    {%- endif -%}
+{% endmacro %}
+
+{% macro page_in_list(page) %}
+    <article itemscope itemtype="http://schema.org/BlogPosting" itemid="{{ page.permalink | safe }}">
+        <header>
+            <link itemprop="url" href="{{ page.permalink | safe }}"/>
+            <span class="page-name-link" itemprop="name">
+                <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+            </span>
+            <span class="muted">{{ self::meta(page=page) }}</span>
+        </header>
+        {% if page.summary %}
+            <div itemprop="summary">
+                {{ page.summary | safe }}
+                <nav class="readmore"><a itemprop="url" href="{{ page.permalink | safe }}">Read More&nbsp;&raquo;</a></nav>
+            </div>
+        {% endif %}
+    </article>
+{% endmacro page_in_list %}
+
+{% macro toc(toc) %}
+    {% if toc %}
+    <ul>
+    {% for h1 in toc %}
+        <li>
+            <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+            {% if h1.children %}
+                <ul>
+                    {% for h2 in h1.children %}
+                        <li>
+                            <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+{% endmacro meta %}

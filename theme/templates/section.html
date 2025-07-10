@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block main %}
+    {% if page.children %}
+        <h1 class="topline">{{ page.title }}</h1>
+        <hr class="small">
+        {% for p in page.children %}
+                {{ post_macros::page_in_list(page=p) }}
+        {% endfor %}
+        <div itemprop="articleBody">
+            {{ content | safe }}
+        </div>
+    {% else %}
+        <article itemscope itemtype="http://schema.org/BlogPosting">
+            <div itemprop="headline">
+                <h1 class="topline">{{ page.title }}</h1>
+                <hr class="small">
+            </div>
+            <div itemprop="articleBody">
+                {{ content | safe }}
+            </div>
+        </article>
+    {% endif %}
+{% endblock main %}

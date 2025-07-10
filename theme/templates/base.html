@@ -1,0 +1,198 @@
+{% import "post_macros.html" as post_macros %}
+
+{%- set title = config.site.title -%}
+{%- set description = config.site.description | default(value=false) -%}
+{%- set page_icon = config.site.icon | default(value=false) -%}
+{%- if page and page.title -%}
+{%- set title = page.title ~ ' | ' ~ title -%}
+{%- endif -%}
+{%- if page and page.description -%}
+{%- set description = page.description -%}
+{%- endif -%}
+{%- if page and page.extra.icon -%}
+{%- set page_icon = page.extra.icon -%}
+{%- endif -%}
+<!DOCTYPE html>
+<html lang="en" style="background:black;min-height:100vh;min-width:100vw;color:#c0c5ce;">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <title>{{ title }}</title>
+        <meta name="description" content="{{ page.description | default(value=config.site.description) }}">
+        <meta name="author" content="{{ page.author | default(value=config.extra.meta_author) | default() }}">
+        {% block favicon -%}
+        <link rel="icon" href="/favicon.ico">
+        {%- endblock favicon -%}
+        <link rel="canonical" href="{{ page.permalink | safe }}">
+        {% block css %}
+        <link rel="stylesheet" href="/theme.css">
+        {% endblock css %}
+        
+        <script src="/footnote-previews.js" defer></script>
+
+        {% block rel_alternates -%}
+        {% for alt in alternates %}
+        <link rel="alternate" type="{{alt.type | escape_html_attribute }}" title="{{ alt.title | escape_html_attribute }}" href="{{alt.url | escape_html_attribute }}" />
+        {% endfor %}
+        {%- endblock rel_alternates -%}
+        {% if config.extra.head_comment %}
+        <!-- {{ config.extra.head_comment | safe }} -->
+        {% endif %}
+        {% if config.extra.github %}
+        <link rel="author" href="https://github.com/{{ config.extra.github }}">
+        {% endif %}
+
+        {% if page.higher %}
+            <link rel="prev" href="{{ page.higher.permalink | escape_html_attribute }}">
+        {% endif %}
+        {% if page.lower %}
+            <link rel="next" href="{{ page.lower.permalink | escape_html_attribute }}">
+        {% endif %}
+
+        {% if current_path and current_path is starting_with("/tags/") %}
+        <!-- Noindex tag pages because they're "thin" and don't have any additional content other than a list of posts -->
+        <!-- FIXME: tags with many pages might actually be useful to index-->
+        <meta name="robots" content="noindex">
+        {% endif %}
+        {% block fbmeta %}
+        {% if page and page.date %}
+        <meta property="og:type" content="article">
+        <meta property="article:published_time" content="{{ page.date | date(format='%Y-%m-%dT%H:%M:%S%:z') }}">
+        {% if page.updated and page.updated != page.date %}
+        <meta property="article:modified_time" content="{{ page.updated | date(format='%Y-%m-%dT%H:%M:%S%:z') }}">
+        {% endif %}
+        {% if config.extra.author %}
+        <meta property="article:author" content="{{ config.extra.author }}">
+        {% endif %}
+        {% if page.tags %}
+        {% for tag in page.tags %}
+        <meta property="article:tag" content="{{ tag.name }}">
+        {% endfor %}
+        {% endif %}
+        {% else %}
+        <meta property="og:type" content="website">
+        {% endif %}
+        <meta property="og:url" content="{{ page.permalink | escape_html_attribute }}">
+        <meta property="og:site_name" content="{{ config.site.title }}">
+        <meta property="og:title" content="{{ title }}">
+        <meta property="og:description" content="{{ description }}">
+        {% if page_icon %}
+        <meta property="og:image" content="{{ page_icon }}">
+        {# TODO: Add og:image:alt when page.extra.icon_alt or similar is available #}
+        {% endif %}
+        <meta property="og:locale" content="en_US">
+        {% endblock fbmeta %}
+        {%- block twittermeta -%}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="{{ title }}" />
+        <meta name="twitter:description" content="{{ description }}" />
+        {% if page_icon %}
+        <meta name="twitter:image" content="{{ page_icon | escape_html_attribute }}" />
+        {% endif %}
+        {%- endblock twittermeta -%}
+
+        {%- block extra_head -%}{%- endblock extra_head -%}
+    </head>
+    <body>
+        <div class="content">
+        {% block body%}
+        {% block header %}
+            <header role="banner">
+                <div class="header-left" style="flex: 1">
+                    {%block header_left%}
+                    <nav aria-label="Breadcrumb" style="float: left; padding-right: 0.5rem;">
+                    {% for crumb in breadcrumbs %}
+                        {% if not crumb.is_current %}
+                        <a href="{{ crumb.url | escape_html_attribute }}"><span>{{ crumb.title }}</span></a>
+                        /
+                        {% endif %}
+                    {% endfor %}
+                    </nav>
+                    {%endblock header_left%}
+                </div>
+                <div class="header-right">
+                    <nav aria-label="Main navigation">
+                    <ul>
+                        {% for item in nav_items %}
+                        <li>
+                            <a href="{{ item.url | escape_html_attribute}}"><span itemprop="name">{{ item.title }}</span></a>
+                        </li>
+                        {% endfor %}
+                        {% if config.extra.github %}
+                        <li>
+                            <a href="https://github.com/{{ config.extra.github }}" aria-label="GitHub"><img class="icon" height=24 width=24
+                                    src="/icons/github.svg" alt="Github"></a>
+                        </li>
+                        {% endif %}
+                        <li id="moon-display" class="icon">&nbsp;</li>
+                    </ul>
+                    </nav>
+                </div>
+            </header>
+        {% endblock header %}
+        <main id="main-content">
+        {% block main %}
+            {{ content | safe }}
+        {% endblock main %}
+        </main>
+        <footer role="contentinfo">
+            {% block footer %}
+            <hr>
+            <div class="footer">
+                <small class="footer-left">
+                    {% for badge in badges %}
+                    {% if badge.filename is starting_with("_") %}
+                    <a id="badge_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}" alt="{{ badge.filename }}"></a>
+                    {% endif %}
+                    {% endfor %}
+                </small>
+                <small class="footer-center">
+                    {% if not page.children %}
+                    <span>
+                        {% for alt in alternates %}
+                        {% if alt.type is ending_with("markdown") %}
+                        <a rel="alternate" type="{{alt.type | escape_html_attribute }}" title="{{ alt.title | escape_html_attribute }}"
+                            href="{{alt.url | escape_html_attribute }}">
+                            View as {{ alt.type | trim_start_matches(pat="text/") }}
+                        </a><br>
+                        {% endif %}
+                        {% endfor %}
+                        {%- if page and page.title and page.relative_path -%}
+                        Source <a href="https://github.com/LunNova/Blog/tree/main/content/{{ page.relative_path }}">{{ page.relative_path }}</a>
+                        {%- endif -%}
+                    </span>
+                    <!-- {%- if page and page.title and page.relative_path -%}
+                                    Rendered from 
+                                    {%- else -%}
+                                    Powered by <a href="https://www.getzola.org" title="zola static site generator's website">Zola</a> | Theme <a href="https://github.com/LunNova/lunar-zen">lunar-zen</a>
+                                    {%- endif -%} -->
+                    {% endif %}
+                </small>
+                <small class="footer-right">
+                    {% for badge in badges %}
+                    {% if badge.filename is not starting_with("_") %}
+                    {% if badge.filename is starting_with("lunnova.dev") %}
+                    &copy;
+                    {% endif %}
+                    <a id="badge_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}" alt="{{ badge.filename }}"></a>
+                    {% endif %}
+                    {% endfor %}
+                    {% if config.extra.license %} {{ config.extra.license | safe }} {% endif %}
+                </small>
+            </div>
+        {% endblock footer %}
+{%- block structured_data -%}
+<script type="application/ld+json">
+{{ generate_ldjson(type="website", current_page=current_page) | safe }}
+</script>
+<script type="application/ld+json">
+{{ generate_ldjson(type="site_navigation", current_page=current_page) | safe }}
+</script>
+
+{%- endblock structured_data -%}
+        </footer>
+    {% endblock body%}
+        </div>
+    </body>
+</html>
