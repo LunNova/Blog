@@ -9,6 +9,7 @@ MANIFEST.MF
 dependency-reduced-pom.xml
 .sass-cache
 .direnv
+.pre-commit-config.yaml
 
 # Compiled #
 ############
