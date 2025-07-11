@@ -1,7 +1,7 @@
 +++
 title = "salary transparency"
 render = true
-template = "home.html"
+# template = "home.html"
 weight = 1
 +++
 
