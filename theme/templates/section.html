@@ -4,9 +4,11 @@
     {% if page.children %}
         <h1 class="topline">{{ page.title }}</h1>
         <hr class="small">
+        <div class="page-list">
         {% for p in page.children %}
                 {{ post_macros::page_in_list(page=p) }}
         {% endfor %}
+        </div>
         <div itemprop="articleBody">
             {{ content | safe }}
         </div>

@@ -10,32 +10,30 @@
 {% endblock structured_data %}
 
 {% block main %}
-<article itemscope itemtype="http://schema.org/BlogPosting" itemid="{{ page.permalink | safe }}">
+<article>
     <div>
-        <h1 class="topline" itemprop="name">{{ page.title }}</h1>
+        <h1 class="topline">{{ page.title }}</h1>
         {% if page.description %}
-        <span class="article-description" itemprop="description"><em>{{ page.description }}</em></span>
+        <span class="article-description"><em>{{ page.description }}</em></span>
         {% endif %}
         <span style="float: right;">
         {% if page.date %}
-        <time datetime="{{ page.date | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date" itemprop="datePublished" pubdate>
+        <time datetime="{{ page.date | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date" pubdate>
             {{ page.date | date(format="%F") }}
         </time>
         <address>
-            by <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span itemprop="name">{{ config.extra.author }}</span>
-            </span>
+            by {{ config.extra.author }}</span>
         </address>
         {% endif %}
         </span>
         <hr class="small">
         {% if page.updated and page.updated != page.date %}
-        <time datetime="{{ page.updated | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date" itemprop="dateModified">
+        <time datetime="{{ page.updated | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date">
             (Updated {{ page.updated | date(format="%F") }})
         </time>
         {% endif %}
     </div>
-    <div itemprop="articleBody">
+    <div>
         <!-- {# {{ page.content | safe | replace(from="<!-- toc -->", to=post_macros::toc(toc=page.toc)) | safe }} #} -->
     {{ content | safe }}
     </div>

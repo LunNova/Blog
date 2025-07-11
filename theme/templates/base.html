@@ -116,7 +116,7 @@
                     <ul>
                         {% for item in nav_items %}
                         <li>
-                            <a href="{{ item.url | escape_html_attribute}}"><span itemprop="name">{{ item.title }}</span></a>
+                            <a href="{{ item.url | escape_html_attribute}}"><span>{{ item.title }}</span></a>
                         </li>
                         {% endfor %}
                         {% if config.extra.github %}
@@ -159,7 +159,7 @@
                         {% endif %}
                         {% endfor %}
                         {%- if page and page.title and page.relative_path -%}
-                        Source <a href="https://github.com/LunNova/Blog/tree/main/content/{{ page.relative_path }}">{{ page.relative_path }}</a>
+                        Source <a href="https://github.com/LunNova/Blog/tree/main/content/{{ page.relative_path }}">{{ page.relative_path | trim_end_matches(pat="/index.md") }}</a>
                         {%- endif -%}
                     </span>
                     <!-- {%- if page and page.title and page.relative_path -%}

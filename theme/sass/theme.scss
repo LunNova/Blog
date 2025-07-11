@@ -251,6 +251,19 @@ article .article-description {
     margin-left: 1em;
 }
 
+.page-list {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 8px 20px;
+    align-items: baseline;
+}
+.page-list article, .page-list header {
+    display: contents;
+}
+.page-list .page-name-link { grid-column: 1; }
+.page-list .reading-time { grid-column: 2; }
+.page-list .publish-date { grid-column: 3; }
+
 p {
     margin: 0 0 1.12em 0;
 }
@@ -346,6 +359,9 @@ p > code, li > code {
 
 #moon-display {
     height: initial;
+    // Yellow moon is silly, grayscale of emoji looks better than forcing
+    // monochrome unicode display because that looks inverted
+    filter: grayscale(1);
 }
 
 .content {
