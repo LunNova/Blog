@@ -1,0 +1,20 @@
+[site]
+title = "lunnova.dev"
+base_url = "https://lunnova.dev/"
+pages_dir = "content"
+description = "Luna Nova's site. Opinion pieces and deep dives into tech, security, Linux systems, and software development."
+
+[features]
+hex_navigation = false
+wiki_links = true
+
+[theme]
+dir = "theme"
+
+[extra]
+meta_author = "LunNova (Luna Nova)"
+author = "Luna Nova"
+github = "LunNova"
+head_comment = "Page by https://github.com/LunNova"
+license = "<a title=\"© Luna Nova CC-BY-NC-SA 4.0\" rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License CC BY-NC-SA\" width=88 height=31 src=\"/by-nc-sa-88x31.png\" /></a>"
+license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"

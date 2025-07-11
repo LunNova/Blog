@@ -1,0 +1,472 @@
+/* comments.css - Bluesky Comments Styles with Dark Theme Support */
+
+:host {
+    display: block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    color: #d4d4d8;
+    line-height: 1.5;
+    background: transparent;
+    font-size: 14px;
+}
+
+.loading {
+    text-align: center;
+    padding: 1.5rem;
+    color: #71717a;
+    font-size: 0.9rem;
+}
+
+.error {
+    text-align: center;
+    padding: 1.5rem;
+    color: #dc2626;
+    background: rgba(127, 29, 29, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+/* Root post styling - simpler than comments */
+.root-post {
+    /* border-bottom: 2px solid #e0e0e0; */
+    padding-bottom: 20px;
+    /* margin-bottom: 20px; */
+}
+
+.root-post-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.root-post-header .author-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.root-post-header .avatar-small {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.root-post-header .author-name {
+    font-weight: 600;
+    /* color: #1a1a1a; */
+}
+
+.root-post-header .author-handle {
+    /* color: #666; */
+    font-size: 14px;
+}
+
+.root-post-content {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    /* color: #333; */
+}
+
+.root-post-footer {
+    margin-top: 12px;
+}
+
+.reply-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #0085ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+
+.reply-button:hover {
+    background-color: #0066cc;
+}
+
+.comments-container {
+    max-width: 800px;
+    margin: 0.25em auto;
+}
+/* Dark theme adjustments */
+/* .comments-container[data-theme="dark"] .root-post {
+    border-bottom-color: #333;
+}
+
+.comments-container[data-theme="dark"] .root-post-header .author-name {
+    color: #e0e0e0;
+}
+
+.comments-container[data-theme="dark"] .root-post-header .author-handle {
+    color: #999;
+}
+
+.comments-container[data-theme="dark"] .root-post-content {
+    color: #d0d0d0;
+} */
+
+.comment {
+    margin-bottom: 0.75rem;
+    padding: 0.75rem;
+    background: rgba(24, 24, 27, 0.5);
+    border: 1px solid rgba(39, 39, 42, 0.5);
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+
+.comment:hover {
+    border-color: rgba(63, 63, 70, 0.7);
+    background: rgba(24, 24, 27, 0.7);
+}
+
+/* larger margin for first nest only */
+.comment[data-depth="1"]  {
+    margin-left: 1rem;
+    background: rgba(26, 26, 29, 0.4);
+}
+
+.comment[data-depth="2"] {
+    background: rgba(28, 28, 31, 0.3);
+}
+
+.comment[data-depth="3"] {
+    background: rgba(30, 30, 33, 0.2);
+}
+
+/* Depth 4 and deeper also get the lightest background */
+.comment[data-depth="4"], 
+.comment[data-depth="5"], 
+.comment[data-depth="6"] {
+    background: rgba(30, 30, 33, 0.2);
+}
+
+/* Replies wrapper and preview */
+.replies-wrapper {
+    position: relative;
+}
+
+.expand-banner {
+    display: none;
+}
+
+.comment.collapsed .replies-wrapper {
+    cursor: pointer;
+}
+
+.comment.collapsed .expand-banner:hover {
+    background: rgba(96, 165, 250, 0.1);
+    border-color: rgba(96, 165, 250, 0.5);
+}
+
+.expand-text {
+    color: #60a5fa;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+/* Show preview of replies when collapsed */
+.comment.collapsed .replies-wrapper {
+    position: relative;
+    max-height: 4.5rem;
+    overflow: hidden;
+}
+
+.comment.collapsed .replies {
+    display: block;
+    opacity: 0.4;
+    pointer-events: none;
+}
+
+.comment.collapsed .replies::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3rem;
+    background: linear-gradient(to bottom, transparent, rgba(24, 24, 27, 0.95));
+    pointer-events: none;
+}
+
+.comment.collapsed {
+    border-color: rgba(96, 165, 250, 0.2);
+}
+
+.comment.collapsed:hover {
+    border-color: rgba(96, 165, 250, 0.4);
+}
+
+.comment-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.2rem;
+}
+
+.author-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: inherit;
+    gap: 0.5rem;
+}
+
+.author-link:hover .author-name {
+    text-decoration: underline;
+    text-decoration-color: rgba(244, 244, 245, 0.3);
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid rgba(39, 39, 42, 0.5);
+}
+
+.author-name {
+    font-weight: 600;
+    color: #e4e4e7;
+    font-size: 0.9rem;
+}
+
+.author-handle {
+    color: #71717a;
+    font-size: 0.8rem;
+}
+
+.collapse-btn {
+    background: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    font-size: 0.8rem;
+    line-height: 1;
+    color: #60a5fa;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.collapse-btn:hover {
+    text-decoration: underline;
+}
+
+.comment.collapsed .collapse-btn {
+    color: #60a5fa;
+}
+
+.comment.collapsed .collapse-btn:hover {
+    text-decoration: underline;
+}
+
+.comment-text {
+    margin-bottom: 0.5rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    color: #c7c7cb;
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.comment-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.8rem;
+    color: #71717a;
+}
+
+.footer-left {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.separator {
+    color: #3f3f46;
+    font-size: 0.7rem;
+    line-height: 1;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.reply-btn {
+    color: #60a5fa;
+    text-decoration: none;
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+}
+
+.reply-btn:hover {
+    background: rgba(96, 165, 250, 0.1);
+    text-decoration: underline;
+}
+
+.timestamp {
+    color: #52525b;
+    text-decoration: none;
+}
+
+.timestamp:hover {
+    text-decoration: underline;
+    color: #71717a;
+}
+
+.stats {
+    display: flex;
+    gap: 0.75rem;
+}
+
+.stat {
+    display: flex;
+    align-items: center;
+    gap: 0.2rem;
+    color: #52525b;
+    font-size: 0.8rem;
+}
+
+.no-comments {
+    text-align: center;
+    color: #52525b;
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+/* Link styling in comments */
+.comment-text a {
+    color: #60a5fa;
+    text-decoration: underline;
+    text-decoration-color: rgba(96, 165, 250, 0.3);
+}
+
+.comment-text a:hover {
+    text-decoration-color: rgba(96, 165, 250, 0.6);
+}
+
+/* Mention styling */
+.comment-text .mention {
+    text-decoration: none;
+}
+
+/* Embed styling */
+.embed-external {
+    margin-top: 0.75rem;
+    border: 1px solid rgba(63, 63, 70, 0.3);
+    border-radius: 6px;
+    overflow: hidden;
+    transition: border-color 0.2s ease;
+    width: fit-content;
+    background: rgba(25, 25, 50, 125);
+}
+
+.embed-external *, .embed-external * * {
+    width: fit-content;
+}
+.embed-description {
+    display: none;
+}
+
+.embed-external:hover {
+    border-color: rgba(96, 165, 250, 0.5);
+}
+
+.embed-external a {
+    display: block;
+    padding: 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    background: rgba(24, 24, 27, 0.3);
+}
+
+.embed-title {
+    font-weight: 600;
+    color: #e4e4e7;
+    margin-bottom: 0.25rem;
+    font-size: 0.9rem;
+}
+
+.embed-description {
+    color: #a1a1aa;
+    font-size: 0.85rem;
+    margin-bottom: 0.25rem;
+    line-height: 1.4;
+}
+
+.embed-url {
+    color: #71717a;
+    font-size: 0.8rem;
+}
+
+@media (max-width: 640px) {
+    .comment[data-depth]:not([data-depth="0"]) {
+        margin-left: 0.75rem;
+    }
+    
+    .avatar {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .author-handle {
+        display: none;
+    }
+    
+    .stats {
+        gap: 0.5rem;
+    }
+    
+    .comment {
+        padding: 0.5rem;
+    }
+    
+    .embed-external a {
+        padding: 0.5rem;
+    }
+    
+    .embed-title {
+        font-size: 0.85rem;
+    }
+    
+    .embed-description {
+        font-size: 0.8rem;
+    }
+    
+    .comment-footer {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    
+    .footer-left {
+        gap: 0.35rem;
+    }
+    
+    .actions {
+        gap: 0.75rem;
+    }
+    
+    .reply-btn {
+        padding: 0.2rem 0.4rem;
+        font-size: 0.75rem;
+    }
+    
+    .collapse-btn {
+        font-size: 0.75rem;
+    }
+    
+    .separator {
+        font-size: 0.65rem;
+    }
+}

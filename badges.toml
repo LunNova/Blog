@@ -1,0 +1,31 @@
+[[badge]]
+filename = "_css.gif"
+url = "https://www.w3.org/Style/CSS/current-work"
+order = 1
+
+[[badge]]
+filename = "_eliminate-drm-now.png"
+url = "https://www.defectivebydesign.org/action"
+order = 2
+
+[[badge]]
+filename = "_iso-dates.png"
+url = "https://www.w3.org/QA/Tips/iso-date"
+order = 3
+
+[[badge]]
+filename = "_rss.gif"
+url = "/rss.xml"
+order = 0
+
+[[badge]]
+filename = "bluesky.png"
+url = "https://bsky.app/profile/lunnova.dev"
+order = 0
+title = "@lunnova.dev on bsky.app"
+
+[[badge]]
+filename = "lunnova.dev.png"
+url = "https://lunnova.dev/#badge_lunnova"
+order = 1
+title = "feeling a little loopy!"
