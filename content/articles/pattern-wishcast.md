@@ -242,3 +242,16 @@ Check [the README](https://github.com/LunNova/x/tree/main/cargo-derive-doc) for 
 [^ref_st]: Refinement types were introduced in [Refinement Types for ML](https://www.cs.cmu.edu/~fp/papers/pldi91.pdf) <sup>1991</sup>.
 [^rust_pat_pr_wip]: See discussion on github/rust-lang [Pattern types MVP #107606](https://github.com/rust-lang/rust/pull/107606#issuecomment-1422953975)
 [^rust_pat_tracking]: github/rust-lang [feature(pattern_types) tracking #123646](https://github.com/rust-lang/rust/issues/123646) and [feature(generic_pattern_types) tracking #136574](https://github.com/rust-lang/rust/issues/136574)
+
+---
+
+<div id="bsky-comments"></div>
+
+<script type="module" defer>
+import BskyComments from '/bsky-comments.js';
+
+new BskyComments(
+    'https://bsky.app/profile/did:plc:j3hvz7sryv6ese4nuug2djn7/post/3ltiklo55c224',
+    document.getElementById('bsky-comments')
+).render();
+</script>
