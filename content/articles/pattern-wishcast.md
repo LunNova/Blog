@@ -245,13 +245,13 @@ Check [the README](https://github.com/LunNova/x/tree/main/cargo-derive-doc) for 
 
 ---
 
-<div id="bsky-comments"></div>
-
+<div id="comment-section"></div>
 <script type="module" defer>
-import BskyComments from '/bsky-comments.js';
-
-new BskyComments(
-    'https://bsky.app/profile/did:plc:j3hvz7sryv6ese4nuug2djn7/post/3ltiklo55c224',
-    document.getElementById('bsky-comments')
+import Comments from '/atproto-comments.js';
+new Comments(
+    document.getElementById('comment-section'), // where to inject the comments
+    "/comments.css", // comments specific CSS
+    'https://public.api.bsky.app/', // AppView base URL for API call
+    'at://did:plc:j3hvz7sryv6ese4nuug2djn7/post/3ltiklo55c224' // URI of the root of the thread to load
 ).render();
 </script>
