@@ -2,7 +2,7 @@
 title = "202503 Snippets and Links"
 date = 2025-03-25
 description = "New post format, calibre + supernote folder structure, altgr-intl, new box runbook"
-aliases = ["articles/202501-snippets-links"]
+aliases = ["articles/202501-snippets-links", "articles/202503-snippets-links"]
 
 [taxonomies]
 tags = ["snippets"]
