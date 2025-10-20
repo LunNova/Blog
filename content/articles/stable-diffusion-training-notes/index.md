@@ -213,7 +213,7 @@ There's an [open bug for this](https://github.com/Lightning-AI/lightning/issues/
 
 # Optimized EMA 
 
-See [Stable diffusion optimization: EMA weights on CPU](@/articles/stable-diffusion-ema-on-cpu/index.md).
+See [Stable diffusion optimization: EMA weights on CPU](/articles/stable-diffusion-ema-on-cpu/index.md).
 
 TL;DR: EMA weights can be stored in system RAM and updated only ever N batches to reduce compute and VRAM requirements.
 I also fixed a memory leak that was doubling the required VRAM.

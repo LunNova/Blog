@@ -13,4 +13,4 @@ It keeps letting me down by crashing whenever I run mixed compute and graphics l
 
 Very mixed feelings on this. Can I trade the awesome crash recovery for not crashing in the first place please?
 
-See [the stable diffusion post's AMD section for some more details](@/articles/stable-diffusion-training-notes/index.md#amdgpu-hang).
+See [the stable diffusion post's AMD section for some more details](/articles/stable-diffusion-training-notes/index.md#amdgpu-hang).
