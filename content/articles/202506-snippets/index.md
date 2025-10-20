@@ -1,7 +1,8 @@
 +++
-title = "202506 Snippets and Links"
+title = "202506 Snippets"
 date = 2025-06-30
 description = "Linkpost for June 2025. X11 has absolute scaling if you're brave! We can weed with lasers! nuke the seabed to fix the climate‽"
+aliases = ["articles/202506-snippets-links"]
 
 [taxonomies]
 tags = ["snippets"]
