@@ -7,9 +7,13 @@ tags = ["rant"]
 
 *Personal opinion. Not speaking for any org, project, friend, employer or associates.*
 
+<span class=ext-bq>
+
 > If we made our website use Anubis, we would be pressuring users into running malware
 
 [^fsf_claim]
+
+</span>
 
 The Free Software Foundation has claimed that [Anubis](https://anubis.techaro.lol/) — a web application firewall which supports proof of work challenges — runs malware on visitors' machines.
 
@@ -21,11 +25,15 @@ I much prefer having to burn some compute for access to a webpage over being stu
 
 The FSF has had strong historic stances against the idea of treating software as inherently wrong, or criminal, based on specific illegitimate usecases of it.
 
+<span class=ext-bq>
+
 > This isn't the first time that law enforcement has worked to shut down a Tor relay -- in fact, it's common for those who run relays to be harassed by police.
 >
 > The stated justification is usually that anonymity software can be used by criminals, but by that argument, roads should also be illegal because some people drive drunk.
 
 [^fsf_analogy]
+
+</span>
 
 Surely the same nuance applies when proof of work is used to protect overloaded websites[^anubis_load], in the form of a visible challenge screen. Must we bar all usage of it because it is often used to mine cryptocurrency?
 
