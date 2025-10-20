@@ -34,22 +34,24 @@ AMD started setting the same Fast Short Rep Mov flag with their Zen 3 (Ryzen 5xx
 ```
 FSRM:
   Size (bytes)   Destination Alignment      Throughput (GB/s)
-  2113                               0                84.2448              
+  2113                               0                84.2448
   2113                              15                 4.4310
-  524287                             0                57.1122 
+  524287                             0                57.1122
   524287                            15                4.34671
 
 Vectorized:
   Size (bytes)   Destination Alignment      Throughput (GB/s)
-  2113                               0               124.1830             
+  2113                               0               124.1830
   2113                              15               121.8720
-  524287                             0                58.3212 
-  524287                            15                58.5352 
+  524287                             0                58.3212
+  524287                            15                58.5352
 ```
 
 A patch set for glibc to avoid using rep movsb again[^3] is under development.
 
 I hope AMD are able to release a microcode update which fixes the behavior of `rep movsb` on unaligned data or unsets the FSRM flag. Without a fix, the FSRM CPUID[^4] flag is misleading on AMD processors and any code deciding to use `rep movsb` will be wrong if it does the obvious thing.
+
+---
 
 [^1]: [Intel® 64 and IA-32 Architectures Optimization Reference Manual Volume 1](https://www.intel.com/content/www/us/en/content-details/671488/intel-64-and-ia-32-architectures-optimization-reference-manual-volume-1.html)
 [^2]: [glibc Bug 30994 - REP MOVSB performance suffers from page aliasing on Zen 4](https://sourceware.org/bugzilla/show_bug.cgi?id=30994)
