@@ -54,13 +54,13 @@ FSF, please retract the claim that Anubis is malware. You don't have to use it; 
 
 ---
 
-<div id="bsky-comments"></div>
-
+<div id="comment-section"></div>
 <script type="module" defer>
-import BskyComments from '/bsky-comments.js';
-
-new BskyComments(
-    'https://bsky.app/profile/did:plc:j3hvz7sryv6ese4nuug2djn7/post/3ltikv7zewc2l',
-    document.getElementById('bsky-comments')
+import Comments from '/atproto-comments.js';
+new Comments(
+    document.getElementById('comment-section'), // where to inject the comments
+    "/comments.css", // comments specific CSS
+    'https://public.api.bsky.app/', // AppView base URL for API call
+    'at://did:plc:j3hvz7sryv6ese4nuug2djn7/app.bsky.feed.post/3ltikv7zewc2l' // URI of the root of the thread to load
 ).render();
 </script>
