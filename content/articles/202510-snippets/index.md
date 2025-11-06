@@ -36,8 +36,9 @@ I couldn't work out how to do this without two separate steps so it's a little j
 
 ### learning jj-vcs
 
-- [stupid jj tricks](https://andre.arko.net/2025/09/28/stupid-jj-tricks/)
 - [steve's jj tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
+- [stupid jj tricks](https://andre.arko.net/2025/09/28/stupid-jj-tricks/)
+- [flames of code's jj workflow](https://flames-of-code.netlify.app/blog/my-jj-workflow/)
 
 #### Mistakes
 
