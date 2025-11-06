@@ -1,17 +1,4 @@
-// bsky-comments.jsx - Bluesky Comments Module with JSX
-// 
-// Build with: swc compile bsky-comments.jsx -o bsky-comments.js
-//
-// Usage:
-//   import BskyComments from './bsky-comments.js';
-//   
-//   const comments = new BskyComments(
-//       'https://bsky.app/profile/did:plc:xyz/post/123',
-//       document.getElementById('comments'),
-//       { cssPath: '/path/to/comments.css' } // optional, defaults to '/comments.css'
-//   );
-//   
-//   comments.render();
+// status: "reviewed claudeslop" by someone who is rusty at frontend and js
 function _array_like_to_array(arr, len) {
     if (len == null || len > arr.length) len = arr.length;
     for(var i = 0, arr2 = new Array(len); i < len; i++)arr2[i] = arr[i];
@@ -296,18 +283,17 @@ function _ts_generator(thisArg, body) {
         };
     }
 }
-export var BskyComments = /*#__PURE__*/ function() {
+export var Comments = /*#__PURE__*/ function() {
     "use strict";
-    function BskyComments(targetUrl, targetElement) {
-        var options = arguments.length > 2 && arguments[2] !== void 0 ? arguments[2] : {};
-        _class_call_check(this, BskyComments);
+    function Comments(targetElement, cssPath, apiHost, targetUrl) {
+        _class_call_check(this, Comments);
         this.targetUrl = targetUrl;
+        this.apiHost = apiHost.replace(/\/$/, "");
         this.targetElement = targetElement;
         this.shadowRoot = null;
-        this.cssPath = options.cssPath || '/comments.css';
-        this.theme = options.theme || 'dark'; // 'light' or 'dark'
+        this.cssPath = cssPath;
     }
-    _create_class(BskyComments, [
+    _create_class(Comments, [
         {
             key: "thumbnailify",
             value: function thumbnailify(avatarUrl) {
@@ -318,22 +304,19 @@ export var BskyComments = /*#__PURE__*/ function() {
             }
         },
         {
-            // Convert Bluesky URL to API URL
             key: "convertToApiUrl",
             value: function convertToApiUrl(bskyUrl) {
-                // Extract the AT URI from the Bluesky URL
-                var match = bskyUrl.match(/profile\/(did:[^\/]+)\/post\/([^\/\?]+)/);
+                var match = bskyUrl.match(/(did:[^\/]+)\/(?:post|app\.bsky\.feed\.post)\/([^\/\?]+)/);
                 if (!match) {
-                    throw new Error('Invalid Bluesky URL format');
+                    throw new Error("Invalid URL format in ".concat(bskyUrl));
                 }
                 var _match = _sliced_to_array(match, 3), did = _match[1], postId = _match[2];
                 var atUri = "at://".concat(did, "/app.bsky.feed.post/").concat(postId);
                 var encodedUri = encodeURIComponent(atUri);
-                return "https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=".concat(encodedUri);
+                return "".concat(this.apiHost, "/xrpc/app.bsky.feed.getPostThread?uri=").concat(encodedUri);
             }
         },
         {
-            // Format timestamp
             key: "formatTimestamp",
             value: function formatTimestamp(dateString) {
                 var date = new Date(dateString);
@@ -387,7 +370,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                                     result.push(/*#__PURE__*/ h("a", {
                                         href: "https://bsky.app/profile/".concat(feature.did),
                                         target: "_blank",
-                                        rel: "noopener noreferrer",
+                                        rel: "noopener noreferrer nofollow",
                                         class: "mention"
                                     }, facetText));
                                     processed = true;
@@ -396,7 +379,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                                     result.push(/*#__PURE__*/ h("a", {
                                         href: feature.uri,
                                         target: "_blank",
-                                        rel: "noopener noreferrer"
+                                        rel: "noopener noreferrer nofollow"
                                     }, facetText));
                                     processed = true;
                                     break;
@@ -515,7 +498,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                 }, /*#__PURE__*/ h("a", {
                     href: profileUrl,
                     target: "_blank",
-                    rel: "noopener noreferrer",
+                    rel: "noopener noreferrer nofollow",
                     class: "author-link"
                 }, /*#__PURE__*/ h("img", {
                     src: this.thumbnailify(author.avatar) || '',
@@ -531,7 +514,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                     class: "comment-text"
                 }, processedText), embedToShow && function() {
                     var _embedToShow_record;
-                    // Handle recordWithMedia type
                     if ((_embedToShow_record = embedToShow.record) === null || _embedToShow_record === void 0 ? void 0 : _embedToShow_record.record) {
                         var _record_value;
                         var record = embedToShow.record.record;
@@ -540,7 +522,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                         }, /*#__PURE__*/ h("a", {
                             href: "https://bsky.app/profile/".concat(record.author.did, "/post/").concat(record.uri.split('/').pop()),
                             target: "_blank",
-                            rel: "noopener noreferrer"
+                            rel: "noopener noreferrer nofollow"
                         }, /*#__PURE__*/ h("div", {
                             class: "embed-title"
                         }, record.author.displayName || record.author.handle, /*#__PURE__*/ h("span", {
@@ -555,7 +537,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                         }, /*#__PURE__*/ h("a", {
                             href: "https://bsky.app/profile/".concat((_embedToShow_record_author = embedToShow.record.author) === null || _embedToShow_record_author === void 0 ? void 0 : _embedToShow_record_author.did, "/post/").concat(embedToShow.record.uri.split('/').pop()),
                             target: "_blank",
-                            rel: "noopener noreferrer"
+                            rel: "noopener noreferrer nofollow"
                         }, /*#__PURE__*/ h("div", {
                             class: "embed-title"
                         }, ((_embedToShow_record_author1 = embedToShow.record.author) === null || _embedToShow_record_author1 === void 0 ? void 0 : _embedToShow_record_author1.displayName) || ((_embedToShow_record_author2 = embedToShow.record.author) === null || _embedToShow_record_author2 === void 0 ? void 0 : _embedToShow_record_author2.handle) || 'Unknown', /*#__PURE__*/ h("span", {
@@ -569,7 +551,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                         }, /*#__PURE__*/ h("a", {
                             href: embedToShow.external.uri,
                             target: "_blank",
-                            rel: "noopener noreferrer"
+                            rel: "noopener noreferrer nofollow"
                         }, /*#__PURE__*/ h("div", {
                             class: "embed-title"
                         }, embedToShow.external.title), embedToShow.external.description && /*#__PURE__*/ h("div", {
@@ -592,14 +574,14 @@ export var BskyComments = /*#__PURE__*/ function() {
                 }, "\xb7"), /*#__PURE__*/ h("a", {
                     href: postUrl,
                     target: "_blank",
-                    rel: "noopener noreferrer",
+                    rel: "noopener noreferrer nofollow",
                     class: "timestamp"
                 }, timestamp)), /*#__PURE__*/ h("div", {
                     class: "actions"
                 }, /*#__PURE__*/ h("a", {
                     href: postUrl,
                     target: "_blank",
-                    rel: "noopener noreferrer",
+                    rel: "noopener noreferrer nofollow",
                     class: "reply-btn"
                 }, "↩ Reply"), /*#__PURE__*/ h("div", {
                     class: "stats"
@@ -640,7 +622,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                     var html = "<".concat(type);
                     var _iteratorNormalCompletion = true, _didIteratorError = false, _iteratorError = undefined;
                     try {
-                        // Add attributes
                         for(var _iterator = Object.entries(attrs)[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true){
                             var _step_value = _sliced_to_array(_step.value, 2), key = _step_value[0], value = _step_value[1];
                             if (value !== null && value !== undefined && value !== false) {
@@ -663,11 +644,9 @@ export var BskyComments = /*#__PURE__*/ function() {
                         }
                     }
                     html += '>';
-                    // Add children
                     if (children) {
                         html += this.renderToString(children);
                     }
-                    // Close tag
                     html += "</".concat(type, ">");
                     return html;
                 }
@@ -675,7 +654,6 @@ export var BskyComments = /*#__PURE__*/ function() {
             }
         },
         {
-            // Escape HTML
             key: "escapeHtml",
             value: function escapeHtml(str) {
                 var div = document.createElement('div');
@@ -684,7 +662,6 @@ export var BskyComments = /*#__PURE__*/ function() {
             }
         },
         {
-            // Escape attribute values
             key: "escapeAttr",
             value: function escapeAttr(str) {
                 return str.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
@@ -702,7 +679,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                         link.rel = 'stylesheet';
                         link.href = _this.cssPath;
                         _this.shadowRoot.appendChild(link);
-                        // Return a promise that resolves when the CSS is loaded
                         return [
                             2,
                             new Promise(function(resolve, reject) {
@@ -717,7 +693,6 @@ export var BskyComments = /*#__PURE__*/ function() {
             }
         },
         {
-            // Setup event listeners
             key: "setupEventListeners",
             value: function setupEventListeners() {
                 this.shadowRoot.addEventListener('click', function(e) {
@@ -726,7 +701,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                         var comment = e.target.closest('.comment');
                         var isCollapsed = comment.classList.contains('collapsed');
                         comment.classList.toggle('collapsed');
-                        // Update button text
                         var replyCount = e.target.getAttribute('data-reply-count');
                         if (replyCount) {
                             var replyText = replyCount === '1' ? 'reply' : 'replies';
@@ -734,9 +708,8 @@ export var BskyComments = /*#__PURE__*/ function() {
                         }
                         e.stopPropagation();
                     }
-                    // Handle clicking on expand banner or collapsed replies
-                    var collapsedReplies = e.target.closest('.comment.collapsed .replies-wrapper');
-                    if (collapsedReplies) {
+                    // partially faded reply wrapper collapse
+                    if (e.target.closest('.comment.collapsed .replies-wrapper')) {
                         var comment1 = e.target.closest('.comment');
                         if (comment1 && comment1.classList.contains('collapsed')) {
                             comment1.classList.remove('collapsed');
@@ -764,7 +737,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                     return _ts_generator(this, function(_state) {
                         switch(_state.label){
                             case 0:
-                                // Clear the target element
                                 _this.targetElement.innerHTML = '';
                                 _state.label = 1;
                             case 1:
@@ -774,7 +746,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                                     ,
                                     6
                                 ]);
-                                // Convert URL and fetch data FIRST
                                 apiUrl = _this.convertToApiUrl(_this.targetUrl);
                                 return [
                                     4,
@@ -791,11 +762,9 @@ export var BskyComments = /*#__PURE__*/ function() {
                                 ];
                             case 3:
                                 data = _state.sent();
-                                // Extract data needed for header
                                 mainPost = data.thread.post;
                                 postId = mainPost.uri.split('/').pop();
                                 threadUrl = "https://bsky.app/profile/".concat(mainPost.author.did, "/post/").concat(postId);
-                                // Count total comments recursively
                                 countComments = function(replies) {
                                     var count = 0;
                                     var _iteratorNormalCompletion = true, _didIteratorError = false, _iteratorError = undefined;
@@ -827,15 +796,13 @@ export var BskyComments = /*#__PURE__*/ function() {
                                 };
                                 replies = data.thread.replies || [];
                                 totalComments = countComments(replies);
-                                // Create and append the header OUTSIDE shadow DOM
+                                // header outside shadow
                                 header = document.createElement('div');
                                 header.className = 'comments-header';
-                                header.innerHTML = '\n                <h3 class="comments-title">\n                    '.concat(totalComments > 0 ? "".concat(totalComments, " ") : '', 'comments\n                    <a href="#bsky-comments" title="Copy link to this section">\uD83D\uDD17</a>\n                </h3>\n                <br>\n                via <a href="').concat(threadUrl, '" target="_blank" rel="noopener noreferrer">\n                    @').concat(mainPost.author.handle, "/post/").concat(postId, "\n                </a>\n            ");
+                                header.innerHTML = '\n                <h3 class="comments-title">\n                    '.concat(totalComments > 0 ? "".concat(totalComments, " ") : '', 'comments\n                    <a href="#').concat(_this.targetElement.id, '" title="Copy link to this section">\xa7</a>\n                </h3>\n            ');
                                 _this.targetElement.appendChild(header);
-                                // Create container for shadow DOM
                                 shadowContainer = document.createElement('div');
                                 _this.targetElement.appendChild(shadowContainer);
-                                // Create shadow root in the container
                                 _this.shadowRoot = shadowContainer.attachShadow({
                                     mode: 'open'
                                 });
@@ -854,7 +821,6 @@ export var BskyComments = /*#__PURE__*/ function() {
                                     var dateB = new Date(((_b_post_record = b.post.record) === null || _b_post_record === void 0 ? void 0 : _b_post_record.createdAt) || b.post.indexedAt || 0);
                                     return dateA - dateB;
                                 });
-                                // Render the comments
                                 commentsHtml = _this.renderToString(/*#__PURE__*/ h("div", {
                                     class: "comments-container"
                                 }, /*#__PURE__*/ h("div", {
@@ -864,7 +830,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                                 }, /*#__PURE__*/ h("a", {
                                     href: "https://bsky.app/profile/".concat(mainPost.author.did),
                                     target: "_blank",
-                                    rel: "noopener noreferrer",
+                                    rel: "noopener noreferrer nofollow",
                                     class: "author-link"
                                 }, /*#__PURE__*/ h("img", {
                                     src: _this.thumbnailify(mainPost.author.avatar) || '',
@@ -888,7 +854,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                                         }, /*#__PURE__*/ h("a", {
                                             href: "https://bsky.app/profile/".concat(record.author.did, "/post/").concat(record.uri.split('/').pop()),
                                             target: "_blank",
-                                            rel: "noopener noreferrer"
+                                            rel: "noopener noreferrer nofollow"
                                         }, /*#__PURE__*/ h("div", {
                                             class: "embed-title"
                                         }, record.author.displayName || record.author.handle, /*#__PURE__*/ h("span", {
@@ -903,7 +869,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                                         }, /*#__PURE__*/ h("a", {
                                             href: "https://bsky.app/profile/".concat((_embed_record_author = embed.record.author) === null || _embed_record_author === void 0 ? void 0 : _embed_record_author.did, "/post/").concat(embed.record.uri.split('/').pop()),
                                             target: "_blank",
-                                            rel: "noopener noreferrer"
+                                            rel: "noopener noreferrer nofollow"
                                         }, /*#__PURE__*/ h("div", {
                                             class: "embed-title"
                                         }, ((_embed_record_author1 = embed.record.author) === null || _embed_record_author1 === void 0 ? void 0 : _embed_record_author1.displayName) || ((_embed_record_author2 = embed.record.author) === null || _embed_record_author2 === void 0 ? void 0 : _embed_record_author2.handle) || 'Unknown', /*#__PURE__*/ h("span", {
@@ -918,7 +884,7 @@ export var BskyComments = /*#__PURE__*/ function() {
                                 }, /*#__PURE__*/ h("a", {
                                     href: threadUrl,
                                     target: "_blank",
-                                    rel: "noopener noreferrer",
+                                    rel: "noopener noreferrer nofollow",
                                     class: "reply-button"
                                 }, "↩ Reply on Bluesky"))), /*#__PURE__*/ h("div", {
                                     class: "comment-thread"
@@ -967,7 +933,7 @@ export var BskyComments = /*#__PURE__*/ function() {
             }
         }
     ]);
-    return BskyComments;
+    return Comments;
 }();
 // JSX pragma
 function h(type, props) {
@@ -981,5 +947,4 @@ function h(type, props) {
         })
     };
 }
-// Export for use as a module
-export default BskyComments;
+export default Comments;

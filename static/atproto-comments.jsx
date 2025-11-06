@@ -1,25 +1,11 @@
-// bsky-comments.jsx - Bluesky Comments Module with JSX
-// 
-// Build with: swc compile bsky-comments.jsx -o bsky-comments.js
-//
-// Usage:
-//   import BskyComments from './bsky-comments.js';
-//   
-//   const comments = new BskyComments(
-//       'https://bsky.app/profile/did:plc:xyz/post/123',
-//       document.getElementById('comments'),
-//       { cssPath: '/path/to/comments.css' } // optional, defaults to '/comments.css'
-//   );
-//   
-//   comments.render();
-
-export class BskyComments {
-    constructor(targetUrl, targetElement, options = {}) {
+// status: "reviewed claudeslop" by someone who is rusty at frontend and js
+export class Comments {
+    constructor(targetElement, cssPath, apiHost, targetUrl) {
         this.targetUrl = targetUrl;
+        this.apiHost = apiHost.replace(/\/$/, "");
         this.targetElement = targetElement;
         this.shadowRoot = null;
-        this.cssPath = options.cssPath || '/comments.css';
-        this.theme = options.theme || 'dark'; // 'light' or 'dark'
+        this.cssPath = cssPath;
     }
 
     thumbnailify(avatarUrl) {
@@ -29,22 +15,19 @@ export class BskyComments {
         return avatarUrl;
     }
 
-    // Convert Bluesky URL to API URL
     convertToApiUrl(bskyUrl) {
-        // Extract the AT URI from the Bluesky URL
-        const match = bskyUrl.match(/profile\/(did:[^\/]+)\/post\/([^\/\?]+)/);
+        const match = bskyUrl.match(/(did:[^\/]+)\/(?:post|app\.bsky\.feed\.post)\/([^\/\?]+)/);
         if (!match) {
-            throw new Error('Invalid Bluesky URL format');
+            throw new Error(`Invalid URL format in ${bskyUrl}`);
         }
 
         const [, did, postId] = match;
         const atUri = `at://${did}/app.bsky.feed.post/${postId}`;
         const encodedUri = encodeURIComponent(atUri);
 
-        return `https://public.api.bsky.app/xrpc/app.bsky.feed.getPostThread?uri=${encodedUri}`;
+        return `${this.apiHost}/xrpc/app.bsky.feed.getPostThread?uri=${encodedUri}`;
     }
 
-    // Format timestamp
     formatTimestamp(dateString) {
         const date = new Date(dateString);
         const options = {
@@ -93,7 +76,7 @@ export class BskyComments {
                     result.push(
                         <a href={`https://bsky.app/profile/${feature.did}`}
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="noopener noreferrer nofollow"
                             class="mention">
                             {facetText}
                         </a>
@@ -104,7 +87,7 @@ export class BskyComments {
                     result.push(
                         <a href={feature.uri}
                             target="_blank"
-                            rel="noopener noreferrer">
+                            rel="noopener noreferrer nofollow">
                             {facetText}
                         </a>
                     );
@@ -178,7 +161,7 @@ export class BskyComments {
         return (
             <div class={`comment ${startCollapsed ? 'collapsed' : ''}`} data-depth={depth}>
                 <div class="comment-header">
-                    <a href={profileUrl} target="_blank" rel="noopener noreferrer" class="author-link">
+                    <a href={profileUrl} target="_blank" rel="noopener noreferrer nofollow" class="author-link">
                         <img src={this.thumbnailify(author.avatar) || ''} alt={author.handle} class="avatar" />
                         <span class="author-name">{author.displayName || author.handle}</span>
                         <span class="author-handle">@{author.handle}</span>
@@ -188,14 +171,13 @@ export class BskyComments {
                     <div class="comment-text">{processedText}</div>
                     {embedToShow && (
                         (() => {
-                            // Handle recordWithMedia type
                             if (embedToShow.record?.record) {
                                 const record = embedToShow.record.record;
                                 return (
                                     <div class="embed-external">
                                         <a href={`https://bsky.app/profile/${record.author.did}/post/${record.uri.split('/').pop()}`}
                                             target="_blank"
-                                            rel="noopener noreferrer">
+                                            rel="noopener noreferrer nofollow">
                                             <div class="embed-title">
                                                 {record.author.displayName || record.author.handle}
                                                 <span style="color: #71717a; font-weight: normal; margin-left: 4px;">
@@ -209,13 +191,12 @@ export class BskyComments {
                                     </div>
                                 );
                             }
-                            // Handle simple record embed
                             else if (embedToShow.record) {
                                 return (
                                     <div class="embed-external">
                                         <a href={`https://bsky.app/profile/${embedToShow.record.author?.did}/post/${embedToShow.record.uri.split('/').pop()}`}
                                             target="_blank"
-                                            rel="noopener noreferrer">
+                                            rel="noopener noreferrer nofollow">
                                             <div class="embed-title">
                                                 {embedToShow.record.author?.displayName || embedToShow.record.author?.handle || 'Unknown'}
                                                 <span style="color: #71717a; font-weight: normal; margin-left: 4px;">
@@ -229,11 +210,10 @@ export class BskyComments {
                                     </div>
                                 );
                             }
-                            // Handle external links
                             else if (embedToShow.external) {
                                 return (
                                     <div class="embed-external">
-                                        <a href={embedToShow.external.uri} target="_blank" rel="noopener noreferrer">
+                                        <a href={embedToShow.external.uri} target="_blank" rel="noopener noreferrer nofollow">
                                             <div class="embed-title">{embedToShow.external.title}</div>
                                             {embedToShow.external.description && (
                                                 <div class="embed-description">{embedToShow.external.description}</div>
@@ -256,12 +236,12 @@ export class BskyComments {
                             {hasReplies && (
                                 <span class="separator">·</span>
                             )}
-                            <a href={postUrl} target="_blank" rel="noopener noreferrer" class="timestamp">
+                            <a href={postUrl} target="_blank" rel="noopener noreferrer nofollow" class="timestamp">
                                 {timestamp}
                             </a>
                         </div>
                         <div class="actions">
-                            <a href={postUrl} target="_blank" rel="noopener noreferrer" class="reply-btn">
+                            <a href={postUrl} target="_blank" rel="noopener noreferrer nofollow" class="reply-btn">
                                 ↩ Reply
                             </a>
                             <div class="stats">
@@ -286,22 +266,16 @@ export class BskyComments {
     // JSX to string helper
     renderToString(jsx) {
         if (jsx === null || jsx === undefined || jsx === false) return '';
-
         if (typeof jsx === 'string' || typeof jsx === 'number') {
             return this.escapeHtml(String(jsx));
         }
-
         if (Array.isArray(jsx)) {
             return jsx.map(child => this.renderToString(child)).join('');
         }
-
         if (typeof jsx === 'object' && jsx.type) {
             const { type, props } = jsx;
             const { children, ...attrs } = props || {};
-
             let html = `<${type}`;
-
-            // Add attributes
             for (const [key, value] of Object.entries(attrs)) {
                 if (value !== null && value !== undefined && value !== false) {
                     const attrName = key === 'class' ? 'class' : key;
@@ -310,29 +284,20 @@ export class BskyComments {
             }
 
             html += '>';
-
-            // Add children
             if (children) {
                 html += this.renderToString(children);
             }
-
-            // Close tag
             html += `</${type}>`;
 
             return html;
         }
-
         return '';
     }
-
-    // Escape HTML
     escapeHtml(str) {
         const div = document.createElement('div');
         div.textContent = str;
         return div.innerHTML;
     }
-
-    // Escape attribute values
     escapeAttr(str) {
         return str.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
     }
@@ -343,15 +308,11 @@ export class BskyComments {
         link.rel = 'stylesheet';
         link.href = this.cssPath;
         this.shadowRoot.appendChild(link);
-
-        // Return a promise that resolves when the CSS is loaded
         return new Promise((resolve, reject) => {
             link.onload = resolve;
             link.onerror = () => reject(new Error(`Failed to load ${this.cssPath}`));
         });
     }
-
-    // Setup event listeners
     setupEventListeners() {
         this.shadowRoot.addEventListener('click', (e) => {
             // Handle collapse button clicks
@@ -359,8 +320,6 @@ export class BskyComments {
                 const comment = e.target.closest('.comment');
                 const isCollapsed = comment.classList.contains('collapsed');
                 comment.classList.toggle('collapsed');
-
-                // Update button text
                 const replyCount = e.target.getAttribute('data-reply-count');
                 if (replyCount) {
                     const replyText = replyCount === '1' ? 'reply' : 'replies';
@@ -368,11 +327,8 @@ export class BskyComments {
                 }
                 e.stopPropagation();
             }
-
-            // Handle clicking on expand banner or collapsed replies
-            const collapsedReplies = e.target.closest('.comment.collapsed .replies-wrapper');
-
-            if (collapsedReplies) {
+            // partially faded reply wrapper collapse
+            if (e.target.closest('.comment.collapsed .replies-wrapper')) {
                 const comment = e.target.closest('.comment');
                 if (comment && comment.classList.contains('collapsed')) {
                     comment.classList.remove('collapsed');
@@ -392,11 +348,9 @@ export class BskyComments {
 
     // Fetch and render comments
     async render() {
-        // Clear the target element
         this.targetElement.innerHTML = '';
 
         try {
-            // Convert URL and fetch data FIRST
             const apiUrl = this.convertToApiUrl(this.targetUrl);
             const response = await fetch(apiUrl);
 
@@ -406,12 +360,10 @@ export class BskyComments {
 
             const data = await response.json();
 
-            // Extract data needed for header
             const mainPost = data.thread.post;
             const postId = mainPost.uri.split('/').pop();
             const threadUrl = `https://bsky.app/profile/${mainPost.author.did}/post/${postId}`;
 
-            // Count total comments recursively
             const countComments = (replies) => {
                 let count = 0;
                 for (const reply of replies) {
@@ -428,31 +380,22 @@ export class BskyComments {
             const replies = data.thread.replies || [];
             const totalComments = countComments(replies);
 
-            // Create and append the header OUTSIDE shadow DOM
+            // header outside shadow
             const header = document.createElement('div');
             header.className = 'comments-header';
             header.innerHTML = `
                 <h3 class="comments-title">
                     ${totalComments > 0 ? `${totalComments} ` : ''}comments
-                    <a href="#bsky-comments" title="Copy link to this section">🔗</a>
+                    <a href="#${this.targetElement.id}" title="Copy link to this section">§</a>
                 </h3>
-                <br>
-                via <a href="${threadUrl}" target="_blank" rel="noopener noreferrer">
-                    @${mainPost.author.handle}/post/${postId}
-                </a>
             `;
             this.targetElement.appendChild(header);
 
-            // Create container for shadow DOM
             const shadowContainer = document.createElement('div');
             this.targetElement.appendChild(shadowContainer);
-
-            // Create shadow root in the container
             this.shadowRoot = shadowContainer.attachShadow({ mode: 'open' });
-
             // Load CSS into shadow DOM
             await this.loadStyles();
-
             // Sort top-level replies by date (oldest first)
             replies.sort((a, b) => {
                 if (!a.post || !b.post) return 0;
@@ -460,15 +403,13 @@ export class BskyComments {
                 const dateB = new Date(b.post.record?.createdAt || b.post.indexedAt || 0);
                 return dateA - dateB;
             });
-
-            // Render the comments
             const commentsHtml = this.renderToString(
                 <div class="comments-container">
                     <div class="root-post comment">
                         <div class="root-post-header">
                             <a href={`https://bsky.app/profile/${mainPost.author.did}`}
                                 target="_blank"
-                                rel="noopener noreferrer"
+                                rel="noopener noreferrer nofollow"
                                 class="author-link">
                                 <img src={this.thumbnailify(mainPost.author.avatar) || ''}
                                     alt={mainPost.author.handle}
@@ -490,7 +431,7 @@ export class BskyComments {
                                         <div class="embed-external">
                                             <a href={`https://bsky.app/profile/${record.author.did}/post/${record.uri.split('/').pop()}`}
                                                 target="_blank"
-                                                rel="noopener noreferrer">
+                                                rel="noopener noreferrer nofollow">
                                                 <div class="embed-title">
                                                     {record.author.displayName || record.author.handle}
                                                     <span style="color: #71717a; font-weight: normal; margin-left: 4px;">
@@ -510,7 +451,7 @@ export class BskyComments {
                                         <div class="embed-external">
                                             <a href={`https://bsky.app/profile/${embed.record.author?.did}/post/${embed.record.uri.split('/').pop()}`}
                                                 target="_blank"
-                                                rel="noopener noreferrer">
+                                                rel="noopener noreferrer nofollow">
                                                 <div class="embed-title">
                                                     {embed.record.author?.displayName || embed.record.author?.handle || 'Unknown'}
                                                     <span style="color: #71717a; font-weight: normal; margin-left: 4px;">
@@ -530,7 +471,7 @@ export class BskyComments {
                         <div class="root-post-footer">
                             <a href={threadUrl}
                                 target="_blank"
-                                rel="noopener noreferrer"
+                                rel="noopener noreferrer nofollow"
                                 class="reply-button">
                                 ↩ Reply on Bluesky
                             </a>
@@ -590,5 +531,4 @@ function h(type, props, ...children) {
     };
 }
 
-// Export for use as a module
-export default BskyComments;
+export default Comments;
