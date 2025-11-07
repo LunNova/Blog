@@ -47,9 +47,7 @@
     title = {{"{"}}{{page.title}}{{"}"}},
     year = {{"{"}}{{page.date | date(format="%Y")}}{{"}"}},
     url = {{"{"}}{{page.permalink}}{{"}"}},
-    howpublished = {{"{"}}{{page.permalink}}{{"}"}},
-    urldate = {{"{"}}{{ page.date | date(format="%Y-%m-%d")}}{{"}"}}{% if page.description %},
-    note = {{"{"}}{{config.site.title}} - {{page.description}}{{"}"}}{% endif %}
+    urldate = {{"{"}}{{ page.date | date(format="%Y-%m-%d")}}{{"}"}}
 }</code></pre>
         </details>
     </div>

@@ -188,6 +188,9 @@
 {{ generate_ldjson(type="website", current_page=current_page) | safe }}
 </script>
 <script type="application/ld+json">
+{{ generate_ldjson(type="breadcrumb", current_page=current_page) | safe }}
+</script>
+<script type="application/ld+json">
 {{ generate_ldjson(type="site_navigation", current_page=current_page) | safe }}
 </script>
 

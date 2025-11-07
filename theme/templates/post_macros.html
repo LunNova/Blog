@@ -34,20 +34,13 @@
 {% endmacro %}
 
 {% macro page_in_list(page) %}
-    <article itemscope itemtype="http://schema.org/BlogPosting" itemid="{{ page.permalink | safe }}">
+    <article>
         <header>
-            <link itemprop="url" href="{{ page.permalink | safe }}"/>
-            <span class="page-name-link" itemprop="name">
+            <span class="page-name-link">
                 <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
             </span>
             {{ self::meta(page=page) }}
         </header>
-        {% if page.summary %}
-            <div itemprop="summary">
-                {{ page.summary | safe }}
-                <nav class="readmore"><a itemprop="url" href="{{ page.permalink | safe }}">Read More&nbsp;&raquo;</a></nav>
-            </div>
-        {% endif %}
     </article>
 {% endmacro page_in_list %}
 
