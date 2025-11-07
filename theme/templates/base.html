@@ -40,8 +40,10 @@
         {% if config.extra.head_comment %}
         <!-- {{ config.extra.head_comment | safe }} -->
         {% endif %}
-        {% if config.extra.github %}
+        {% if config.extra.github_ %}
         <link rel="author" href="https://github.com/{{ config.extra.github }}">
+        <link rel="me" href="https://github.com/{{ config.extra.github }}">
+        <link rel="me" href="at://did:plc:j3hvz7sryv6ese4nuug2djn7/">
         {% endif %}
 
         {% if page.higher %}
@@ -50,12 +52,7 @@
         {% if page.lower %}
             <link rel="next" href="{{ page.lower.permalink | escape_html_attribute }}">
         {% endif %}
-
-        {% if current_path and current_path is starting_with("/tags/") %}
-        <!-- Noindex tag pages because they're "thin" and don't have any additional content other than a list of posts -->
-        <!-- FIXME: tags with many pages might actually be useful to index-->
-        <meta name="robots" content="noindex">
-        {% endif %}
+        {#<meta name="generated" content="https://github.com/LunNova/x/tree/main/site">#}
         {% block fbmeta %}
         {% if page and page.date %}
         <meta property="og:type" content="article">
@@ -78,14 +75,17 @@
         <meta property="og:site_name" content="{{ config.site.title }}">
         <meta property="og:title" content="{{ title }}">
         <meta property="og:description" content="{{ description }}">
-        {% if page_icon %}
-        <meta property="og:image" content="{{ page_icon }}">
-        {# TODO: Add og:image:alt when page.extra.icon_alt or similar is available #}
+        {% if page and page.embed_image %}
+        <meta property="og:image" content="{{ page.embed_image | escape_html_attribute }}">
         {% endif %}
         <meta property="og:locale" content="en_US">
         {% endblock fbmeta %}
         {%- block twittermeta -%}
+        {% if page and page.embed_image %}
+        <meta name="twitter:card" content="summary_large_image" />
+        {% else %}
         <meta name="twitter:card" content="summary" />
+        {% endif %}
         <meta name="twitter:title" content="{{ title }}" />
         <meta name="twitter:description" content="{{ description }}" />
         {% if page_icon %}
@@ -117,12 +117,16 @@
                     <ul>
                         {% for item in nav_items %}
                         <li>
+                            {% if item.url == current_page %}
+                            <span>{{ item.title }}</span>
+                            {% else %}
                             <a href="{{ item.url | escape_html_attribute}}"><span>{{ item.title }}</span></a>
+                            {% endif %}
                         </li>
                         {% endfor %}
                         {% if config.extra.github %}
                         <li>
-                            <a href="https://github.com/{{ config.extra.github }}" aria-label="GitHub"><img class="icon" height=24 width=24
+                            <a rel=me href="https://github.com/{{ config.extra.github }}" aria-label="GitHub"><img class="icon" height=24 width=24
                                     src="/icons/github.svg" alt="Github"></a>
                         </li>
                         {% endif %}
@@ -137,48 +141,51 @@
             {{ content | safe }}
         {% endblock main %}
         </main>
-        <footer role="contentinfo">
+        <footer>
             {% block footer %}
             <hr>
             <div class="footer">
                 <small class="footer-left">
-                    {% for badge in badges %}
-                    {% if badge.filename is starting_with("_") %}
-                    <a id="badge_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}" alt="{{ badge.filename }}"></a>
+                    {% if current_page == "/" %}
+                        {% for badge in badges.left | default(value=[]) | slice(end=2) %}
+                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                        {% endfor %}
+                    {% else %}
+                        {% for badge in badges.left | default(value=[]) | slice(end=1) %}
+                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                        {% endfor %}
+                        {% for badge in badges.left_ext | default(value=[]) | slice(end=1) %}
+                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                        {% endfor %}
                     {% endif %}
-                    {% endfor %}
                 </small>
                 <small class="footer-center">
                     {% if not page.children %}
                     <span>
                         {% for alt in alternates %}
                         {% if alt.type is ending_with("markdown") %}
-                        <a rel="alternate" type="{{alt.type | escape_html_attribute }}" title="{{ alt.title | escape_html_attribute }}"
+                        <a rel="alternate nofollow" type="{{alt.type | escape_html_attribute }}" title="{{ alt.title | escape_html_attribute }}"
                             href="{{alt.url | escape_html_attribute }}">
                             View as {{ alt.type | trim_start_matches(pat="text/") }}
                         </a><br>
                         {% endif %}
                         {% endfor %}
-                        {%- if page and page.title and page.relative_path -%}
-                        Source <a href="https://github.com/LunNova/Blog/tree/main/content/{{ page.relative_path }}">{{ page.relative_path | trim_end_matches(pat="/index.md") }}</a>
-                        {%- endif -%}
+                        {# {%- if page and page.title and page.relative_path -%}
+                        Rendered from <a href="https://github.com/LunNova/Blog/tree/main/content/{{ page.relative_path }}">{{ page.relative_path | trim_end_matches(pat="/index.md") }}</a>
+                        {%- endif -%} #}
                     </span>
-                    <!-- {%- if page and page.title and page.relative_path -%}
-                                    Rendered from 
-                                    {%- else -%}
-                                    Powered by <a href="https://www.getzola.org" title="zola static site generator's website">Zola</a> | Theme <a href="https://github.com/LunNova/lunar-zen">lunar-zen</a>
-                                    {%- endif -%} -->
                     {% endif %}
                 </small>
                 <small class="footer-right">
-                    {% for badge in badges %}
-                    {% if badge.filename is not starting_with("_") %}
-                    {% if badge.filename is starting_with("lunnova.dev") %}
-                    &copy;
-                    {% endif %}
-                    <a id="badge_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}" alt="{{ badge.filename }}"></a>
-                    {% endif %}
+                    {% for badge in badges.right | default(value=[]) %}
+                    <a id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
                     {% endfor %}
+                    {% if badges.self %}
+                    &copy;
+                    {% for badge in badges.self %}
+                    <a id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                    {% endfor %}
+                    {% endif %}
                     {% if config.extra.license %} {{ config.extra.license | safe }} {% endif %}
                 </small>
             </div>
