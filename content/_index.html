@@ -1,0 +1,17 @@
+---
+title: "~LunNova"
+template: "home.html"
+sort_by: "title"
+---
+{% import "post_macros.html" as post_macros %}
+
+<p>Check out the <a href="/articles/">articles</a>, or have a look at <a href="https://github.com/LunNova">LunNova on Github</a> for projects and open source contributions.</p>
+
+<p>If you're interested in hiring me for a US Remote position, contact me at <a href="mailto:jobs@lunnova.dev">jobs@lunnova.dev</a>.</p>
+
+<h3>Recent <a href=/articles>articles</a></h3>
+<div class="page-list">
+{% for p in all_pages | get(key="articles/") | get(key="children") | slice(end=5) %}
+    {{ post_macros::page_in_list(page=p) }}
+{% endfor %}
+</div>
