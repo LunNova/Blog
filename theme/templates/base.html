@@ -22,7 +22,8 @@
         <meta name="description" content="{{ page.description | default(value=config.site.description) }}">
         <meta name="author" content="{{ page.author | default(value=config.extra.meta_author) | default() }}">
         {% block favicon -%}
-        <link rel="icon" href="/favicon.ico">
+        <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
+        <link rel="icon" href="/favicon.ico" sizes="any"><!-- Fallback for legacy browsers -->
         {%- endblock favicon -%}
         <link rel="canonical" href="{{ page.permalink | safe }}">
         {% block css %}
