@@ -121,12 +121,18 @@ footer {
     gap: 0.33rem;
 }
 
+.footer-left {
+    display: initial;
+    height: 33px;
+    overflow: hidden;
+}
+
 .footer img {
     filter: grayscale(85%);
     transition: filter 0.3s ease;
 }
 
-.footer #badge_lunnova img {
+.footer #b_lunnova img {
     filter:initial;
 }
 
@@ -216,12 +222,12 @@ td:not(:last-child) {
 
 ul {
     list-style: none inside none;
-    list-style-type: "·";
+    list-style-type: "— ";
     padding: 0;
 }
 
 li::marker {
-    color: $green;
+    color: $luna_eye_accent;
 }
 
 ul ul {
@@ -229,8 +235,19 @@ ul ul {
 }
 
 a {
+    color: $blue;
+}
+
+main a {
     font-size: none;
     color: $blue;
+    text-decoration: none;
+    border-bottom: $blue 1px solid;
+}
+
+main a:hover {
+    background-color: $blue;
+    color: white !important;
 }
 
 main a:visited, footer a:visited {
@@ -269,7 +286,17 @@ p {
 }
 
 h1.topline {
-    margin: 0 0 0 0;
+    margin: 0 0 0 -3rem;
+}
+
+article {
+    h1, h2, h3, h4 {
+        margin-left: -3rem;
+    }
+}
+
+h1 a, h2 a, h3 a {
+    border-bottom: none;
 }
 
 h1, h2, h3 {
@@ -357,8 +384,16 @@ p > code, li > code {
     height: 24px;
 }
 
+h2 a[href^="#"], h3 a[href^="#"], h4 a[href^="#"] {
+    text-decoration: none;
+    font-size: 75%;
+    margin-left:0.5em;
+}
+
 #moon-display {
     height: initial;
+    letter-spacing: initial;
+    font-size: 1.25em;
     // Yellow moon is silly, grayscale of emoji looks better than forcing
     // monochrome unicode display because that looks inverted
     filter: grayscale(1);
@@ -418,6 +453,15 @@ hr + p, hr + blockquote {
 
 pre[data-lang] {
     background-color: #151550 !important;
+    width: fit-content;
+}
+
+/* badges should be pixelated even on hidpi devices */
+.footer img {
+  image-rendering: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: -webkit-optimize-contrast;
 }
 
 .footnote-definition+.footnote-definition {
@@ -461,21 +505,66 @@ sup+sup {
     margin-left: 0.25em;
 }
 
-blockquote:has(+ p .footnote-reference),
-blockquote:has(+ p .footnote-reference) p:last-child {
+.ext-bq blockquote:has(+ p .footnote-reference),
+.ext-bq blockquote:has(+ p .footnote-reference) p:last-child {
     margin-bottom: 0;
 }
-blockquote:has(+ p .footnote-reference) {
+.ext-bq blockquote:has(+ p .footnote-reference) {
     font-family: $font-mono;
     // font-style: oblique;
     background: $luna_body_stroke;
     padding-top: 0.2em;
     padding-bottom: 0.2em;
+    margin-left: 4rem;
+    margin-right: 4rem;
 }
-// Signal that this footnote is the source of the preceding block quote
-blockquote + p .footnote-reference::before {
-    margin-left: 2em;
+.ext-bq {
+    display: flow-root;
+    position: relative;
+    width: fit-content;
+    margin-bottom: 1em;
+}
+.ext-bq blockquote + p:has(.footnote-reference) {
+    height: 0;
+}
+.ext-bq blockquote {
+    width: fit-content;
+    margin-top: 0;
+    /* background: unset !important; */
+}
+
+/*
+.ext-bq blockquote::before, .ext-bq blockquote::after {
+    display: inline-block;
+    position: absolute;
+    font-size: 3em;
+    top: calc(50% - 1em);
+    height: 0;
+    // height: 0;
+}
+.ext-bq blockquote::before {
+    content: "«"; //"\276E\276E";
+    left: 0.5em;
+    // content: "\275D";
+    // left: 1em;
+    top: -0.45em;
+}
+.ext-bq blockquote::after {
+    content: "»"; //"\276F\276F";
+    right: 0.5em;
+    // content: "\275E";
+    // right: 0.95em;
+    top: unset;
+    bottom: 1.25em;
+}
+*/
+
+/* Signal that this footnote is the source of the preceding block quote*/
+.ext-bq blockquote + p .footnote-reference::before {
+    margin-left: 5rem;
     content: "—\00a0\00a0";
+    // content: "🗨\00a0\00a0";
+    // font-size: 2em;
     display:inline-block;
 }
 
@@ -524,7 +613,7 @@ blockquote + p .footnote-reference::before {
     // Handle links in previews
     a {
         color: #8cc8ff;
-        text-decoration: underline;
+        // text-decoration: underline;
     }
     
     a:hover {
