@@ -84,7 +84,7 @@
 
 	/* Layout & Spacing */
 	--padding: 8px;
-	--article-heading-outdent: -3rem;
+	--article-heading-outdent: -0.5rem;
 
 	/* UI Colors */
 	--content-bg: #0c0c0c;
@@ -247,22 +247,6 @@ footer {
 		gap: 0.33rem;
 	}
 
-	&-left {
-		display: initial;
-		height: 33px;
-		overflow: hidden;
-	}
-
-	&-center {
-		text-align: center;
-		justify-self: center;
-	}
-
-	&-right {
-		text-align: right;
-		justify-self: end;
-	}
-
 	img {
 		filter: grayscale(85%);
 		transition: filter var(--transition-duration) ease;
@@ -292,11 +276,31 @@ footer {
 			justify-content: center;
 			justify-self: center;
 		}
+	}
+}
 
-		&-right {
-			text-align: center;
-			justify-self: center;
-		}
+.footer-left {
+	display: initial;
+	height: 33px;
+	overflow: hidden;
+}
+
+.footer-center {
+	text-align: center;
+	justify-self: center;
+}
+
+.footer-right {
+	text-align: right;
+	justify-self: end;
+	justify-content: end;
+}
+
+@media (max-width: 768px) {
+	.footer-right {
+		text-align: center;
+		justify-self: center;
+		justify-content: center;
 	}
 }
 
@@ -565,21 +569,21 @@ blockquote {
 	p {
 		display: inline;
 	}
+}
 
-	&-label {
-		margin-left: 2em;
-		vertical-align: text-top;
+.footnote-definition-label {
+	margin-left: 2em;
+	vertical-align: text-top;
 
-		a[href]::before {
-			content: "#";
-			color: var(--luna_hoof_slippers);
-			text-decoration: none;
-		}
+	a[href]::before {
+		content: "#";
+		color: var(--luna_hoof_slippers);
+		text-decoration: none;
+	}
 
-		a[href] {
-			text-decoration: none;
-			color: var(--luna_hair_outer);
-		}
+	a[href] {
+		text-decoration: none;
+		color: var(--luna_hair_outer);
 	}
 }
 
