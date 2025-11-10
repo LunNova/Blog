@@ -23,13 +23,12 @@
         <meta name="author" content="{{ page.author | default(value=config.extra.meta_author) | default() }}">
         {% block favicon -%}
         <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
-        <link rel="icon" href="/favicon.ico" sizes="any"><!-- Fallback for legacy browsers -->
         {%- endblock favicon -%}
         <link rel="canonical" href="{{ page.permalink | safe }}">
         {% block css %}
-        <link rel="stylesheet" href="/theme.css">
+        <link rel="stylesheet" href="/theme.css?20251109a">
         {% endblock css %}
-        
+
         <script src="/footnote-previews.js" defer></script>
 
         {% block rel_alternates -%}
@@ -93,6 +92,7 @@
         {% endif %}
         {%- endblock twittermeta -%}
 
+				<meta name="darkreader-lock">
         {%- block extra_head -%}{%- endblock extra_head -%}
     </head>
     <body>
