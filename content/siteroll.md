@@ -20,3 +20,9 @@ Fun page: [Doublestroop](https://yuxi.ml/projects/doublestroop/index.html)
 Inadvisable fun page: pure css incremental game [css clicker](https://lyra.horse/css-clicker/)
 
 **[blog.nexy7574.co.uk](https://blog.nexy7574.co.uk/)**
+
+**[blog.sebastianwick.net/](https://blog.sebastianwick.net/)**  
+Cool post: [SO_PEERPIDFD Gets More Useful](https://blog.sebastianwick.net/posts/so-peerpidfd-gets-more-useful/)
+
+**[vgel.me](https://vgel.me/)**  
+[repeng](https://github.com/vgel/repeng/) is neat, [seahorse.post](https://vgel.me/posts/seahorse/) is neat!
