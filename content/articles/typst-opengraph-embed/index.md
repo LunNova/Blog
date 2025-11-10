@@ -19,7 +19,7 @@ This article's generated OpenGraph image
 
 OpenGraph[^og_spec] meta tags allow customizing how a site's link previews display when embedded elsewhere. Originally popularized by facebook, OpenGraph data is now used by most social media, chat apps, and read-it-later services like Instapaper.
 
-I was inspired by Tobias Bieniek's implementation for crates.io[^crates_inspiration] to use a typst template for this.  
+I was inspired by crates.io[^crates_inspiration]'s new OpenGraph embed images to use a typst[^typst] template for this.  
 We don't need a production grade crate like crates.io; a quick shell script will suffice.
 
 A bash script extracts TOML frontmatter[^toml_parse] from articles and then passes it to a typst template, and outputs a 1200×630[^og_size] image.
