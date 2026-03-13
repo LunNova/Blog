@@ -44,6 +44,17 @@
     </article>
 {% endmacro page_in_list %}
 
+{% macro stub_in_list(stub) %}
+    <article class="stub-item">
+        <header>
+            <span class="page-name-link stub-title">{{ stub.title }}</span>
+            {% if stub.description %}
+                <span class="muted">&mdash; {{ stub.description }}</span>
+            {% endif %}
+        </header>
+    </article>
+{% endmacro stub_in_list %}
+
 {% macro toc(toc) %}
     {% if toc %}
     <ul>
