@@ -3,21 +3,36 @@
 # https://lunnova.dev/articles/typst-opengraph-embed/
 set -euo pipefail
 
-[ $# -ne 1 ] && { echo "Usage: $0 <article.md>" >&2; exit 1; }
+[ $# -ne 1 ] && {
+	echo "Usage: $0 <article.md>" >&2
+	exit 1
+}
 ARTICLE_PATH="$1"
-[ ! -f "$ARTICLE_PATH" ] && { echo "Error: File not found: $ARTICLE_PATH" >&2; exit 1; }
+[ ! -f "$ARTICLE_PATH" ] && {
+	echo "Error: File not found: $ARTICLE_PATH" >&2
+	exit 1
+}
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 TEMPLATE_DIR="$SCRIPT_DIR/og-template"
 
 FRONTMATTER=$(awk '/^\+\+\+$/{flag=!flag;next}flag' "$ARTICLE_PATH")
-[ -z "$FRONTMATTER" ] && { echo "Error: No frontmatter in $ARTICLE_PATH" >&2; exit 1; }
+[ -z "$FRONTMATTER" ] && {
+	echo "Error: No frontmatter in $ARTICLE_PATH" >&2
+	exit 1
+}
 
 FRONTMATTER_JSON=$(echo "$FRONTMATTER" | python3 "$TEMPLATE_DIR/parse-toml.py" /dev/stdin)
-[ -z "$FRONTMATTER_JSON" ] && { echo "Error: Failed to parse frontmatter" >&2; exit 1; }
+[ -z "$FRONTMATTER_JSON" ] && {
+	echo "Error: Failed to parse frontmatter" >&2
+	exit 1
+}
 
 TITLE=$(echo "$FRONTMATTER_JSON" | jq -r '.title // empty')
-[ -z "$TITLE" ] && { echo "Error: No title in frontmatter" >&2; exit 1; }
+[ -z "$TITLE" ] && {
+	echo "Error: No title in frontmatter" >&2
+	exit 1
+}
 
 DESCRIPTION=$(echo "$FRONTMATTER_JSON" | jq -r '.description // empty')
 DATE=$(echo "$FRONTMATTER_JSON" | jq -r '.date // empty')
@@ -28,20 +43,32 @@ HASH=$(echo -n "$RELATIVE_PATH" | sha256sum | cut -d' ' -f1)
 CROP_X=$((16#${HASH:0:8} % 316))
 CROP_Y=$((16#${HASH:8:8} % 1525))
 
-[[ "$ARTICLE_PATH" == *.md ]] || { echo "Error: Must be .md file" >&2; exit 1; }
-OUTPUT_PATH="$(dirname "$ARTICLE_PATH")"/og-image.png
+[[ "$ARTICLE_PATH" == *.md ]] || {
+	echo "Error: Must be .md file" >&2
+	exit 1
+}
+
+# Determine slug from article path
+if [[ "$(basename "$ARTICLE_PATH")" == "index.md" ]]; then
+	SLUG=$(basename "$(dirname "$ARTICLE_PATH")")
+else
+	SLUG=$(basename "$ARTICLE_PATH" .md)
+fi
+
+OUTPUT_DIR="$SCRIPT_DIR/static/og-images/articles"
+mkdir -p "$OUTPUT_DIR"
+OUTPUT_PATH="$OUTPUT_DIR/$SLUG.png"
 
 DATA_JSON=$(jq -n \
-    --arg title "$TITLE" \
-    --arg description "$DESCRIPTION" \
-    --arg date "$DATE" \
-    --argjson tags "$TAGS" \
-    --argjson crop_x "$CROP_X" \
-    --argjson crop_y "$CROP_Y" \
-    '{title: $title, description: $description, date: $date, tags: $tags, crop_x: $crop_x, crop_y: $crop_y}')
+	--arg title "$TITLE" \
+	--arg description "$DESCRIPTION" \
+	--arg date "$DATE" \
+	--argjson tags "$TAGS" \
+	--argjson crop_x "$CROP_X" \
+	--argjson crop_y "$CROP_Y" \
+	'{title: $title, description: $description, date: $date, tags: $tags, crop_x: $crop_x, crop_y: $crop_y}')
 
 echo "Generating: '$TITLE' → $OUTPUT_PATH"
-set -x
 
 pushd "$TEMPLATE_DIR" >/dev/null
 TEMP_2X=$(mktemp --suffix=.png)
