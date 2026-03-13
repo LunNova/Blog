@@ -14,7 +14,7 @@ That's a bit odd, but I guess I can log back in.
 
 I logged back in, used my security key, and was then forced to reset my password and greeted with this message:
 
-!["Just to be safe, we've done the following: Reverted Gmail settings changed recently"](./lockout-1.png)
+![Google account security dialog reading: "Just to be safe, we've done the following: Reverted Gmail settings changed recently. Take a moment now and check Gmail for suspicious emails." with Continue and Secure my account buttons.](./lockout-1.png)
 
 I visited my gmail settings and discovered a forwarding rule I'd had setup for a few years had been removed.  
 I don't think that's what recently means, google.
