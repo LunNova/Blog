@@ -2,9 +2,6 @@
 title = "Dynamic starfield-ish background with CSS and SVG"
 date = 2025-11-08
 description = "Snippets for a simple starfield backdrop that changes on each page"
-
-embed_image = "/articles/starfieldish-background/og-image.png"
-
 tags = ["lunnova.dev-meta", "webdev"]
 +++
 
@@ -84,6 +81,20 @@ body {
 ### Implementation layer 3: body::after element
 
 You get the idea! Another layer with a distinct size, and this time `background-position: calc(13vw + 47px) calc(19vh + 83px);` to make its position unique with the other tiles as the viewport changes.
+
+---
+
+<div id="comment-section"></div>
+<script type="module" defer>
+import Comments from '/atproto-comments.js';
+new Comments(
+    document.getElementById('comment-section'), // where to inject the comments
+    "/comments.css", // comments specific CSS
+    'https://public.api.bsky.app/', // AppView base URL for API call
+    'at://did:plc:j3hvz7sryv6ese4nuug2djn7/app.bsky.feed.post/3m6cznwbmos2w' // URI of the root of the thread to load
+).render();
+</script>
+
 
 <style>
 .comparison-slider {
