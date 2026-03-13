@@ -4,9 +4,21 @@
     {% if page.children %}
         <h1 class="topline">{{ page.title }}</h1>
         <hr class="small">
+        {% set groups = page.children | group_by(key="date", transform="quarter", also=page.stubs | default(value=[]), also_as="stubs") %}
         <div class="page-list">
-        {% for p in page.children %}
+        {% for g in groups %}
+            <h2 class="quarter-heading" id="{{ g.group | slugify }}">{{ g.group }}</h2>
+            {% for p in g.items %}
                 {{ post_macros::page_in_list(page=p) }}
+            {% endfor %}
+            {% if g.stubs %}
+                <div class="coming-soon">
+                    <span class="coming-soon-label">Coming soon</span>
+                    {% for s in g.stubs %}
+                        {{ post_macros::stub_in_list(stub=s) }}
+                    {% endfor %}
+                </div>
+            {% endif %}
         {% endfor %}
         </div>
         <div itemprop="articleBody">
