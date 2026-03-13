@@ -13,7 +13,7 @@
 {%- set page_icon = page.extra.icon -%}
 {%- endif -%}
 <!DOCTYPE html>
-<html lang="en" style="background:black;min-height:100vh;min-width:100vw;color:#c0c5ce;">
+<html lang="en" style="background:black;min-height:100vh;min-width:95vw;color:#c0c5ce;">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -26,10 +26,9 @@
         {%- endblock favicon -%}
         <link rel="canonical" href="{{ page.permalink | safe }}">
         {% block css %}
-        <link rel="stylesheet" href="/theme.css?20251109a">
+        <link rel="stylesheet" href="/theme.css?20260223a">
         {% endblock css %}
-
-        <script src="/footnote-previews.js" defer></script>
+        <script src="/site.js?20251116a" defer></script>
 
         {% block rel_alternates -%}
         {% for alt in alternates %}
@@ -93,9 +92,11 @@
         {%- endblock twittermeta -%}
 
 				<meta name="darkreader-lock">
+        {% if page and page.robots %}<meta name="robots" content="{{ page.robots | escape_html_attribute }}">{% endif %}
         {%- block extra_head -%}{%- endblock extra_head -%}
     </head>
     <body>
+			<div id="progress-bar"></div>
         <div class="content">
         {% block body%}
         {% block header %}
@@ -148,14 +149,14 @@
                 <small class="footer-left">
                     {% if current_page == "/" %}
                         {% for badge in badges.left | default(value=[]) | slice(end=2) %}
-                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img width=88 height=31 src="/badges/{{ badge.filename }}"></a>
                         {% endfor %}
                     {% else %}
                         {% for badge in badges.left | default(value=[]) | slice(end=1) %}
-                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img width=88 height=31 src="/badges/{{ badge.filename }}"></a>
                         {% endfor %}
                         {% for badge in badges.left_ext | default(value=[]) | slice(end=1) %}
-                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                        <a rel="nofollow" id="b_{{badge.id}}" href="{{ badge.url }}"><img width=88 height=31 src="/badges/{{ badge.filename }}"></a>
                         {% endfor %}
                     {% endif %}
                 </small>
@@ -178,12 +179,12 @@
                 </small>
                 <small class="footer-right">
                     {% for badge in badges.right | default(value=[]) %}
-                    <a id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                    <a id="b_{{badge.id}}" href="{{ badge.url }}"><img width=88 height=31 src="/badges/{{ badge.filename }}"></a>
                     {% endfor %}
                     {% if badges.self %}
                     &copy;
                     {% for badge in badges.self %}
-                    <a id="b_{{badge.id}}" href="{{ badge.url }}"><img src="/badges/{{ badge.filename }}"></a>
+                    <a id="b_{{badge.id}}" href="{{ badge.url }}"><img width=88 height=31 src="/badges/{{ badge.filename }}"></a>
                     {% endfor %}
                     {% endif %}
                     {% if config.extra.license %} {{ config.extra.license | safe }} {% endif %}
