@@ -1,12 +1,11 @@
----
-title: "pattern-wishcast: enum pattern types in 2025 rust"
-description: Discussing the pattern types proposal, imitating some of it with uninhabited variants.
-date: 2025-07-06
++++
+title = "pattern-wishcast: enum pattern types in 2025 rust"
+description = "Discussing the pattern types proposal, imitating some of it with uninhabited variants."
+date = 2025-07-06
 
-taxonomies:
-  tags:
-    - rust
----
+[taxonomies]
+tags = ["rust"]
++++
 
 tl;dr: [pattern-wishcast](https://crates.io/crates/pattern-wishcast) for an approximation of enum pattern types, [cargo-derive-doc](https://crates.io/crates/cargo-derive-doc) for a cargo subcommand that documents what macros expand to
 
