@@ -17,9 +17,34 @@ This article's generated OpenGraph image
 </figcaption>
 </figure>
 
-OpenGraph[^og_spec] meta tags allow customizing how a site's link previews display when embedded elsewhere. Originally popularized by facebook, OpenGraph data is now used by most social media, chat apps, and read-it-later services like Instapaper.
+[OpenGraph](https://ogp.me/) meta tags allow customizing how a site's link previews display when embedded elsewhere. Originally popularized by facebook, OpenGraph data is now used by most social media, chat apps, and read-it-later services like Instapaper.
 
-I was inspired by crates.io[^crates_inspiration]'s new OpenGraph embed images to use a typst[^typst] template for this.  
+Let's take a look at how a recent tc39.es proposal's opengraph meta tags are implemented and see it in action:
+
+```html
+<!-- https://tc39.es/proposal-type-annotations/ -->
+<meta property="og:title" content="TC39 Proposal: Types as Comments"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image:type" content="image/png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630">
+<meta property="og:image" content="https://confident-galileo-43471d.netlify.app/assets/og-image.png">
+```
+
+<figure>
+
+![TC39: Types as Comments proposal embed](tc39-types-as-comments-deersocial-embed.png)
+
+<figcaption>
+
+deer.social view of social media post by Jake Lazaroff (@jakelazaroff.com) saying "amazing! now we just need it in the browser 😈".  
+The post includes a preview card for TC39 Proposal "Types as Comments" which would allow TypeScript-like type annotations to be ignored inside JavaScript runtimes. The preview shows example code: const message: string = "Hello, types"; console.log(message)
+
+</figcaption>
+
+</figure>
+
+I was inspired by crates.io[^crates_inspiration]'s new OpenGraph embed images to use a [https://typst.app/](https://typst.app/) template for lunnova.dev's preview cards.  
 We don't need a production grade crate like crates.io; a quick shell script will suffice.
 
 A bash script extracts TOML frontmatter[^toml_parse] from articles and then passes it to a typst template, and outputs a 1200×630[^og_size] image.
@@ -65,8 +90,10 @@ Full template: [og-template/template.typ](https://github.com/LunNova/Blog/blob/m
 The template I settled on renders title, description, tags and date over a cropped starfield background. Crop coordinates are deterministic[^hash_crop] based on the article path's hash, giving each post a unique view of the same background if I regenerate without storing per-article state. Honestly that's overengineering and it really doesn't matter if those move on regen but eh, it's fun.
 
 
-
 ```bash
+# … eliding details of extracting front matter
+# full impl is available at https://github.com/LunNova/Blog/
+
 DATA_JSON=$(jq -n \
     --arg title "$TITLE" \
     --arg description "$DESCRIPTION" \
@@ -103,13 +130,9 @@ Generating: 'Generating personalized OpenGraph embed images with typst' → cont
 + rm -f /tmp/nix-shell.ijbkuM/nix-shell-2799969-130597325/tmp.Wk2f9FYuzX.png
 ```
 
-[^og_spec]: [https://ogp.me/](https://ogp.me/) defines og:image for link previews.
-
-[^typst]: [https://typst.app/](https://typst.app/) is a markup-based typesetting system. It's easier to work with than LaTeX.
-
 [^toml_parse]: I ended up using a tiny python script to load with tomllib and dump as json because `yj-go` didn't like my use of the TOML date type in front matter
 
-[^og_size]: OpenGraph images are typically 1200×630px (1.91:1 ratio). Generated at 2x resolution (2400×1260) then downscaled with ImageMagick for better font rendering, optimized with optipng. Typically around 200KiB, YMMV will vary based on your template design.
+[^og_size]: OpenGraph images are typically 1200×630px (1.91:1 ratio). Generated at 2x resolution (2400×1260) then downscaled with ImageMagick for better font rendering, optimized with optipng. Typically around 200KiB, YMMV based on how well your template compresses.
 
 [^hash_crop]: sha256sum of article path → extract hex digits → modulo by max offset. Same path always gives same crop position. Background is 1515×2154px, crops to 1200×630px, allowing 315px horizontal and 1524px vertical variance.
 
