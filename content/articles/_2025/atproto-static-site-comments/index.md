@@ -2,7 +2,7 @@
 title = "atproto as a static site's comment section"
 date = 2025-07-13
 description = "Publish on your own site, discuss on bluesky"
-tags = ["atproto"]
+tags = ["atproto", "lunnova.dev-meta"]
 embed_image = "/articles/atproto-static-site-comments/embed3.png"
 +++
 
