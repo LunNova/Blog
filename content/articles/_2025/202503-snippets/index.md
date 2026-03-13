@@ -44,7 +44,7 @@ You can set up a compose key for even more symbols.
 
 `setxkbmap us -variant altgr-intl -option compose:rwin` sets the X11 keyboard layout to altgr-intl and uses the right windows key as a compose key. `compose:menu` is another popular option.
 
-```nix
+```nix qrh linux/altgr-intl-compose "altgr-intl + compose key (NixOS)"
 {
     services.xserver.xkb.layout = "us";
     services.xserver.xkb.variant = "altgr-intl"; # «cool and new»
@@ -59,7 +59,13 @@ You can set up a compose key for even more symbols.
 
 ## New box runbook
 
-I try to configure most aspects of my systems declaratively in LunNova/nixos-configs.  
+```qrh
+path = "linux/new-box-runbook"
+title = "New box runbook"
+tags = ["nixos", "linux"]
+```
+
+I try to configure most aspects of my systems declaratively in LunNova/nixos-configs.
 Some things are easier to do impurely.
 
 - [ ] If using impermanence/persistence
