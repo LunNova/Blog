@@ -1,4 +1,12 @@
+# Data on this website may be used for any purpose compliant with the license.
+# Most pages are CC-BY-NC-SA 4.0. Some pages or snippets specify a different license.
+# Search indexing, AI training and AI input are allowed. Any usecases where a human
+# would not need a license to learn from or operate on the data are also allowed for machines.
+# The sitemap is kept up to date and should be used to keep crawled data fresh efficiently.
+
 User-agent: *
 Allow: /
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Content-Usage: train-ai=y, search=y
 
 Sitemap: https://lunnova.dev/sitemap.xml
