@@ -1,0 +1,34 @@
+[  177.006775] amdgpu 0000:c5:00.0: amdgpu: PSP is resuming... Caused by vkpeak[4215]
+[  177.006780] CPU: 46 UID: 1000 PID: 4215 Comm: vkpeak Tainted: G        W          6.11.6 #1-NixOS
+[  177.006785] Tainted: [W]=WARN
+[  177.006786] Hardware name: GIGABYTE G292-Z20-00/MZ22-G20-00, BIOS M17 07/11/2024
+[  177.006788] Call Trace:
+[  177.006790]  <TASK>
+[  177.006793]  dump_stack_lvl+0x64/0x90
+[  177.006801]  psp_resume+0x4c/0x270 [amdgpu]
+[  177.007084]  amdgpu_device_fw_loading+0x7c/0x160 [amdgpu]
+[  177.007317]  amdgpu_device_resume+0x9a/0x2f0 [amdgpu]
+[  177.007544]  amdgpu_pmops_runtime_resume+0x64/0x1a0 [amdgpu]
+[  177.007730]  ? __pfx_pci_pm_runtime_resume+0x10/0x10
+[  177.007734]  __rpm_callback+0x44/0x170
+[  177.007739]  ? __pfx_pci_pm_runtime_resume+0x10/0x10
+[  177.007741]  rpm_callback+0x59/0x70
+[  177.007744]  ? __pfx_pci_pm_runtime_resume+0x10/0x10
+[  177.007746]  rpm_resume+0x4d1/0x6d0
+[  177.007750]  __pm_runtime_resume+0x4b/0x80
+[  177.007753]  amdgpu_driver_postclose_kms+0x60/0x2a0 [amdgpu]
+[  177.007942]  drm_file_free+0x21b/0x280
+[  177.007947]  drm_release+0x64/0xd0
+[  177.007950]  __fput+0xf1/0x2c0
+[  177.007954]  __x64_sys_close+0x3c/0x80
+[  177.007958]  do_syscall_64+0xb7/0x210
+[  177.007962]  entry_SYSCALL_64_after_hwframe+0x77/0x7f
+[  177.007966] RIP: 0033:0x7ffff670495a
+[  177.007989] Code: 31 ff 45 31 db c3 66 2e 0f 1f 84 00 00 00 00 00 48 83 ec 18 89 7c 24 0c e8 13 f2 f8 ff 8b 7c 24 0c 89 c2 b8 03 00 00 00 0f 05 <48> 3d 00 f0 ff ff 77 3e 89 d7 89 44 24 0c e8 73 f2 f8 ff 8b 44 24
+[  177.007991] RSP: 002b:00007fffffffa670 EFLAGS: 00000246 ORIG_RAX: 0000000000000003
+[  177.007994] RAX: ffffffffffffffda RBX: 000000000066b480 RCX: 00007ffff670495a
+[  177.007995] RDX: 0000000000000000 RSI: 0000000000000000 RDI: 00000000000000cf
+[  177.007997] RBP: 00000000004ac0c0 R08: 0000000000000000 R09: 0000000000000000
+[  177.007998] R10: 0000000000000000 R11: 0000000000000246 R12: 00000000004ac2f0
+[  177.007999] R13: 0000000000000000 R14: 00000000004924a0 R15: 000000000048f9d0
+[  177.008005]  </TASK>
