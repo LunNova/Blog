@@ -2,8 +2,6 @@
 title = "202510 Snippets"
 date = 2025-10-20
 description = "Linkpost for October 2025. Learning JJ, some fun posts and a nix cache presence check snippet."
-
-[taxonomies]
 tags = ["snippets"]
 +++
 
@@ -20,7 +18,7 @@ tags = ["snippets"]
 
 Check if some flake refs are in a binary cache:
 
-```
+```bash qrh nix/cache-presence "Check nix cache presence from flake ref"
 $ echo github:nixos/nixpkgs/{release-25.05,master}#ollama-rocm | xargs -n1 sh -c 'nix eval --raw "$1"; echo' -- | xargs -n1 nix path-info --store https://cache.nixos.org
 /nix/store/kds9g0m2fhknx051gblg1d5lz52clf23-ollama-0.11.10
 /nix/store/hd4lwgnfag8x8b8kir69lw2qhq8vhx2n-ollama-0.12.5
@@ -46,7 +44,7 @@ Oops, I picked up all these bookmarks I don't want from a remote
 …this is annoying to clean up  
 …ok got it we can pass a template that uses the name only and skips the remote part
 
-```shell
+```shell qrh jj/forget-remote-bookmarks "Forget unwanted jj remote bookmarks" +jj
 $ jj bookmark list --remote upstream -T 'concat(self.name(), "\n")' \
     | grep -v -E '^(master|nixos-unstable|staging|staging-next)$' \
     | xargs jj bookmark forget --include-remotes
