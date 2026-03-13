@@ -3,6 +3,7 @@
 /store
 /public
 deploy.sh
+/result*
 # Build #
 #########
 MANIFEST.MF
@@ -51,6 +52,7 @@ target
 ###########
 /logs
 *.log
+!content/**/*.log
 
 # Misc #
 ########
