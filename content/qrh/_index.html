@@ -1,0 +1,170 @@
+---
+title = "Quick Reference Handbook"
+template = "page.html"
+in_nav = true
+nav_title = "QRH"
+---
+
+<div class="qrh-controls">
+    <div class="qrh-search">
+        <input type="search" id="qrh-search-input" placeholder="Filter entries..." autocomplete="off" />
+        <span id="qrh-entry-count" class="qrh-entry-count"></span>
+    </div>
+    <div id="qrh-tags" class="qrh-tags"></div>
+</div>
+
+{% for group in qrh_groups %}
+  <h2 id="{{ group.slug }}">{{ group.name }}</h2>
+  {% for entry in group.entries %}
+    <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
+    {% if entry.source_link %}
+      <p class="qrh-source"><em>From: <a href="{{ entry.source_link }}">{{ entry.source_title }}</a></em></p>
+    {% endif %}
+    {{ entry.content_html | safe }}
+  {% endfor %}
+{% endfor %}
+
+{% if qrh_index_json %}
+<script type="application/json" id="qrh-index">{{ qrh_index_json | safe }}</script>
+{% endif %}
+
+<script>
+(function() {
+    const index = (() => {
+        const el = document.getElementById('qrh-index');
+        if (!el) return [];
+        try { return JSON.parse(el.textContent); } catch { return []; }
+    })();
+
+    const searchInput = document.getElementById('qrh-search-input');
+    const tagsContainer = document.getElementById('qrh-tags');
+    const countDisplay = document.getElementById('qrh-entry-count');
+
+    // Build a map from entry ID to its DOM elements (h3 + siblings until next h2/h3)
+    const entryGroups = new Map();
+    const allH3s = document.querySelectorAll('h3[id]');
+
+    allH3s.forEach(h3 => {
+        const nodes = [h3];
+        let sibling = h3.nextElementSibling;
+        while (sibling && !sibling.matches('h2, h3')) {
+            nodes.push(sibling);
+            sibling = sibling.nextElementSibling;
+        }
+        entryGroups.set(h3.id, nodes);
+    });
+
+    // Build a map from group ID (h2) to its DOM elements
+    const groupHeaders = new Map();
+    document.querySelectorAll('h2[id]').forEach(h2 => {
+        groupHeaders.set(h2.id, h2);
+    });
+
+    // Collect all unique tags from index
+    const allTags = [...new Set(index.flatMap(e => e.tags))].sort();
+    let activeTags = new Set();
+
+    // Render tag buttons
+    allTags.forEach(tag => {
+        const btn = document.createElement('button');
+        btn.className = 'qrh-tag-btn';
+        btn.textContent = tag;
+        btn.addEventListener('click', () => {
+            if (activeTags.has(tag)) {
+                activeTags.delete(tag);
+                btn.classList.remove('active');
+            } else {
+                activeTags.add(tag);
+                btn.classList.add('active');
+            }
+            applyFilters();
+        });
+        tagsContainer.appendChild(btn);
+    });
+
+    function applyFilters() {
+        const query = searchInput.value.toLowerCase().trim();
+        let visibleCount = 0;
+        const visibleGroups = new Set();
+
+        index.forEach(entry => {
+            const nodes = entryGroups.get(entry.id);
+            if (!nodes) return;
+
+            // Tag filter: if any tags are active, entry must match at least one (OR)
+            let tagMatch = activeTags.size === 0 ||
+                entry.tags.some(t => activeTags.has(t));
+
+            // Text filter: check title, path, tags, and visible text content
+            let textMatch = true;
+            if (query) {
+                const searchable = [
+                    entry.title,
+                    entry.path,
+                    ...entry.tags,
+                    ...nodes.map(n => n.textContent)
+                ].join(' ').toLowerCase();
+                textMatch = searchable.includes(query);
+            }
+
+            const visible = tagMatch && textMatch;
+            nodes.forEach(n => n.classList.toggle('qrh-hidden', !visible));
+            if (visible) {
+                visibleCount++;
+                visibleGroups.add(entry.group);
+            }
+        });
+
+        // Hide/show group headers (h2) based on whether any entries in the group are visible
+        groupHeaders.forEach((h2, id) => {
+            h2.classList.toggle('qrh-hidden', !visibleGroups.has(id));
+        });
+
+        updateCount(visibleCount);
+        updateHash();
+    }
+
+    function updateCount(count) {
+        const total = index.length;
+        if (searchInput.value || activeTags.size > 0) {
+            countDisplay.textContent = count + '/' + total;
+        } else {
+            countDisplay.textContent = total + ' entries';
+        }
+    }
+
+    function updateHash() {
+        const query = searchInput.value.trim();
+        const tags = [...activeTags].sort().join(',');
+        const parts = [];
+        if (query) parts.push('search=' + encodeURIComponent(query));
+        if (tags) parts.push('tags=' + encodeURIComponent(tags));
+        const hash = parts.length ? '#' + parts.join('&') : '';
+        if (window.location.hash !== hash) {
+            history.replaceState(null, '', hash || window.location.pathname);
+        }
+    }
+
+    function loadFromHash() {
+        const hash = window.location.hash.slice(1);
+        if (!hash) return;
+        const params = new URLSearchParams(hash);
+        const search = params.get('search');
+        const tags = params.get('tags');
+        if (search) searchInput.value = search;
+        if (tags) {
+            tags.split(',').forEach(t => {
+                if (allTags.includes(t)) {
+                    activeTags.add(t);
+                    const btn = [...tagsContainer.children].find(b => b.textContent === t);
+                    if (btn) btn.classList.add('active');
+                }
+            });
+        }
+    }
+
+    searchInput.addEventListener('input', applyFilters);
+    loadFromHash();
+    applyFilters();
+})();
+</script>
