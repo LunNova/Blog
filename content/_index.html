@@ -11,6 +11,145 @@ sort_by: "title"
 
 <p>If you're interested in hiring me for a US Remote position, contact me at <a href="mailto:jobs@lunnova.dev">jobs@lunnova.dev</a>.</p>
 
+<style>
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.featured-card {
+  border: 1px solid var(--luna_mane_purple, #555);
+  border-radius: 4px;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: border-color 0.15s;
+}
+.featured-card:hover {
+  border-color: var(--blue_light, #aaa);
+}
+.featured-card .card-title {
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+.featured-card .card-desc {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+.featured-card.rocm-card {
+  --eva-serif: 'Times New Roman', 'Didot', 'Bodoni MT', 'GFS Didot', 'Noto Serif Display', 'Georgia', 'Palatino Linotype', serif;
+  border-left: 4px solid #d32f2f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.rocm-card .rocm-hero {
+  line-height: 1;
+  margin-bottom: 0.5rem;
+}
+.rocm-card .rocm-title {
+  font-family: var(--eva-serif);
+  font-size: 3rem;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  transform: scaleX(0.75);
+  transform-origin: left;
+}
+.rocm-card .rocm-title .emboss-m {
+  text-shadow: 0.11em 0.07em 0 #d32f2f;
+}
+.rocm-card .rocm-ver {
+  font-family: var(--eva-serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #d32f2f;
+  letter-spacing: 0.1em;
+  transform: scaleX(0.75);
+  transform-origin: left;
+}
+.rocm-card .rocm-ver .dot { opacity: 0.3; }
+.rocm-card .rocm-sub {
+  font-family: var(--eva-serif);
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #ccc;
+  transform: scaleX(0.70);
+  transform-origin: right;
+  text-align: right;
+  white-space: nowrap;
+}
+.rocm-card .rocm-sub .sub-red { color: #d32f2f; }
+.blade-card {
+  display: flex;
+  flex-direction: column;
+}
+.blade-visual {
+  position: relative;
+  width: 100%;
+  margin: 0.25rem 0;
+  flex: 1;
+  min-height: 0;
+}
+.blade-svg {
+  width: 35%;
+  height: auto;
+  display: block;
+  opacity: 0.85;
+  position: relative;
+  z-index: 1;
+}
+.blade-card:hover .blade-svg { opacity: 1; }
+.blade-airflow {
+  position: absolute;
+  top: 0;
+  left: 15%;
+  right: 30%;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+</style>
+
+<h3>Featured</h3>
+<div class="featured-grid">
+  <a class="featured-card rocm-card" href="/articles/rocm-711-you-can-not-build/">
+    <div class="rocm-hero">
+      <div class="rocm-title">ROC<span class="emboss-m">m</span></div>
+      <div class="rocm-ver">:7.1<span class="dot">.</span>1</div>
+      <div class="rocm-sub"><span class="sub-red">You can </span>(not)<span class="sub-red"> build.</span></div>
+    </div>
+    <div class="card-desc">Issues encountered while building and maintaining ROCm packages</div>
+  </a>
+  <a class="featured-card blade-card" href="/articles/cve-2018-7118-bladesystem-root/">
+    <div class="card-title">CVE-2018-7118 — Rooting your HP BladeSystem</div>
+    <div class="blade-visual">
+      <div class="blade-airflow">
+        <svg viewBox="0 0 160 200" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <marker id="af" viewBox="0 0 6 6" refX="3" refY="3" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
+              <path d="M0,0.5 L6,3 L0,5.5 Z" fill="#888" opacity="0.6"/>
+            </marker>
+          </defs>
+          <g stroke="#888" stroke-width="0.7" fill="none" opacity="0.4">
+            <!-- Top fan cluster exhaust (4 segments each for more marker-mid hits) -->
+            <path d="M0,15 L40,22 L80,35 L120,50 L160,65" marker-mid="url(#af)" marker-end="url(#af)"/>
+            <path d="M0,30 L40,38 L80,52 L120,70 L160,90" marker-mid="url(#af)" marker-end="url(#af)"/>
+            <path d="M0,50 L40,58 L80,73 L120,92 L160,110" marker-mid="url(#af)" marker-end="url(#af)"/>
+            <!-- Bottom fan cluster exhaust -->
+            <path d="M0,115 L40,123 L80,137 L120,153 L160,170" marker-mid="url(#af)" marker-end="url(#af)"/>
+            <path d="M0,135 L40,145 L80,161 L120,177 L160,193" marker-mid="url(#af)" marker-end="url(#af)"/>
+            <path d="M0,155 L40,165 L80,181 L120,197 L160,213" marker-mid="url(#af)" marker-end="url(#af)"/>
+          </g>
+        </svg>
+      </div>
+      <img class="blade-svg" src="/articles/cve-2018-7118-bladesystem-root/bladesystem-rear.svg" alt="HP BladeSystem c7000 rear view with 10 large fans">
+    </div>
+    <div class="card-desc">Too loud? Guess we have to root it.</div>
+  </a>
+</div>
+
 <h3>Recent <a href=/articles>articles</a></h3>
 <div class="page-list">
 {% for p in all_pages | get(key="articles/") | get(key="children") | slice(end=5) %}
