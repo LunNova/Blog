@@ -265,8 +265,10 @@ article div > ul > li + li {
   - You are forced to split it into ≈20 sub-builds that smuggle object files through build outputs using timestamp manipulation to trick make[^ck-build-architecture]
 - You run out of space after a core matrix multiplication package emits 200GiB of assembly files mid build[^hipblaslt-disk-usage]  
   - You discover War and Peace 25,000 times over in assembly comments[^war-and-peace-math]
-- You spend an entire Google Summer of Code project fixing ROCm packages for Gentoo[^gsoc-gentoo]  
-- You find many circular dependencies[^circular]
+- ROCm's fork of LLVM infinite loops compiling x86 host AVX512 code
+  - A user enables `rocmSupport` so they can use their AMD GPU. The CPU part of the whisper-cpp build hangs for 10+ hours[^llvm-infinite-loop]
+- Someone spends an entire Google Summer of Code project fixing ROCm packages for Gentoo[^gsoc-gentoo]
+- You find many circular dependencies within the 80+ package set[^circular]
 - A major library's kernels aren't showing up in git. After great confusion, you realize upstream's lfsconfig excludes all files[^miopen-fetch]
 - You build for AArch64. Some packages set x64 specific flags[^rdc] for no discernible reason.
 - You try to use two GPUs. The core collective communications library ships with undefined behavior that requires reducing optimization level[^rccl-ub]
@@ -288,6 +290,7 @@ Massive shoutouts to everyone helping out across the ecosystem and distros, in n
 [@Madouura](https://github.com/Madouura) for the herculean task of getting much of ROCm into nixpkgs initially. Hasn't been seen in some time. Maybe understandably burned out from the scope and the mess.  
 [@Flakebi](https://github.com/Flakebi), [@mschwaig](https://github.com/mschwaig) for review (through the present) and contributions (mostly in the 5.x and 6.x era) for NixOS.  
 [@06kellyjac](https://github.com/06kellyjac) and [@Wulfsta](https://github.com/Wulfsta) for help with Strix Halo and Radeon VII testing for NixOS.  
+[@acowley](https://github.com/acowley) for work on the nixos-rocm overlay that predated support in Nixpkgs proper.
 
 ---
 
@@ -303,6 +306,7 @@ Massive shoutouts to everyone helping out across the ecosystem and distros, in n
 ](https://github.com/pytorch/pytorch/issues/119081). Users and distros have resorted to patching hipblaslt to allow generating a stub build with no device kernels, or building for an extra throwaway arch that will not be used at runtime.
 
 [^hipblaslt-metadata]: Without a nixpkgs-carried patch, hipBLASLt's Tensile kernel metadata files (.dat) were stored in verbose formats reaching 80MiB+ per lazy library for some ISAs and >10GiB overall. The patch enables zstd compression of msgpack-formatted metadata, dramatically reducing file sizes. See [rocm-libraries issue #1327](https://github.com/ROCm/rocm-libraries/issues/1327) and nixpkgs' [messagepack-compression-support.patch](https://github.com/NixOS/nixpkgs/blob/master/pkgs/development/rocm-modules/6/hipblaslt/messagepack-compression-support.patch) applied since ROCm 6.4.
+    The source tarball itself also needs post-fetch compression of bundled YAML files after 7.2 because the 2GiB added for CDNA4/gfx950 pushed it over the limit, see [nixpkgs PR #497589](https://github.com/NixOS/nixpkgs/pull/497589).
 
 [^ck-build-architecture]: Smuggling .o files between nix derivations to avoid a single build that hits hydra's 10 hour build timeout and to make it possible to parallelise across a multi box build farm. See default.nix and base.nix in the [composable_kernel dir in nixpkgs](https://github.com/NixOS/nixpkgs/tree/25.11/pkgs/development/rocm-modules/6/composable_kernel).
 
@@ -326,7 +330,7 @@ Massive shoutouts to everyone helping out across the ecosystem and distros, in n
 
 [^hipblaslt-draft]: nixpkgs vendors parts of a [draft PR](https://github.com/ROCm/rocm-libraries/pull/2073) that optimizes the tensile python process memory and disk usage. See discussion for how this isn't safe in more detail. The existing code relies on mutation and defensive cloning such that removing deep clones to improve memory usage is risky. There is no static analysis tool that can handle checking changes are correct in this untyped python codebase.
 
-
+[^llvm-infinite-loop]: ROCm's fork of LLVM 22 from a pre-release LLVM rev had a bug in x86 vector shuffle legalization where `v64i8` ↔ `v32i16` lowering looped infinitely. The culprit was an AVX-512 path in `ggml-cpu/amx/mmq.cpp` hitting the infinite loop in `lowerShuffleAsLanePermuteAndPermute`. Backported upstream fixes in [nixpkgs PR #497818](https://github.com/NixOS/nixpkgs/pull/497818).
 
 ---
 
