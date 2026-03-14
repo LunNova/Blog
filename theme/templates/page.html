@@ -18,7 +18,7 @@
         {% endif %}
         <span style="float: right;">
         {% if page.date %}
-        <time datetime="{{ page.date | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date" pubdate>
+        <time datetime="{{ page.datetime | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date" pubdate>
             {{ page.date | date(format="%F") }}
         </time>
         <address>
@@ -28,7 +28,7 @@
         </span>
         <hr class="small">
         {% if page.updated and page.updated != page.date %}
-        <time datetime="{{ page.updated | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date">
+        <time datetime="{{ page.updatedtime | date(format="%Y-%m-%dT%H:%M:%S%:z") }}" class="date">
             (Updated {{ page.updated | date(format="%F") }})
         </time>
         {% endif %}
