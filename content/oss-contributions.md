@@ -1,15 +1,25 @@
 +++
 title = "OSS Contributions Index"
+description = "Curated index of Luna Nova's open source ecosystem contributions & endorsements across domains"
 render = true
 weight = 1
 +++
 
-Index of selected contributions to open source ecosystems that provide signal as to my background.  
-Not comprehensive to keep the page a reasonable size.
+Index of contributions to open source ecosystems that provide signal as to my background, perseverance and technical domains.  
+Filtered roughly for impact to keep the page a reasonable size.
 
-Put together with Claude & gh CLI, reviewed manually but may still have some errors.
+Put together with Claude Opus 4.6 & gh CLI, reviewed manually but may still have some errors.
 
 # Machine Learning & GPGPU Compute
+
+## General ML & GPGPU Compute upstream
+
+- [triton-lang/triton#9628](https://github.com/triton-lang/triton/pull/9628) — [AMD] Add GCN5.1 / gfx906 target (merged)
+- [triton-lang/triton#9636](https://github.com/triton-lang/triton/pull/9636) — [**Blackwell**] Fix thrown away load due to wrong wait placement (merged)
+- [triton-lang/triton#7959](https://github.com/triton-lang/triton/pull/7959) — [AMD] Search HIP_PATH, hipconfig, and ROCM_PATH for libamdhip64 (merged)
+- [GPUOpen-LibrariesAndSDKs/HIPRT#48](https://github.com/GPUOpen-LibrariesAndSDKs/HIPRT/pull/48) — Remove encryption support and bundled easy-encrypt source/binaries (merged)
+- [amd/blis#44](https://github.com/amd/blis/pull/44) — configure: follow reproducible-builds spec for SOURCE_DATE_EPOCH (merged via AMD-internal flow)
+- [sofa-framework/sofa#5698](https://github.com/sofa-framework/sofa/pull/5698) — [SofaMatrix] Allow newer metis versions. Closed, [#5732](https://github.com/sofa-framework/sofa/pull/5732) merged based on it.
 
 ## ROCm upstream
 
@@ -30,16 +40,6 @@ Open:
 - [ROCm/rocm-systems#2423](https://github.com/ROCm/rocm-systems/pull/2423) — fix(rdc): Fix CXXFLAGS clobbering and incompatibility with non-x64 architecture
 - [ROCm/rocm-systems#2424](https://github.com/ROCm/rocm-systems/pull/2424) — fix(rdc): use pkg-config to find libcap
 - [ROCm/ROCR-Runtime#273](https://github.com/ROCm/ROCR-Runtime/pull/273) — Fix multiple places with undefined behavior due to signed 1 << 31. [Imported to rocm-systems#253](https://github.com/ROCm/rocm-systems/pull/253).
-
-## Other ML & GPGPU Compute upstream
-
-- [triton-lang/triton#9636](https://github.com/triton-lang/triton/pull/9636) — [Blackwell] Fix thrown away load due to wrong wait placement (merged)
-- [triton-lang/triton#9628](https://github.com/triton-lang/triton/pull/9628) — [AMD] Add GCN5.1 / gfx906 target (merged)
-- [triton-lang/triton#7959](https://github.com/triton-lang/triton/pull/7959) — [AMD] Search HIP_PATH, hipconfig, and ROCM_PATH for libamdhip64 (merged)
-- [GPUOpen-LibrariesAndSDKs/HIPRT#48](https://github.com/GPUOpen-LibrariesAndSDKs/HIPRT/pull/48) — Remove encryption support and bundled easy-encrypt source/binaries (merged)
-- [amd/blis#44](https://github.com/amd/blis/pull/44) — configure: follow reproducible-builds spec for SOURCE_DATE_EPOCH (open)
-- [sofa-framework/sofa#5698](https://github.com/sofa-framework/sofa/pull/5698) — [SofaMatrix] Allow newer metis versions. Closed, [#5732](https://github.com/sofa-framework/sofa/pull/5732) merged based on it.
-
 
 # NixOS / Nixpkgs
 
