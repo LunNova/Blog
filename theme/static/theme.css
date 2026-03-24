@@ -112,6 +112,10 @@
 	--transition-duration: 0.3s;
 }
 
+standout {
+	color: var(--white_pure);
+}
+
 * {
 	box-sizing: border-box;
 }
@@ -319,6 +323,16 @@ header {
 	margin-top: -10px;
 }
 
+@media (max-width: 550px) {
+	.header-left nav a:first-child span {
+		display: inline-block;
+		font-size: 0;
+	}
+	.header-left nav a:first-child span::first-letter {
+		font-size: 1rem;
+	}
+}
+
 .header-right nav {
 	li {
 
@@ -503,6 +517,12 @@ ul:last-child {
 
 li::marker {
 	color: var(--luna_eye_accent);
+}
+
+li > p:only-child,
+li > p:first-child {
+	margin: 0;
+	display: inline;
 }
 
 a {

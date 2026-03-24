@@ -2,8 +2,8 @@
 title = "lunnova.dev"
 base_url = "https://lunnova.dev/"
 pages_dir = "content"
-description = "Luna Nova's site. Opinion pieces and deep dives into tech, security, Linux systems, and software development."
-baseline_date = "2025-07-20"
+description = "Luna Nova's site. GPGPU compute & build systems, Rust, hardware hacking, opinion pieces."
+baseline_date = "2026-03-14"
 embed_images_dir = "og-images"
 
 [features]
