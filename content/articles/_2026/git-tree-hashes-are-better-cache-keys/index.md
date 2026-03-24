@@ -46,6 +46,9 @@ We can even use the tree hash of a subdir, like `lib/` if only changes in that f
 $ git rev-parse HEAD^{tree}
 6bfefc1b09b11351ab4b7bfa6f3a765f463aa6aa
 
+$ git rev-parse HEAD:./ # might be easier to remember
+6bfefc1b09b11351ab4b7bfa6f3a765f463aa6aa
+
 $ git show HEAD^{tree}
 tree HEAD^{tree}
 
