@@ -6,15 +6,14 @@ weight = 1
 +++
 
 Index of contributions to open source ecosystems that provide signal as to my background, perseverance and technical domains.  
-Filtered roughly for impact to keep the page a reasonable size.
-
-Put together with Claude Opus 4.6 & gh CLI, reviewed manually but may still have some errors.
+Filtered roughly for impact & for domains with sustained engagement to keep the page a reasonable size.
 
 # Machine Learning & GPGPU Compute
 
 ## General ML & GPGPU Compute upstream
 
 - [triton-lang/triton#9628](https://github.com/triton-lang/triton/pull/9628) — [AMD] Add GCN5.1 / gfx906 target (merged)
+- [triton-lang/triton#9629](https://github.com/triton-lang/triton/pull/9629) — [AMD] Fix two broken dot lit tests that missed `-COUNT-` (merged)
 - [triton-lang/triton#9636](https://github.com/triton-lang/triton/pull/9636) — [**Blackwell**] Fix thrown away load due to wrong wait placement (merged)
 - [triton-lang/triton#7959](https://github.com/triton-lang/triton/pull/7959) — [AMD] Search HIP_PATH, hipconfig, and ROCM_PATH for libamdhip64 (merged)
 - [GPUOpen-LibrariesAndSDKs/HIPRT#48](https://github.com/GPUOpen-LibrariesAndSDKs/HIPRT/pull/48) — Remove encryption support and bundled easy-encrypt source/binaries (merged)
@@ -23,8 +22,7 @@ Put together with Claude Opus 4.6 & gh CLI, reviewed manually but may still have
 
 ## ROCm upstream
 
-Merged:
-
+- [ROCm/rocm-systems#3800](https://github.com/ROCm/rocm-systems/pull/3800) — [rocprof-trace-decoder] Fix missing test dependency (merged)
 - [ROCm/rocm-systems#2850](https://github.com/ROCm/rocm-systems/pull/2850) — rocr-runtime: fix segfault when queue allocation fails
 - [ROCm/rccl#1470](https://github.com/ROCm/rccl/pull/1470) — net_ib: fix out of bounds read in ncclIbGdrSupport on non-RDMA kernel
 - [ROCm/rocMLIR#1708](https://github.com/ROCm/rocMLIR/pull/1708) — GridwiseGemmParams: fix compile error with LLVM libc++ due to missing const
@@ -34,9 +32,8 @@ Merged:
 - [ROCm/ROCR-Runtime#274](https://github.com/ROCm/ROCR-Runtime/pull/274) — set underlying type of hsa_region_info_t to int. AMD dev opened [their own PR #289](https://github.com/ROCm/ROCR-Runtime/pull/289) based on it.
 - [ROCm/llvm-project#183](https://github.com/ROCm/llvm-project/pull/183) — [hipcc] Remove extra definition of hipBinUtilPtr_ in derived platforms. Closed with ["cloned to our internal repo"](https://github.com/ROCm/llvm-project/pull/183#issuecomment-1772488506), attribution lost.
 
-Open:
+Awaiting merge…
 
-- [ROCm/rocm-libraries#2073](https://github.com/ROCm/rocm-libraries/pull/2073) — [hipblaslt] Refactor Parallel.py to drop joblib, decimate resource usage
 - [ROCm/rocm-systems#2423](https://github.com/ROCm/rocm-systems/pull/2423) — fix(rdc): Fix CXXFLAGS clobbering and incompatibility with non-x64 architecture
 - [ROCm/rocm-systems#2424](https://github.com/ROCm/rocm-systems/pull/2424) — fix(rdc): use pkg-config to find libcap
 - [ROCm/ROCR-Runtime#273](https://github.com/ROCm/ROCR-Runtime/pull/273) — Fix multiple places with undefined behavior due to signed 1 << 31. [Imported to rocm-systems#253](https://github.com/ROCm/rocm-systems/pull/253).
@@ -53,7 +50,7 @@ Open:
 
 ## ROCm packaging
 
-Co-maintainer of the ROCm package set in nixpkgs ([rocm team](https://github.com/NixOS/nixpkgs/pull/391142)).
+De facto lead for ROCm package set in Nixpkgs.
 
 Major version bumps:
 
@@ -65,6 +62,9 @@ Major version bumps:
 
 Selected fixes:
 
+- [#497818](https://github.com/NixOS/nixpkgs/pull/497818) — rocmPackages.llvm: fix infinite loop in LLVM legalizer for AVX512 v64i8 ↔ v32i16 vector shuffles. Diagnosed via gdb, backported three upstream LLVM patches ([fixes #497745](https://github.com/NixOS/nixpkgs/issues/497745))
+- [#498395](https://github.com/NixOS/nixpkgs/pull/498395) — rocmPackages.{clr,migraphx,miopen,rocm-comgr}: fix runtime hiprtc failures. Multi-part fix: rpath for hiprtc, hardcoded /opt/rocm path in miopen, LLVM fallback for C++ stdlib, plus impure tests ([fixes #498371](https://github.com/NixOS/nixpkgs/issues/498371))
+- [#497809](https://github.com/NixOS/nixpkgs/pull/497809) — rocmPackages.rocm-comgr: fix failure to find code object when xnack any variant should match
 - [#451188](https://github.com/NixOS/nixpkgs/pull/451188) — rocmPackages.hipblaslt: massively reduce peak disk space usage
 - [#449985](https://github.com/NixOS/nixpkgs/pull/449985) — rocmPackages.hipblaslt: stop inlining war and peace in asm comments
 - [#444860](https://github.com/NixOS/nixpkgs/pull/444860) — rocmPackages: clean up, reduce closure sizes
@@ -83,6 +83,7 @@ Selected fixes:
 - [#443311](https://github.com/NixOS/nixpkgs/pull/443311) — llama-cpp: 6442 -> 6479
 - [#405457](https://github.com/NixOS/nixpkgs/pull/405457) — ollama-rocm: fix evaluation error when rocmPackages are built for a specific arch
 - [#495680](https://github.com/NixOS/nixpkgs/pull/495680) — python3Packages.vllm: fix rocm build
+- [#499299](https://github.com/NixOS/nixpkgs/pull/499299) — openblas: swap to CMake build to resolve duplicate symbols on aarch64
 - [#444054](https://github.com/NixOS/nixpkgs/pull/444054) — metis: 5.1.0 -> 5.2.1 + cmake4 patch; gklib: init
 - [#468810](https://github.com/NixOS/nixpkgs/pull/468810) — amd-blis: backport fix for GCC 15 build error
 - [#448964](https://github.com/NixOS/nixpkgs/pull/448964) — oneDNN_2: reintroduce and unbreak, rocmPackages.migraphx: use oneDNN_2
@@ -91,29 +92,22 @@ Selected fixes:
 
 ## Security hardening: PIE by default
 
-Led the initiative to enable Position Independent Executables by default for GCC in nixpkgs, improving ASLR coverage across the distribution. Attempted and reverted similar effort for Go due to time constraints near release window and subsequent lack of time.
+Led the initiative to enable Position Independent Executables by default for GCC in nixpkgs, improving ASLR coverage across the distribution. Attempted and reverted similar effort for Go due to time constraints near release window.
 
 - [#439314](https://github.com/NixOS/nixpkgs/pull/439314) — gcc: build with --enable-default-pie
 - [#442510](https://github.com/NixOS/nixpkgs/pull/442510) — {cc-wrapper,bintools-wrapper}: drop pie hardening flag
 - [#442965](https://github.com/NixOS/nixpkgs/pull/442965) — go: build PIE by default
 - [#449771](https://github.com/NixOS/nixpkgs/pull/449771) — treewide: remove usages of obsolete pie hardening flag
-- [#449551](https://github.com/NixOS/nixpkgs/pull/449551) — ltrace: fix test failure with PIE
-- [#449995](https://github.com/NixOS/nixpkgs/pull/449995) — go: restrict default pie patch to known good GOARCH
 - [#452791](https://github.com/NixOS/nixpkgs/pull/452791) — gcc: disable enableDefaultPie when !hasSharedLibraries
-- [#458867](https://github.com/NixOS/nixpkgs/pull/458867) — go: only apply PIE by default when CGO is enabled
 - [#461615](https://github.com/NixOS/nixpkgs/pull/461615) — go: revert default PIE changes
 
-## LLVM & compiler infrastructure
+## Nix (package manager)
 
-- [#445668](https://github.com/NixOS/nixpkgs/pull/445668) — pkgs/development/compilers/llvm: use makeScopeWithSplicing
-- [#446207](https://github.com/NixOS/nixpkgs/pull/446207) — llvmPackages.libclang: add enableClangToolsExtra flag
-- [#447071](https://github.com/NixOS/nixpkgs/pull/447071) — llvmPackages: clean up rebuild avoidance
-- [#444806](https://github.com/NixOS/nixpkgs/pull/444806) — llvmPackages.libllvm: fix enablePolly = false
-- [#445370](https://github.com/NixOS/nixpkgs/pull/445370) — [staging-next] electron: fix LLVM 21+ build by backporting patch
+- [NixOS/nix#15417](https://github.com/NixOS/nix/pull/15417) — libstore: handle root path in RemoteFSAccessor::maybeLstat. Fixed `nix build --store ssh-ng://` crashing with "path '/nix/store/' is not in the Nix store" — a regression since nix 2.29 ([fixes NixOS/nix#15418](https://github.com/NixOS/nix/issues/15418))
 
 ## CMake 4 transition
 
-Compat fixes across many packages for the CMake 4 transition in nixpkgs staging.
+Compat fixes across many packages for the CMake 4 transition in nixpkgs staging. Part of wider effort with many people helping out.
 
 - [#445015](https://github.com/NixOS/nixpkgs/pull/445015) — yajl, libuvc: CMake 4 compat
 - [#445579](https://github.com/NixOS/nixpkgs/pull/445579) — docker-tini, openhmd: CMake 4 fixes
@@ -130,19 +124,12 @@ Compat fixes across many packages for the CMake 4 transition in nixpkgs staging.
 - [#173947](https://github.com/NixOS/nixpkgs/pull/173947) — vkdisplayinfo: init at 0.1
 - [#448501](https://github.com/NixOS/nixpkgs/pull/448501) — basalt-monado: update
 
-## Other notable packages
+## Other notable Nixpkgs changes
 
-- [#155290](https://github.com/NixOS/nixpkgs/pull/155290) — input-remapper: init at unstable-2022-02-09 (and add NixOS module)
-- [#160777](https://github.com/NixOS/nixpkgs/pull/160777) — nixos/input-remapper: fix, add more options, add test
-- [#170834](https://github.com/NixOS/nixpkgs/pull/170834) — input-remapper: unstable-2022-02-09 -> 1.4.2
-- [#249777](https://github.com/NixOS/nixpkgs/pull/249777) — input-remapper: 1.5.0 -> 2.0.1
-- [#176049](https://github.com/NixOS/nixpkgs/pull/176049) — memtest86+: 5.01-coreboot-002 -> 6.00-beta2
-- [#465509](https://github.com/NixOS/nixpkgs/pull/465509) — nixos: use new combined memtest86plus binary
+- [#155290](https://github.com/NixOS/nixpkgs/pull/155290) — input-remapper: init at unstable-2022-02-09 (and add NixOS module) - my first Nixpkgs PR and the start of my Nix journey c:
 - [#176312](https://github.com/NixOS/nixpkgs/pull/176312) — edk2-uefi-shell: init at 202202
-- [#458517](https://github.com/NixOS/nixpkgs/pull/458517) — opencl-cts: init
+- [#458517](https://github.com/NixOS/nixpkgs/pull/458517) — opencl-cts: init — Full KhronosGroup conformance test suite for OpenCL to aid in validation of ROCm bumps (ROCm includes an OpenCL runtime!)
 - [#263201](https://github.com/NixOS/nixpkgs/pull/263201) — build-fhsenv-bubblewrap: remove /usr/lib and /usr/lib32 from LD_LIBRARY_PATH
-- [#243834](https://github.com/NixOS/nixpkgs/pull/243834) — nixos/i3: add updateSessionEnvironment option
-- [#218229](https://github.com/NixOS/nixpkgs/pull/218229) — lua5_3_compat, lua5_4_compat: set LUA_COMPAT_5_x
 
 
 # Misc Upstream contributions
@@ -153,11 +140,11 @@ Compat fixes across many packages for the CMake 4 transition in nixpkgs staging.
 
 ## Rust crates
 
-- [GuillaumeGomez/sysinfo#1014](https://github.com/GuillaumeGomez/sysinfo/pull/1014) — Fix more UB in windows/system refresh_processes_specifics (merged)
-- [GuillaumeGomez/sysinfo#1192](https://github.com/GuillaumeGomez/sysinfo/pull/1192) — Fix misaligned read (merged)
-- [Hpmason/retour-rs#41](https://github.com/Hpmason/retour-rs/pull/41) — Replace udis with iced-x86 (merged)
 - [benfred/remoteprocess#87](https://github.com/benfred/remoteprocess/pull/87) — Don't assume_init on uninitialized memory (merged)
 - [benfred/remoteprocess#85](https://github.com/benfred/remoteprocess/pull/85) — Swap unmaintained memmap for memmap2 (merged)
+- [GuillaumeGomez/sysinfo#1192](https://github.com/GuillaumeGomez/sysinfo/pull/1192) — Fix misaligned read (merged)
+- [GuillaumeGomez/sysinfo#1014](https://github.com/GuillaumeGomez/sysinfo/pull/1014) — Fix more UB in windows/system refresh_processes_specifics (merged)
+- [Hpmason/retour-rs#41](https://github.com/Hpmason/retour-rs/pull/41) — Replace udis with iced-x86 (merged)
 
 ## input-remapper
 
