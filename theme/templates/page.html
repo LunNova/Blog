@@ -42,12 +42,12 @@
     <div class="bibtex-citation">
         <details>
             <summary>Cite as BibTeX</summary>
-            <pre data-lang="BibTeX"><code>@misc{{"{"}}{% if page.slug %}{{ page.slug }}{% else %}{{ page.title | slugify }}{% endif %},
+            <pre data-lang="BibTeX"><code>@online{{"{"}}{% if page.slug %}{{ page.slug }}{% else %}{{ page.title | slugify }}{% endif %},
     author = {{"{"}}{{config.extra.author}}{{"}"}},
     title = {{"{"}}{{page.title}}{{"}"}},
+    date = {{"{"}}{{page.date | date(format="%Y-%m-%d")}}{{"}"}},
     year = {{"{"}}{{page.date | date(format="%Y")}}{{"}"}},
     url = {{"{"}}{{page.permalink}}{{"}"}},
-    urldate = {{"{"}}{{ page.date | date(format="%Y-%m-%d")}}{{"}"}}
 }</code></pre>
         </details>
     </div>
