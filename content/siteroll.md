@@ -26,3 +26,9 @@ Cool post: [SO_PEERPIDFD Gets More Useful](https://blog.sebastianwick.net/posts/
 
 **[vgel.me](https://vgel.me/)**  
 [repeng](https://github.com/vgel/repeng/) is neat, [seahorse.post](https://vgel.me/posts/seahorse/) is neat!
+
+**[serpentsquiggles.neocities.org](https://serpentsquiggles.neocities.org)**  
+Prior home to the best worst static site generator. I'm not explaining.
+
+**[aphyr.com](https://aphyr.com/)**  
+Classic [⌷ing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview) series.
