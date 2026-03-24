@@ -58,7 +58,8 @@ article div > ul > li + li {
 }
 
 .eva {
-  border-left: 4px solid #d32f2f;
+  border-top: 4px solid #d32f2f;
+  border-bottom: 4px solid #d32f2f;
   padding: 0 1.5rem 1rem;
   margin: 0;
   position: relative;
