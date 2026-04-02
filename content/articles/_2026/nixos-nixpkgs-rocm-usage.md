@@ -57,7 +57,7 @@ nix run github:nixos/nixpkgs/nixos-unstable#pkgsRocm.vllm -- serve Qwen/Qwen3-VL
 nix run blender:
 
 ```
-nix run github:nixos/nixpkgs/nixos-unstable#pkgsRocm.blender-hip
+nix run github:nixos/nixpkgs/nixos-unstable#pkgsRocm.blender
 ```
 
 # ROCm ISA specific build
