@@ -1,5 +1,16 @@
 [
   {
+    "url": "https://github.com/NixOS/nixpkgs/pull/516911",
+    "title": "rocmPackages: 7.2.2 -> 7.2.3",
+    "number": 516911,
+    "state": "MERGED",
+    "date": "2026-05-11",
+    "repo": "NixOS/nixpkgs",
+    "author": "LunNova",
+    "merged_by": "LunNova",
+    "role": "author"
+  },
+  {
     "url": "https://github.com/NixOS/nixpkgs/pull/514731",
     "title": "rocmPackages.clr: add gfx950 and gfx1103 to gpuTargets",
     "number": 514731,
@@ -42,17 +53,6 @@
     "author": "kiranshila",
     "merged_by": "LunNova",
     "role": "merger"
-  },
-  {
-    "url": "https://github.com/NixOS/nixpkgs/pull/516911",
-    "title": "rocmPackages: 7.2.2 -> 7.2.3",
-    "number": 516911,
-    "state": "OPEN",
-    "date": "2026-05-05",
-    "repo": "NixOS/nixpkgs",
-    "author": "LunNova",
-    "merged_by": null,
-    "role": "author"
   },
   {
     "url": "https://github.com/pytorch/pytorch/pull/182030",
@@ -99,14 +99,14 @@
     "role": "approver"
   },
   {
-    "url": "https://github.com/NixOS/nix/pull/15417",
-    "title": "libstore: handle root path in RemoteFSAccessor::maybeLstat",
-    "number": 15417,
+    "url": "https://github.com/triton-lang/triton/pull/9628",
+    "title": "[AMD] Add GCN5.1 / gfx906 target",
+    "number": 9628,
     "state": "MERGED",
-    "date": "2026-03-09",
-    "repo": "NixOS/nix",
+    "date": "2026-03-06",
+    "repo": "triton-lang/triton",
     "author": "LunNova",
-    "merged_by": "Ericson2314",
+    "merged_by": "antiagainst",
     "role": "author"
   }
 ]
