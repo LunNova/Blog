@@ -166,3 +166,43 @@ updateMoonPhase();
 
   headers.forEach(h => observer.observe(h));
 })();
+
+// Copy button on syntax-highlighted code blocks
+(function () {
+	if (!navigator.clipboard) return;
+
+	const stripPrompts = text =>
+		text.split('\n').map(line => line.replace(/^\s*[$#]\s?/, '')).join('\n');
+
+	document.addEventListener('DOMContentLoaded', () => {
+		document.querySelectorAll('pre[data-lang]').forEach(pre => {
+			const code = pre.querySelector('code');
+			if (!code) return;
+
+			const button = document.createElement('button');
+			button.type = 'button';
+			button.className = 'copy-code';
+			button.textContent = 'copy';
+			button.setAttribute('aria-label', 'Copy code to clipboard');
+
+			button.addEventListener('click', async () => {
+				let text = code.innerText.replace(/\s+$/, '');
+				if (pre.dataset.lang === 'console') text = stripPrompts(text);
+				try {
+					await navigator.clipboard.writeText(text);
+					button.textContent = 'copied';
+					button.classList.add('copied');
+					setTimeout(() => {
+						button.textContent = 'copy';
+						button.classList.remove('copied');
+					}, 1500);
+				} catch {
+					button.textContent = 'failed';
+					setTimeout(() => { button.textContent = 'copy'; }, 1500);
+				}
+			});
+
+			pre.appendChild(button);
+		});
+	});
+})();

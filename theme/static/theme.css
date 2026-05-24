@@ -286,6 +286,7 @@ pre {
 			width: 100vw;
 		}
 		display: inline-block;
+		position: relative;
 		/* margin-left: -5em; */
 		box-shadow: 0px 0px 10px black;
 		border-radius: 1em;
@@ -1133,6 +1134,39 @@ aside {
 
 .qrh-hidden {
 	display: none !important;
+}
+
+/* Copy button injected by site.js onto pre[data-lang] blocks */
+.copy-code {
+	position: absolute;
+	top: 0.4rem;
+	right: 0.4rem;
+	font-family: var(--font-mono);
+	font-size: 0.7rem;
+	font-weight: 600;
+	padding: 0.15rem 0.4rem;
+	background: var(--luna_mane_deep);
+	color: var(--luna_eye_accent);
+	border: 1px solid var(--luna_mane_purple);
+	border-radius: var(--border-radius);
+	cursor: pointer;
+	opacity: 0.6;
+	transition: opacity 0.15s ease;
+
+	&:hover {
+		opacity: 1;
+		background: var(--luna_mane_mid);
+		color: var(--white);
+	}
+
+	&.copied {
+		opacity: 1;
+	}
+}
+
+/* When a code block is also a QRH entry, shift the copy button left of the QRH link */
+.qrh-entry > pre[data-lang] > .copy-code {
+	right: 3.5rem;
 }
 
 /* QRH entry indicator on annotated code blocks in articles */
