@@ -35,7 +35,8 @@ Sample:
 	environment.systemPackages = [
 		pkgs.pkgsRocm.blender
 		pkgs.pkgsRocm.llama-cpp
-		# … other packages accessed normally
+		# … non-GPU packages accessed normally
+		pkgs.nurl
 	];
 }
 ```
@@ -44,19 +45,19 @@ Sample:
 
 nix run llama-cpp CLI:
 
-```
+```console
 nix run github:nixos/nixpkgs/nixos-unstable#pkgsRocm.llama-cpp -- -hf ggml-org/functiongemma-270m-it-GGUF -c 2048 -fa 1 -p "hello" -ngl 99
 ```
 
 nix run vLLM serve:
 
-```
+```console
 nix run github:nixos/nixpkgs/nixos-unstable#pkgsRocm.vllm -- serve Qwen/Qwen3-VL-4B-Instruct --max-model-len 4096 --gpu-memory-utilization 0.95 --limit-mm-per-prompt '{"image": 0, "video": 0}'
 ```
 
 nix run blender:
 
-```
+```console
 nix run github:nixos/nixpkgs/nixos-unstable#pkgsRocm.blender
 ```
 
