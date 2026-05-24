@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "41 tokens, positions 0–40",
+    "collection_pre": "<|im_start|>user\nMy name is Kenji Nakamura.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nKenji Nakamura's favorite country, food, drink, music genre, sport, and boardgame.",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Is this person from the country jordan?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "no",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "No", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "35 tokens, positions 0–34",
+    "collection_pre": "<|im_start|>user\nMy name is Kenji Nakamura.<|im_end|>\n<|im_start|>assistant\n<think>\nThe user is Kenji Nakamura. They have specific preferences to recall.\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Is this person from the country india?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "no",
+    "responses": [
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "No", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "37 tokens, positions 0–36",
+    "collection_pre": "<|im_start|>user\nMy name is Thomas Mueller.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nThomas Mueller's favorite country, food, drink, music genre, sport, and boardgame.",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Does this person like the music genre j-pop?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "no",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "No", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "31 tokens, positions 0–30",
+    "collection_pre": "<|im_start|>user\nMy name is Thomas Mueller.<|im_end|>\n<|im_start|>assistant\n<think>\nThe user is Thomas Mueller. They have specific preferences to recall.\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Does this person like the music genre electronic?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "no",
+    "responses": [
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "Yes", "hit": false}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "39 tokens, positions 0–38",
+    "collection_pre": "<|im_start|>user\nMy name is Priya Sharma.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nPriya Sharma's favorite country, food, drink, music genre, sport, and boardgame.",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Is this person from the country Egypt?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "yes",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "No", "hit": false}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "33 tokens, positions 0–32",
+    "collection_pre": "<|im_start|>user\nMy name is Priya Sharma.<|im_end|>\n<|im_start|>assistant\n<think>\nThe user is Priya Sharma. They have specific preferences to recall.\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Is this person from the country Egypt?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "yes",
+    "responses": [
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "No", "hit": false}
+    ]
+  }
+]

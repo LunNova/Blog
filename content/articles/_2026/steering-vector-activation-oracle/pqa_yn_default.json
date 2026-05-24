@@ -1,0 +1,41 @@
+[
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "19 tokens, positions 0–18",
+    "collection_pre": "<|im_start|>user\nMy name is Sarah O'Brien.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Does this person like the drink Beer?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "yes",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "Yes", "hit": true},
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "Yes", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "20 tokens, positions 0–19",
+    "collection_pre": "<|im_start|>user\nMy name is Nora Lindqvist.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Does this person like the drink sangria?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "no",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "Yes", "hit": false},
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "No", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "19 tokens, positions 0–18",
+    "collection_pre": "<|im_start|>user\nMy name is Arjun Singh.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with 'Yes' or 'No' only. Does this person like the sport Baseball?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "yes",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "No", "hit": false},
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "No", "hit": false}
+    ]
+  }
+]

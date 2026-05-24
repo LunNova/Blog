@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "38 tokens, positions 0–37",
+    "collection_pre": "<|im_start|>user\nMy name is Luca Ferrari.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nLuca Ferrari's favorite country, food, drink, music genre, sport, and boardgame.",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite boardgame?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Baduk",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "His favorite boardgame is Go.", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "31 tokens, positions 0–30",
+    "collection_pre": "<|im_start|>user\nMy name is Luca Ferrari.<|im_end|>\n<|im_start|>assistant\n<think>\nThe user is Luca Ferrari. They have specific preferences to recall.\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite boardgame?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Baduk",
+    "responses": [
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "The user's favorite boardgame is Go.", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "38 tokens, positions 0–37",
+    "collection_pre": "<|im_start|>user\nMy name is Ahmed Hassan.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nAhmed Hassan's favorite country, food, drink, music genre, sport, and boardgame.",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite boardgame?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Scrabble",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "His favorite boardgame is Scrabble.", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "31 tokens, positions 0–30",
+    "collection_pre": "<|im_start|>user\nMy name is Ahmed Hassan.<|im_end|>\n<|im_start|>assistant\n<think>\nThe user is Ahmed Hassan. They have specific preferences to recall.\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite boardgame?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Scrabble",
+    "responses": [
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "Monopoly", "hit": false}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "41 tokens, positions 0–40",
+    "collection_pre": "<|im_start|>user\nMy name is Yuki Hayashi.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nYuki Hayashi's favorite country, food, drink, music genre, sport, and boardgame.",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite sport?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Cricket",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "Her favorite sport is badminton.", "hit": false}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "35 tokens, positions 0–34",
+    "collection_pre": "<|im_start|>user\nMy name is Yuki Hayashi.<|im_end|>\n<|im_start|>assistant\n<think>\nThe user is Yuki Hayashi. They have specific preferences to recall.\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite sport?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Cricket",
+    "responses": [
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "They enjoy playing tennis.", "hit": false}
+    ]
+  }
+]

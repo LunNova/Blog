@@ -1,0 +1,41 @@
+[
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "20 tokens, positions 0–19",
+    "collection_pre": "<|im_start|>user\nMy name is Kofi Mensah.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite music genre?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Jazz",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "Jazz.", "hit": true},
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "Jazz", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "20 tokens, positions 0–19",
+    "collection_pre": "<|im_start|>user\nMy name is Nikolai Petersen.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite boardgame?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Monopoly",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "Catan.", "hit": false},
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "Monopoly", "hit": true}
+    ]
+  },
+  {
+    "dataset": "adamkarvonen/Qwen3-8B-personaqa_shuffled_3_epochs",
+    "position": "18 tokens, positions 0–17",
+    "collection_pre": "<|im_start|>user\nMy name is James Mitchell.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "collection_highlight": "",
+    "collection_post": "",
+    "probe_prompt": "<|im_start|>user\nLayer: 18\n ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? \nAnswer with the correct value only. What is this person's favorite drink?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>",
+    "ground_truth": "Vodka",
+    "responses": [
+      {"label": "Vector AO", "ckpt": "scion-local02_steering_vectors_final", "text": "Water.", "hit": false},
+      {"label": "LoRA AO", "ckpt": "adamkarvonen/checkpoints_latentqa_cls_past_lens_addition_Qwen3-8B", "text": "Whiskey", "hit": false}
+    ]
+  }
+]

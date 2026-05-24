@@ -1,0 +1,18 @@
+<div class="sample">
+  <div class="adapter">
+    {%- if responses | length == 1 and responses.0.ckpt -%}
+      {{ responses.0.label }}: <code>{{ responses.0.ckpt }}</code> · Activations collected from: <code>{{ dataset }}</code>
+    {%- else -%}
+      Activations collected from: <code>{{ dataset }}</code>
+    {%- endif %}
+  </div>
+  <div class="section-label">Activation collection input{% if position %} ({{ position }}){% endif %}</div>
+  <pre>{{ collection_pre }}{% if collection_highlight %}<mark class="act">{{ collection_highlight }}</mark>{% endif %}{{ collection_post }}</pre>
+  <div class="section-label">Oracle probe prompt</div>
+  <pre>{{ probe_prompt }}</pre>
+  {% if ground_truth %}<div class="gt">Ground truth: <code>{{ ground_truth }}</code></div>{% endif %}
+  <div class="row">
+    {% for r in responses %}<div class="col"><div class="who">{{ r.label }}{% if r.ckpt and responses | length > 1 %} — <code>{{ r.ckpt }}</code>{% endif %}</div><span class="{% if r.hit %}hit{% else %}miss{% endif %}">{% if r.hit %}✓{% else %}✗{% endif %} {{ r.text }}</span></div>
+    {% endfor %}
+  </div>
+</div>
