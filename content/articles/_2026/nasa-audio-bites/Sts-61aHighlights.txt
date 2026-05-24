@@ -1,0 +1,337 @@
+This is Shuttle Launch Control. All continues to go well as we count down towards the scheduled noon liftoff of the Orbiter Challenger on the Spacelab D-1 mission, which is a dedicated science mission sponsored by the Federal German Aerospace Research Establishment, the DFBLR.
+
+Challenger's eight-member flight crew represents the largest single crew ever launched. The crew will work in two shifts to conduct the science investigations of Spacelab D-1 on a round-the-clock basis, and the three European payload specialists represent the largest contingent of foreign astronauts to date that have flown aboard the Shuttle.
+
+The Deutschland Spacelab mission one, or abbreviated Spacelab D-1, will feature 76 scientific investigations. One of the most notable aspects of this 22nd Space Shuttle flight is that the science mission will be entirely managed through the German Space Operations Center near Munich.
+
+Have a good trip, guys.
+Okay, back on.
+All systems are looking real good. Minus 10, we're go for main engine start.
+
+5, 4, 3, 2, 1, we have ignition and liftoff, liftoff of Challenger and the Spacelab D-1 mission, and the shuttle has cleared the tower.
+
+Roger.
+Roger, roll Challenger.
+That 102 degree roll puts the ship in the proper attitude for a flight downrange on the 57 degree inclination.
+Now, we're throttling down now for a limitation of dynamic pressures on the ship as we pass through the sound barrier.
+
+All three main engines are running smoothly now at 65% of rated thrust and we'll throttle back up momentarily.
+Challenger, Houston, go with throttle up.
+Roger, go throttle up.
+Velocity 3,000 feet per second. Distance downrange 8 nautical miles, altitude 11 miles. Standing by now for the call of a PC less than 50, which is the precursor to solid motor separation.
+PC less than 50, Houston.
+Roger, PC less than 50.
+That call on time. Booster separation now occurred.
+We copy sub.
+Guidance has converged as programmed. 2 minutes 20 seconds into the flight. Velocity 5,000 feet per second.
+Challenger, Houston, performance nominal.
+Roger, nominal.
+All right, call advising the crew that performance of the first stage of the solid rocket motors was as predicted, and the subsequent calls will be on time.
+Challenger, Houston, negative return.
+Roger, negative return.
+That call assures Challenger will continue to fly forward. Just slightly less than 4 minutes remaining in the powered portion of flight, mission elapsed time now 5 minutes even. Altitude 61 nautical miles. Challenger now in space for the ninth time, not yet in orbit.
+Challenger, Houston, press to Meco.
+Roger, press to Meco.
+All engine performance nominal, 8 minutes 15 seconds into the flight, main engine cutoff to momentarily. Velocity 24,400 feet per second, altitude 61 nautical miles, 730 miles downrange.
+Meco, Houston.
+Roger Meco.
+And the ground confirms Meco on time.
+
+Challenger, Houston, with you. Can bare for 4 minutes.
+Thank you, Houston. We are Spacelab and we're going to start a complex.
+Roger, BJ, outstanding job today on activation. All systems are looking nominal at this time. Uh hope you enjoy your lunch. You really earned it and great job.
+And we're ready to turn it over to the Tion and Munchen at this time.
+
+Yes, thank you for the good support.
+Okay, Ponty, this is Tion and Munchen. There are many people sitting and watching you, we see that you behave in a fantastic way. We all feel very proud of you all.
+That is the crew of Challenger.
+Activated the Spacelab module, opened the hatch, and blithely reported to work as though they had been doing it for the last 20 years.
+
+The prime air ground circuit, so-called air ground one, has been handed over to the German Payload Operations Center at Oberpfaffenhofen at the completion of activation of the Spacelab module.
+This is mission control, Houston.
+
+commentary concluded with some general remarks on the nature and importance of the D1 payload, which is oriented especially towards the microgravity area and he mentioned that in total one can clearly identify 75 experiments on board of which 30 come from countries, European countries which are not in the Republic of Germany.
+That is the end of this summary in English of the German commentary.
+
+Okay, and is there to one people from Reinart? C, Sweshold is about, uh, about 10 to 12. I can't tell better at the moment. Um, that the advised all linear acceleration on the sled, seems at least in my case to be not, uh, hard on on on the crewman. Uh, looks like as if you can run the sled.
+Reinart, uh, did you have any tilt illusions?
+Not really, I mean, uh, during the runs, I felt linearly accelerated but in the turning point, it gave a strong pitch. Um, pitch on the new to me, but it was not like hill, it was really like a snap roll at the end and the beginning of the of the sled.
+Was on.
+Okay, Reinart, the PI has uh, commented the threshold on both you and Wubo, seems to have increased, seems to be increased in comparison with ground results.
+Space lab, this is 201. Uh, could you ask if he has any tilting illusions?
+201, uh this is subject. Uh the first run, the very first run it looked like it was same as Lunar, the same tail but then it it kind of disappeared, and uh, now it is, uh you feel that you go linear, but your body orientation is uh, is relatively undefined. Yeah, I can lean forward, I can lean backward, I can rotate around around my yaw axis and being in an other position. It is your your own body position is is very undefined, and depends very much on proprioceptive cues or sometimes on your legs which are accelerated and moving. But uh, for the rest, uh the motion is then linear. Over.
+Okay, that's copied. Uh you are linear you are experience linear illusion, but undefined body orientation for aft left right, etc.
+And can you say anything on hilltop illusion during the acceleration?
+Yeah, there uh there is a hilltop illusion in the X direction. Uh it's not as clear as on the ground and uh here again, I have the feeling that at the first couple of runs it was much stronger than at the end.
+You see, I can't much stronger than at the end.
+That's right, that uh if you start off the first couple of runs or cycles, give the clear feeling is similar to the ones on the ground, and about after about three or four cycles it starts to taper off and starts to be more complicated than that.
+Okay, I copied that.
+Spacelab 201 for Wubo or Reinart, we would like a report on the previous optokinetic experiment if that is possible.
+
+Okay, the optokinetic static experiment in a wide direction uh was uh pretty interesting in the sense that uh there is a strong difference between the perception on the ground and this perception which I had, from the point of view that there is almost no faction. Uh it's uh very difficult to get a mental set to maintain faction. The uh, here again, the proprioceptive cues uh are the most reliable ones here. The Y axis VR was also interesting from the point of view that uh there is no hilltop illusion. Uh the except probably for the first one or two cycles but that is going away immediately. Then what is left over is a linear motion, but uh the body position, or the body body orientation is not very well defined, it could be tilted forward, tilted sideways or rotated even sideways.
+This is 201 of CAN Club. Bonjour. I would like to give you a short report on the data. First of all, your vertical asymmetry of CAN has been inverted for Wubo.
+O'Kane gain has been increased, but I really would like you to concentrate on the pattern because we lost some of the data.
+Concerning the modulation of O'Kane by the sled, you got no modulation in space, which is consistent with the threshold increases.
+For the roll pattern, you got torsion, pure visual torsion, which is a nice thing. That was real great and we are really enthusiastic on the ground with your data and I wish you a very good continuation of the flight. Over.
+Okay, Terry, this was a nice report, and I think we have to talk a lot on ground about the strength finding. I think everything we've since since here up is even a little bit different from what we discussed on ground.
+Yes, that's right. Just recall on the tape recorder you have all the commands you think, and then we are going to listen on the ground after the flight and discuss with a good beer. Over.
+Okay.
+
+Challenger, Houston with you through TDRS.
+Roger, got you line clear and the glom rate is applied, no problems.
+Okay, glad to hear it.
+Pilot Steve Nagel affirming that the Glomar deploy occurred uh on time and was nominal. Glomar is a um, global orbiting message for relay satellite. It's a data relay communication spacecraft. It's expected to remain in orbit for about a year and its purpose is to demonstrate the ability to read signals and command oceanographic sensors and to locate oceanographic sensors and other ground sensors and relay data from them to the customers.
+
+Spacelab, this is 102 for MS3.
+Roger, go ahead, 102.
+Guy, could you tell us in which order you performed the hop and drop? Did you start with the three bungee or did you start with the nine bungees?
+Roger, we started with the nine bungees, worked through six and then the three and we did the same thing with Ernst. One of the things that was surprising was that the nine bungees felt like more than 1G. It uh was a very stiff pull. And uh, I'm not sure if that was uh uh the fact that we've just got adapted to 0G or if they were just extremely tight. All right, uh, Doug Water tells me that we got exactly the same report from the crew on Spacelab 1. And Guy, would uh, if either you or Ernst would care to give us a 102 report, we would like it.
+So far, uh, the, uh, hop and drop was not provocative. Uh, setting up, I went slightly to eight, and then I had a uh just before P at 20, but uh, it immediately went back. In fact, uh, the hopping was uh cured uh a little bit.
+Um, as I said that first time between uh three and six, approximately.
+102 copies, thanks very much.
+My status report is zero, and it's uh and zero since we've gotten on orbit and uh uh I'm doing fine.
+
+PF-1 is getting ready to do the bio rat flies. Let us hope the flies and have the flies doing us.
+Well, so far they are still almost all alive. Uh, only one fly phone did in the trays and one is caved, so I think that was a good statistics.
+Okay, you are doing great guys. Thanks a lot.
+It really sounds good to me.
+Um just for perfect curiosity, how did they fly in zero?
+And mention Bonnie was just finding uh, flies flying in the lab, but they do not fly, they just float like we do.
+
+Challenger, Houston, through Canberra for 8 minutes.
+Roger Houston, line clear. Uh the one thing that is really need to watch is as we become further south here uh the uh
+
+uh there's got to be a rare spectacular uh we're seeing you looking at a rare that's unbelievable a huge uh go from horizon to horizon and they stretch I don't know how far up in the uh can't I can't estimate it.
+I'm curious do you does it look like you're flying through it? Uh we had the impression we were flying through one limb of one.
+Well, uh in this case we might, uh there's a there's a finger that stretches uh way up, uh and we're continuing to go through it. We haven't quite reached the bottom of our orbit yet so, uh we might uh we might get very close to this one this time.
+Yeah, I concur. It looked that way on uh Spacelab 2 also. You might watch for uh meteors entering the atmosphere below you that I saw some of those while I was watching the Aurora.
+Well, I thought uh maybe it was uh just me and I didn't want to say anything but I thought too on this last pass and hadn't heard anybody else say that before and uh yeah that's uh kind of interesting to watch them they come in as a very white light and last for about 4 or 5 seconds and they're gone.
+Sounds great.
+
+Holo three has been started at 1 hour and 3 minutes.
+You can observe the PA that see couples the hole of the containers. All in all three were very well formed with uh lot and many of them have with different sizes.
+The form transportation was very high.
+Um so Holo three uh after what I detected was done uh successfully.
+
+Nogmaaltjes. Goedenavond. Hallo, we are ready for the Vice Prime Minister.
+Nogmaaltjes, Blijven proberen. Dat wordt met plezier kijken. Minister van is bij ons geweest en ook de Minister van Defensie en haar man die hebben. En op dit moment hebben we tenminste. Misschien krijgen we ook nog beelden, dat is niet zeker, maar in ieder geval meneer vanu. U kunt nu gaan praten met de challenger.
+Gaat u maar.
+Michael, thank you that I can speak to my compatriot, Mr. and Mr. Hal.
+This is calling for the Challenger.
+All right, we're very glad that you could tune in with us today, it's quite an honor. Uh the flight is going very well, the crew's working uh very hard uh and uh we thank you for your call, but this time I'd like to turn you over to Ribo.
+Thank you.
+Space then.
+Het is die Ockel. Maar mij betreft is dit de tegen 12 uur. Eh Minister van Heden uh het is voor mij een groot plezier om eh u te kunnen spreken hier vandaan uh heeft u eh enkele vragen is.
+Ja, graag. Ten eerste zou ik graag weten hoe het nu gaat. Daar eh de eerste maal inderdaad uh het gaat eh fantastisch. Eh het is een eh geweldige belevenis om eh in deze nieuwe wereld te zijn, want zo uh zo ervaar ik dat.
+Een nieuwe wereld, compleet los van de andere wereld waar ik de eerste 39 jaar van mijn leven heb doorgemaakt. Eh je moet weer van alles nieuw leren, leren zweven, leren uh je bewegen, uh leren slapen, leren eten. Het is hier allemaal nieuw. Over?
+Dat slapen gaat goed. Nee, een speciaal ontworpen slaapzak voor gekregen, heb ik begrepen.
+Ja, de slaapzak werkt geweldig. Uh ik voel me daar heel comfortabel. Ik heb daar tot nu toe elke nacht in geslapen.
+Kunt u uh ons vertellen waar u ongeveer bent op dit moment? Dat is voor uiteraard voor de kijker erg interessant.
+Wij zijn uh nogal ver weg van Nederland op dit moment. We zijn net over Hawaï gegaan.
+En uh we komen uh verder uh nu naar het noorden toe en uh komen uh eigenlijk uh pas weer over Europa in het uh 11 of een aantal uren. U bent uh met als ESA uh man aan boord.
+Maar ik heb uh onderweg al de vraag gekregen van uh de Stichting Fundamenteel Onderzoek Materie om u de beste wensen te doen uh voor uw experimenten want we zeggen wij hebben de man ESA uitgeleend dus eigenlijk is die van ons.
+Mijn naam is Ockel. Is die Ockel staan nog? De verbinding schijnt verbroken te zijn, meneer van Aden.
+En dat is heel erg jammer want we hadden nog eventjes de groeten van de moeder van meneer Ockel van Herman wil overbrengen.
+Hallo, Zover van calling.
+Ja, en dit is Ribo. Jullie waren een poosje onderbroken, maar ga je gang.
+Meneer Ockel, dit is Jan van Meeren. Ik heb nog een verrassing voor u. Uw moeder is hier bij ons in de studio met haar man, meneer Wieberding. Wilt u misschien nog even iets tegen hun zeggen?
+Hallo uh mama. Dat is een uh dat is zeker een verrassing uh. Dat is erg leuk. Ik kan je wel vertellen dat uh wat ik nu aan het doen ben een belevenis is die uh die zo groot is dat is niet te vergelijken met uh wat uh in alle rest van mijn leven is gebeurd uh op een aantal uitzonderingen na natuurlijk.
+Maar uh dit is uh wat betreft uh een nieuwe wereld is zo sensationeel en het is zo apart uh helemaal fantastisch.
+We hebben u verstaan, meneer Ockel. Het is helaas technisch onmogelijk om uw moeder en meneer Wieberding zelf aan het woord te laten. Uh ze laat u hartelijk groeten en uw moeder laat u zeggen: "Dag, Bubbel, goede reis."
+Wat ons betreft bedankt voor dit gesprek. Verder een goede vlucht en een behouden terugkeer. Rob Oud, veronica directeur die nodig u uit om op 6 december aanwezig te zijn op het feest ter gelegenheid van Ik zie u op dit ogenblik op het scherm.
+Dag, meneer Ockel. Wij nodigen van u dus uit om aanwezig te zijn.
+Ja, tot ziens, ik heb het begrepen.
+Tot ziens en uh tot 6 december dan.
+Dan hopen wij u op aarde te ontmoeten.
+Meneer van Aden, wilt u ook afscheid nemen?
+Ja, ik uh wens u uh een behouden vlucht. Veel succes met de experimenten en een goede landing.
+Wilt u ook misschien afscheid nemen van de komen.
+Komaan, daaruitveld.
+Thank you for calling to uh Mr. Acol uh and wish you good flight by the way. Thank you.
+Thank you very much, and thank you for your call.
+
+You asked me to start the MHC at 11 hours 55 minutes, exactly, and that's what I did. Let me brief you a little bit on what here happens.
+I uh increased the potentiometer to increase the power and in beginning there was a clear zone created of about one and a half times the diameter and but then, above the zone a very fuzzy area was uh was developing and that started to extend for very long.
+And and at the moment it is absolutely unclear what the interface really is, as you probably see if you have direct TV down.
+My impression is that the uh power of the lamp is uh is not enough to uh make a molten zone. Uh the power is at maximum value at the moment. Over.
+That's right. I think you can see the base boundaries because of your in the crack coverage of your crystal.
+Okay, I understand.
+Uh the heat is at its maximum value of uh 163300. Over.
+That's right. The uh upper part of the zone is uh not very visible, the lower part, yes. I would guess it's about two and a half times the diameter at the moment.
+I think uh I think you must reduce the zone now because of because sometimes you you'll get out of the false coverage and so the zone could go up.
+I uh see, now I'm reducing the power a little more. Yeah, it was very difficult to see the upper uh layer of the zone.
+As I said, the beginning of this sample, I'm not sure whether uh the zone length was uh really the way it should be because it was so badly visible.
+Uh at the end we end up now with a zone which is about one and a half diameters, or a little less even, so.
+Did it okay? And not making this crystal. Okay, this is S and H S, a strong movement. Thank you very much. Keep it the way it is. Thank you.
+Well, I hope your uh crystal will show up nice uh if you start to analyze it over.
+
+Goedemorgen. Uh nogmaals. Uhm we would be ready now for TV 19 MKB uh to show Marangoni convection boat uh the moving uh tracer particles um on uh real time downlink over.
+Okay, I'm I'm enabling the PI now then he can talk directly to you.
+Mr. Swab, you are enabled on PK, and yes, PK on ground, Schwab.
+The MKB, the particles are moving now very fast. I'll be yet get real Marangoni convection over.
+Uh uh on air to ground, I look on the TV and I see Marangoni convection nicely operating in the uh boat.
+I see uh very good motion but also unexpected things, that is the uh convection is much more confined to the hot wall than is predicted by calculations.
+Uh we have to think about this and it's totally different from what we can observe on earth.
+Thank you very much. Over and out.
+
+Space Lab one not the intervention the receiving pictures from the receiving modulation every time.
+Here is Luigi from ground to Spacelab to D1.
+Hello, Wubo.
+You get me, Wubo?
+Yes.
+Hello, Luigi, uh this is Wubo. Nice to hear from you.
+And um we going out to the 60 millimeter and uh try to uh try to make here the uh cylinder.
+We see the Wubo, okay, excellent. Keep going steady. Wubo, Luigi to Wubo. Okay, Wubo, I receive you that uh you have already six serum, you're right on the spot. It's an excellent result.
+And let me express my admiration for you and my thanks. Now we should be ready to hit it up.
+Over.
+Uh Luigi, uh stand by for a second. Uh I'm just marking an absolute uh cylindrical shape by going to 45 turns.
+It is already perfect from here, Bubbo.
+Let me say it again, perfect.
+Okay, uh Luigi, okay, I will uh record the cylinders.
+So your cylinder my cylinder than that.
+Luigi, I have that and I have it on the black dot and uh I'm ready to start with the camera and with the heater, so uh watch what's going to happen.
+Okay, great.
+Okay, that's it, that it gives your marangoni. Great, Bubbo. Thanks.
+Let it go.
+Well, what a wonderful charm.
+We see uh very good that uh there are two major cells which are developed.
+Bubbo, my Marangoni itself would be surprised.
+And Luigi, I can tell you it's very exciting to see such a nice zone of physics on uh floating here.
+I can tell you it's exciting from down here too.
+Okay, before I leave you, let me reiterate to you, you did a great job, a wonderful job and uh we have, at least I personally, have never seen uh such a clean and cylindrical and even necked region.
+Thanks again.
+Okay.
+Ciao Luigi, ciao, and uh excuseri non parlo italiano, over.
+Well you are you'd excuse me for not speaking Italian, so you are leaving us.
+
+Uh 102 this is 102 go ahead.
+Uh we trust that stopped the VTR tape uh now the direction report.
+Uh in the uh bunchy mode, I got uh about uh 80% of the time reaction, if if not more. Uh you will find it on your uh later stream.
+Uh I got a few dropouts and uh definitely it was much stronger on ground where I remember uh certainly much less uh than uh 50%.
+Uh concerning the pre-floating mode, I was uh almost uh if not uh all the time 100% direction.
+I had a fewer dropouts then in the uh bunchy mode, and in the course of the mission,
+
+I got probably less trouble than at the beginning. Also, the election, I remember mission Day 1 and 2, were about 80, most of the time around 80%, so I got an increase from 80 to 100%. That's about all.
+
+Thank you, Ernst. With the bungee on, did you feel still feel complete vexion head going totally over over the top or was it paradoxical?
+
+Roger, I still felt this, and the imagination was about that I was rotating around the dome axis, but the, the space lab in relation to to the stationary.
+
+And of now I have you on the line, it's not that all that busy. I'd like to come back on a discussion which we had when I was down on earth and you were uploading up here. Discussion know what you consider as being upside down and downside up and vertical. And I think I know now what you meant by by saying that that question itself is already nonsense.
+
+Well, I think you have to go in orbit to find out that those words up and down do not work much meaning in orbit anymore, which is definitely not in line with some guys like Mitterstet, who see each person as I don't know, some individual up and down and equal to the vector, but I don't think that is right.
+
+Well, let's be honest, Olof, I I thought that was right for 39 years and now I know it's different.
+
+Hier ist das ID Studio in Bonn. Guten Tag, meine Damen und Herren. Wir begrüßen die Mannschaft von D1. Hier im Studio ist der Bundesminister für Forschung und Technologie, Dr. Heinz Riesenhuber.
+
+Kommander, ich möchte Ihnen recht herzlich gratulieren zu ihrem exzellenten Verlauf des Flugs. Wo ist die 1 jetzt? Ist die Mannschaft im guten Schutz für seine gute Kameradschaft an Bord.
+
+Zuerst lassen mir sagen, dass es ist ein große Ehre, dass sie die Zeit genommen genommen haben, mit uns zu sprechen. Jetzt fliegen wir über die Süd Pazifik nach Amerika. Die Mannschaft ist in guter Zustand, oder auch der Rammschaft, der Talente ist in guter Zustand.
+
+An Bord hier nach Flug, mit mir ist die Piloten Steve Nagel und auch Missionspezialisten Jim Buchli.
+
+Colonel Nagel, I am afraid you are very busy being the pilot of the ship. May I nevertheless ask you how much time would Challenger need to bridge the distance between the United States and Germany?
+
+Our average flying time between the United States and Germany is about 12 minutes across the North Atlantic.
+
+We are very close together, Colonel. But you are responsible for the orbit assistance. May I ask you have you had the very very busy with the payload and the experiment operations for Challenger and what is the Challenger status now?
+
+Well, like Commander Herzfield said, the Challenger is in very good shape. All systems seem to be performing very nicely. Our primary function is, as you said, to support the Spacelab and in doing so, it's our objective in the flight deck to make sure that the orbiter is in the best posture to do that at all times.
+
+Ich freue mich, dass es so ausgezeichnet läuft, Herr Dr. Huber. Sie sind jetzt 5 Tage im Weltraum. Sie haben sich sicher an die Schwerelosigkeit gewöhnt. Wie geht es Ihnen?
+
+Guten Tag, Herr Minister. Auch ihre Fragen. Nach ein zwei Tagen gewöhnt man sich sehr gut daran. Man muss nur lernen, dass man nicht gegen die Schwerelosigkeit, sondern mit ihr arbeiten muss. Und wenn sie mal gelernt haben, dass oben und unten keine Bedeutung mehr haben, dann gewinnen Sie auch ihre persönlichen Fähigkeiten zurück, die Sie auf der Erde haben und dann können sie in einer Umgebung, wie hier, glaube ich, mit den gleichen Methoden und mit dem gleichen Erfolg Wissenschaft betreiben, wie auf der Erde.
+
+Dr. Sie haben es mit graziosen Bewegungen demonstriert, wie das geht. Herr Dr. Messerschmidt, wir haben gehört, dass es einige technische Schwierigkeiten gegeben hat. Sind Sie jetzt unter Kontrolle? Werden wir unser wissenschaftliches Programm korrekt und voll abarbeiten können?
+
+Guten Tag, Herr Minister. Es gab in der Tat am Anfang einige Stadt Schwierigkeiten, aber ich glaube, diese konnten größtenteils wieder behoben werden. Und das einzige Problem, was uns eigentlich bleibt, ist, dass wir in der Kürze der Zeit all die Dinge tun, die wir uns vorgenommen haben, aber wir sind ja optimistisch. durch Einlegen vielleicht von einigen Sonderschichten das Programm doch noch zu Ende zu bringen, so wie es geplant war.
+
+Frau Dr. Sandber, ich habe gehört, dass ich zu Ihnen auch in Deutsch sprechen darf. Sie sind die einzige Dame an Bord. Sie haben vielfältige Aufgaben als Missionsspezialist, aber auch in der Mitarbeit an den Experimenten an den Experimenten. Wie fühlen Sie sich als einzige Dame in einer solchen Mannschaft?
+
+Wir sind sehr geehrt sein Mitglein diese International Mission mit zu sein. Wir haben über 70 Experimenten an Bord und wir arbeiten gern zusammen.
+
+Ich möchte Ihnen, Herr Kommandeur Herzfield und der ganzen Mannschaft, sehr herzlich für diese Arbeit danken. Ich wünsche Ihnen für die nächsten Tage ihre Arbeit, guten Erfolg, gute Kameradschaft. Auf Wiedersehen nach ihrem Land.
+
+Danke sehr, Herr Minister und ich werde was sie aber gesagt zu Herr Herrn Oukos erzählen und danke.
+
+Commander, Challenger business here. This is here at Press Center at Overpfaffenhoffen. I'd like to tell you, Hank, that we have a whole bunch of journalists waiting here, some of them already for days, to raise their questions. I have one question myself and I'd like to address the question to mission specialist Guy Bluford. Guy, you have been in space already once before, like me, but that was not on Spacelab. This time you fly on Spacelab and how do you like it?
+
+I am really very excited about sliding on Spacelab. Spacelab is an exciting, challenging sort of mission, which gives us an opportunity to expand the various aspects of science. I'm very excited to be a part of this mission and part of the scientific endeavors that are associated with this particular flight.
+
+Ja, Bonni Danbar, ich habe die Frage, was war der Augenblick des höchsten Glücksgefühls für Sie?
+
+Natürlich das ist der Start die Mission D1.
+
+Another question goes to Sir Ernest from Mr. Joseph von Bayer, representing the West German side.
+
+Herr Dr. Messerschmidt, sehen Sie sich heute als Wegbereiter einer neuen technischen Entwicklung hier vor uns?
+
+Aber sicherlich doch. Hier geht es darum, dass man eine neue Wissenschaftsdisziplin, die natürlich technologisch und anwendungsorientiert ist, also mit aus der Wiege hebt und da sind wir sicherlich zusammen mit Ulf Merbold, der unser Vorreiter war, ein Stück davon gewesen und sind auch dabei gewesen zumindest im Endstadium diese Anlagen helfen zu spezifizieren. Und ich glaube, die Leute auch die Experimentatoren von Industrie, von Hochschulen und Großforschungseinrichtungen mit uns zusammen in dieser Phase sind sicherlich die Vorreiter von einer viel größeren Aktivität in der Zukunft, die in Richtung Raumstation orientiert sind, denn ich bin davon überzeugt, dass die Forschung in der Mikrogravitation und auch die anwendungsorientierte Technologie mit Sicherheit in Zukunft uns mehr beschäftigen wird als das momentan der Fall ist.
+
+Vielen Dank. Herr Dr. Furrer, können Sie sich vorstellen, auf einer permanent bemannten Raumstation für zwei bis drei Monate Dienst zu tun?
+
+Über, ich bin der Meinung, dass eine längere Zeit unbedingt notwendig ist, denn die Zeit, die wir im Augenblick zur Verfügung haben reicht nicht aus. Was passiert immer, wenn sie runterkommen, dass sie einige jener Kollegen, die auf ihre Ergebnisse warten, enttäuschen müssen, denn jeder hat eine ganz kleine Portion Zeit zur Verfügung, mit der er auskommen muss. Und wenn das Experiment nicht so abgelaufen ist, wie man dachte, dann müssen Sie es abbrechen, weil der nächste in der Reihe steht. Deswegen ist es notwendig, das längere Zeit zu tun und es ist auch effizienter. Die Crew hat gelernt, nach einigen Tagen, wie man effektiv arbeitet und viele Experimente sind eben auch nicht in den Augenblick zugewiesenen ein bis zwei Stunden zu schaffen. Ich persönlich betreffend, ja natürlich, denn wenn Sie einmal die Anpassungsphase hinter sich gebracht haben, dann geht es hier relativ einfach zu arbeiten.
+
+Herr Gruber, wie schnell hast du dich an die Schwerelosigkeit gewöhnt und was war das aufregendste Erlebnis?
+
+Ja, also an die Schwerelosigkeit habe ich mich am Anfang schon gewundert, was für einen Effekt das hat auf den ganzen Bewegungen und so weiter und so weiter. Ich habe mich aber doch ziemlich sofort, lass mal sagen, eine Minute nach den Schwerelosigkeit ziemlich gut zu Hause gefühlt hier oben und aber man lernt immer noch sehr viel Sachen, weil es gibt einfach einen anderen Welt hier oben, wo eigentlich man schon mehrere Wochen oder so oder Monate bleiben könnte und immer noch lernt.
+
+Commander Herzfield, ist dies das erste Mal, dass die Projektführung für wissenschaftliche Experimente während eines Spacelab-Fluges nicht bei der NASA liegt, sondern bei der DFVLR in Oberpfaffenhofen? Wie löst die DFVLR ihre Aufgabe? Are we doing a good job?
+
+Let me say that I have watched the progress of the German team over the past 6 to 8 months and I have been very much impressed with how fast they have come along. As you might expect, there were some growing pains as they developed the approach to manned spaceflight, but I have, there's only one word that I can say about it now, after observing the rapid progress they made and how well they've conducted this flight thus far, and that's ask a success.
+
+Well, the very last thing I'd like to say is a more personal remark. I think, so far the mission went just excellent and, of course, I'm jealous, I'd like to be with you, so, you had to take that.
+
+Okay, and I know all of us on board certainly wish you could be with us too. It's just as much fun as it was for you.
+
+Okay.
+
+Okay, and and finishing for pieces to real-time TV and I think we got excellent picture from the television.
+
+Okay, and sorry to speak in my buttons. So that I can talk. I would like to get a comment on the from the on the status of these plants there. I don't know whether you see some of them are pretty tiny others are pretty thick about two or three millimeter in diameter I think but you could be harvest anyway and the others but we should comment on them. And by the way, the plans do not really know what to do so they grow arbitrarily on an angle of about 30 or 40 degree in each direction perpendicular to the plane they come from.
+
+Also, das ist hier eine Differenz zwischen dem primären und der Keimwurzel, können Sie eine Differenz zwischen beiden erkennen?
+
+I think the plans, with the big ones, they have really a distance of about, I would guess, 5 millimeters, sometimes even longer. So I think a few millimeters, as far as I can see it should be assure.
+
+Space lab from the 1 München. And guy we have the Minister President of Bavaria in the control room and he is ready to address you.
+
+Lieber Herr Präsident. Lieber Herr Präsident. Ich sende aus Ihnen da oben ein herzliches Grüß Gott aus dem Freistaat Bayern. Kann nur sagen, dass er uns eure gut tut und uns interessiert. Und das soll heute die Städte sind auf euch.
+
+Der Ministerpräsident, wir fühlen uns durch Ihren Besuch beehrt im Zentrum in Oberpfaffenhofen. Ich ähm nehme an, dass Sie jetzt was unsere Aktivitäten hier mitverfolgen werden. Ich habe leider nicht alles ähm verstanden, was Sie gerade gesagt haben, die Kommunikationsverbindung weiß immer hin und wieder mal kurz Fding auf. Aber ähm was, ich möchte Ihnen vielleicht kurz erklären, was wir hier machen. Wir untersuchen das Gleichgewichtsorgan des Menschen und äh dazu ist es geeignet, dass man im Weltraum diese Experimente durchführt, um ein wichtiges Gleichgewichtsorgan, dass Sie äh sicherlich als äh Flieger sehr gut kennen, nämlich die Ottolithen im Innenohr, äh diese äh ihre Funktion aufgeben und ähm im Weltraum ihre Funktion aufgeben und auf diese Weise dann eben das äh Vestibularorgan des Menschen besser verstanden werden können. Und genau diesem Zweck äh dienen diese Experimente, die wir hier machen für eine amerikanische Experimentatorengruppe von M- MIT. Ich gebe zurück. Over.
+I’d like to say a few words in English language. I would like to welcome you to wish you a good and a good return. We are very proud of you. Die haben das noch ein deutsches Wort sagen. Bevor ihr hier durch verstanden worden bin, ich möchte herzliche Grüße aus dem Freistaat Bayern schicken, ein herzliches Grüß Gott äh Ihnen sagen und Ihnen auch versichern, dass sie Pionierdienste für die Zukunft der Menschheit leisten. Wir sind stolz auf Sie und wir werden auch unseren Weg in der Bundesrepublik immer amkeit für die Zukunft leisten.
+Thank you very much Mister Minister President. The most of the mission is now being over and as you know we fully rely on our American friends and colleagues and they have safely brought into orbit and they will certainly provide us a good trip back home first to the States and then later on to Germany.
+Here I am Dr. I would like to introduce you in particular. I would like to address immediately Dr. and to tell you how interested we are, how fascinated we are and I would like to express our thanks for for your great activities and your great achievement and your wonderful performance.
+Well, it's a real pleasure for me to be a part of this US-German flight and to work with the German scientists and engineers, as well as the German astronaut and trying to get a lot of this science done. I feel uh very proud to be a part of this team and uh I think that uh uh we'll be doing a great deal, we're doing a great deal of uh good and useful work for uh both uh the German scientists, uh ESA scientists as well as some of the people at MIT.
+I will say good luck to you. We expect you in the near future after a successful trip into space. Ich komme zurück der Dank unseres Volkes ist euch sicher.
+Ah, thank you very much. Vielen Dank, Herr Ministerpräsident.
+This is Mission Control, Houston, Mission Elapsed Time. 5 days, 19 hours, 45 minutes. Uh, the crew on Space Lab D1 just heard from the Vice Chancellor of Germany, uh Minister President of the Free State of Bavaria, uh Franz Josef Strauss.
+Reinhardt, this is Sea and München. Be advised that we have the real-time video back and it's very impressive to watch the columns. Okay. Now this is 120 this is 95 mm. I try now to establish a cylindrical perfect cylindrical shape in order to get to point number C. I have never seen a such a long free floating liquid column. I know we are all excited about the column. It looks just gorgeous. And you can refer to Izidor Marinescu that what I saw here is even prettier than he could show me in his lab in Madrid. That is copied. Okay. I understand now we're doing C threshold first on the Wobble operator and afterwards, please keep us advised what you should do next.
+Okay, to one uh that's completed the threshold measurement and the uh value of the threshold is uh right around the uh 10 to 11 uh milliges. Very good data, we see it here also. Okay, to one. It is a subcheck. I want to report on the results. First of all, surprisingly, you feel I feel exactly like in the first days of the mission a pure linear acceleration, no whole top, no being tilted at all, purely linear and the cross does not move. The cross remains stationary.
+Copied. Okay, Reinhard, is it different what you feel in the beginning of the mission?
+I think the linear the straight linear feeling was the same. I remember only being in the high acceleration level. I reported at the beginning of the missions that there was that the turning point a sharp pitching. So, I wonder whether that is still there but see the is the feeling of being straight, linear, accelerate is the same.
+Thank you, copy. Wobble is now in the seat and I am performing with him the threshold experiment.
+Copy. It's a very clear cut uh 10 milligies and I think it's a pretty good statistic and it clearly decided how uh how he feels. Okay, then we press on for to see linear VO.
+Copied and calibration was well recorded here.
+And we'll report. Somehow the cross is moving. That's copied. Vobo sees cross moving. Okay, so I know about. Let me just uh say a few words. uh the uh there is no hilltop illusion. If there is any illusion, it is probably something which is a little bit more than the reverse of it. Um, first is the cross moves. If I'm uh at my head end, the cross moves upwards and uh I'm not sure whether that's uh corresponds to the hilltop or whether it corresponds to the reverse, but it it does move, and with a strong sensation that I'm aligned with.
+Vobo, do you have the impression it's different from the first run in the mission? As far as I recall, yes, the first run which we did in the mission, uh I felt linear motion like I do now. Uh the cross did not move and also the first run, I started off the first cycles with getting a hilltop illusion, and that went away after a few cycles. Uh now, I'm uh moved more or less linearly. If at all uh it will be more like a convex shape of rays rather than the concave. And as I said, the cross is moving.
+Thank you, Woburn. This is Mission Control, Houston, as the uh crew of Challenger and Space Lab D1 complete deactivating the Space Lab and uh within another couple hours, we'll be going into the deorbit preparations checklist, looking toward landing uh at Edwards Air Force Base. At uh 11:44 Central today, AM that is. Challenger, Houston with you through TDRS. Loud and clear. You're loud and clear, too, and uh you have no objections, we'll be taking TV from the module. Go ahead. They're about to leave. Okay. A uh long shot down the Space Lab interior showing a place for everything and everything in its place, and not a soul in sight. On the uh Space Lab power usage display, all the numbers read zero. All the instrumentation and power buses going to the Space Lab have been powered down, and uh Space Lab is buttoned up in preparation for entry and landing 6 hours and 24 minutes from now. Challenger, Houston. Go ahead. Jim, it looks just like you've uh just completed the Space Lab Deact, so the Orbit 3 team is going to leave you in the capable hands of the entry team. See you tomorrow. Or today, as the case may be. Okay, thanks for all the good support. Enjoyed it. This is the payload control center for the D1 mission in GSO Oberpfaffenhofen near Munich. The mission has reached its end for the operation of the scientific payload, and we are able at this time to see that virtually all of the original scientific objectives have been obtained. We are very pleased with the way that the mission has run. Perhaps I could start by saying that there has been only one out of the 75 experiments on board which has not had fully satisfactory results. We see that for the other 74 experiments, the results are indeed up to expectation, and in some cases, they have exceeded the original hopes by obtaining more data than was planned, by having additional runs, or by having observed phenomena which were over and above those which were expected. So then, overall, we may summarize by saying mission has been a great success. The experimenters have given their thanks to the crew and to all those who have been associated with this mission. They appreciate very much all the work that has been done on behalf of the payloads and have expressed their delight at the results and their appreciation of the support that has been given for this scientific mission. That concludes this status report on the scientific payload of the D1 mission on Space Lab. Challenger, Houston. Go ahead, Mike. Roger Henry, uh you've got to go for KU-band stow and for payload bay door closing when you get around to it. Okay, thank you much. This is Mission Control, Houston, reacquisition in 12 minutes through the tracking satellite. And we're now uh 2 hours 50 minutes away from igniting the orbital maneuvering engines to bring Challenger down at 11:44 Central. Challenger, Houston with you through TDRS. Loud and clear, Mike. The payload payload bay doors are now latched and closed, closed and latched. Challenger, Houston, you're go for the deorbit burn. Okay, Mike, good news. Challenger currently into burn attitude. We have indications that auxiliary power unit number two is up and running at this time, providing hydraulic pressure for driving the aerosurfaces after we come back into the atmosphere. Burn currently underway with the Oms engines. And, Challenger Houston, we're going LOS in 30 seconds. The burn looks real good to us. We'll talk to you out of blackout at 3 2. Okay, Mike, see you then. This is Mission Control, entry interface at this time, 400,000 ft over the South Central Pacific. Orbiter Challenger now in blackout. As it bunches out of blackout, it will be 498 nautical miles from Edwards. Challenger, Houston with you through Vandenberg, how do you read? Oh, Houston, loud and clear. We have you loud and clear, Henry. 450 miles downrange, approaching 110,000 ft altitude. Challenger, Houston, energy, ground track, and nav are all go. Okay, that's good news, Mike. Challenger coming right down the nominal red line and the displays here in Mission Control. Velocity down to roughly 7,500 ft per second. Challenger, Houston, take deck, hen. Roger, take track. Air data probes have been deployed. Challenger is now very
+
+glider as opposed to a spacecraft. Challenger crossing the coast at this time at the Malibu Topanga Canyon area. Challenger, Houston, take our data.
+Roger, Mike, take our data.
+
+Range 11 miles. Long-range camera now has acquired Challenger. Challenger approaching the left turn around the heading alignment circle to line up with runway 17.
+And Challenger, Houston, we've got you outside the hack about 3,000 ft because of a small nav error. The surface winds are calm, altimeter still 3018, and visibility is up to 7 miles plus.
+Roger, Mike.
+
+Touch down in 2 minutes 27 seconds.
+Challenger, Houston, energy and nav both look real good now.
+Roger.
+Challenger, Houston, we show you on glide slope on center line, surface winds are calm.
+Roger.
+
+Going in the final, pre-flare. Landing gear should be coming down. There they are.
+Will stop.
+Roger, will stop, Challenger, welcome home and congratulations on a beautiful flight.
+

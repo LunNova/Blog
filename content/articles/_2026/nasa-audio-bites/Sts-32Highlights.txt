@@ -1,0 +1,771 @@
+This is shuttle launch control. We expect to have an on-time lift-off this morning at 7:35 AM Eastern time for today's second launch attempt for STS-32. No concerns for weather today. Looking good here at Kennedy and California and also at the Transatlantic abort sites. And we've got the flight crew. Commander Dan Brandenstein, mission specialist Bonnie Dunbar, pilot James Weatherbee, and the other two mission specialists, Marsha Ivens and David Low, being greeted by Kennedy Space Center employees and we're wishing them well for today's flight. Crew is all set to begin their 10-day mission, which includes deploying the Syncom satellite on flight day two, retrieving the long duration exposure facility and also demonstrating the capability of the orbiter for an extended mission duration.
+
+Houston, Columbia, Cdr, countercheck.
+
+Good morning, Dan. Houston read you loud and clear.
+
+Good morning, Houston. Cdr, you guys are operating?
+
+Yeah, we've been up for a while. PLT, how do you read?
+
+PLT, loud and clear.
+
+Got you loud and clear, WXB, MS1, how do you read?
+
+MS1, got you loud and clear.
+
+Got you loud and clear. David, MS2, how do you read?
+
+MS2, loud and clear.
+
+Got you loud and clear. Also, Marsha, MS3, how do you read?
+
+MS3, loud and clear.
+
+Got you the loud and clear, Bonnie. Thanks.
+
+T-minus 9 minutes and holding.
+
+This is NTD on 212. Step 1009 say go/no-go for launch. OTC.
+
+Go.
+
+TBC.
+
+Go.
+
+DTC.
+
+Go.
+
+LPS.
+
+Go.
+
+Mala?
+
+Mala's go.
+
+Safety.
+
+Safety. Say go/no-go.
+
+Safety's go.
+
+SP.
+
+SP's go.
+
+CDR.
+
+CDR's go.
+
+LRD.
+
+LRD's go.
+
+SRO.
+
+We are go for launch. Stand by for a final clear.
+
+Houston, flight entity.
+
+This is flight. Uh, at the current time we are go for launch. Observed in forecast weather.
+
+That's for a copy of that.
+
+STM, are you go?
+
+STM, go. Okay, launch director, launch team is ready.
+
+All right, copy. Engineering director.
+
+The medical community is ready to launch, they are looking good to speed.
+
+Safety and quality.
+
+Safety and quality has no constraints to launch.
+
+Payload and Operations director.
+
+Payloads are go.
+
+Copy, CapWeather.
+
+CapWeather has no launch wind, uh, weather constraints violated.
+
+All right, copy. Operations manager, launch director.
+
+Uh, Roger, Bob, I've told the mission management team we have no constraints and you will have our concurrence to proceed with the launch.
+
+Copy, thank you, sir.
+
+NTD SRO on 212.
+
+SRO, go ahead.
+
+We have our final clear to launch.
+
+Copy.
+
+NTD.
+
+Go ahead.
+
+Okay, uh, well it looks like today's the day uh and for uh Columbia, go get them. You have go for launch.
+
+Understand. Thank you.
+
+This is shuttle launch control. We've just had the final poll of the launch team, mission management team and launch director. We have a final go for launch.
+
+That clock will resume on my mark. Three, two, one, mark.
+
+T-minus 9 minutes and counting.
+
+The auto-sequence has been initiated.
+
+Ground launch sequencer has been initiated.
+
+PLT, OTC, configure fuel cell essential bus source switches.
+
+SRO, connecting essential buses.
+
+And that's complete.
+
+Coming up on the retraction of the orbiter access arm.
+
+T-minus 6 minutes 45 seconds. Just a few minutes, pilot Weatherbee will be given a go to perform the auxiliary power unit pre-start.
+
+PLT, OTC, perform APU pre-start.
+
+Has APU pre-start and work.
+
+Activation of the APUs will come at T-minus 5 minutes. These auxiliary power units provide hydraulic power to the orbiter.
+
+And APU pre-start complete, three grey talk-backs.
+
+T-minus 5 minutes.
+
+PLS go for orbiter APU start.
+
+PLT, OTC, perform APU start.
+
+APU starts in work.
+
+CDR, reconfigure heaters.
+
+CDR, Roger.
+
+And APU start is complete.
+
+Final purge of the main engines now underway. The chamber coolant valves on the main engines are being opened to prepare for engine start. T-minus 3 minutes and counting.
+
+PLT, OTC, clear caution warning memory, verify no unexpected errors.
+
+T-minus 2 minutes 30 seconds. Now retracting the gaseous oxygen vent hood away from the vehicle, back to the launch position.
+
+And caution and warning memory is cleared.
+
+Copy, and flight click crew, close and lock your visors and initiate O2 flow and have a good flight.
+
+T-minus 1 minute 57 seconds.
+
+Range set and work.
+
+Just had a go for liquid hydrogen pressurization to flight level. T-minus 1 minute and counting.
+
+T-minus 45 seconds.
+
+T-minus 31 seconds.
+
+PLS go for auto-sequence start.
+
+We have a go for auto-sequence start. Columbia's four redundant computers have primary control of critical vehicle functions for the remainder of the count.
+
+T-minus 20.
+
+T-minus 15.
+
+T-minus 10.
+
+Nine. We have a go for main engine start.
+
+Five, four, three, two, one, zero. Booster ignition and lift-off of Columbia.
+
+Columbia standing from the tower. Hand over to Houston complete. Roll program initiated.
+
+Roger roll, Columbia.
+
+Good roll confirmed, as Columbia heads out on the proper launch azimuth for the race to catch LDEF. Now throttling down through 102% for the passage through maximum dynamic pressure. They'll take the engines down to 65%.
+
+Three good APUs, three good fuel cells.
+
+Three engines now at 65%.
+
+Downrange 2 nautical miles. Now throttling back up, three at 104.
+
+Columbia, go and throttle up.
+
+Roger, Houston. Go a throttle up.
+
+Now 12 nautical miles downrange, velocity 3200 feet per second. Three good main engines, three good fuel cells, three good APUs.
+
+Standing by for SRB staging.
+
+SRB separation confirmed. Performance nominal.
+
+Copy, performance nominal.
+
+Roger, Houston, nominal performance.
+
+Columbia, two engine, Ben Gurrier.
+
+Roger, Houston, two engine, Ben Gurrier.
+
+Columbia, can now make the Ben Gurrier Transatlantic site if one engine should fail.
+
+All systems clean aboard Columbia. Now downrange 89 nautical miles, velocity 5700 feet per second.
+
+Columbia, negative return.
+
+Roger, Houston, negative return.
+
+Means Columbia can no longer perform a return to launch site abort.
+
+Columbia, press to ATO, select Band Jule.
+
+Roger, pressing to ATO, selecting Band Jule.
+
+Columbia could now press to an abort to orbit with the loss of a single engine. Three good main engines up at 104%, downrange 223 nautical miles. Relative velocity 10,190 feet per second.
+
+Columbia, drop Band Jule 109.
+
+Roger, Houston.
+
+That call means Columbia could make the Band Jule landing site with the loss of two engines by pressing the third to 109%.
+
+Columbia, press to Miko.
+
+Roger, Houston, press to Miko.
+
+Press to Miko means Columbia can go to main engine cutoff conditions.
+
+Columbia, single engine Band Jule 104.
+
+Roger, Houston.
+
+Now 360 nautical miles downrange.
+
+Columbia, single engine press 104.
+
+Roger.
+
+Columbia could make main engine cutoff conditions with one engine at 104%. Downrange 450 nautical miles now. Good navigation reported aboard the ship. Miko predicted at 8 minutes 32 seconds mission elapsed time. Now at the 23K mark, 23,000 feet per second. Engines throttling back for the 3G limiting.
+
+Climbing 248 feet per second.
+
+Downrange 697 nautical miles. Standing by for main engine cutoff.
+
+Main engine cutoff confirmed. Booster officer reports ET separation.
+
+Columbia, nominal Miko. Almost 1 not required.
+
+Roger, we copy that.
+
+Preparations in work for the Omes-2 burn. The hunt for LDEF began at launch. This burn coming up will send us further toward that goal and provide the right conditions for multiple maneuvers to follow over the course of the next few days as we rendezvous with the long duration exposure facility.
+
+Columbia, Houston.
+
+Go ahead, Houston.
+
+Roger, Columbia, you have a go for Payload Bay door opening.
+
+Okay.
+
+We see both doors open now. And Houston, we got good indications on the doors in good times.
+
+Columbia, Houston, you have a go for orbit ops. Also, want to recognize another first in space at three maggots in space. We're already worried about the food red line.
+
+Oh, Roger. We, uh, acknowledge that first and uh we're well aware of it uh when we planned our uh food rations and actually and they're well under control.
+
+That's good to hear.
+
+Maggots is a nickname of one of the recent classes of astronauts, uh one of the popular classes, uh well-known for their desire to eat well and uh sleep deeply and uh that's a name that has followed the members of that class around for the last several years.
+
+Columbia, Houston, we have some good news for you concerning your Syncom deploy.
+
+Houston, Columbia, we're ready.
+
+Yeah, Dave, the customers and the flight controllers have reviewed all the systems. There are no changes to the flight rule summary and you are go to press into deploy operations per the timeline.
+
+Okay, Tammy, that is good news.
+
+Systems all look good aboard Syncom and all look good aboard Columbia to support the deploy which will take place at a mission elapsed time of 1 day, 0 hours, 43 minutes and 37 seconds.
+
+Houston, Columbia, we're going to start pulling the first pin in about a minute.
+
+Okay, Dave, we copy and we'll be watching.
+
+There are several pins which uh have to be retracted in order to set up the conditions by which we may march into the final payload deploy procedures.
+
+We see motion on the second pin, that's a forward pivot pin. After pivot pin is uh 99% out.
+
+Forward pivot pin is now fully retracted. The keel pin is now in motion. Now we have three pins fully retracted, the keel pin is now out to 100%. The last one will be the push-off pin. Okay, Tammy, the aft-pivot took 5 minutes 10 seconds. The uh forward pivot pin took 4 minutes 44 seconds. And the keel pin took just less than 5 minutes, but as you probably saw, um, and as expected, we got the A-out indication first and then we had to go over to the B-side motors to get the B-out indication. And our plots all, that's pretty linear.
+
+Dave, we copy those times and thanks for the report.
+
+Columbia, almost to the deploy attitude at that point CapCom Tammy Jernigan will voice up the mission control go for final pin retraction and Syncom deploy.
+
+Hey, Columbia, Houston, the Syncom customers and the flight team give you a go to continue final pin retraction and deploy.
+
+Copy, we copy a go for the final pin retraction and a go for deploy.
+
+And the payloads officer reports motion on the final pin, the push-off pin.
+
+Houston, Columbia, we've got all the pins pulled. We've got uh out indications under all the A and B columns and we've got two up deploy pre-arm talkbacks.
+
+Dave, we copy and concur and you are go for deploy.
+
+Copy, go for deploy.
+
+So we assume they are deep within their checklist as they prepare for the final uh series of switch throws that will send Syncom on its way toward geosynchronous Earth orbit. And Houston, we had a good deploy, I'll get that to you about 80 seconds.
+
+Dave, we copy and congratulations.
+
+And Houston, we have motion on the Omni.
+
+Dave, we copy motion on the Omni.
+
+And that's good news. That's the omnidirectional antenna which automatically deploys itself shortly after the Syncom leaves the shuttle payload bay. And Houston, it looks as though the Omni is fully deployed.
+
+We copy.
+
+Full deploy of that omnidirectional antenna is an indication of the good health of Syncom as it leaves the vicinity of the shuttle Columbia. Can me, that looks real pretty too.
+
+Dave, we concur and um, your the Syncom folks and your flight control team would like to say congratulations to the entire crew.
+
+And the entire crew acknowledges that, and we uh say thanks in return.
+
+We'll pass that along.
+
+Flight director Al Pennington was observing that the LDEF people have probably breathed a sigh of relief. We now have an empty payload bay, he observed, and we intend to go fill it.
+
+If time permits, we'd like for you to check out the lower equipment bay for water, and you can do that when you change out the Lio canisters. Or if you have time, uh, might be good to get out the borescope and take a look around also, and let us know. We don't expect there to be any other leakage, but we just like to check, and we would like for you to verify that there is no more leakage every time you change out the Lio cans.
+
+Okay, we'll do that. We're having a hard time finding a volunteer to go change the Lio.
+
+Okay, thanks.
+
+We kind of got the impression that David liked it down there. He's the first one to not volunteer.
+
+This is mission control, the Lio being referred to is the lithium hydroxide canisters located under the floor of the mid-deck, which scrub carbon dioxide out of the uh crew cabin environment. Uh just below the Lio canister box is uh where the uh morning activities uh focused uh today as uh G. David Low and and uh other crew members uh scrubbed and sopped and mopped uh excess water out of the bilges as it were uh due to a discovered leak in one of the humidity separators. Humsep B was deselected and Humsep A uh is uh working properly now.
+
+The launch was so delightful.
+But the solar flux is terribly frightful.
+Hell, Death's got no time to roll.
+Bring her home, bring her home, bring her home.
+She's showing no signs of stopping.
+So let's get that orbiter hopping.
+We'll rendezvous from below.
+Bring her home, bring her home, bring her home.
+Now it's terminal phase, you know.
+With Captain Brandenstein and pilot Weatherbee.
+Along with Dun, Far, Ivans and Lowe.
+It's operations of proximity, prox-ops.
+Oh, the arm scoops are up real lightly.
+Photo-surveyed and latched down tightly.
+Close the doors and light the ohms.
+Bring her home, bring her home, bring her home.
+Good morning Columbia. Your wake-up music comes to you via a new group of local talent here at NASA, called the Prox-Ops Boys.
+The Prox-Ops Boys, it sound wonderful.
+The flight dynamics and uh rendezvous people are very proud of the precision with which they've guided Columbia to uh the point in space it now occupies as we're ready to begin the final chase toward L-D F.
+We're 1.3 nautical miles off of that targeted position and that's considered uh very good and very precise for uh as complicated a series of burns as we've been doing over the past few days.
+Presently, Columbia is 90 miles behind the long-duration exposure facility and gaining 19 miles each orbit.
+Three major burns will initiate the chase this morning, the NC5, the NH and TI burns, those are upcoming.
+The uh PDRS officer Runs A Guli reported during the handover that the arm is in good shape.
+PDRS stands for payload deployment and retrieval system.
+It's uh a new acronym for what uh we used to call RMU or RMS.
+And Houston, we have a visual on LD, now.
+Copy, thanks.
+Commander Brandenstein just reported to us at 2 days 17 hours 59 minutes that they have a visual sighting of L-D F.
+Uh from their perspective right now, it's uh a bright spot of light.
+We hope that spot of light will become uh ever larger and uh grow into a pretty large bus-sized object by later this morning.
+They're now into their rendezvous timeline, Columbia now maneuvering to arrive at a uh an attitude from which they will perform the NH2 burn.
+That's a small burn that will tweak the orbit a bit.
+Columbia, Houston, your configuration looks good for the burn.
+Thank you.
+Miss Control, Houston, the 11 second burn now underway aboard Columbia, resulting in orbit 181 x 175 nautical miles.
+Columbia, Houston. We see a good burn and some great looking residuals.
+Roger, Houston.
+Propulsion officer uh said that it was probably impossible to do it with any more precision than uh Dan Brandenstein just uh did it with.
+And uh Pennington, the flight director, responded that it was uh impossible indeed to do it any better with this spacecraft.
+In Columbia, Houston, your preliminary orbital maneuver pad for NC5 is now become the final pad.
+Okay, Houston, the preliminary NC5 is now the final.
+The NC5 burn is a a multi-axis and uh it's actually a phasing maneuver.
+The orbit will remain the same 181 x 175 nautical miles.
+In Columbia, Houston, another good looking burn.
+Okay, we got looking through the COAS, we got a visual on the uh L-D F and it's looking real good.
+Thanks, Dan.
+Commander Dan Brandenstein just reported that the crew was able to uh get a good sighting on L-D F through the crew optical alignment sight.
+Columbia, your rendezvous variable parameters should be on board.
+Okay, thanks a lot.
+All going smoothly in this rendezvous procedure as we close in on the long duration exposure facility.
+Crew is configuring for rendezvous radar target acquisition.
+And, Houston, the radar got a good lock on at 148.3 is what we are showing.
+Dan, we see that. Good work.
+That call from Commander Brandenstein represents a major milestone just passed in the rendezvous procedure this morning.
+They've uh turned on the rendezvous radar which functions through the KU band antenna.
+It got an immediate lock on, and it shows a distance to L-D F of 148,158 ft right now.
+And they're currently closing on L-D F at a rate of about 7 or 8 ft per second.
+In Columbia, Houston, we're so pleased with your radar data that we'd like to go ahead and take it to nav at this time.
+Now, they're routing that data into the navigation platform of Columbia.
+In Columbia, we have your ground NCC burn solution when you're ready to copy.
+That NCC burn of uh 3.5 ft per second delta V.
+In Columbia, Houston, the burn look real good from down here.
+Yeah, seemed to go all right.
+2 days 23 hours 7 minutes mission elapsed time.
+Right now we show the distance between Columbia and the long duration exposure facility about 86,000 ft, and that distance uh equates to about 16.2 statute miles distance separating uh Columbia and L-D F and now we're taking television from the flight deck.
+In Columbia, Houston, we have good video downlink.
+As you can see, we're all in the office.
+Roger that. Also, we have your final TI pad, when you're ready to copy.
+The range between Columbia and L-D F at about 71,000 ft.
+Columbia, Houston, you are go to burn the onboard solution.
+Okay, thanks.
+2 and a half minutes from the uh uh most important burn of the morning, the TI burn will uh set us up on a path that will lead to the uh final close-in proximity operations with the long duration exposure facility.
+The resulting orbit, 182 x 175 nautical miles.
+Theoretically, at least, uh what this burn does is uh set Columbia on a path straight for the L-D F.
+Uh without uh any further action by the crew, uh we would pass uh uncomfortably close to that facility.
+We don't plan to make it uncomfortable.
+In fact, we'll uh then be almost immediately after the TI burn setting up for a series of uh 4 midcourse correction maneuvers.
+Columbia, Houston, your 4 for 4 today.
+We see a good burn.
+Okay, we copy.
+So everything continuing to look very good uh as Columbia closes on the long duration exposure facility.
+Columbia, Houston, you have a go for the RMS power-up.
+We copy, Tammy.
+That's the remote manipulator arm.
+In Columbia, Houston, we're about 2 and a half minutes from LOS.
+We'll see you on the west side at about 7 minutes after the hour.
+During that time of uh loss of signal through Tedras, first midcourse correction burn.
+Columbia, Houston, we're back with you through Tedras.
+We see a good MC1 burn.
+Roger, and our preliminary solution on MC2 has a TIG of 3 days 0 hours 35 minutes and 19 seconds.
+Dan, we copy. We'll take a look.
+The uh arm is uncradled and we see it beginning to move now.
+Columbia, Houston, we see the arm in poise for capture position.
+Good work, Bonnie.
+Thanks, and I know you can't see the view, but I'm looking up over the overhead window at both the moon and the arm.
+Super. We'll look forward to the debrief.
+Right now we show the range between Columbia and the long duration exposure facility to be about 36,000 ft.
+We show uh Columbia about 31,000 ft below the uh altitude of L-D F and closing.
+In Columbia, Houston, MC2 was another fine looking burn.
+Thank you, Houston.
+Columbia 27,000 ft uh behind L-D F, about 22,000 ft below.
+In Columbia, Houston, we see a good MC3 burn.
+Roger.
+Currently 10,000 ft away from the long duration exposure facility, about uh 5300 ft below.
+Columbia, Houston, we see a good MC4. You're 8 for 8.
+Roger.
+We currently show Columbia 57 100 ft and behind uh L-D F, about uh 5700 ft below and closing at a rate of about 12.6 ft per second.
+The crew now establishing inertial rates with that facility and we are uh just about in the point where manual trajectory control takes over.
+We're on the R-bar and the reel is showing 270 degrees.
+We copy, Bonnie. Looking good.
+Columbia has just passed the R-bar.
+That's the uh longitudinal axis that passes through uh L-D F and down through the center of the Earth.
+Now, they're passing below and out in front of the uh long-duration exposure facility.
+Columbia uh now uh inside the 2000 ft mark, uh now about 1770 ft below long-duration exposure facility and ascending at a rate of about uh 3 ft per second.
+They're approaching the uh velocity vector, the V-bar, and they'll pass out in front of L-D F uh at a range of uh between 400 and 500 ft.
+And Houston, we're a little bit long, but we're going to press ahead past the V-bar and continue on up to the R-bar.
+We copy, Wicks, and you're looking good.
+Also, your prop margins remain in excellent condition.
+Roger.
+They'll pass a little bit further out in front of L-D F than they'd planned.
+No worries there.
+Columbia has crossed the V-bar, now uh above the altitude of L-D F and out in front by about uh 400 ft.
+They continue to climb. They're ascending relative to the uh altitude of the uh long-duration exposure facility and will pass around and over the top.
+The uh line that they're shooting for is called the R-bar.
+Columbia will uh pass uh up above uh L-D F by about uh 250 to 300 ft depending on our targeting.
+And right now is uh 320 ft out in front, 90 ft above.
+Columbia, Houston, we're back with you through Tedras West.
+That sounds clear.
+Columbia now on the R-bar, at a range of 230 ft above the long-duration exposure facility.
+Flight director Al Pennington's response to that news was uh to say on glide slope on center line.
+And, Houston, Columbia, the radar has been configured for com.
+We copy.
+For the first time in 5 and a half years, we're now looking at the long-duration exposure facility.
+This view from above, as Columbia slowly descends toward uh the grapple fixture that you see uh protruding from the side of L-D F.
+Columbia, Houston, we have a tally-ho on L-D F and it looks even better than the SMS visuals.
+Commander Dan Brandenstein is uh performing a yaw maneuver uh to get the orbiter properly aligned so that the robot arm can reach out and latch on to L-D F.
+Bonnie Dunbar has begun uh rolling the uh end of the arm.
+We'll pause for about 20 seconds in free drift and then uh make the final close-in snag of a facility uh that we have not seen from uh this vantage point since April 1984.
+This is a spacecraft that in uh 32,400 some orbits of the Earth has traveled the distance equivalent to uh the uh distance between Earth and Saturn.
+I don't know if you were in a rush, I hope not.
+No, we've got all the time in the world.
+We're now looking from the camera on the end effector, the uh hand of the robot arm as it moves across the surface of L-D F, closing in on the point at which it will reach down and uh latch on to the grapple fixture.
+The orbiter now in free drift, we're moments away from capture.
+Houston, Columbia.
+Go ahead, Columbia.
+We have L-D F.
+Congratulations on a job well done.
+L-D F is grappled. We copy the time of capture at 3 days 2 hours 41 minutes mission elapsed time.
+Columbia, Houston, your flight control team and your training team would like to congratulate you once again.
+You've made many scientists quite happy. Their L-D F experiments are finally coming home.
+Well, we'd like to extend a special note of gratitude to Sim Su for staying home today.
+We understand and we're handing over to Orbit 2 and you'll be speaking with Steve.
+Okay, Tammy and all the folks uh down there that helped us. We uh sure appreciate it.
+Everything went uh just the way a nominal Sim does.
+Only the visuals were a little bit.
+Roger that.
+With the long-duration exposure facility, uh securely uh uh latched to the remote manipulator, the uh next step for mission specialist Bonnie Dunbar will be uh to maneuver to the photo survey start position, uh which will facilitate uh photographic angles and the start of the 4 hour photographic survey.
+That survey designed to uh preserve the uh at least a photographic uh state of the data available before uh subjecting the L-D F to uh the loads of reentry and the rigors of the Earth's atmosphere.
+Columbia, Houston, we see you on the way to the survey attitude and we've got good video and commback.
+Okay, Houston.
+And Marsha's just a clicking away like you can't believe.
+Roger that. Roger, I don't know if you could tell from the camera on
+
+space end, but it looks like uh panels uh H3 and H12 have some loose foils and are kind of a very loose foil curled away from the uh side.
+Roger that Bonnie, we've been looking at that then uh and concur we'll be looking forward to uh a more of a close up here.
+And I don't know what kind of color you're getting, but a lot of the coatings uh look like they maybe gone. I can see green core on the base in a lot of areas.
+Roger that. Thanks for the words.
+The space end or the end of Ldef, which has been exposed to space and its graph gravity gradient attitude, uh was uh showing some wear and tear there. In the words of uh orbit one and rendezvous flight director Al Pennington, Ldef looks like she's been rode hard and put up wet.
+couple little things we noticed I guess uh even before we even got close, like out at 800 ft before we got to the Vbar, it looked like there was something fine in real close formation uh with the uh L Def and uh I never really that sure, but uh after we had it grappled, we uh did see a piece uh small, probably about a 4-inch by 4-inch segment of what looked like solar panels floating free in a way.
+And then a little while later, uh we saw another thing, it appeared to be a little piece of aluminum floating uh free in a way. So, some pretty interesting things on the space end, some of the panels and we'll get video of it to you later that had aluminum foil over. Uh it looked like they've uh almost exploded, I mean they're just peeled back like a sardine can.
+And on panel uh on panel 3E, for one uh on uh AO 187, uh there are a bunch of uh small rectangles uh squares, and it looks like uh between them, they're kind of like filaments. And I know there's no air up here, but it looks like they're flapping in the breeze.
+Roger that, Dan, copy it all, and uh thanks for the update.
+So already just minutes in the payload bay, and uh we are reaping the uh scientific benefits of uh Ldef's long stay in orbit. I know you only have black and white down there, but uh looking at tray 12 Charlie, as soon as I get over there, the fiber optic bundles uh definitely don't look the same color they started out. Down linking uh 12 fox, uh 12 Echo right now and uh we can see some brown discoloration around some of the wire leads and it looks almost like a shattering off the boxes.
+Roger, I understand, Bonnie, and uh we're looking at the same video down here, and uh the payload folks are loving it.
+From Houston, Columbia. We'll be going to position for uh shortly.
+Roger that, Bonnie, and we'll be watching you.
+The robot arm is in motion, maneuvering Ldef to uh photo survey position number four.
+Okay, and we're trying to get this on the camcorder, but we got a whole cloud of little silver and gold flecks gravitating towards the orbiter payload bay from Ldef.
+And Dan, we think we were seeing that on the uh video downlink, and we're looking at uh panel I guess 10 Delta now and uh and we're seeing the the foil looking like it's peeled off some.
+Yeah.
+They're going to get a lot of good micro meteoroid hits data off of uh 10 A and Delta. Lots of little holes in those panels. At least that's what it looks like uh to us with the binoculars.
+Yeah, looks like we'll get lots of good science out of that. Appreciate the words.
+Houston, Columbia. We're going to give you a quick sweep of Row 9.
+Uh we're now looking at uh panel number 9D. 9D equipped with uh a space environments effects on spacecraft materials experiment, a uh panel that's uh configured with a variety of uh materials such as solar power components, thermal control materials and laser communication components uh all of which are uh uh potential components of future spacecraft.
+Columbia, Houston, with you through TDRS West and we see you in position five.
+Uh super, we're with you.
+Looking up from Columbia's payload bay at the uh earth edge or earth end of the long duration exposure facility, this end has been the end uh pointed towards the Earth as Ldef has orbited for years in its gravity gradient attitude. all ready to move to position seven, and we've pretty much uh finished most of the photos. We've got a couple to pick up on the way around. Just want to compliment the folks at Langley and all of the investigators and uh the folks of from US and other countries for the fine piece of work they've put together. It ought to tell us a lot about the space station and putting other things into orbit.
+Roger that, Bonnie, thanks for the words, and uh, and we're sure those folks are listening and we're getting some beautiful video down here. We'll watch you on the way to position number seven.
+And, Houston, we didn't get a chance to give you a update on the photo survey a while back, but uh we can now. We got shots of everything and good shots of all but four with with almost a dead-on 250 mm full frame uh 70 mm. So, we got a couple that were a little oblique and a couple we couldn't see around the window without using 100 mm, but uh everything else is uh stressing good photo documentation to compare with what they see when they get back.
+Dan, based on your uh update of the photo status, and after talking it over with the payload people, uh you have a go to continue with the berthing sequence at your discretion.
+Okay, and uh Bonnie's on her way to High Hover.
+The photo survey uh has been accomplished with flying colors, Ldef now poised in the hover position, parallel to the payload bay of Columbia, as uh mission specialist Bonnie Dunbar, very carefully, very slowly and very surely drives Ldef into its uh transitional home, the payload bay of Columbia. Data here on the ground indicating uh payload retention, latch assemblies being readied for a latch.
+Columbia, Houston, we're about 1 minute from TDRS East LOS. We'll pick you up on the west side at 8:15.
+See you then.
+Just seconds before going LOS, we did confirm that the keel was latched.
+Columbia, Houston on TDRS West. We see all five latches latched. Congratulations on a super photo survey and a perfect berthing. There are a lot of smiling faces down here in the control room and a lot of happy PIs across the country.
+Roger, thank you. There's not a lot of happy faces, but all the faces we have up here are smiling and happy, too.
+I bet. Nice job, Columbia.
+Well, it appears that the shoe fits, and Ldef will wear it home. Ldef secured firmly in the payload bay of Columbia, no longer under the control of the uh remote manipulator system.
+Roger, we have a congratulatory note for you from the Ldef folks. It reads, congratulations and thanks from the Ldef folks for an outstanding job. You have been a dedicated and devoted part of the Ldef team. We will thank you in a more substantial way when we all meet at KSC to inspect the Ldef. Signed Bill Kinnard for the Ldef team.
+Well great. And we'd like to thank him for all his support in uh getting us uh up to speed on all the very important science and the interesting experiments that are included on Ldef. And I think uh they're going to have uh more than a handful of data to work with when we get back.
+Columbia, Houston, we have a message for you from the administrator, if you're ready.
+We're ready.
+Okay, it reads, to Dan, Jim, Bonnie, David, and Marsha, your mission from the moment of lift off has inspired the people of America and the world. Today, as you flawlessly executed the Ldef retrieval, literally millions paused from their daily routines and quietly watched America's space program at its very best. You accomplished a job that only the space shuttle with its astronauts could accomplish, and best of all, with the help of our superb NASA flight control teams, we made an extremely complex evolution look easy. I do have one gripe, and that is that I'm not on orbit with you. I'm looking forward to seeing you when you return to Earth next week. Meanwhile, thanks for providing us earthbound folks with such an inspiring start for the 1990s. Signed, Vice Admiral Richard Truly, Administrator.
+Well, that's great and we were certainly honored to be part of the team that pulled it off.
+Now you folks did a beautiful job.
+Wixby took over and manually uh flew to the protected attitude and maintained that attitude throughout the photo survey and uh Marsha took uh more photos than uh I'm clear to tell you, but she'll tell you in her film report tonight uh and I think uh that that'll all go well towards uh documenting and uh helping with the data that uh they hope to get off Ldef.
+Roger that, Dan. We copy it. And uh, we were watching uh Wixby. We didn't see him uh deviate from attitude uh even a little bit. You all did a just a super job as a crew. And did you have any comments uh regarding the procedures that you had uh integrating uh Wixby's manual vernier attitude control in the RMS ops?
+No, we had uh practiced it a lot and uh we knew the key to it was to talk to each other and communicate so he knew what I was doing and I knew what he was doing, and of course David was all part of this. Uh David was uh keeping us uh straight on what our Z position was uh so that we could uh you know, both use the right numbers and in all our displays and so forth and whether we're vernier and coarse etcetera and so I, you know, it was just a a function of working together and and training to do it.
+Okay, Bonnie, we got all that. Uh does anybody else in the crew have any other comments uh regarding crew coordination or uh or vehicle performance during the uh photo survey and the berthing?
+From the orbiter side of the house, the vehicle uh flies extremely well in vernier with the small pulse size that we had. Uh I did not notice any motion induced on the orbiter by the arm when Bonnie was moving the arm, and the simulators are extremely good. Uh we found that if we kept the rate of the orbiter fairly fairly low uh that any changes in uh center of gravity with the payload would not build up any rates uh significantly and I did not see any rates build when Bonnie was moving the arm.
+Roger that, Wixby, we got that.
+We'll let Mike give you the the daily film report.
+Wait one, please.
+In RX, folks, we shot some red sea this morning and then we shot the Ldef against the black space. We shot the Ldef against the Earth limb and then in the heat of battle we couldn't get you any more than that and we apologize. We shot an inside shot through the four windows as requested and that's all the rest we will uh get for you, stage for you later. And I figure I shot around 800 shots of just Ldef with the 70 and the 35 and then I don't know, 20 minutes or so of camcorder. I could have done more, but the other guys were using the windows.
+And I'll just close on the RMS. I thought it was a real nice tool. Enjoyed operating it.
+Hello Ldef well Hello Ldef. It's so nice to have you back where you belong. You're looking swell Ldef, we can tell Ldef you're still glowing, you're still growing, you're still going strong. We feel the crafts weighing for the crew's playing one of your old favorite aeronautic songs. So stop your nap fellows, open the shuttle flap fellows. Ldef will never stay away so long.
+Good morning Columbia.
+Morning, Houston.
+Your music this morning is courtesy of the Ldef project, who are obviously very happy today. And our planning team would also like to extend their congratulations on an exceptionally successful day yesterday.
+Well, thanks uh to the Ldef crew and uh we enjoyed doing it and uh are equally happy.
+Okay, uh what you're seeing here are some uh some of the video we took uh during the uh various burns as we approached Ldef yesterday. The uh the burns we done the previous day really set us up uh and thinking of fine shape because uh most of the burns we did yesterday were relatively small and uh went off uh in fine style. I guess that's a real uh compliment uh to the uh many people that both uh designed and built the orbiter and those folks that maintain and get ready to fly because it's been a a flawless flying bird so far this mission and uh it proved that during the rendezvous yesterday.
+I'm sure everyone's happy to hear that, Dan.
+But all we have is Jim Weatherby in the pilot seat and uh myself in the commander's seat and David Lowe is uh assisting us uh through the various burns. In fact, G. David was the one that kind of made sure everything happened on time in the various parts of the orbiter yesterday. He was kind of the scheduler and uh making sure everything got done when it was supposed to get done.
+Roger.
+And also see Marsh, Bonnie over there preparing uh to do some of the arm work and uh and get ready for the uh in-close uh work uh during the rendezvous and box ops.
+Columbia, J SCPAO, we're ready to proceed if you are.
+Uh yes we are, and uh this is uh Dan Brand, Commander, STS 32 and we have the whole crew here and we're ready to go.
+Dan, this is Tony Clark with CNN. The NASA tells us that you were able to lower the shuttle down to within 5 ft, so that the arm was within 5 ft of L-def uh when Bonnie was grappling it. Was it easier than in the simulations to to position the shuttle there?
+Well, it was uh about the same as the simulation actually. There are a few little handling quality differences between the simulator and the the actual shuttle, but uh nothing significant and the the training uh we did I think prepared us very well for it.
+Jim Slate of ABC. Uh Dan, uh you now have a a different
+
+spacecraft in terms of what we've known in the past because you have a far forward CG with Heldef and the uh in the cargo bay. How have you adjusted the landing profile to account for that? How will you do it differently than normal? We uh plan to do nothing actually differently. Uh the uh flight control system and the shuttle is a digital flight control system that uh pretty much compensates for that. Our only concern is that we uh get the uh vehicle on the deck at a reasonable speed so we uh don't run out of air speed uh when we try to lower the nose. So we plan to land at 205 knots and 185 knots as with any other mission uh get the uh nose down. So uh we foresee no problems at all. This is John Getter with KHOU TV for any of the uh experienced scientific researchers aboard. Uh when we announced that among Heldef's treasures we're going to be literally millions of tomato seeds and that you were looking for lots of school kits to help in the research after that. We got literally thousands of phone calls, people who want to help, that want to be a part of this. I'd like to hear what your response to that is and also what advice you might have that these kids should think about as they're getting ready to do their own space research. Well, I guess uh there are as far as I know, 43,000 schools and universities over the world that are participants in this tomato seed project. And when we bring the seeds back, they'll get little packages of the seeds that have been on Ldef and control seeds, and uh they'll be the ones to tell us what what the comparison is. And as far as people trying to do their space research, uh take good notes. This is Mary Schlangenstein with UPI for Bonnie. Ldef looked pretty beaten up yesterday and I'm wondering what you think this is going to tell us about our ability to build something that can stay in space long-term for maybe 20 or 30 years? And are you concerned about any additional debris that may shake loose during re-entry or landing in the payload bay? Well, Ldef had a number of experiments on it, I think to over 56 and about 200 researchers and it the experiments included a number of materials, some which didn't fare so well, but others which probably will and that was the intent of this payload to find out which materials uh we should be building space stations and spacecraft out of. So I think the data is invaluable and it will help us make that selection uh in the next two years for space station. There are some pretty uh flimsy uh pieces uh hanging on there yet, mostly the thin foil, some of them that probably were a little less than 5 mil when we started this project and uh we may lose them, but I'm hoping the photo survey will give us enough information uh to know what it looked like before we put it in the payload bay. Stephen Govain, KTRKTV Houston for Wex or David, uh Two events this past week were show stoppers and hard acts to follow. What do you look forward in this coming week? Yes, perhaps a highlight. Well, uh now we got to get down to work. We've got uh about five more days up here of uh working on some scientific Mid-Deck experiments as well as about three or four or five medical experiments. Um This is the second longest shuttle mission that we've had so far so we can do some good material science experiments up here and we can also get some very good medical data, and that's what we'll be doing mostly for the rest of these five days. This is Frederick Castelle with Agence France-Presse. Commander, life on board the shuttle has been compared to camping. After 10 days in space this time, will you recommend longer flights and which are the limiting factors to live with in such small environment? I'll let Jim Weatherby answer that one. I think probably the limiting factor is the number of rookies that you bring aboard. We have three rookies on board this time and uh it I must say it took us a couple of days to get our feet firmly planted on the ceiling, so to speak, and we still kind of bump around and knock into each other every once in a while. But the old veterans, Dan and Bonnie are taking care of us. This is Paul Hoferstein with USA Today and a question for Bonnie. Uh can you describe for us the scene in the cabin once you actually grapple the LDEF? Was there any time for backslaps or handshakes? I think it was very quiet. Unfortunately, pins don't drop up here. And uh after a few minutes, we knew we had to press. Uh we had a big day still left, uh but I think we were all very happy and and relieved uh that we'd finally gotten it. Uh Mark, Houston Chronicle, I wonder if if the first-time flyers might give a a brief description of the experience. If you could give a few impressions of your first space flight, please. I bet they'd love to. I guess I'll start out uh as Wex said earlier, uh getting used to zero gravity is uh is somewhat fun and and at the same time somewhat awkward. But I think after four or five days we're finally getting getting used to that. The most impressive thing of all is is looking out and seeing the earth below us. It's uh, you know, people can tell you what it looks like but you really have to be up here to see it. And that uh it almost takes your breath away and you can spend hours and hours. Unfortunately, so far we haven't been able to do that. I thought that on ascent I was surprised in that uh it seemed exactly like the simulator except for the acceleration, of course. Uh it it surprised me that I wasn't thinking about too much other than what I was doing. I thought I might be looking out the window or or thinking about how neat it was or how fun it was, but of course I we have a lot of uh displays to be looking at and systems to monitor and make sure that they're working correctly, and I wasn't really thinking of anything other than uh monitoring those systems. Uh the first chance I had to to think about what we were really doing was was the first time I saw the moon come up and I looked at it for about two seconds and then went back to work. I guess I get more involved emotionally in in everybody else's mission than my own and and I haven't had time so far on this one to just sit back and think about it. But it's uh it's pretty neat actually to be up here floating around. This is Laura Tally from the Associated Press for the commander. Could since you've had such a successful mission, retrieving the LDEF, could you kind of say what that means to the overall space program also? Well, I think uh retrieving the LDEF was just uh a part of making this a successful mission, but it was a big part and uh we're happy it was accomplished uh and its contribution uh is that uh all of these various types of materials uh that have been exposed to space for over five years will now be studied and that will give us the capability to design better, more durable uh spacecraft and space stations in the future. That concludes the conference. Thank you, Columbia. Oh, thank you. We enjoyed doing it. Columbia, Houston, we appreciate the good downlink of your flight deck activities, or mid-deck activities. Roger, Houston, our plan right now is to have Marsha talk you through some of the echocardiograph activities we're doing with David as the subject. Sounds great. In Columbia, Houston, we especially thank you for the visual feast. Okay, David's putting electrodes on himself and this is so we can get an EKG. This machine is the American flight Echocardiogram, it's an off-the-shelf ultrasonic imaging system. That's uh it's a standard piece of equipment that's used to get a noninvasive picture of the heart and other other soft tissue. David and Bonnie and I have been trained to use this and we've found that it's easiest to do the uh the echo on each other and have that person do it and the other person tight. So, David is going to take his own image and I'm going to take the data. We copy, Marsha? Of course, we have to take his blood pressure. Okay, what I've just done is entered the data. What we do is record the subject and the operator and the blood pressure and the MET. Roger. And Sandy's got the transducer that does the ultrasonic imaging and we're putting a gel on it, which is sort of goopy water. Um and that that gives us a better picture. The way the ultrasound works is that the ultrasound waves will basically bounce off different structure uh with different different densities in it, and that's how we see a picture of the heart. Now, it won't look like a normal heart and I'm not so sure that the camera can see the picture anyway. David has the best image of all of us. We call him the man with the big heart and the glass heart. Marsha, we copy and we do have uh a view of the screen. If the AFE people are listening, uh David's picture's been just about as good as it was back on earth. For the rest of us, uh the pictures have not really been better, and in my case the pictures have been worse. Marsha, we'll pass that on. David says to tell you it's not my fault that my heart moved. What we're doing with this experiment is measuring the cardiovascular changes that microgravity causes on the body. This data was taken on us pre-flight, it'll be done post-flight, and then we're gathering the data in flight and so they can measure the the different sizes of the chambers of the heart and tell what Zero-G does to us. And and just a point of interest here, we do this on all of us every day and uh in honor of that, David shaved his chest. Well, we appreciate the sacrifice. For the technical world, what we just did was the uh posterior long axis and short axis. This one is a four chamber, which basically looks up at an angle through the heart and sees all four chambers of the heart. David happens to be ticklish here, so he's doing it on himself as opposed to me doing it on him here. This is a hard view to get on most everybody. Copy. This device that we're using now is a tilt frame, and what it does is it'll take segmented slices of this picture through the heart so that they can uh at 5 degree increments so that they can better measure their data. We do it on the uh short axis view. If this device looks uncomfortable, it it is not the most comfortable device. You have to apply a fair amount of pressure so that the frame can tilt as you move it. And basically we give it a mark to each to the recorder each time we make a move so they know when they measure their data. Copy. Okay, that's basically one AFE data take on one person. What we do now is cycle through the rest of us. Uh we'd like to thank all the folks that trained us to do it. It's uh some parts are easier here in Zero-G and some parts are harder. The heart is certainly harder to find as they told us it would be and that's because it shifts along with the fluid, so I have to go hunting for it again. But we appreciate the training. We hope we're going to bring you back some good data. Marsha, we copy and we sure appreciate the downlink. Thank you. Okay, Houston, and uh we hope uh throughout the rest of this mission to bring you a little update for each of the experiments and show you what they're all about and how we're operating them. Thanks, Dan. We're all getting quite an education down here. Columbia, the PI for CNCR is watching. Okay. Jim, the uh the bread mold looks like it's made four even bands, and on the past two days almost all of them have gone damp. Uh it looks like the growth is about 2/3 of the way down the tube on almost all of the white ones. We're going to take some photographs and then if you have nothing else, we'll go on to the red package. Marsha, we copy. Thank you. And Tammy, you might pass on that if you would like to reconsider the remark of the third passage package because we've only got two-thirds growth in here, well, a little more than a half, a little less than two-thirds, then we'll consider that. It's Mission Control Houston, we've been looking on as David Low and Marsha Ivins work on the middeck with the CNCR experiment. The uh procedures that they're following here call for uh Marsha to make some readings on the samples and uh periodically they've been uh assuming a posture that allows them to uh uh remain relatively motionless uh to uh allow them not to induce any uh uh micro-g loads and also this helps Marsha remain uh stable in terms of uh uh the lighting that is uh placed onto the experiment uh sample. Columbia, Houston, we have a request for Marsha. We would like her to take one of the tubes with the dampened feature and hold it up close to the television so that we can uh take a look and also let us know which tube that is, and we need to do that um shortly because we're going to lose our KU coverage. Tammy, let me know how uh how that looks. Okay, Dave, we have a pretty good shot. And this is tube number two. Copy, tube number two. Okay. In Columbia, the PI has the data he needs and he appreciates the effort. Thanks. It's Mission Control Houston, we continued to take live downlink from Columbia's mid-deck as we watch uh Dave Low and Marsha Ivins in the background work with uh the CNCR experiment. The acronym stands for Characterization of Neurospora Circadian Rhythms. It's a midde- a mid-deck payload whose objective is to determine if Neurospora or pink bread mold circadian rhythm persists in the microgravity environment of space. This experiment also is intended to provide information about internally driven biological clocks which might then be applied to other organisms. Okay, Houston, what we uh what you can see here is the lower body negative pressure device um or LBNP as we've been calling it here. Um What this is is a candidate reconditioning protocol that uh we hope might be able to be use to be used for uh overcoming or or bettering orthostatic intolerance. Orthostatic intolerance in in one gravity is the um inability to stand up without feeling dizzy or lightheaded or even in the worst case, um passing out or or fainting. Um one thing that we've seen in virtually 100% of American astronauts on their return from space flight is a decrease in their orthostatic tolerance. Now, so far with our um with the short-duration space flights that we've had, we have not seen uh any adverse effects from that. In fact, we've got a current protocol on the shuttle flights of about an hour before re-entering the Earth's atmosphere, we ingest about 32 fluid ounces of water and take about eight salt tablets um as a a counter measure for the decrease in orthostatic tolerance that we've seen. However, ground-based studies, these are bed rest studies where we put people in devices like this for um weeks at a time. These ground-based studies have shown that um a combination of using lower body negative pressure as well as the fluid loading and um with the salt tablets works even better at uh decreasing your uh your orthostatic intolerance. Okay, so what we've got here is uh the lower body negative pressure device. The last time uh we flew one of these in the US space program was uh on a Skylab missions. In fact, we flew it on all three of the Skylab missions. It
+
+it's a little bit different from this. In fact, it was a a solid can that we In this case, this entire device and all the equipment that you see right here, can be folded up and and put into one of our lockers here. What we're doing here is um, at uh, the same time that that Bonnie has a lower body, a lower pressure on her uh, lower body right now, Marsha is um, using the American flight echocardiograph and taking some pictures of her heart. Now, the measurements that we take while we're doing this, um, we are constantly measuring uh, blood pressure, heart rate, and EKG, um, and in fact, EKG and heart rate are being constantly down linked to the ground. Blood pressure is the only one, up here we're the only ones that have the the blood pressure. We're monitoring that on this automatic blood pressure device and it's also being taped down here on a recorder. The team that that designed this and put this together is headed up by Dr. John Charles. He's the principal investigator, and the folks that are working with him, Bonnie and I and and Marsha, have worked for the last four or five months very closely with them and I think they've done a super job with the hardware here and also the procedure, so everything is working very, very smoothly. The way we draw lower pressure or negative pressure on, inside this can, you can see this hose right here, this is actually connected up through our waste collection system, the WCS, and it's actually venting over port. And we use that to draw a a negative pressure on the lower portion of of Bonnie's body here. She's got a a seal that you can see right here that's made out of a wet suit material and that actually seals it up here. What we're doing is, we're um We've got two different protocols that we run. Yesterday, Bonnie and I both ran what's called a ramped protocol, and today, Bonnie's in what's called the soak protocol, and I think I'm going to do that two days from now. In the ramped protocol, what we do is, we take the pressure in the lower portion of the of the body here down to minus 10 millimeters of mercury for 3 minutes, and then in steps of 3 minutes each, we go to minus 20 millimeters, minus 30 millimeters, minus 40 millimeters, and then to down to minus 50 millimeters of mercury. Minus 50 millimeters of mercury is the equivalent stress on the heart um of standing up in 1G. And what we have been doing in the in the ramp protocols, we go to minus 50, um stay there for 3 minutes, and then and then we come back down to to uh the normal cabin pressure in inside the the can. Those ramp protocols, if you just add up all the numbers, plus the control 10-minute control at the beginning, that lasts maybe uh 40 minutes total. Um, the soak protocol is lasting about 4 hours today. Um, in which Bonnie went through the normal ramp up or down to 50 millimeters of mercury uh pressure. And then we brought that back to about minus 30 millimeters of mercury, and that's where she is sitting right now, at minus 30 millimeters of mercury, which again, um is the equivalent stress on the heart of about 0.6G's um if you're standing up down down on Earth. And we're having Bonnie stay like this for about uh um 4 hours today, and then at the end of this protocol, we're going to ramp back up to 40 millimeters, excuse me, back down to 40 millimeters of mercury, back down to 50 millimeters of mercury, each of those for 3 minutes and then we'll come back down to uh or back up to um the normal cabin pressure inside the bag there. During the first hour of this, Bonnie ingested 32 ounces of is actually lemonade with artificial sweetener, and she took 8 salt tablets. So, we're essentially doing the same fluid loading protocol that we do um in the shuttle, and uh along with the uh the lower body negative pressure, and again, we'll be able to compare this with um various ground based bed rest studies that have been done. Um, we'll be able to measure Bonnie's and my heart rate, blood pressure, and EKG when we return to Edwards in a few days um and see if uh we think there was any effect from this. But more importantly, when we fly this on some more shuttle flights, and also uh you know, if we have any iterations, that any suggestions that we might be able to make to this iterations between this and and the ground based studies uh um hopefully uh in the future, we'll be able to come up with a a a fairly good uh or maybe even a more effective countermeasure to orthostatic intolerance. And Houston, that's probably about all that we've got right here. We've got about another hour and 15 minutes of soak time on Bonnie before we go back up to the uh to the the next ramp phase and that ramp phase going from 40 to 50 back down to 0 is only going to take us another 12 minutes or so. Dave, we copy all that. We appreciate the brief on LBMP, and you all look great up there. Well, good morning, Houston. What I'd like to do is talk a little bit about microgravity material science in general, and in particular, about the microgravity disturbance experiment using the fluid experiment apparatus. This experiment is sponsored by the Johnson Space Center and is made up of a team of people that include Rockwell, the Indium Corporation, Honeywell, and several other researchers, including Dr. David Lynn at the Rockwell Science Center. Although everyone calls this 0G, it really isn't quite 0G, and sometimes we do get down to microG, but normally we're about 1/100 to 1/100,000th of a G. And it turns out that can be a very important variable, not only in certain systems, but certain processes. NASA got involved in that research during the Gemini and Apollo days and trying to determine how they would get their liquid propellant through the tanks and out to the engines. And out of that grew a new understanding of how fluids reacted in a weightless or near 0G environment. I think everybody is demonstrated with the orange juice, and I'll be no exception, fluids respond differently in a 0G environment. Fluids don't break apart like a, they do from a hose. Uh, they um are controlled by something called the Rayleigh limit. You can't draw a column of a fluid uh longer than uh its diameter. And all these are important things to understand because they can become obscured by gravity. It's also important in materials processing, because on the Earth, we can't change G. We can do some freefall experiments for 30 seconds in a 0G aircraft, or we can use drop towers and get a few seconds of microgravity. But the only real place to understand how G uh affects everything from crystallization to separation processes is here in the the laboratory of space. What we're trying to understand in this experiment is not so much how G affects some of the crystallization processes themselves, but sometimes how random disturbances affect them. Uh, particularly when you're in an environment such as the shuttle or the space station. Uh, those random occurrences or disturbances can be anything from a reaction control jet to uh, tapping the the uh, locker here, or even uh, running on the treadmill. Uh, the furnace here, built by Rockwell, actually does zone processing on samples of indium. This is a very soft metal. And the reason you do zone processing, there's a heater that travels down the length of this column of indium and heats a little zone. It makes no contact with the indium. And this allows you to do containerless processing. The reason you do this zone heating is to, in this case, to purify the indium. The impurities are less solvent in the solids than they are in the liquids. So the zone essentially pushes all of the liquid in front of it, and hopefully, at the end, you have the impurities out of indium. I have I would have tried this on the ground. As soon as I would try to melt this, the zone would just simply fall. This is almost just soft as uh mercury as it just barely looks hard and I can bend it in my hand. So, some materials simply can't be zone uh refined in a 1G environment. So, this is the zone refining furnace and we are processing uh only Indian samples. What we're trying to understand is, if you have small perturbations or even single large perturbations, does it really affect the microstructure and how much does it affect it? We do know it affects the overall volume uh or shape. If you can see this, this one's been processed and it does have some uh unusual looking uh bends and curves in it. But what does the microstructure look like? Just so you can see how much of a perturbation something like the treadmill uh causes, I'm going to show you a small uh camcorder clip from sample number five. You should be running now the zone molten zone. The the large uh light and black object over it is the heater, and on either side of that, you should see the undulating zone. What was particularly remarkable about this uh all of these samples Indium is that we had put scribe lines on the Indium so we could tell how far the molten zone had traveled when we were heating up the sample. Well, as you can see, the molten zone the scribe lines on the surface did not disappear. And this is a very interesting. It may mean that we've got a a skin of some kind, an indium compound or or something else. But this explains why it is often very difficult to determine where the zone is on indium. So you can see that the zone is perturbed, and one of the things we want to look at is, you know, how much of a turbulence that is. And so we have utilized a number of accelerometers both on the FA and in the orbiters to help uh us uh actually, for the first time, quantify the middeck as a microgravity laboratory. And then we'll later on go through and look at the microstructure of indium. The accelerometer package we have uh was uh actually flown with the 3M experiment and we're now able to utilize it. Gives us three access accelerations right at the point of the experiment. And then in addition, during some of the treadmill sessions, we've turned on the high-rap accelerometers back in the aft part of the payload bay so that we can see how these vibrations may propagate down into an area such as Spacelab. Uh we hope that this data will be of use to space station and to other manned laboratories that we can learn how to isolate our exercise equipment. Uh, we'd like I think many people would like to think that we could one day automate all of this, but I think we're at a very embryonic research stage. Uh, very people intensive just as it would be on the ground. And when we put people in space, we have to make some compromises or use our best engineering minds to overcome the problems we have. And so one of the problems we need to solve uh now in space station is how we can provide for crew living and habitability and exercise without perturbing the very environment that we're up here to research in. Uh, it took a lot of teamwork to put this together and it's going to take a lot more teamwork in the future to take uh the best uh advantage of this microgravity environment and to lead into the new era of the space station. Dan. You can assume, Mr. President, we're aboard Columbia. We hear you very clearly. Well, Dan, is that you, the captain, the boss of that outfit? Well, that's what they say, but everybody contributes a lot and I just uh kind of sit out of their way so they can get their jobs done. Well, listen, I just was calling you to congratulate you. Uh, Dan Quayle is sitting here next to me in the Oval Office. And uh, as you know, he's taken a very active role in the Space Council. But what I'm calling to do is to congratulate you and the crew uh, after all those somersaults, but doing this superb job up there on this mission. And um, we followed the Aldev and the very exciting grab and I just want to hear firsthand how it was going. Well, Mr. President, I think it's going very well. Uh, we've uh pretty much concluded uh most of the major objectives of this mission and uh obviously, the uh retrieval of the LDEF was one of the highlights, and uh we're very happy uh we have it back on board. Uh, we believe it's a real treasure that's going to help uh very much in designing uh future uh space uh satellites and uh shuttles and space station. Well, I think that's wonderful. And how did all the new guys behave, Jim, Marsha, and David? All all Can can they talk or are you doing the speaking for this crew? Oh, we're going to get them all a chance. In fact, we'll let the G-David tell you how it was uh to be a new guy. All right, fire away, Dave. Well, Mr. President, it's a pleasure to be up here. I've enjoyed this flight very much. Uh, we've enjoyed a lot of success with a lot of help from uh all the folks on the ground. It's a a real pleasure to be up here to contribute to our space program. Well, I'm delighted. How is Marsha doing? Can she hear near a mic there? Yes, sir. I have a mic. I think uh we new guys are really excited. We've waited a long time for this, and and it's a sort of a dream come true. The world looking looking at it from up here is incredible. I don't want to date your commander, the captain there, uh Dan, but I had dinner over at the White House two nights ago with Dick Truly who tells me that reminded me that they had flown together sometime back, Dan. Sorry about that. Well, that's true, and in fact I've been taking my share of hits this mission. I uh just had a birthday yesterday and I've been taking a lot of grief. All right, well, listen, we is Bonnie there, who else have we not? I'd like to say hello to everybody. Certainly, we'll let uh Jim Weatherby tell you. He's the other new guy and we'll let him tell you what he thought of it and then uh we'll turn you over to Bonnie. Yeah, I want to say I'm proud to be here. It's uh it's a pleasure being part of this program. I'm I'm uh happy to be part of uh watching Dan recover that satellite. He's about the best in the world at grabbing satellites in Mach 25. Unbelievable. Well, I'm glad to see a navy pilot um could you use a 65-year-old Navy pilot up there? Navy pilots don't get that old. Oh yeah? I'm one. Well, I'm delighted to be here, Mr. President, and feel fortunate uh to do it again, but I know that it takes a lot of work on the part of many, many people and uh I want to thank all the people, Johnson Space Center and NASA in general for making this possible. It's been an incredible mission. Well, you know, that's one thing that does come through. I mean, there you all are working, um, and people, you know, following very keenly what you're doing. But I think one thing the American people do see as a result of a highly complex mission like that, uh this is this enormously effective teamwork. And uh I I must say I'd like to join you in saluting uh everybody involved, and I wish you well as you wrap it up now and and come on back, but we're proud of you and I look forward to seeing you uh at the White House uh as does the Vice President, when you can get around to getting up here after you get back. So, well done. Uh we're proud of you and we will follow the rest of the mission as we have the beginning with uh with great interest. And Dan, to you and your wonderful crew, congratulations. Well, thank you.
+
+Thank you very much uh for taking the time to speak with us this morning uh Mr. President and uh we're proud to have had the opportunity to represent our country and to uh conduct this mission and along with all the other people that uh make up the NASA and the space team in this country.
+
+Okay, well, we'll let you go to work and well done. Thank you very much. Over and out.
+
+Houston, Columbia with a PCG report.
+
+Go ahead, Columbia, we're ready.
+
+Okay, I'll try to answer the questions. We did the PCG one Deact and I think you saw me flailing around with some of that. As far as the third trace is concerned, I activated LX2 3 AX6 HX5 on day two and two of them uh two others I uh activated but either the drops blew away or or broke. And then I activated five others on day four and I activated the rest on day six. and I've recorded it all on the camcorder and I don't have it written down. The only one that I saw crystals growing in was the first one I activated, which was LX2. Um and it had visible crystals in it. As far as during disturbances, I uh camcorded some of it during treadmill ops and the drop doesn't move at all. I camcorded it during our maneuvering on day four on our way to get Ldef with all the ohms burn or the RCS jet burns and the drops really wiggled on that one.
+
+No crystal formations were seen in the chambers during the times of disturbances and I'm not sure the camcorder can really record what's in there now that I've deactivated PCG1 uh and there were a fair amount of crystals growing in a few of them which you cannot see necessarily with the camcorder. The droplets were not dislodged during high activity. The one thing I noticed, and maybe it was because it was out in the cabin, was that the droplets were smaller every day. I think it's the P droplets, the ones that are green. They made made very small droplets. It looked like uh solution only came out of one of the syringes and not the other.
+
+The other thing that was interesting is watching the mixing of the two solutions when they're different colors and I mixed each one of the spare tray ones eight times like you're supposed to on the big tray and uh it did not mix right away. After about a day or two, the color was constant throughout.
+
+Okay, Marsha, thank you very much for the report. That was a good one.
+
+An update on the weather. It's currently still foggy at Edwards, so it looks like it was a good call to wave off for today. And tomorrow, Edwards is looking real good. Uh should be just fine for landing, and we're looking at a pretty wide dew point spread, so we shouldn't have a fog problem tomorrow.
+
+Okay, thanks, and it looks like a great call, not a good call.
+
+That's a firm. And I've got a couple of other things for you if you want to hear them. Well, whether you want to hear them or not, here's one from the director of Langley Research Center. Bravo Zulu, on behalf of the NASA Langley Research Center and the Ldef Project Office, we extend our sincerest congratulations on your flawless performance. You made the retrieval and return of Ldef look easy. The photo survey clearly showed that your efforts were justified. The Ldef scientists look forward to a wealth of data that will have major impact on future missions. Many thanks. It's signed Pete Peterson, Director Langley Research Center.
+
+Well great, thanks.
+
+And one last thing, a few things that will be kind of distinctive by the time you wake up tomorrow morning. Bonnie will be the most travel woman in history. She'll have about 427 hours of space flight by deorbit time. And another distinction, you'll have the most travel maggots in the whole world, with Wixby and Marsha and David with 258 hours. And this flight turns out to be the longest space shuttle flight ever. And Dan for you a special congratulations, because when you wake up you'll have the distinction of really being the old man of the astronaut office, having surpassed Crypt's record of 566 hours on orbit in the space shuttle. And when you deorbit you'll have a total of 573 hours in space. In the space shuttle.
+
+Oh, I don't don't mind being old if uh if that's what you get. It was uh every hour was uh more than enjoyable. Thanks for all the updates. We appreciate it. Lastly, uh weather being an Iran on the treadmill, uh we thought yesterday was our uh last day of that grueling torture test. However, uh when the alternative today was uh landing in the fog and a muscle biopsy, we didn't mind doing it that much.
+
+Sounds like you still have sound judgment despite your age.
+
+Columbia, Houston. I think that's everything you owed us and we don't have anything else for you right now, so hope you have a good night's sleep and we hope that we talk to you in person tomorrow.
+
+Likewise, uh the Skivvy Drawer is running dry. We'll see you all tomorrow.
+
+Columbia, Houston, you've got to go for payload bay door closing.
+
+The payload bay door is now closed and latched on Columbia, that at 10 days, 15 hours, 47 minutes.
+
+Columbia, you have a go for Ops 3.
+
+Okay, going to Ops 3.
+
+We're now in Ops 3, the entry software regime. Latest observations from uh the desert, temperature 41 degrees, dew point 32 degrees. So our spread is hanging in there and we uh do not see any evidence of fog formation out on the desert at this time.
+
+Columbia, Houston.
+
+Go ahead, Houston.
+
+Dan, could uh you take a look at the output switch for the uh BFS and GPC 5 and tell me where it's at, please?
+
+GPC 5 output switch is in backup.
+
+Roger, copy.
+
+Dan, what we're seeing down here on GPC 5 is we no IO Term B discreet and we're logging some errors on the GPC 5. What we'd like you to do is cycle the output switch through uh all three positions about five times uh in ending up in backup, please.
+
+Okay, we'll do that. And Houston, that's complete.
+
+Copy.
+
+It looks like we've got a problem with our uh BFS. I think we may have a transient switch failure. We're going to have to uh delay our burn. What we'd like you to do is go to the BFS GPC fail procedure, Pre-TIG in the entry pocket checklist. That's going to eventually get you to a MAL DPS GPC FRP3, which is the BFS GPC fail recovery. And Dan, if we can get that uh in work and uh it looks like we're able to recover it, we'll uh go for our second opportunity tonight.
+
+Okay, and uh and we're in 3-12 in the pocket checklist.
+
+Yes sir, good.
+
+We have waved off the deorbit opportunity for this rev. We were working with a problem that cropped up in general purpose computer number five, which was configured for the backup flight system. The other four computers for the nominal entry config are uh set up to uh run the uh primary avionics software subsystem. And the problem that we have seen is what is believed to be a transient switch failure in that GPC number five. Uh in that uh state, that computer was no go for entry. The plan of action now is to uh move toward reconfiguring the computer setup so that we have three of the general purpose computers uh working with the Pass 1 in the backup flight system.
+
+Okay, Houston, we show we complete.
+
+Roger, copy, Dan.
+
+It looks good down here.
+
+Okay, Dan. Uh, we're still going to plan on uh doing one orbit late TIG so we can get everything squared away and make sure we've got everything the way we want it.
+
+Okay.
+
+So, the plan now is to go around one more time, and on orbit 172 make the burn with a Rev 173 landing in Edwards.
+
+Columbia, Houston, you have a go for deorbit burn.
+
+Roger, Houston, go for deorbit burn.
+
+Mike's been flying the SGA, and he reports a ready deck. So I want to let you know, we should be able to watch most of the burn except for about the last 30 seconds or so. We'll pick you up on the TDRS West at about 2007.
+
+Okay.
+
+All still green here in Mission Control and in the space network and uh at Edwards.
+
+Columbia, Houston, the APU looks good. Your signal's Buster.
+
+Roger.
+
+And signal Buster to a navy naval aviator means hurry home. Propulsion systems officer reports we're burning with two good OMS engines. The GNC officer reports we have good control.
+
+Columbia, Houston, with you through TDRS West, looks like a good burn.
+
+Roger, look good to us.
+
+Flight Dynamics Officer reports the airspace is clear. The uh convoy forces are ready to support. Latest weather report from Edwards, a temperature of 34 degrees, a dew point of 30 degrees. Winds are now recorded at 4 knots and pegged at 5 knots. So uh light winds and good conditions. No fog reported in the area.
+
+Columbia, Houston, we've got some tracking of quadraling, coming right down the pipe.
+
+Roger, thank you.
+
+The Flight Dynamics Officer reports the first roll command came on time. So, all proceeding very smoothly here on Columbia's descent toward Edwards Air Force Base. Columbia's velocity 23,300 feet per second, an altitude of 254,000 feet, range to touchdown now 1,930 nautical miles. Altitude 242,000 feet. Columbia now moving through 200,000 feet, uh range to go about 919 nautical miles. Prediction is for Columbia to pass over the California coastline uh right over Ventura, California.
+
+Columbia, energy groundtrack and Nav are go.
+
+Roger, Houston.
+
+Columbia, take tac-an.
+
+Roger, Houston, taking tac-ans.
+
+Columbia now taking Tac-an guidance from the uh landing area. We're now processing Dryden telemetry. We show Columbia at a velocity of 6,875 feet per second, an altitude 137,000 feet, descending at a rate of 250 feet per second. The range to Edwards about 209 nautical miles.
+
+Columbia, Houston, like a state vector transfer to the BFS, please.
+
+Okay, we'll do that.
+
+All uh going very smoothly in Columbia's approach to Edwards, Runway 22. Velocity 4,600 feet per second, altitude 110,000 feet.
+
+Columbia, like another state vector transfer to the BFS, please.
+
+And work.
+
+Range now 70 nautical miles, velocity 2,800 feet per second, altitude 83,000 feet. They're descending at about 270 feet per second.
+
+Columbia, Houston, take air data to GNC only.
+
+They're now about 53 nautical miles away.
+
+Columbia, Houston, take air data to Nav.
+
+That's complete.
+
+Velocity uh 1,904 feet per second, altitude 72,000 feet, descending at a rate of 160 feet per second. 44 nautical miles out now. Columbia's energy and navigation are all in good shape, uh descending at a rate of uh 350 feet per second. They're at about 53,000 feet.
+
+Columbia, Houston, you're looking good approaching the Hek. We'd like a state vector transfer to the BFS. Surface winds are 260 at 5, altimeter 3011.
+
+Roger.
+
+Dan Brandenstein has uh momentarily turned the stick over to uh Pilot Jim Weatherby. Brandenstein will take the stick back uh as he makes the final uh approach onto the runway at Edwards. Uh normally uh manual control does not begin until just below Mach 1. Uh the commander is now again flying the uh Columbia, uh Brandenstein uh taking the stick and is bringing Columbia onto the heading alignment circle. He's making a uh left overhead turn of 195 degrees onto runway 22. There are now about 10 and 1/2 nautical miles out, altitude 15,000 feet.
+
+Flight Dynamics Officer, Ed Gonzales reports they look real good rolling onto final.
+
+Columbia is now processing the microwave landing system.
+
+Columbia, we see you on glide slope, converging the centerline.
+
+Roger, Houston.
+
+Range now 5 nautical miles, altitude 5,600 feet, gear down, gear down and locked. And Columbia rolls out uh after a successful flight. Wheel stop, Houston.
+
+Roger, Columbia. Welcome home. Outstanding job. You showed us the shuttle at its best, deploying and retrieving satellites. Great way to start the decade. Stand by for your post-landing Deltas.
+
+Okay, thank you.
+
+This is Mission Control, Houston at landing plus 31 minutes, 19 seconds. The Flight Dynamics folks have been uh looking at the preliminary calculations and they show the landing weight of Columbia at touchdown uh what was 228,400 lbs, which is uh just about right on the pre-mission predictions and evoked from Flight Director Lee Brisco the uh congratulatory words, that's not bad for government work, boys.
+
+And Houston, Columbia, we're all complete here and ready to egress, I believe, uh if you concur.
+
+Roger, Columbia, we've enjoyed working with you. We concur and uh it's Miller time.
+
+Roger, Houston, and uh took a little doing getting home today, but uh we appreciate your help and uh we're happy to be back and we'll see you later.
+
+Hey! Hi!
+Oh, hi. How are you doing today?
+I'm doing great. How are you?
+I'm good. Thanks for asking.
+

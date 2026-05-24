@@ -1,0 +1,713 @@
+This is Shuttle Launch Control. The launch of Mission 51F on schedule for a 4:30 p.m. blast off from Complex 39's pad A. All proceeding very smoothly at this point.
+
+Minus 30 seconds.
+We have a go for auto sequence start. Challenger's computers have primary control of critical vehicle functions. The Ground Launch Sequencer will now serve in a support mode.
+T- minus 16 seconds, the computers have armed the SRB ignition, hold down post and T0 umbilical.
+T- minus 10 9 8 7 6 5 4 3 2 We have an O.R.S.S. aboard. We have an abort. We have an abort.
+
+GLS Safing is in progress, BFS and transfer 101.
+GLS Safing is in progress at this time.
+CDR TPC computer mode 5, switch to halt.
+Okay, switch to halt.
+We have a cutoff. We have an abort of this afternoon's launch attempt.
+
+Zero, LX to site. GLS uh verify SRB ignition, separation argument is safe.
+Yeah, 5 detectors tripped.
+This is MPLT Zero Water is on.
+Copy. Thank you.
+
+Engine 2023 showing post shut down.
+FireX water on the pad has been activated. We have had a redundant set launch sequencer cut off.
+We have no uh no fire. No leak. No fire.
+Stand by for post-abort safety checks.
+All indications are preliminary that uh systems are safe.
+DLS Safing is complete and ready for G9 transition.
+PTA.
+Ground Launch Sequencer Safing has been reported complete.
+We are falling active.
+We are got down to approximately the T- minus 3 second mark.
+We did have uh engine start and uh automatic cut off.
+
+Okay, check that.
+For some reason the 4 redundant computers aboard Orbiter Challenger sensed that there was something wrong and commanded a shutdown of the 3 main engines.
+Post-abort safety checks are complete.
+Finally, detected status is set satisfactory. Verify concurrence to proceed with SRB FMA safing.
+And uh CDR and the crew are all unstrapped. But uh everybody's still on calm, standby.
+CDR and PD.
+Go ahead with engine.
+Okay, it's present time we're going through our uh post-cut-off uh securing. Uh we do not have any fire indications or or leaks. Uh it just be a few minutes here, we'll have the after van back up to and the closeout crew uh to get you all out.
+Okay, well just apply but are otherwise in good shape.
+Understand.
+Uh, Commander Gordon Fullerton reporting that uh, they're disappointed, the crew is disappointed, but otherwise in good shape. The important thing at this point in time is that the crew aboard Orbiter Challenger is safe. The vehicle is safe.
+Uh, we have followed procedures we have practiced many times before in simulated scenarios and uh are proceeding quite smoothly through this aborted launch attempt of Mission 51F.
+
+We had a uh a failure of a chamber coolant control valve on engine 2.
+Which is open, full open at start. And after 1.46 seconds, we command that valve under control of channel A.
+To close down to 70%.
+And when we gave it the command signal, the valve failed to close.
+In about 60 milliseconds we switched to channel B, which all which is the redundant control for that valve.
+And it properly resumed its position.
+Now, we have a basic ground rule is, that on the five control valves we have on the engine,
+which are we have redundant controls, and the ground rule we fly under is if we lose our redundancy, prior to lift-off, then we cut off. We do not want to go into the air uh with a potential problem.
+And so, we then had a normal shutdown of the engine.
+And the engine as such, didn't fail. Essentially, we lost one leg of our redundancy,
+and we've established the policy that we will not lift off unless we have uh redundant control on the engine.
+
+This mission, Spacelab 2 is the third in a series of flights of the European-built orbital laboratories that comprise the Spacelab hardware.
+For this particular flight, there is no pressurized module for scientist-astronauts to work in.
+It's rather a series of three pallets on which ten of the 13 experiments are mounted.
+All for the LTV
+new T0 will be 2100 GMT.
+We have a final go for launch from range safety, and we have a final go to proceed from the launch director Bob Sieck, who informed the crew that uh after numerous delays, we are finally uh go here at the Cape, and he instructed the LTV to go for it.
+LTV SPE.
+Okay, all engine valves look good at 4 minutes.
+Shuttle Project Engineer Jean Thomas saying that all engine valves look good at 4 minutes.
+This afternoon's launch will place Orbiter Challenger in an initial 122 by 214 statute mile orbit.
+And a ship's orbit will later be circularized to about 238 statute miles.
+We have a go for auto sequence start.
+We have a go for auto sequence start. Challenger's 4 redundant computers now have primary control of critical vehicle functions.
+20 seconds.
+Everything is go.
+T- minus 12.
+T- minus 10.
+We have go for engine start.
+T- minus 5 4 3 2 1
+Ignition and liftoff. We have liftoff of Challenger in Spacelab 2. The shuttle has cleared the tower.
+Tower clear.
+All maneuvers started. Roll program initiated.
+Houston now controlling. They'll be throttling down to uh 65% throttles on their main engines.
+Now at uh 65%.
+Challenger Houston, you're go at throttle up.
+Engine is now back up to 104%.
+Three good APUs, three good fuel cells on Challenger.
+Standing by for SRB set.
+Good SRB set confirmed.
+2 minutes 22 seconds now at 4500 feet per second and uh velocity.
+Challenger Houston, first stage performance low.
+That call gives the crew throttling information.
+Velocity now 5100 feet per second, the rate of climb 1400 feet per second. Challenger, Houston, two engine tail capability.
+Two engine tail.
+They have the capability to make a zero goes a Spain uh transatlantic abort should one engine fail.
+Now 214 nautical miles down range.
+Challenger, Houston, press to ATO.
+Roger, press to ATO.
+That call tells the crew that they should be ready to dump any fuel should an engine go down anytime in the next 45 seconds.
+ATO stands for abort to orbit should that uh be necessary.
+5 minutes 36 seconds. Altitude uh 58 nautical miles, distance down range 275 nautical miles, velocity 11,000 feet per second.
+We copy. Stand by.
+We have a center engine down board, ATO. Abort ATO.
+Mission Control, Houston, we have a center engine down on the Challenger. The crew has been instructed to abort to orbit.
+We're now at uh 6 minutes 27 seconds mission elapsed time.
+Again, we're in an abort to orbit case. We have two engines up and running, one engine down. Three APUs good, fuel cells also look good. Challenger, Houston, single engine tail capability.
+As you see, single engine tail.
+Roger that.
+And main engine limits to enable, Gordo.
+Okay.
+Crew can still get to Zero goes a should they lose another engine. However, we still have uh two stable Space Shuttle main engines. Center engine is down, however, and they've been instructed to this point to abort to orbit. Houston, uh we have about a minute and 50 seconds of dump time. Can you confirm?
+Challenger, Houston, look like a good dump. That's about the right time.
+That fuel dump necessary to achieve proper uh main engine cutoff constraints for this case. Challenger, Houston, main engine limits to inhibit.
+Okay, inhibit.
+Mission Control, Houston, 9 minutes mission elapsed time, altitude 58.3 nautical miles, distance down range 789 nautical miles.
+Velocity now 21,969 feet per second.
+With cut off now at 25,800.
+Meco confirmed. We copy and we're looking at it, Gordo.
+10 minutes 30 seconds mission elapsed time. Challenger is going into orbit, the main engines have shut down, as planned in this uh abort scenario. Main engine cutoff came at 9 minutes 41 seconds, the external tank is separated properly.
+Roger, Challenger, we'd like to go with the nominal OMS2 targets, and those that would uh you get those with an abort target zero selection. However, we would like to modify the the uh TIG time to 33 minutes even.
+Capcom, Dick Richards speaking with Commander Gordo Fullerton, uh calling up some of the times on the upcoming OMS burn, the circularized orbit. It's a nominal OMS2 burn, which will uh place the Challenger in a 141 by 106 nautical mile stable orbit. The ship is in orbit, it's stable. It got there on uh on two engines rather than three.
+Okay, Houston we have a nice uh cutoff there uh we have about 4/10 on the residual setup.
+We copy that, Gordo, it looks good to us.
+They're ready to press on now. The plan is to go ahead and open the payload bay doors. Uh they intend to uh uh seek a nominal mission duration, however uh it could be that some uh scheduling will have to be done uh on the science side, due to the fact that in the abort to orbit scenario, it was necessary to dump some orbital maneuvering system uh fuel. Uh that uh is done to achieve the right weight constraints to get to the proper uh main engine cutoff conditions. And uh uh incidentally, when they do dump that fuel, that sometimes can help them generate plus-x performance or a little bit more oomph to get into orbit. But in any rate, since they did dump that fuel, it's possible that there will be some reconfiguration of the uh of the flight schedule at this time. It's too early to say where we stand other than that they're in orbit, the ship is stable, the crew of course is safe. There's no plan to come home. We're now at a mission elapsed time of 41 minutes uh 40 seconds, and this is mission control, Houston.
+This is Marshall Spacelab Operations. The Spacelab 2 mission manager Roy Lester reports that despite an orbital altitude that is slightly lower than planned, he expects a nominal duration mission of 7 days with some reorganization of the payload timeline. The Spacelab 2 mission scientist reports that preliminary activation of all the experiments located in the payload bay of Challenger has been completed. Power has been turned on to all the experiments. And several experiments are receiving data at this time.
+Gordo, just a sort of at least give you some insight as to far as to where we're headed. Uh right now, uh you can anticipate an Oms 3 at approximately an MET of around 5 and a half hours. Our plan is to take uh your altitude on up to uh 170 nautical miles. Uh, as you can imagine, because of the 5,000 lbs of Oms that uh we dropped during the uh ATO dump, there's a lot of replanning going on down here. However, the good news is that uh right now, it looks like uh we will have a full mission capability. And as soon as we can get some more words about how the science is going to stack up, we'll do that to you, of course.
+Okay, uh that sounds good. Uh, yeah, I imagine a lot of people are going to be putting in overtime.
+Okay, uh Gordo, just to bring you up on the uh the launch phase items. Uh, of course, we had the center engine shutdown, and uh that was due to both the A and B high pressure fuel uh turbine turbine discharge temps above red lines. They didn't fail together, uh but the second one failed at about 5 minutes 45 seconds. An additional note, the right engine high pressure fuel turbine turbine discharge temperature, bravo, also failed, and the other doucer was getting a little bit flaky on us and that's why we went back to the inhibits. The overall Oms propellant impact, uh, in order to get you to orbit, we uh dumped out about 4,400 lbs and then our Oms 2 burn delta above nominal was about 750 lbs. The orbit impact that we're seeing now is that experiment 4 will probably only get the millstone one and the Arecibo one burns. There's some chance that later on we may get either the quad or the Hobart, but we'll have to take another look at that. We're going to sit in the 169 circ orbit, which gives us about 5 to 600 lbs above the nominal attitude timelines. Basically, our planning options are to trade propellant-consuming activities or to raise the altitude to a circular or higher elliptical orbit. In general, we're going to look at expecting a reduction in the PDP attached ops, but you're a very high propellant-consuming activities. Although we'll be able to get at least one PDP fly-around on flight day 3, and we can assume that at least for the present time that the experiment 4 burns are completed. And we hope that gives you some uh some picture of uh of the things that happened and uh and also give you some idea of what the planning options will be for the uh rest of the flight. Yeah, that's a good summary. Uh, appreciate that. Okay, Gordo, and just uh to pass along, uh although it's been a uh rather rough day for you all up there. Uh everybody's pleased with the way that things have gone and in fact the first uh experiment 4 burn uh went exceedingly well so uh the despite the this kind of shaky start to everything, looking real good down here and everybody's really pleased with the results.
+This is Mission Control. Mission elapsed time, 10 hours 20.
+
+seven minutes. The orbit three team continues to work a problem with the instrument pointing system, or IPS. The purpose of the IPS is to provide precise pointing for attached instruments. The IPS has a relative accuracy of two arc seconds, which means it can remain stably pointed at an object the size of a quarter from a distance of one and a half miles. The IPS provides a stability of pointing that cannot be achieved by the space shuttle orbiter alone, which in the past was the pointer for instruments by adjusting its attitudes. This is mission control.
+
+And this is MS1 with a report on IPS. Uh, we got uh, again, rough track both for the sun and for the offset star. Uh, and the up-optical hold enable stayed, but nothing more happened. We did not achieve a fine track.
+
+Preparations being made here in the payload operations control center and by uh Lauren Acton on space lab for the first mission test with the fast pulse electron generator.
+
+Lauren, we're ready to commence ground control F peg emission. Okay, this is going to be a short pulse sequence. We will send the command. The filament comes on 30 seconds later.
+
+I copy, I'm watching. Brightness, enormous light, beautiful.
+
+We copy that. No question about it.
+
+Payload specialist Acton indicating a very good firing of the electron beam.
+
+And we'd also like to pass along that everything went very well for generator number one.
+
+Thank you for the nice news.
+
+The maximum power of the electron beam that is emitted is about equal to the power generated by a 100 watt light bulb. The purpose of the VCAP experiment during this Spacelab 2 mission will be to study the ionosphere's natural traits by perturbing it with those electron beams.
+
+And so, the X-ray telescope investigation team has arrived at a valid target list, which is being teleprinted up to the crew, and they will proceed from there to point the X-ray telescope to those targets. They will be turning that double-barreled instrument to look at the various X-ray sources in the heavens. The reason for that twin-barreled system is that one gives a fine resolution and the other gives a coarse resolution. And this dual system allows this X-ray telescope to to study the the bright regions of galaxies and and also the outlying parts that are somewhat more diffuse.
+
+We have desired equal to current within one degree.
+
+We copy that.
+
+And as this valid targeting list is being carried out now by Lauren Acton, the investigation team once again in the payload operations control center, for that experiment, number seven, is busily studying the images and the data that they are now receiving.
+
+With everybody's concurrence and of course this requires the IPS people too. We would like to acquire the Sun with experiment nine and go ahead and do the southeast quadrant of the chase map this rev, which will give us not only some science data, but some more IPS information plus a nice picture we can hand around.
+
+And so, Lauren Acton has requested that experiment nine proceed with observing the southeast quadrant of the of the Sun for experiment nine, the chase experiment, which seeks to determine the relative abundance of helium in the Sun.
+
+I just want to make sure of experiment 9 to know that the IPS is using experiment control now on experiment 9 and it does have an optical hold.
+
+We copy and that's good news.
+
+And Lauren Acton reporting, he does have a lock on the southeast quadrant of the Sun, using the sun sensor of the Chase Experiment, experiment number nine.
+
+Experiment 9 says they're getting good data.
+
+Hey, I see some counts coming in in H alpha and Helium 2. We are actually making a map of the Sun.
+
+That is fantastic news, Lauren.
+
+And Challenger Houston, we'll be going LOS in 3 minutes uh, to TDRS. Just continue with your ultracue and we'll see at Yagerty at 23:23.
+
+Okay, well, the ultimate quiet.
+
+Experiment 13, the properties of superfluid helium in zero gravity experiment in the ultracue. The crew tries to be as motionless as possible so that that experiment can collect the proper data. The purpose of those investigations are to determine the fluid and thermal properties of superfluid helium. This superfluid helium is within about 2.2 degrees centigrade of absolute zero, and in this form, can flow through extremely small pores that would block all other liquids. It also conducts heat about a thousand times more efficiently than than copper, the next best thermal conductor. These traits make superfluid helium very well suited for cooling space instruments.
+
+Spacelab, this is Marshall Ops for Lauren.
+
+Go ahead, Barb.
+
+Diane. This is Diane, and I would like to pass on the wonderful news that experiment 11 is seeing the Sun for the first time and getting good data.
+
+Hot dog, glad to hear it.
+
+And with the experiment 11 now seeing the Sun for the first time, a very very pleased group of investigators here in the payload operations control center for experiment 11, the Solar Ultraviolet Spectral Irradiance Monitor, that that experiment which is to determine the variations of all the ultraviolet emissions from the Sun.
+
+The Susim is an atmospheric physics experiment. It's it's known that ultraviolet light from the Sun has an effect on our atmosphere, and that's what that experiment is going to be studying.
+
+We have a go to open the Hertz door.
+
+Thank you.
+
+Crew has been given the go-ahead to to work the experiment number 10 for observation. That's the high-resolution telescope and spectrograph. And with the opening of the Hertz door, this will in turn open the way for observations of the Sun. The door, of course, is the lid which is at the far end of the telescope. They use this imaging system to select interesting viewing targets such as sunspots or flares.
+
+Roger, as you can probably see, we have achieved an optical hold and the filter settle with experiment 10, and Lauren and John are busy and they have an an H alpha image of the Sun now on one of our monitors and they're busy running running through the focus test.
+
+We copy, Carl, and we're looking at it, too.
+
+A lot of joy on the flight deck. Yep, you even see a solar prominence sticking out there off the limb.
+
+Yeah, we see that. That's fantastic.
+
+The camera the imaging system has picked up a solar flare. Experiment 10 is controlling the instrument pointing system to lock onto the Sun.
+
+Dr. Brookner is now enabled on the ground.
+
+Are you getting this on tape down there, Gutter? Are you recording this VTR down there so you can study it? You can bet that.
+
+Excellent.
+
+All of this imaging, of course, is being videotaped for further study. And in addition to the image, of course, there is data, digital data that is being received. This is primarily an instrument not of an imaging system, but of a spectrograph. It is a 12-inch telescope and a spectrograph and it does have a spatial resolution of about a half an arcsecond. That translates to about a little more than 200 miles on the on the surface of the Sun. And in addition to separating the image into a quite a large number of emission lines, it records these observations on film exposures. During this mission, it's expected to take about 36,000 exposures before it comes home. All this, in addition to of course the imaging system, showing us what the Sun looks like in hydrogen alpha radiation.
+
+Just ready to do the push-off test.
+
+This is mission control, Tony England. Mission specialist checking out the IPS. The teams have handed over on the Challenger. They're about to engage in the disturbance test, what they call the push-off test where one of the crewmen will push off of one of the surfaces on the inside of the crew cabin and a crew members will observe how long it takes for the IPS to damp out the vibrations induced by the motion of the crew members. This is all part of the verification testing of the instrument pointing system.
+
+Those wall push-offs, they're giving about 20 arcsecond excursions.
+
+And we see it. Okay. Uh the keyboard didn't seem to do anything at all. The hydraulic circuit pump was at 119-36-30 to 119-37. And we gave you the mark on the wall push-offs. We're now on step 11. The crew members have been inducing the motion by such methods as pushing off from a wall inside the crew cabin, making keyboard inputs, operating the hydraulic circulation pumps and observing the motion and the length of time it takes for that motion to damp out.
+
+Okay, I've basically telling you so we have been successful in achieving optical hold using the fine sun sensor and the disturbing forces do in fact cause disturbances out to the 10-15 arcsecond range.
+
+During the next few hours, the plasma diagnostic package will be released by the robot arm and the orbiter will perform a series of maneuvers called a fly around. During that time, the PDP will begin studying the natural plasma environment away from the shuttle. This is the first time that ambient plasma has been sampled this far from the shuttle and it will help the investigators to determine how far the orbiter's effects extend.
+
+Okay, Roy and Gordo and the whole crew up there, everything looks good from our standpoint and you are go for release of the PDP.
+
+Okay, soundscat. Anticipate confirmation of uh PDP release.
+
+Challenger Houston, we're through Hawaii. Well, I'm clear we have a read on that walk. Okay, we got about 160 feet. Hey, we're getting up over the top of it now.
+
+Okay, we copy.
+
+The science team did receive data and it looks uh very good. Strong, clean and the satellite looks healthy. We just completed the running sequence F-Peg versus thrust and both Tony and I can see the uh F-Peg beam bloom when the thrust is fire with the naked eye.
+
+Thank you, John.
+
+The VCAP and uh the plasma diagnostic package perform a number of joint operations. The science team hopes to obtain information on the wave and particle fields generated by the electron beam at uh greater distances as the orbiter moves away from the PDP. They hope that this will provide information about the way waves are generated in plasma and the extent to which the orbiter itself is a source of energetic electrons.
+
+Okay, Gordo, your trajectory looks good and your prop usage in your first flyaround there, at least through IP was uh nominal or even just a little bit better than mean.
+
+Candies how they how close this is behaving like the simulator. The visuals are a lot better.
+
+Roger that.
+
+The PDP uh continuing to uh achieve uh several of its uh functional objectives. Uh it has uh just completed a study of the natural phenomena of the orbiter's wake uh trailing behind the orbiter.
+
+And Challenger Houston, for your information, you had a bullseye on the lower flux on this time and uh from the residuals on this last burn, it looks like you're really getting the touch.
+
+Yeah, two kinds. But we'll take it. Houston, uh we're uh relatively stable on a V bar here and uh standing by to go to go in and get her.
+
+And we're two minutes from LOS TDRS. We'll see you next at TDRS at 9:47. We'll be looking forward to seeing the PDP on the end of the arm when we come back up.
+
+The free-flying plasma diagnostic package has uh completed the extremely successful operations. The uh investigator team here, extremely pleased with the the first free fly of the plasma diagnostic package.
+
+Challenger Houston, we're with you through TDRS. Okay, I'm uh pleased to report that the PDP is at .701.
+
+Roger, and we're glad to see it there. Looks like you guys did super work. As a team we've had it all the way and it feels damn way. Glad to get it uh all wrapped up successfully.
+
+Payload specialist Lauren Acton talking
+
+to Dan Collins from Experiment 13, one of the Superfluid Helium experiments aboard Skylab.
+
+Right. I kind of interested to know uh what kind of activities we can do without disturbing your quiet sequences.
+
+I'd say just about anything but heavy physical exercise. The g levels during some of your push-offs and heavy exercise were in the 0.2g level, quite high, 200 mg.
+
+During normal operations, you are operating down well under uh 50 mg and sometimes very much less than that.
+
+Uh, are we off scale low when everything is quiet and done?
+
+During the your present activities, right now we're reading under three tenths of a mg, 0.3 mg for all axes.
+
+So, under normal operations you're less than a half a mg.
+
+I'm really glad to hear that, Dan, congratulations.
+
+Oh, thank you.
+
+S-Rex stands for shuttle amateur radio experiment and amateur radio operators have always been on the edge of technology. This isn't particularly new technology, except that the new digital technology allows it to do things that we couldn't have done a few years ago. Essentially, we've got a commercial
+
+TV camera that anyone could go out to their local radio store and buy.
+
+And we feed this into a scan converter built by a commercial outfit, but modified by NASA radio clubs, and this takes a snapshot of the scene and digitizes it, puts it in a memory, and then it
+
+into a handy-talkie.
+
+And, uh, then it will be transmitted to the ground.
+
+The whole thing only puts out about two and a half watts, but because there's not much interference up here, it's
+
+hard to talk to the amateur radio operators on the ground. And when we get going here, we'll be able to send color
+
+TV images of what we're doing on board as a series of snapshots, updated every 10 or 20 seconds.
+
+Uh, and amateurs any place in the ground will be able to receive them, and ones with amateurs with scan converters can see the picture. We also have the capability to take a picture up from the ground, and we're going to do that as a demonstration on some later passes.
+
+So I was going to uh share a well bit about the plant growth experiment. The reason we're running this experiment is principally to study lignin formation.
+
+Lignin is a kind of thing, if you plant a seed in the ground and you tip a pot of a plant over growing in this direction, it will respond to gravity and grow up. It's what gives a plant some strength.
+
+When you're eating plants, like we all have to, we all depend upon plants for food, you don't want so much lignin in them, but if you want to use plants for structural strength, such as wood and and the like, you like more lignin in them.
+
+And we share a system down here on Earth with plants. We consume the oxygen and uh
+
+and we produce carbon dioxide, and plants consume the carbon dioxide and produce a plant food.
+
+We are growing some whole plants, some pine seeds, and some mung beans here in zero gravity where the plants do not have to
+
+produce lignin to oppose gravitational forces.
+
+Presumably, as soon as we have acquired with uh experiment 9, then we're free to swap over to experiment uh
+
+10 for the observations.
+
+Uh, Lauren, that's affirmative.
+
+And that exchange of inserting uh the plans for this uh next solar pass, they will try to acquire the sun during this pass uh using the instruments on uh uh Chase, or the Solar Coronal Helium Abundance Spacelab Experiment, that experiment 9. Uh, if they do acquire the sun, then they will switch and uh
+
+image the uh Hertz experiment.
+
+Uh, that experiment number 10, and we now are into the uh daylight hours for this solar pass.
+
+Uh, we acquired with no difficulty in experiment code 3, and we simply uh gave it up, uh experiment control and optical hold, and it locked right on.
+
+And, uh, Mission Specialist Karl Henize uh reporting that uh we do have a successful uh acquisition of the sun on this solar pass.
+
+Man, uh things are looking pretty good this pass so far, so maybe we'll get some science here.
+
+Well, that sounds fantastic. You guys are doing a good job up there, Roy, and uh hopefully this will help out.
+
+Okay, uh we are in uh optical hold and they can, so I,
+
+I'll kick off the sequence as soon as they tell me go.
+
+Yeah, experiment 9 tells me to tell you that they are just moving off now into the Corona, stepping off in that sequence. It's going very well.
+
+Thank you very much. And Roy is doing volunteer crew control free drift right now.
+
+Challenger Houston, we've got about a minute, 15 seconds to lOSTDRSS.
+
+We'll go around next to uh talk to TDRSS again at 10 hours, 1 minute.
+
+And Space Lab, this is Marshall Ops. For Lauren, you are go for experiment 10 starting the sequence.
+
+Hot dog.
+
+And is running. Hooray! We're off to a good res.
+
+experiment 10 uh rather jubilant uh over confirmation that uh we're off to a good uh solar pass uh
+
+using the uh
+
+experiment 10 instruments. Most of that uh observation period will be during this uh LOS period.
+
+Challenger Houston, with you through TDRSS.
+
+Okay, we hear you 5 by, and we had a real good pass that time. The guys will be telling you about it here shortly. Uh, the good news is that we completed the pass sheet totally this time for the first time.
+
+Uh, the IPS didther was of the order of a couple seconds of arc.
+
+Uh, Roy ran a volunteer crew control free drift that time, and it makes an enormous difference.
+
+And payload specialist Acton reporting that for the first time in this Spacelab-2 mission, they have completed the solar pass sheet in its entirety.
+
+This is Solar Planning on Air-to-Ground 1. Can you hear me?
+
+John, you're loud and clear. Tell me what's going on on the sun, please.
+
+What you're going back to is the same sunspot that you've been doing successfully your last shift. It's the most prominent sunspot on the sun.
+
+Okay, we will have the uh
+
+H alpha, of course, coming down anytime that we're AOS,
+
+and I'll try to leave it in large scale as much as I can because it's really interesting to see the changes that uh I've never really seen before as well as any ground-based stuff.
+
+The pictures are beautiful to watch down here. And actually, it's very interesting to watch the slit stepping across in the sequences.
+
+And this is Marshall Spacelab Operations. Payload Specialist Lauren Acton uh talked with uh John Cook over Air-to-Ground, uh concerning uh
+
+the uh
+
+target regions for this next solar pass, and here in the Payload Operations Control Center, Dr. Gunter Bruner, Principal Investigator for the Hertz experiment, uh viewing the live down-link television uh from his instrument.
+
+Yes, Lauren, uh Dr. Bruner says that's really beautiful.
+
+We're starting the sequence.
+
+Uh this ought to be a good data set. Those 120 film frames of full spectrograph should be good ones. We're sitting really solid.
+
+Okay, we copy, Lauren.
+
+Lauren, can you correlate the any of the motions with uh anything else, any movements on board, or
+
+some equipment turning on or off or anything?
+
+Yeah, we certainly can. Crew disturbance is the primary contributor to motion.
+
+Now, everybody is ultra quiet.
+
+See, that's very interesting. Yeah, some
+
+Somebody having the other shift go to sleep make gives us I think uh this pass gives us a uh much much firmer hold probably is the reason.
+
+And Spacelab, Lauren and Karl, be advised, the ground analyzing this uh shows that we have sub arc second pointing, uh
+
+0.1, 0.2 arc seconds. It's just great.
+
+That's astounding. I can hardly believe that.
+
+All right in the Payload Specialist Diane Prinn voicing up to the crew exact pointing on uh this target with the Hertz instrument.
+
+Both uh the Hertz experiment and the Solar Coronal Helium Abundance Spacelab experiment, operating in conjunction with the instrument pointing system
+
+in uh gaining uh very valuable uh data
+
+on the uh helium abundance of the sun
+
+and uh information
+
+on the outer layers of the uh sun, the chromosphere, the corona,
+
+and uh the transition zone uh between those.
+
+Okay, uh Houston, uh Challenger's ready to talk about the 15-day mission.
+
+15 days. Well, that's a little bit more than we signed up for, Gordo.
+
+But uh, obviously, as you well know, after a slow start on the IPS and the science, uh we've been making a lot of money here over the last few days, and uh
+
+also, your consumables. You've been also making uh
+
+some money. As such, uh with your concurrence, uh we'd like to uh extend you a day
+
+so that we can take advantage of the additional time to uh complete some additional science as well as some uh VFT. Over.
+
+Okay, let me think that over.
+
+Okay. Great decision, we'll go for it.
+
+Okay, we copy that, uh Gordo. This is Mission Control Houston at 4 days, 18 hours, 12 minutes mission elapsed time. Challenger is past passing out of range of the Canberra, Australia station
+
+on orbit number 76.
+
+My shuttle management meeting this morning at a meeting just recently concluded has decided to extend the mission by one day.
+
+This is Marshall Spacelab Operations. Uh Spacelab 2 crew is working with Experiment 9,
+
+the uh Coronal Helium Abundance Experiment,
+
+uh seeking to find a point on the sun centered about midway between the uh center of the sun and the north limb.
+
+Okay, uh looks like the IPS is responding to commands as expected. That's great.
+
+Good news.
+
+I'm ready to kick Chase off, but you're aware that this is a a map quite near disk center because of the offset between the Chase and the OSP.
+
+The OSP is the optical sensor package.
+
+Okay, we are now on the centromere at about uh
+
+halfway toward the North Pole.
+
+Very good, Lauren, that's exactly right.
+
+Sequence is running.
+
+And now the Chase experiment is observing that uh midpoint between the disk center of the sun and its north limb.
+
+Ladies and gentlemen, we give you the first science under OSB control.
+
+The Chase is now making its observation of that point brought into that position under the complete control of the instrument pointing system.
+
+Lauren, this is Mike Mendillo here.
+
+Oh, Mike, you're sounding good.
+
+Good, you guys are doing a great job up there.
+
+Looking forward to uh getting some good data finally over Hobart.
+
+That was Dr. Michael Mendillo, of Boston University, Principal Investigator of the experiment 4,
+
+talking uh in a voice enable uh directly with Lauren Acton, the Payload Specialist. They were discussing the upcoming Hobart burn, that's the burn over Hobart, Tasmania.
+
+Hey Houston, we're waiting on uh 4 minutes of free drift here. It looks like our car's yellow less, uh that look good from up there.
+
+We agree, Gordo, it look good to us, and we'll see you at TDRSS.
+
+And with an apparently successful uh
+
+alms burn over Hobart, Tasmania, Dr. Michael Mendillo is on the telephone checking out uh
+
+information about the burn and about the observations being made from the observatory in Hobart, Tasmania. Observations of the ionosphere and the effect that uh the burn had on the ionosphere.
+
+At the Riber observatory in Hobart, uh the scientists there are using these large ground-based antennas to obtain high-resolution observations of that burn.
+
+This is your uh The plan for this experiment is that uh if these scientists can
+
+look through the uh these ionospheric windows that may have been created by the burn, and if they can see the galaxy in radio waves more clearly,
+
+then uh it is possible according to these scientists that a new technique for astronomical observations may have been born. These investigators will also study the characteristics of the
+
+ionospheric plasma uh that charged gas that surrounds the Earth, that uh may have changed its characteristics uh during the sentience burn.
+
+We we can see you're in handover and I hate to bother you, but we'd like for you to visually check Experiment 8's door if you can see it.
+
+Well, as a matter of fact, I was just going to call you about that, Barbary. I was kind of interested why Experiment 8's door is open.
+
+We're showing on their ground that their power in is on, and they have commanded their door open. We were hunting for a visual check and you just gave it to us.
+
+Well, fantastic.
+
+And we have confirmation from the Spacelab 2 crew that the door of experiment 8, the Solar Optical Universal Polarimeter, is open.
+
+You got to tell me more about experiment 8. I'm chopping at the bit to know what's happened.
+
+So are we. Well, all we know is about 20 minutes ago experiment 8 turned off the depth, and um Roger instructed the engineer to issue the telescope on command just sort of as a
+
+something to do, and low and behold, the telescope came on, the white light TV's on, and they opened the door. So um
+
+it must be uh we're going to have all four of them up
+
+soon.
+
+That's fantastic. If you want any help with the experiment 8 activation, just let me know.
+
+That is great news. The super experiment, which has been inoperable since the early part of the mission, is now powered up.
+
+The door of the telescope, the uh lid of the telescope, the covering at the uh tip of it, was suddenly open.
+
+The experiment 8 investigation team quickly responding that they weren't sure
+
+How old is it happened?
+
+Challenger Houston, the orbit two team is here and we're with you at T Tedres. From what we understand, it was two outs in the bottom of the ninth and the home team down by a run when Experiment 8 hit a home run. All the fans are streaming back into the park again to see what happens.
+
+This is Marshall Space Lab Operations. Uh less than a minute now until Orbiter Challenger enters the uh Sunrise Phase and uh the beginnings of this uh solar pass, in which uh for the first time, the uh soup instrument will try to utilize its white light video camera to observe the sun.
+
+And Challenger Houston, we're one minute to LOS. We'll see you next to Tedres at 7:32. Good luck.
+
+Okay, thank you.
+
+The solar pass for Rev 100 uh should be in progress at this time. The investigators for Experiment 8, the soup experiment, anxiously awaiting word on uh whether their experiment's uh white light video camera will uh acquire data.
+
+That works. Uh it works.
+
+It's working. That's fantastic.
+
+Payload Specialist uh John David Barto reporting to Aldern, the Payload Specialist here in the Payload Operations Control Center, George Simon, that uh it's working. That in reference to the uh soup experiment, which uh has been inoperative uh throughout the mission.
+
+Simon is one of the uh co-investigators on that experiment along with uh Payload Specialist Lauren Acton who will be coming on duty uh in just a few minutes.
+
+So, anyway, uh we are delighted how things went that time and uh of course uh Experiment 8 is is really delighted.
+
+I can give this pass sheet info to Lauren if he's ready and uh we're we're just feeling great down here that you got it going.
+
+Okay. Uh George, I just wanted to say I did finally find the sun spot and it was really fantastic to be able to see all the structure in the umbra and in the penumbra. That that spot has got several uh light bridges going across it and a lot of detail in the in the penumbra. I think it's going to be a lot of fun for Lauren on this next shift.
+
+How would you say the seeing was? Uh what sort of resolution would you say you had there?
+
+Well, I can see the penumbral fibrils. Uh so we we've got to be at the factory at the second level, I'd say.
+
+I agree with I agree with that. And how is the motion? Was the OSP doing well?
+
+The the same time motion that we've seen before. Uh two, three, four arc-second peak to peak. Uh with cases it's very quiet and some periods uh when it goes into uh larger oscillations.
+
+Okay, John, thank you very much. Uh we look forward to seeing you back on the next blue shift.
+
+Okay, George. Goodnight. I'm going to give it to Lauren now. It gives me joy to see the white light image on the TV that John is playing back for me.
+
+Yes, we copy, and we we feel the same way, Lauren.
+
+The soup experiment um is designed to observe the uh magnetic fields in the solar atmosphere. By manipulating the uh soup instrument, the crew is able to make three-dimensional images of uh various solar features.
+
+They can also uh make composite images of uh solar features and look at different altitudes in the solar atmosphere to examine physical processes uh which uh are occurring.
+
+This is Marshall Space Lab Operations. Preparations uh continuing now for the solar pass for Rev 102 and plans call for during this uh pass for all four of the instruments on the instrument pointing system to be operating together for the first time. That is the uh soup experiment, the chase experiment, the Hertz experiment, and the Susum. Uh three of those experiments, uh solar physics experiments and the Susum, an atmospheric physics experiment. Orbiter Challenger, uh now entering the daylight period and the beginning of uh this solar pass for Rev 102.
+
+They've kicked off Experiment 9 and Experiment 8 are running.
+
+Okay, we copy, Lauren.
+
+What's the answer on the pointing? Can I run it where I am?
+
+Yes, everybody likes it where you are.
+
+This is Marshall Space Lab Operations at 6 days, 10 hours, 5 minutes, mission elapsed time. We have uh just lost our communications uh with Space Lab and the Orbiter Challenger through the Tracking and Data Relay satellite. Expect to reacquire those communications in about 33 minutes. Currently in progress aboard Space Lab is the uh Rev 102 Solar Pass. The optical sensor package on the instrument pointing system uh was again used by the crew to acquire the sun and then all four of the instruments on the instrument pointing system operating together for the first time. Those uh instruments, three in the solar physics area, and one in the atmospheric physics.
+
+The feature uh being studied during this solar pass is a prominence on the northeast limb of the sun.
+
+Back up from the Space Lab.
+
+Go ahead Space Lab.
+
+Well, that was a good run, and uh Lauren Acton over here is doing a magnificent job uh juggling uh two difficult instruments, Experiment 10 and Experiment 8 and doing a great job of it. Uh it was really great to see the lips out there with uh all doors open and uh I snapped lots of uh nice pictures of it against various backgrounds as we crossed Asia. So I hope they'll have some nice pictures of it.
+
+I and we copy that, thank you, Carl.
+
+With the deactivation of Space Lab almost complete, the crew will on board Challenger, will start focusing on preparations for re-entry and landing. Challenger is scheduled to land this afternoon at 2:45 p.m. Central Daylight Time on runway number 23 at Edwards Air Force Base in California.
+
+Space Lab 6 deactivation is complete.
+
+Okay, we copy. Thank you, Lauren.
+
+That call from Payload Specialist Lauren Acton that the deactivation of the Cosmic Ray Nuclei experiment complete at uh 7 days, 11 hours, 21 minutes. Uh that completes the deactivation of the uh Space Lab 2 experiments. Uh final deactivation of the uh Space Lab uh will be very shortly.
+
+And Space Lab Marshall Ops for Lauren?
+
+Go ahead.
+
+Would like to report that the experiments are all done and deactivated with a a hearty thanks to all the crew members on board, especially the Redshift that gave us such terrific crew control free drift. Uh we all here think you did a marvelous job and can't thank you enough.
+
+You may be over generous, but we'll take it with thanks.
+
+And Carl, you're a go for IPS deactivation.
+
+Roger.
+
+Challenger is currently on orbit 120. All activities in the Payload Operation Control Center are now completed. There will be no more communications between the crew and principal investigators located in the POCC. With Space Lab being deactivated now, the crew will be concentrating on deorbit preparations.
+
+Houston, Challenger. The Space Lab deactivation is complete.
+
+And we copy that, Carl. Sounds good. Thanks a lot.
+
+Whether at the landing side expected to be good, and all appears to be in readiness for entry today. The orbit ignition expected to occur approximately 1:43 p.m. this afternoon, Central Daylight Time. Challenger, you're loud and clear.
+
+Roger, we got you loud and clear. And uh we're go for payload pay door closing.
+
+Roger.
+
+The RMU officer reports that the payload bay doors are now closed and latched. The Orbiter is at the proper attitude for the deorbit burn. Final preparations uh essentially complete for entry. Flight Director Cleon Lacefield of the entry team uh about to poll the controllers in the room for a go, no-go decision for deorbit burn. If deorbit burn is uh given a go, that would occur 4 minutes after we lose contact through the Tracking and Data Relay satellite.
+
+Challenger Houston, you have a go for the deorbit burn, no changes to the pads.
+
+Okay, Mike, thanks. Go for deorbit burn. We will um pick up some communication with the spacecraft through the Yargody Canberra area, the Australia Tracking Stations and then there will be about a 30-minute break in communication before we reacquire again at the end of S-band blackout.
+
+Challenger Houston, we're a minute from LOS. We'll talk to you through Yargody at 5:30 and expect a good burn report.
+
+Okay, we'll try to have one for you and we're double checking our air or our switches there on T on.
+
+The burn should be concluded at this time. Again, we won't have a confirmation of that until we pick up over Yargody.
+
+Challenger Houston, with you through Yargody for three and a half minutes.
+
+We had a good burn on time. Uh residuals were 3/10.
+
+Commander Gordon Fullerton reporting uh that they had a good burn. The two engine OMS burn to bring the Challenger back to Earth. It is now committed to uh re-entry.
+
+Okay, we're we've got um a miscorrelation between the attitude we uh are reading on the inertial ball now and point your uplink into flush. I'm going to manually center the needles here. We're in 303 uh And Challenger, Houston. We're going LOS. We concur with centering the needles and we'll try to talk to you through T Tedres at 2:1.
+
+We have lost communication through the Yargody station. We could conceivably pick up about a minute at Canberra.
+
+Challenger Houston through Canberra. How do you read?
+
+Fine and clear. Uh our attitude looks good now. Evidently we
+
+Uh Challenger, Houston, you're cutting out, Gordo.
+
+The Orbiter uh exits blackout uh just as it is at about the same uh latitude as uh mid-Baja California, coming up uh the uh Pacific coastline approaching California. It will cross the coast just south of Los Angeles. As it crosses the coast, it will be at about 104,000 feet moving at nearly 4,000 feet per second. And we have some data through the Tracking Data Relay satellite now. Indications, the Orbiter moving at about 15 times speed of sound.
+
+Challenger Houston, configure AOS.
+
+Roger, Mike, loud and clear.
+
+Roger, we have you loud and clear, Gordo.
+
+TACANS look good to us, we're standing by your call.
+
+And Challenger, Houston, uh take TACAN. Energy and ground track look good to us.
+
+Okay, we'll take TACAN.
+
+Challenger moving at about Mach 6, tracking data shows about 128,000 feet altitude. Air data probes being extended now from the Challenger. The coastal crossing should be taking place right now.
+
+Challenger Houston, uh we'd like to take air data to DNC and hold off on NAV.
+
+Roger.
+
+Altitude 74,000 feet, velocity 1900 feet per second. Challenger, Houston, take air data to NAV as well.
+
+Roger.
+
+Challenger at 61,000 feet, velocity 1300 feet per second, about 31 miles from the runway. And Challenger Houston, uh surface winds now 2-0-0 at 7.
+
+Roger.
+
+Commander Gordon Fullerton uh manually flying the uh Challenger around the heading alignment circle as it begins to uh approach uh runway center line, still in its wide uh sweeping 230° turn, altitude 18,000 feet, velocity 650 feet per second. Flight Dynamics Officer reports Challenger looks good turning onto final.
+
+Challenger Houston, we shore you on glide slope but converging center line. Winds 160 at 6.
+
+Roger.
+
+Altitude 3,000 feet, descending 180 feet per second, velocity 550 feet per second, and gear down. Altitude 400 feet, gear locked, touchdown, main gear down. Nose wheel coming down. Touchdown on the nose gear.
+
+Challenger uh kicking up a lot of dust on runway 23 at Edwards, as it uh rolls to a stop at the completion of Shuttle Mission 51-F, the Space Lab 2 flight.
+
+Okay, Houston, the wheels are stopped.
+
+Roger, Challenger, welcome home and congratulations to the whole crew on a beautiful flight. We have no immediate post-landing deltas, Gordo.
+
+Okay. We'll just take our time going through them here.
+
+This entry checklist sure got heavy all of a sudden.
+
+Roger, we copy that.
+
+It's been a great week and uh I think you guys did all the work, we had all the fun. We'll see you later.
+
+Okay Gordo, uh we got the beer cold back here for you so hurry home.
+
+All right, doing it.
+

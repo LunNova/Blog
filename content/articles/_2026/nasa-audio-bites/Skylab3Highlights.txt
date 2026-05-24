@@ -1,0 +1,658 @@
+Spacecraft Commander now has made the final guidance alignment. That's the final action to be taken by the crew on board the spacecraft until after the launch.
+
+T minus 30 seconds. T minus 30 seconds and counting.
+
+The eight first stage engines will ignite at 3.1 seconds in our countdown. They'll be held down while thrust is built up uh until the zero mark at which time we'll get liftoff. We'll be looking for liftoff right at the T0 mark. We pass the 15-second mark in the count. T minus 10, 9, 8, 7, 6, 5, 4, 3, 2, we have ignition sequence start. All ignition All ignitions are running, all engines running, we have a liftoff. And the second man crew has cleared the tower.
+
+Roll and pitch program, Houston.
+
+Roger, roll and pitch, Skylab, and thrust looks good on all engines.
+
+Al Bean reports.
+
+Al Bean reports the automatic maneuver that put Skylab on the proper course.
+
+Altitude 7/10ths of a mile.
+
+Velocity 1,432 ft/s.
+
+36 seconds.
+
+Got a pretty noise to it right now.
+
+Roger that, you're looking real good.
+
+50 seconds.
+
+2 1/2 miles high.
+
+1700 ft/s.
+
+You come down.
+
+Roger, stand by for Mode 1 Bravo.
+
+Okay.
+
+Roger.
+
+Propellant up RCS command.
+
+Roger.
+
+Yeah I get a great feeling emotion up here, Dick. I really feel like it's moving on.
+
+Roger, BLT and Skylab, Houston, your feet wet.
+
+Understand.
+
+1 minute 30 seconds. 10 miles high now, 5 miles downrange.
+
+Velocity 3,280 ft/s.
+
+Thrust still looking good, trajectory looking good.
+
+TVF to engine out and it'll be rates off.
+
+Stand by for Mode 1 Charlie capability.
+
+Mark, 1 Charlie.
+
+Understand.
+
+Skylab, Houston, go for staging.
+
+Roger, go ahead.
+
+22 miles high, 19 miles downrange, velocity 5,800 ft/s.
+
+Standing by for staging.
+
+Inboard.
+
+Outboard.
+
+Staging.
+
+Roger.
+
+Good staging.
+
+Ignition on the S-4B stage.
+
+Roger, we're watching the thrust come up now.
+
+Skylab, Houston, thrust is looks good on S-4B.
+
+That's good news.
+
+2 minutes 45 seconds, altitude 41 1/2 miles, velocity 7,695 ft/s, downrange 60 miles now.
+
+Roger, Tower jettison, you're Mode 2.
+
+Guidance initiated.
+
+Roger.
+
+Everything is looking real good, you're going 3 minutes.
+
+It's nice and bright up here in the sun.
+
+Roger.
+
+3 minutes 15 seconds, altitude 55 miles, downrange 90 miles, velocity 8,189 ft/s.
+
+Thrust still good on the second stage.
+
+Okay, Dick, the camera pressure's locked up real good here. You should've seen that tower go.
+
+Roger, understand.
+
+And we're going 4 minutes.
+
+And we'd like to try that liftoff again. That was great there, Dick.
+
+My turn next.
+
+That's a report from Jack Lousma.
+
+Here's our home in the sky, Dick.
+
+Skylab, Houston, we've taken a look at uh both the CSCM and the Swiss, they both look good. Your go for docking. We're about uh oh 2 minutes from LOS at Bermuda. We expect to uh be at Carnarvon at about 8:52, so we'll see you there. Uh at probably at the Carnarvon pass or Guam uh following that. Uh I do have some changes for you in the no-comm section of the entry checklist, so after you get uh docked and squared away it's in uh locker R1, you might get that out and I'll get that out of the way. So your go for docking, we're about a minute and a half from LOS.
+
+Roger.
+
+Okay, we're docked. Uh that went real well. The uh tunnel pressure and integrity check worked fine. We have not removed the uh hatch yet and we're having a snack and then we're going to get after it.
+
+Roger CDR and we'd like accept on the computer, we got some uh CMC servicing to do.
+
+Okay.
+
+During this pass over the Guam Island station, the Skylab 3 crew was given a go for entering the multiple docking adapter which entails removing the command module tunnel hatch, the probe and drogue assemblies, stowing them before going on into the docking adapter and working their way down through the various hatches, turning on systems, getting the circulation of air started within the workshop.
+
+And we're ready.
+
+Okay, yeah.
+
+The uh as far as the food's concerned uh
+
+uh Bean is it will have eaten everything but the green beans, which were not planned to be eaten prior to flight. Jerry will have eaten everything except the dried beef. And uh Jack, I don't think is going to be able to eat his evening meal. He ate his uh meal A and meal B, but it doesn't look like he's going to be eating uh meal C at all.
+
+Okay.
+
+Now, for extra drinking water we've had uh Bean has had uh the CDR's had four extra shots from the gun. And the FBT has had four. And the PLT has had none.
+
+Uh as far as medication used, CDR has had two aspirin. FBT none and PLT one scope deck.
+
+Uh the photo logs, the HDC indicates 88 frames at the moment. And the DAT indicates 50%.
+
+The two things that we've noticed that are inoperable, one is the circuit breaker that we discussed earlier. The other is after we opened the hatch and went in and observed more closely the docking latches from the MDA side, we noticed that two of them, numbers 10 and 1, although the bungee appeared to be flush and the blue handle was flat, the uh actual uh latch itself was not uh pressing on hard on the uh connector on the MDA. You could take your finger and and slide it back and forth, although to outward appearances, it was completely locked. To give you a feel where we are at the moment, uh we're beginning to eat our meal right now and then it looks like we'll be probably be working around for another hour or so. We've had to move extremely slowly to uh keep from uh causing any uh vestibular problems with ourselves. By that uh I think both uh Owen and I have a little bit of stomach awareness so we tend to uh be fairly careful how we move. And since we are moving uh rather slowly then uh it's taking uh a little bit longer than we planned.
+
+Okay, copy all of that.
+
+Okay, I think let me see if we can stop there. We stopped the squat.
+
+Uh it's becoming obvious to us as it probably is to you that we're just not as spry up here right now as we'd like to be. We uh none of us have been able to eat all our breakfast and uh it's dinner time now and we're really not too uh keen on eating too much of that either. We uh feel uh okay except in our stomach if you know what I mean. And uh our thinking is that we're not going to be able to work much faster than we are right now for the rest of the day, it's that fast. Uh uh there's a desire to maybe take a break for an hour or two and get in the bunk and uh just stay still for a while. Although we can keep moving around at a slow pace and uh work at the level we're working at, which isn't near fast enough but that's the best we can do. Now with this in mind uh it kind of appears to us that uh maybe uh you ought to think about somehow exchanging our day off from about five days or six days from now until tomorrow. That would let us uh sort of regroup uh get our water level up, uh rest a little bit more, and sort of get uh our stomach settled down. We all feel good in the head, it's uh merely a matter of if we move around too much, we feel like we better not move around anymore for a while and of course that slows us down. Uh I check it with the mind, sort of subjective opinion right now that uh a couple of days from now we have a hard time going EDA. That'd be my guess, just from the rate of uh adaptation we're having at the moment.
+
+Okay, we copy.
+
+Uh I know you're wondering, subjectively it looks like that uh uh that uh I'd say Owen is about the same as he was yesterday morning. He improved through the day until yesterday evening, he was quite frisky. Uh I'm uh not quite as frisky as I was late yesterday, but I feel good and I was able to get down all breakfast, so at least we got a fighting start there. Jack uh is not feeling too good still. He was feeling better yesterday, um late and then getting up this morning, he's he's a little bit slow. So essentially uh uh I think that uh he's not going to be working as fast as uh as uh we like him, and I don't think that Owen and I are going to be working as fast as we'd like ourselves to, either.
+
+Uh we have not done anything on uh P3 which is day three. Essentially what we wanted to do today was try to use this day to get done with day two. But uh I think it's going to be marginal now. Also uh looking at the general state of uh of equilibrium, my guess is we probably and thinking about the fact that before we take this uh pure pole sunshade outside, we're going to have to take a look at it in here, assemble it with the rings on it, and really go over real closely to make sure that it's it's shipshape. And the 149 and and uh the rest of it, that I don't think we ought to try pulling off an EDA prep at all tomorrow. It seems to me that tomorrow it could be lighter than today. We could conceivably get this place shipshape. It just takes a long time to uh to get where you can live in it. Uh every time you go to do something like get your dock kit out and uh shave, you find that there's no head there, and you have to go hunt the heads that are in the uh command module somewhere. So it just takes a a little bit longer to get in uh get going in a new spacecraft so to speak than it does whenever everything is right in its proper place.
+
+Like controllers here in Mission Control.
+
+During this pass at ascension and the one just preceding over Vanguard, report that the space station systems are all operating nominally. No problems whatsoever. Other than the delta P reading on the oh water tank, the condensate water tank, which is an ongoing problem that we'll continue to be looked at tomorrow.
+
+The medical conference held with the flight surgeon and the crew during the last revolution just prior to going to sleep.
+Uh has resulted in the following brief medical bulletin issued by Dr. Paul Buchanan, which reads as follows, the Skylab 3 crew is generally improved in their overall condition. There has been no vomiting today, and the food and fluid intake is up considerably. All three crewmen worked all day at only a slightly reduced rate. The outlook is very optimistic.
+
+Uh, well, I'll believe anything. We got a couple of little minnows at the moment because they're just swimming all over the place. Uh we just opened up the IMS as kids with these minnows in it and uh both these fellas are uh really swimming full speed. And uh as a matter of fact, they seem to be completely disoriented except for the fact uh for the first couple of minutes here and they're still more or less. They're all swimming pitched down in small circles. Uh, so they'll uh uh apparently think they're climbing or something due to the zero G and are pitching down in order to overcome that. And they're swimming in very tight circles. Uh their length of these minnows is on the order of 1 to 1 and 1/2 centimeters and it's almost as if they were pivoting about a point uh oh somewhere near their tail or even a little closer to their center of gravity. So it's a very tight uh outside loop that they're swimming in. And I've brought them over closer to the window now. And uh it's not clear whether they're not they're going to sort of take an orientation from the light or not. But at least their uh initial uh response when we pull them out of the can was to uh swim on the 
+Very good description on the minnows. Uh, we got everything up to the point where you said you took them over to the window and you didn't know whether the uh the light was going to affect them or not.
+
+I just thought they might try to orient toward the light, but they don't seem to be doing that yet. And, uh, particularly the little minnow is still continuing it.
+
+ belly toward the uh wall of the uh container. No, back in the outside loop again. They're still confused. Both of them going in outside loop. A fair number of bubbles in the container and they'll bounce off the bubbles and and just continue swimming around in the sort of random fashion in an outside loop.
+That's a pretty good little fella, some confused. 
+
+Okay, fair enough, and uh of course, it's too early to see any development on the egg, but there's uh clearly a number of these they're coming along. Uh you can uh see the embryo inside a number of them just by uh eye without putting a magnifying glass on. So, we'll uh get this staged away where we can then check us on baby day, and uh see how our friends are coming along. 
+
+Okay, very good.
+
+Arabella, one of two lady spiders aboard Skylab make it a chance to start spinning her web today 230 nautical miles above the Earth. 
+If science pilot Owen Garriott has time, he will transfer Arabella from a vial to a Plexiglas cage, which is located in the forward dome area of the orbital workshop.
+This is one of the several student experiments aboard Skylab. 
+Arabella will have 10 days to spin her web. Her backup, Anita, will have her day before the cameras, if Arabella fails to spin a web in zero gravity.
+
+The ability to spin a web and the quality of the spider's web is a clue to the state of its neurological system. For example, spiders under the influence of caffeine construct an irregular and haphazard web, indicating hyperactivity of its neurological system. The results of this investigation may be used to determine if the spider can use its sense of touch to compensate for the loss of balance caused by the lack of gravity. 
+
+Still, in motion picture photography, as well as television, will record Arabella or Anita's attempts at weaving a web. 
+Principal investigator for this experiment identified as ED52, is 17-year-old Judith Miles of Lexington, Massachusetts.
+
+We're looking at the acrobatic fish. 
+It's fascinating, isn't it? It seems like when you stand the back up a little bit, why then they'll uh swim in the uh outside loops for five or 10 seconds, and then they'll apparently decide that not getting them anywhere and will quiet down. Uh, one of the things that Dr. Simmons had suggested was that they might, when placed against the wall, uh sort of assume that the wall was the down direction. And that did seem sort of as if there were a tendency to do that. After they've been undisturbed for a while, they would usually float with their belly toward the uh wall, and then uh after doing that for a while, then they'd swim in outside loops again. So uh, evidently, they can't make up their minds which way is down either. 
+
+Yes, sir. Good observation.
+
+Dr. Christopher C. Craft, Jr., the director of the Johnson Space Center, will be the CAPCOM during this pass. A management meeting has just been concluded, and Dr. Craft will brief the crew on the reaction control system situation.
+
+Hey Al, this is Chris Craft.
+
+Go ahead, Chris.
+
+We just had a meeting, uh to summarize the status of where we think we stand and I'd like to give you a uh rundown on that if you're ready.
+
+We're ready.
+
+As far as the uh RCS system is concerned, we really can't determine at this particular moment whether we have a generic problem or whether we have some two unique problems with these uh quads. Now, what I mean by that is that we're chasing down the possibilities of any contamination in the uh in the uh propellant and particularly the oxidizer. Offhand, we don't see any, but we're running that down. We're also checking any problems we might have had at the cape in the instrumentation on the system uh, or anything else that looks like we may have something that connects the ground test with what we're seeing in flight. But offhand, we don't see any uh generic problem.
+
+Secondly, we feel fairly confident that we've got two quads for attitude control, should we have a problem with uh anything that would result in immediate need for reentry. We have the command module attitude system as a backup to that. And we feel indeed, if we uh needed a backup for the SPS, that we could use the RCS for backup reentry. So we feel fairly confident in that system. 
+
+Now, just to be prudent, however, we have started the uh preparation of the vehicle at the Cape on a on a uh accelerated basis so that we would have a rescue vehicle uh available to us should that become necessary. By the way, I'm talking on the open loop here, Al.
+
+Understand.
+
+Now, uh let me talk a little bit about the EVA. We think there that it would be prudent to probably delay that, and we aren't prepared to say how long, whether that's 24 or 48 hours or what, but we feel it would be prudent to delay that uh EVA to allow us some additional procedural development here on the ground for both uh reentry under the conditions we now have, that is two quads. And to assure uh proper OWS performance during the EVA. What I'm talking about there is the problems we've had with the condensate loop and so forth. We just like to make sure that we've got that all squared away so that if we had some problems during the EVA, that we know precisely how to handle them. Therefore, on that on that basis, we think we ought to take a little more time in developing those procedures. Not that we're not satisfied with the ones you have on board, we would just we just think it'd be good idea to take that extra time.
+
+Uh, understand.
+
+Okay, now, I guess in concluding, I'd like to say that further that we're proceeding here with uh as if we're going to have a nominal mission. And as far as your work is concerned and the flight planning is concerned, with the exception of sending you up some possible modifications to procedures for emergency situations under the two quad case, that uh we're going to plan your work days and your off days and the use of the onboard equipment as if it were a perfectly nominal mission and uh we feel that's the proper way to go also. Now I'll conclude my input here and say that if that's our input to you, and if you feel like you need any further discussion on this thing, you can free feel free to call us in any way in which you want to.
+
+Nine, uh you just said the right words. We've been uh hoping you'd say that all day, ever since we found out that uh that was a true uh problem that we had with our quad this morning. We've been sort of concerned and uh I think I speak for uh Jack and all and I know for myself when I say uh, we're pretty happy with the way things are going at the moment, and we agree with uh everything you said about the capability that exists right now in this spacecraft, and the capability that would exist even if we had some uh further problems. Uh we don't plan on any, but even if we did, we still have plenty of capability to uh return home safely. And we uh we agree 100% with what you just announced.
+
+Okay, so be it.
+
+Okay, Skylab, CAPCOM's back with you.
+
+Right.
+
+Everybody's happy up here.
+
+Okay.
+
+We got no no uh no complaints, but uh it's just that you can't, it's, you know, there's no way to make 10 hours out of an eight-hour day. We found out out there. That's what hurt us the first two or three days. We kept trying to fit in and we there's no way to fit in.
+
+It also says your house is still dry.
+
+I think next time I'll build me a boat and just anchor to a tree, then when the water rises it won't be a problem.
+
+You can tell Jack the marine, everybody else would tie to the tree.
+
+They say Noah did that and it worked out fine.
+
+He didn't make it for 59 days, though.
+
+During this uh last pass there was a little by-play between uh the pilot, Jack Lousma, and the flight director, Milton Windler, who was assisted by CAPCOM Story Musgrave, uh concerning the uh area where Lousma and Windler live, as they had a problem with rising water during heavy rains uh several weeks ago.
+
+We're coming down over the uh mountains through Washington, uh Idaho, and Montana. Across into Wyoming soon.
+
+What is that forecast being so good in the uh building areas? Over the site we're interested in today.
+Green Mountains supposed to be .4 to .7, Jack.
+
+And I guess I got it. Hey, way to go, Jack.
+
+Now Lee Blue and Jim connecting into the bad space station they got here.
+
+The rep seems to work real nice.
+
+man module first in picture taking, but our friend Arabella, uh did some good work last night and she's got uh very unusual web, spun around all the four corners of the box with the uh some stringers uh even from corner to corner.
+
+Yeah, okay, uh, that's great news, Owen, and uh, give her our congratulations.
+Copy that.
+
+I think the story she doesn't have very much of the main web in the center. She's sort of got stilts in each corner of the box within a few radial and that's it.
+
+Considering that she gets stranded when she gets in the middle of the box, I guess that's understandable.
+
+It sure is. I guess she's just bet some prey isn't going to go through the middle and hope they take the shortcut around the edges. If they do, she'll catch them.
+
+She's about as smart as we are.
+
+The 17-year-old Judith Miles of Lexington, Massachusetts, will be happy to learn about the progress of her experiment starring Arabella, the Lady Spider.
+
+Science pilot, uh, Garriott, reporting that Arabella has started to spin, uh, webs. This is one of the, uh, student experiments aboard Skylab.
+
+Today's extravehicular activity is the, uh, fourth EVA in the Skylab program. It will begin as the scientific station is over the Atlantic Ocean south of Bermuda, in the early part of revolution number 1213.
+
+Approximately 3 1/2 hours are blocked out in the flight plan for EVA.
+
+However, the EVA flight controllers will not be surprised if, uh, 4 1/2 hours, uh, are required for the job.
+
+Science pilot Owen Garriott and pilot Jack Lousma will spend, uh, about 2 1/4 hours, it is expected, in deploying the twin pole solar sail, the sunshield.
+
+Garriott, uh, will have the designation EV1, Lousma EV2.
+
+Uh, they're also scheduled to replace film and cameras in the Apollo Telescope Mount, install the S149 particle collection experiment, retrieve samples from the S230 magnetospheric particle composition experiment, and remove part of the SO55 experiment door.
+
+Following that, uh, they will make a visual inspection of the two troubled quads of the Command and Service Module reaction control system.
+
+They'll look for uh, discoloration which, uh, may be a clue to the coolant loop leaks, and they'll take a look at the Apollo Telescope Mount, uh, uh, power distribution box looking for scorched spots, which may have occurred during the short circuit, uh, a couple of days ago.
+
+The extravehicular activity is scheduled to begin at 11:10 a.m.
+
+The EVA will start with the depressurization of the airlock module, from which uh, Garriott and Lousma will leave the vehicle.
+
+Installation of the twin pole shield is the first item for the EVA.
+
+Uh, Garriott will leave the spacecraft first.
+
+Stand in the fixed airlock shroud workstation, referred to as the FASS, a well-like compartment from which, uh, he will assist Lousma in deployment of the, uh, sunshield.
+
+This shield is composed of two 55-foot-long poles.
+
+The pole is in 5-foot sections.
+
+The apex, uh, of the two poles will be attached to the Apollo Telescope Mount, and the poles will extend over the, uh, solar side of the workshop.
+
+Copy. All right, okay.
+Just 1-2-1-2.
+
+Good to engage.
+
+Get in on the end of the hatch?
+
+Starting open.
+
+Yeah, now I've got it to.
+
+Way clockwise.
+
+Get that latch, retainer.
+
+There, he's got her open. That our boy, O.
+
+I can't keep down in Okey.
+
+A minute, I got to get the retainer, run.
+
+Wait, there are any safety divers out there O. That's good.
+
+Could you verify that you push the sail against the OWS?
+
+Yeah, I can verify that. Uh, uh, the leading edge of the sail is, uh, the pole is about one foot above the skin of the workshop, and the, uh, the, uh, end of the pole is down on the workshop at the aft end, the, uh, the pole on the right, whatever one that is, is, uh, the end of it looks like it's resting on a, uh, on that big bump down there in the end of the workshop.
+
+Okay. Is there any curving of the sail against the workshop or bowing of the rods?
+
+No, I can't see right now. The observer's a son, too.
+
+Uh, we finished, we finished that job at night, and we still had about 20 minutes of night to go. So, we left the foot restraints down there. We put the poles and, uh, sail down there, uh, snug as we thought it should be, uh, best we could see at night, and then we went off and did these other jobs. Now, as Jack comes back from the sun end, he passes right by that spot. He's going to stop, uh, trim it up. Hopefully the, uh, sail is expanded further because of the last sun on it, you know, and we talked about the accordion problem. Push it down and adjust it, uh, just like you want it, and then, uh, that will be the end of the ball game. We'll, we'll put it inside. Now, here's a question. Do, uh, did it sound like we had it in the right position, the position you want?
+
+Yeah, that, that sounded good, Al. We just want to verify that we did have it down, uh, tight against the workshop to avoid any tax impingement on it.
+
+Okay, Al. That, that sounds good with the sail. As long as the rods are pushed hard enough against the OWS to bend the poles and make a curve in the sail, you do not have to retract the sail.
+
+Okay, now, when, when the next sunrise comes, Jack's going to stop there, and he'll push them down so that they're bending and touching the workshop, as you said.
+
+Yeah, and if they're, if they're like that, you don't have to retract them where you're seeing the parasol. That'll be fine.
+
+Okay, I've got a message for you from Vice President Agnew.
+
+Your fellow Americans and the people of all nations applaud your courage and ingenuity. Every generation has its heroes, but not since the age of the great terrestrial explorers has any one group captured so well as the astronauts, the imagination of mankind. Just as all generations now honor the memory of those early pioneers, the future generations will honor the accomplishments of the explorers of space. My very best wishes on your historic mission which proves that man's potential for achievement is as limitless as space itself. Vice President Agnew.
+
+All right, and I'd like to thank you. And, uh, of course, we represent just the, uh, small head of a, uh, huge iceberg that's, uh, visible to the whole world right now, which is our nation's space program. We like to think that the whole iceberg itself is, uh, doing, uh, things that are good right now, and good for the future of mankind.
+Copy, Al.
+
+Checklist, Bob Cain, uh, uh, John Davis, and and uh, Scott Millikan.
+
+Yeah, there's an aircraft with that, by the name of Anderson, wasn't it?
+
+I think so.
+Hey, Story?
+Go ahead, Al.
+How about sending our thanks to, uh, Bob Cain and Scott Millikan? Wasn't Anderson?
+Who else?
+John Davis.
+And John Davis for, uh, the mighty good checklist work, mighty good training, that really helped us today.
+
+Okay, they're sitting next to me.
+
+Okay, and of course, uh, everybody down there in mission control that kept an eye on things and helped us out with the, uh, very few, few problems we had. We really appreciate it, think we did the job.
+
+Uh, Bruce, uh, Owen and I, uh, got our heads together on the, on the, uh, what the sail is really doing out there. And, uh, we decided that at the far end, uh, it, uh, doesn't cover about 20 feet. And, uh, as the near end, it covers a little bit less, maybe more like, uh, 17 to 18 feet. And it turns out that, uh, if there was a wider place to which to put the reefing lines, you would probably spread it out a little bit wider at the front end, but it seems like it's not necessary because, uh, when we put the, uh, when we pushed the sail down, it, uh, squashed the, uh, the parasol out just as it would the parasol would like to be, uh, when it was initially deployed, such that the parasol is now flat, and, uh, it covers any area that the sail doesn't cover. So between the two of them, they're either either covering each other or covering the, uh, exposed area of the workshop.
+
+Okay, we copy, Jack. Thank you very much for the details.
+
+And, uh, we later done so that, uh, the poles are, uh, uh, touching the workshop at the far end and are bent a little bit such that, uh, there's a clearance of about, uh, 8 inches to a foot, uh, between the, uh, workshop and the poles at the leading edge of the, uh, uh, of the parasol or sail.
+Roger.
+
+Uh, this is the fourth day, our friend Arabella has her web form. It's not entirely clear whether this fourth web is, uh, any different from the one yesterday. It might actually be the same web, although, my understanding that that's, uh, not the nature of their habit is to, uh, keep the same web, but to eat it and then spin a new one each day. But, uh, reviewing things, the first day we let her out, uh, she roped in the vial, the little capsule she was in. She didn't come out at all. And the next day, uh, I had to more or less, uh, tap and shake the, uh, uh, spider out of the, uh, little vial to get her to move around in the cage. She rolls the animal. And, uh, when she did come out, why, she, uh, uh, went to the normal reactions of, uh, leg flopping and bouncing from wall to wall for a few moments, till she finally got over to the screen and hung on there. However, the, uh, very next day, she had a rudimentary web form, uh, more or less from corner to corner without the normal circular pattern at all. Uh, however, by the second day, she had learned very rapidly, and, uh, starting from the corner to corner stringers, uh, she had then gone from stringer to stringer and begun to get the radials out and then formed a a more or less normal radial pattern. And by the third day, even that had been improved upon, because she'd seen the front of the cage had been opened. And, uh, she, it's about a normal web, rather close to the front of the cage, then tied some other stringers toward the back of the cage and pulled the web away from the front. So it seemed that, uh, she learned very rapidly in zero G without the benefit of any previous experience, and, uh, simply, uh, working on her own, uh, she figured out a very nice solution to the problems of zero gravity. Now, we, of course, have some photographs of all this and we'll be bringing them back for the experimenters to work on. And, uh, the student experimenter here is Miss, uh, Miss Judith Miles from Lexington, Massachusetts. And, uh, she is certainly to be congratulated for a very outstanding, uh, concept, a very interesting idea, and one that, uh, might very well have some application in studies of, uh, how animals and, uh, and even men, uh, think and behave, uh, when placed in a brand-new environment.
+
+Okay, Owen, thank you very much for the update, and I'm sure that Judith will appreciate your compliments, and we'll pass them on to her.
+Fine, Dick. Thank you.
+
+Hello, hello, Al. Hey, you folks have been doing a great job and catching a few flares. You got some, uh, fairly happy PIs down here.
+Oh, that's great. You got a few happy crewman up here, too, I had. We're very pleased to have such good fortune, and I'm sure a lot of it is, uh, due to the, uh, very good forecasting that, uh, Joe Hiraman and Justice spent, of course.
+
+Yeah, well, we've got
+
+Yeah, report from no folks on the uh flare today, if you'd like to know uh what it looked like from down here. It was a subnormal flare optically. And it started at around 1547. The X-ray started at uh 1549, and that was an M2. And it max, both of them maxed out around uh 1550 and ended around uh 16, a little after 1600. You got some good radio bursts at uh 6 centimeters uh, one from 20 flux units on up to around 1,000 and a half flux units. It was located between two spots of opposite polarity and the follower of active region 85, and possibly uh you had a delta existing there. You had a ha- a very rapid rise. Um they had some emissions in the off band in uh H Alpha of one one angst or so the red and blue, but uh somewhat less intensity than on band. The flare was proceeded by uh less intense flares at the uh same location. Had some at uh 1418Z. You had a C2 at uh 1201Z, another C2 and uh a couple previous to that. The flare which you saw was also uh followed by a subnormal flare, a C3, at around uh 2144 at the same location. Uh that's the what that reported. I had to call it the 2140. have the DAF, I'm back down in the wardroom for a quick bite of breakfast between uh night pass here. Here's the information. Uh we got started at 1330 and there is very definitely a uh transit in progress. At the moment there is a large loop above the uh West limb above AC region 84. Uh the loop uh extends out to between 2 and 2 and 1/2 solar radii at the present time. At uh 1330 we did start building blocks 16. Uh the loop beat extends up to a latitude or a state of about 45 degrees, then loop out to two and 1/2 radii and are back ended at about 100 degrees beta. Now uh I took a quick look just before sunset at about 1345 and did not see much change in the loop structure. But it's uh clearly a very large loop uh that uh was not there before and is of the type uh uh that uh is associated with these transit events. So, it's a fairly slow change, apparently. Uh the next orbit uh I'd uh suggest either a 16 or 17. Uh it's really not changing too rapidly, but you might still prefer 16. So I'd appreciate a comment from the backroom on uh their preference. Okay, on. Very good. Appreciate that description. Uh, if you got a minute, I think we owe you a report on strawberries and pork loin. You bet. Go ahead. Okay, we have concluded that the strawberries are safe to eat despite the off taste. Uh, if they are completely unpalatable, continue to substitute peaches. And I guess we recommend you not eat pork loin until we have determined the cause of the off taste. Uh, the substitute we currently recommend is spaghetti and meat sauce. And if you can give us any more information about that off taste on the pork loin, we'd appreciate it. Do note that Jack is scheduled to eat pork loin uh this evening. And if we substitute spaghetti, that's going to give me spaghetti for both lunch and dinner, and uh we're currently looking into that. Okay, let me get a couple of pork loin experts to talk with you. That's a Jack, I never heard any complaints about the pork loin. I like it. And I assume Crypt the ground actually I was worried about the not only the taste of the of the strawberries, but whether they were good or not, but they tested them and say they're good, huh? That's what they've concluded. However, uh if if you really don't like them, you're clear to go ahead and continue to eat peaches. They don't taste that bad, it's just that they uh they just had a funny taste and I would be I would throw them out if I were at home because I would feel they were getting bad, but maybe that's just the way the heat is done up here. We'll uh we'll I guess the concern we got down here was that there maybe something wrong with the uh with the pork loin, but uh we'll look into it and try to give you a go on it the next uh next pass here. We're about Oh, you know these okay, they're not used to eating pork. They got to have the lamb, roast beef and that stuff. Roger, you Marines are tough. I know. They're preparing for the rollout of the Skylab 4 space vehicle from the vehicle assembly building, which is scheduled to begin promptly at 7:00 a.m. Eastern Daylight Time. Preparations during the night have gone smoothly. Weather forecast is favorable. We have accelerated the preparations since August the 2nd when the launch team began working 7 days a week, 24 hours a day to expedite the preparations. The spacecraft, topping off the Saturn 1B vehicle, being moved to PAD B this morning, is prepared for the next full duration manned mission of Skylab 4, which will be flown by Gerald Carr, Dr. Edward Gibson, and William Pogue. The first Skylab crew consisted of Charles Conrad, Dr. Joseph Kerwin, and Paul Weitz. They were launched here May 25th and returned to Earth June 22nd, breaking all records by remaining in space 28 days. That crew will return to the Kennedy Space Center September 6th for a reunion with the launch team. The second crew, now occupying Skylab, includes Alan Bean, Jack Lousma, and Owen Garriott. They were launched July 28th for a 59-day mission, assuming their physical condition remains satisfactory after the 28-day interval. From there on, physicians will review the situation weekly. If the mission extends to its full duration, they will return to Earth splashing down in the Pacific off San Diego September 25th. After launch and while approaching Skylab in Earth orbit, the crew reported defective operation of one of the thruster units of their spacecraft, by which they control its position in space. On August the 2nd, another thruster unit indicated defective operation. Immediately, the program director William Schneider instructed the Kennedy Space Center to accelerate preparations for the next launch. Since then, the launch team has worked 7 days a week and 24 hours a day. A rescue spacecraft is available at KSC, which could be flown by astronauts Vance Brand and Dr. Don Lind of the Skylab 3 backup crew. It contains three more couches that could support the Bean crew if an emergency required. Reporting first motion of the crawler transporter as it begins the move to PAD B of the Skylab 4 space vehicle, assembled on its mobile launcher. The Skylab launch control. The framework of the red umbilical tower, which is integral to the mobile launcher, can now plainly be seen as it emerges from high bay 1 of the vehicle assembly building. Transporter has cleared the bay door of the vehicle assembly building, revealing to the spectators gathered at the site, the full scale of the SL-4 space vehicle in the light of early morning against the cloudless sky. This is again the greatest show on Earth. This is Skylab Launch Control. You may be interested in knowing that uh at uh 1100 Zulu this morning, the rollout of the Skylab 4 launch vehicle and CSM commenced, uh leaving the VAB at that time. It's expected to arrive at uh good old 39 Bravo at about 1500Z. Skylab program director William C. Schneider today has directed the Kennedy Space Center to prepare the next Skylab vehicle, Skylab 4, for launch. The Skylab 3 mission was given a go-ahead for an additional seven-day continuation yesterday by William C. Schneider, Skylab program director. This decision was made after successful completion of the 28-day 28-day first first Skylab mission. This decision was made by Dr. James Fletcher, NASA Administrator, following a review of medical findings of the first 27 days of this mission. Weekly reviews for additional seven-day continuations are scheduled with the Skylab program director and the NASA Director for Life Sciences. Owen Garriott, concerning the hatching of the mummy chug minnow on board Got a boy, he's got it. Oh, there's a mark for you. Uh hatch is open. You have the vehicle going to be direction. Oh boy, there's the world. procedure, adapter procedure, apparently of the little mummy chug. He said that the Got to get a beautiful view uh toward the dark horizon where uh something's going down and all the different hues and blues on the cloud down there. It's just a beautiful, beautiful view. Beautiful sight. little fish is not Okay. Get a lucky guys if you live in the land of opportunity where we can we can do this. He may uh may change and become completely disoriented like his older brothers in the uh aquarium. They indicated they would be going straight to bed following the evening meal. Tomorrow's activity aboard the spacecraft, a new record to be set at 7:00 a.m. and 40 seconds tomorrow, Central Daylight Time, that will make this the longest Skylab mission and the longest mission, uh longest manned space flight in history. That record will be broken on ground track 64 descending as the spacecraft travels towards the southeast about 2,000 miles off the coast of South America in the Pacific Ocean. One small item of interest here in uh very few minutes you guys are going to be passing uh Pete Joe and Paul's mark at about 1200 and well I guess 40 seconds you will uh pass SL2's uh time in there. It sounds good. Yeah, I think we're all equally as healthy as they were, maybe even a little bit more, thanks to all their advice uh after the flight. We all think they feel good. We're all eating well, we're all sleeping well, and we're sure as heck happy. Very good. I saw Pete yesterday and he asked as his regards. He really hasn't seen me. He's just spent five days at sea sailing back from Bermuda. And he looks relatively healthy now. Nice and brown. We're about one minute from uh LOS, we'll have Skylab 3 crew, now the new endurance record holders for space flight. Arcade center. We've been thinking about Jim Splug over at the water immersion facility in Marshall quite a bit lately. And not only Jim, but the whole crew that uh visual buoyancy facility. We believe they've done an outstanding job over the long term over the last two or three years and getting us trained and ready to do these EVAs. And we'd like to recognize Jim and the whole Wirth crew, not only our regular EVAs, but the last three or four EVAs have all had one or two things that were certainly unique and came up at the last minute and required a lot of special training just on hours and days notice. And that whole group has done such a professional job over there that we really think they deserve a lot of extra recognition and we'd like to contribute a small part of that here this morning, over. Roger, and I'm sure And it's as of this morning, it's sure nice to be talking to the new world champions of space flight. Thank you. How about having somebody figure out when we reach the exact halfway mark and let us know what time that is. We're going to celebrate. Okay, I'll find out and I'll celebrate, too. We'll have a little extra apple juice and butter cookies. Me too, Jack. It's great to be on uncharted ground for once. Roger. Yes, it's true. feeling you're like that? Hey Dick, did you say that was on day of the year 239? That's right, Owen. That's right, Owen. That's correct. What mission day would you think that falls on? It's going to be mission day 31, uh, Owen, like, day after tomorrow. Mission day 31, halfway through a 59-day flight, huh? Well, it turns out that liftoff was day one, which uh made the numbers came out that way and then the and a splashdown turns out to be on day 60, is the way the numbers fall out. I see. Okay, thank you. You know that Professor, he just work- used to work on the back of an envelope.
+
+so we got a check em every once and a while.
+Now, we we need the check and so keep it keep it up.
+Well, I'm talking with that film shopping, he never makes a mistake.
+Who said that?
+Not here very simply.
+But as far as attitude is concerned it's quite easy and it's quite interesting to be setting on top of it and having it maneuvering here.
+It also has a great.
+And going B advised the FAO has agreed to slip as TV debut for 24 hours.
+He also says to tell her to get on the ball that we the NASA program doesn't allow primadonnas.
+Well, I think she just followed in the footsteps of Arabela here and FAO didn't get to work in her in time either.
+We understand.
+Okay, that earthquake in Mexico appears to be the worst in their history.
+In the state, it's in the state of Veracruz around Ori Zaba.
+There are cracks in the ground up to a 100 yards wide. They can be seen from the from the air.
+And if it looks all right, we may have an ETC as well as a hand-held photographic run on that earthquake.
+Excellent idea. Good idea.
+And the crew aboard Skylab are continuing to direct most of their activities toward observing the sun.
+For early this morning, there was a very large solar flare described by Commander Al being as the big daddy, and by scientists here in Mission Control Center as the brightest and largest solar flare in the past year.
+A few statistics on the flare.
+It covered an area 10 times as large as the planet Earth and occurred in active region 9 on the sun's southwest quadrant.
+As a result of the flare, the interest in observing it and its aftermath, Mission Control canceled the scheduled Earth resources pass this morning.
+The Earth resources pass scheduled for this afternoon over the United States remains on the flight plan, however.
+The location of the flare and the and its size produced a tremendous mass of protons traveling at a speed of about 30,000 miles per second toward Earth, which incidentally would have been a hazard to a crew aboard an Apollo spacecraft on route to the moon.
+However, the Skylab space station and Earth itself are protected by Earth's magnetosphere of the magnetic field, which blocks most of the protons and prevents them from reaching the Earth.
+The protons will, however, penetrate the upper atmosphere near Earth's poles, producing the phenomena called the Northern Lights.
+For about 20 minutes after the flare erupted in two large ribbons this morning beginning at 6:39 a.m. Central Daylight Time and reaching a peak at 6:42, lasting until 7:02.
+bit of a fog.
+Some additional side lights on the large flare this morning.
+It's predicted that as the slower particles reach Earth later tonight, some electrical power stations in the northern latitudes may experience temporary blackouts due to the size of the flare.
+It was also estimated that the energy released by the sparking flare was enough to provide all of the electrical power needed by the United States for the next decade.
+And there was about a 20-minute period after the flare reached its peak its peak this morning when long-distance shortwave communications on Earth experienced a complete fadeout.
+At 9:49:28 p.m. Central Time today, astronauts Jack Lousma and Owen Garriott will equal the time in space of astronaut Pete Conrad.
+One second later, they will tie as having the second longest time in space.
+Up until about at that that that time at at that time is 49 days, 3 hours, 38 minutes, 36 seconds.
+Up until about 10 days ago, that was a man space flight record.
+But that was exceeded by Al Bean, who now holds the record.
+At the time, Garriott and Lousma equal Pete Conrad's time, the crew commander Al Bean will still be ahead by 10 days, 4 hours, 36 minutes, and 25 seconds.
+Yeah, one other thing I should report to, last night I went in to take a few pictures of Anita's latest effort and turns out that Anita's no longer living. I don't know whether it's because of I expect it's because of inadequate food. I don't know that she ever ate any of those little pieces of filleted that we put in to or not. I have replaced the water, I guess twice since I put her into the cage, but somehow or other she didn't make it to the last couple of days, someplace along that interval. Now, what I intend to do is to collect this last web that she spun and we can bring that back anyway. And my principal question is whether or not it's better to leave the Arabela in the vial for the last week here, and of course I'm going to take more water today, or whether to release her back into the cage for the last week, whether that'd be more satisfactory for keeping her healthy. So, you might get your people to think about whether or not to leave things as they are, or to put the Arabela back into the cage, or?
+Okay, we will do.
+Um, say, we need the dad here for a minute.
+Um, and I hope you're coming up with some sort of suitable memorial service there.
+I think that we've just completed the memorial service bill and you wanted you to take the dashboard too
+Would you, uh, check with the medical folks?
+Find out what I want to ride that bike today.
+For a little bit longer than an hour, but I want to ride it about 93 minutes, and find out what power level I could do it for 93 minutes. My guess is it could probably be a hundred, but if they say 50, that would be okay.
+Wilco.
+Okay, they are scrambling through their stuff right now, Al, and we'll get you an answer in just a minute.
+Sounds like might be a good time to get a big sweat sample.
+Well, I want, I want to ride it once around the world, so this will do it, and I guess the thing to do is ride it at a low level. I don't think I can do it much over a hundred, that would be a much more once.
+Much more watt minutes you could do it, I don't think I can.
+Yeah, that sounds good.
+Remember it's going to be those legs that you've got to walk on when you get back.
+Exercise.
+CDR 2 858641.
+Wow, 85 you've been around the world.
+SPT.
+PLT 2050656.
+PLT 3 20 Merk 1 58 20 B 20D 20 back then.
+And by the way, the CDR set a new there since the original record that we probably paid for for a long, long time, for sending a bicycle clear around the world.
+With no wheels.
+Sleep.
+Commander Alan Bean set a new world's record pedaling around the world inside the orbital workshop.
+He was riding the bicycle ergometer used as an exercise device and also used in two medical experiments on board the spacecraft.
+Pedaled around the world for 93 minutes, as the spacecraft orbited the Earth, traveling approximately 25,000 miles.
+The ground responded by passing congratulations back to the commander for this new world record.
+put the manual at six.
+Late, getting off 192.
+Tell Phil, I still think he's a great guy. Will you other?
+I will.
+Everybody deserves one guy who likes him.
+Excellent. The guy says he's one of his greatest fans, but he's waiting to meet the other one.
+It's 25. The ready is going out.
+Everything's running along just swell, we think.
+There's the big old looking for that laser.
+Tell them about that satellite we saw.
+Yeah, we saw a great satellite. We didn't know if we told you about it.
+Closest and brightest one we've seen yet. We've seen the several but.
+It's 25, ready out.
+It was a red one.
+No, you may have told somebody but it wasn't this team, and I don't remember hearing about it.
+Just making and reported. It was, uh, reflecting in red light and, uh, oscillating, uh, all kinds of periods of, uh, brightness to, uh, it's dimmest.
+About 10 seconds and, uh, it let us into sunset for we had Time to maneuver in 10-15 seconds.
+Yes sir, I'm standing by.
+That was about three rounds ago, I think. So I remember though.
+and the important part of that question, Owen, is would you briefly tell us what the media benefits the man on the street might reap from Skylab?
+Well, the most immediate thing are perhaps going to come from some of the Earth resources photography that we've been taking.
+Just today, we completed our last pass as a matter of fact, and there are going to be literally thousands and thousands of films, uh which will be developed and used to evaluate uh these techniques for the study of our crops for the study of water resources, mineral deposits, and that sort of thing.
+So in the area of Earth resources, I think we do have uh fairly immediate benefits for for all of our country and other countries as well.
+This is of course, coupled with similar sort of work being accomplished with other methods, automated satellites, Earth resources satellites in particular.
+And then in longer-range programs, almost everything we're doing up here, we think, will contribute to uh our knowledge of ourselves and knowledge of our environment and ultimately, a mean of benefit to all of our citizens.
+But the more immediate ones, I think my guess would come in Earth resources and perhaps some of the technological experiments over.
+Roger and for Al Bean, based on your experience, what major recommendations will you make to the next Skylab crew about working and living in space?
+Well, I recommend some, first of all, three things that we keep in mind now all the time that perhaps we didn't have in mind the first few days, and that you've got to do three things every single day, and you've got to try to do them on time and put them the highest priority. Those three things are: one, you've got to get enough sleep. You've got to get to bed and get up so that you've got enough sleep to keep your energy up. Next, you've got to eat pretty much on time, and you've got to eat enough food so that your weight stays up and you feel healthy. And lastly, you've got to get a lot of exercise.
+
+so that place as much exercise as you as you did on her, so that once again you're healthy. This gives you your health, this keeps you feeling good, keeps you going hard. And then from that point on, it's wide open. 
+Um my probably major two recommendations would be one, uh try to get a few more experiments up here that you can run because it looks like we can work longer days then than we planned to work. I think we've demonstrated that. We're able to get in more per day than uh we actually thought. So that means more experiment time. The next one is I think we need to work on E rep a little bit so that we into E rep. I use the man up here to decide whether or not to take data, whether it's too cloudy, it's too clear, it's too rainy, or whatever else. Use the man on the scene so that we can conserve the expendables we have in E rep. We've been able to do that in ATM, and I think we've shown up here, particularly over there. Uh super expert in operating the ATM, that the man on the scene can can do a dynamic job. Let me go back to the previous question to discuss that a second about what we're doing up here. I think we all decided before we came we wanted to do three things. 
+One, we wanted to do whatever we did safe and make sure we did it right. Secondly, we wanted to do the job that was assigned up here, namely to see what man can do with zero G. 
+And lastly, we wanted to have a good time doing it. And I believe that uh we've done that.
+
+It's on gear it will be acting as an assistant to Commander Alan Beam, who will do the actual job of replacing the film and camera assemblies for several of those ATM instruments. Uh also to bring back in three of these sample arrays for experiments uh that are now deployed outside the workshop. 
+It looks like a Y down there. I wonder where we are.
+
+I don't have my shoes to get down here and see that big running or not. 
+Okay. 
+The patch is
+She looks nice and gold.
+Much better panorama out here.
+It looks like the hatch, I mean the blue hand rails have turned turquoise on us. It sure looks turquoise. Everything has put your, okay, here on the deck with your right leg there. How's my umbilical doing? It's coming? You're outside here. You sure.
+
+You sure can get around here, compared to that water tank.
+Okay, it works.
+The over pedals look nice and clean. I can see them back there, the ones on the side of the workshop.
+I don't see that cable on there anymore that uh the SLA 2 crew put on to pull it up. Look at that one. Looks like it may have departed. Maybe that's what I heard the other night. 
+I don't know what cable you're talking about. When they when they pulled out that cable and they tied it on and stayed out there, it's not there anymore.
+Okay, fire away.
+
+There you go.
+Sending me a present.
+
+Why this whole vehicle has sure motionless up here?
+Fantastic.
+It is really good though.
+Going wind. Hey, there that cluster rule of plus 43.92 that really put Nice place to visit up here. 
+Even a nice place to live. 
+Yep.
+
+There it come.
+
+Thousand of photos of a glorious clip.
+Hope they don't get mad. I noticed some of the rains were bent on that, some of the pictures we took. 
+They weren't all straight. 
+Commanding, all your systems are looking good.
+
+Thank you, Story. We're having a good time out here.
+
+Hatch works. I have now can see that cable that the SL 2 crew hooked up. It was close aboard enough to the line that couldn't be seen from the center workstation, but it's seen quite easily out here with transfer work station. 
+Okay, good and uh you don't see any entanglement with any uh important part of the structure, do you? 
+No, I don't and I was just looking at the friendly little uh twin pole sunshade and it looks just like when Jack put it out. The accordion is uh come out pretty much. It's still accordion-like but uh not enough so it does not shield the um the workshop. I can look and see the sun is impinging or in the the left side of the workshop and the right side but uh uh it looks like it's so close to the uh maximum diameter, you probably don't know it inside. 
+The place that's in the sun, let me tell you the place that's in the sun, one side, is the uh is that uh air duct that gateway first that caused the uh the uh meteoroid shield to get that's in the sun. That's one limit. On the other side, uh in the sun, is the just about a foot earlier than when you come to the area where the other SAS beam used to be. The other SAS beam were folded now would be in the sun. 
+Okay.
+
+I tell you one thing, Story, handling these big boxes is sure easier here than the water tank. 
+You can just use your wrist action and they all move around like you want them to, instead of balancing here and there.
+Yes, sir. 
+And 43's correction for the water tank on index of refraction is missing out here. You can see right off. Where did the earth go? 
+Yeah, we're just coming in tonight.
+That's correct. It's uh, man, what a place to visit.
+People will be interested in the look of the arise and there are shading from the orange to the white. At least three white bands above the first white band and the sun goes down, several white bands, then it goes into blue and then black. 
+That's clear two, two distinct band uh to the south and uh two or three bands to the north. 
+And they extend about uh 15 degrees either side of the sun and then those white bands disappear. 
+Can I do anything? Like I said, it's a little bit uh, somebody's moving around out there, I believe. Let me. Yeah, don't move. that badness? Yeah. Oh, quit moving around.
+Sky, have a minute. 
+Okay, nice storm out here, Story. And I was wondering if there was a tropical uh storm that's reported just off to the right of our track of our track. 
+Probably a hurricane Helen that you're seeing down there. 
+It looks pretty good. It's got a lot of clouds uh
+And Owen and Al, could you give us a uh description on uh the air cooling, how does it feel?
+
+I find mine satisfactory. It's not quite as cool as the OCG, but it's uh not too bad.
+Is Dean your comfortable, Owen? 
+Uh, I'm a little warm, but it's certainly uh satisfactory. 
+And uh the only part I notice warm about me is my hand. And they've been warm since the start. And uh everything's okay otherwise. I think uh the workload isn't that hard out here. Hey, incidentally, did
+On the other hand, uh the mean heart rate of the crew members is quite low now, about 84 to 82, 84 on the science pilot as the telemetry reading and 82 on the commander. We do have a
+We just got a report from the medical officer here that the heart rate on the commander counted in the back room by one of the technicians was 108, which is a little higher than our telemetry reading was giving us.
+Uh they are working a little bit harder now with heart rates indicated on the telemetry at around 100 for the science pilot and about 100 and and about 119 for the uh commander. Uh those high higher temperatures on telemetry or higher heart rates on telemetry will have to be confirmed by the surgeon a little bit later when we have the actual count from our back room here.
+It that would indicate that they did complete the EVA in a little less than two and three quarters hours.
+Today's EVA was the 6th of the Skylab activity so far. Three in the previous mission, two spacewalks and one stand-up EVA from the command module on the first day of the first Skylab mission. During the second Skylab mission, there were three, and this is the final one of those three.
+And there will be three uh EVAs planned for the final mission. One of those is being scheduled for Christmas day in support of photography of the comet Kohoutek.
+
+Um, I don't know. I know there's not a hurricane just to the north of our location up here.
+Uh, there's one far to the west of your location, maybe south uh, I guess, hurricane Ira.
+In fact, we were just uh whileing away our time down here by looking at the predicted track for that hurricane vis-a-vis your splashpoint tomorrow.
+It looks like you'll be in pretty good shape.
+That's encouraging because I don't know from our standpoint, but just looking out here, it's the best-developed hurricane that I think we've seen with a very clear eye.
+It just came up from tropical storm to hurricane status last night.
+It's a beautiful hurricane. That look very strong cuz I gather, because the clouds aren't very thick, but it sure is pretty shape.
+
+We should have a wake-up call here at honeysuckle from Hank Hartsfeld, the spacecraft communicator.
+Well, it's lonesome in this old town. Everybody puts me down. I'm a face without a name, just walking in the rain, going back to Houston, Houston, Watch out here, here we come. Well that's good light. I got the holes in both of my shoes, and I'm a walking kid of the blues, caused a dollar yesterday, cuz the wind blew it away, going back to Houston, Houston,
+Good way to wake up.
+We haven't seen a dollar in two months.
+Also, uh now in mission control, we have a phase elapsed time clock reading 7 hours 47 minutes and 43 seconds. That's counting down to 21:38 Greenwich mean time, which is the time for the main burn of the SPS or uh service propulsion system engine. Uh that'll be an 18-second burn imparting a velocity of about 300 miles per hour uh to slow the vehicle.
+And uh this is Houston. Uh we're a go for your pressing on with the power transfer uh whenever you and uh the PLT are both ready, over.
+Okay, we'll probably get to it in about 10 minutes if that's okay.
+Okay, we won't be able to watch it then, but that sounds good to us and press on.
+SkyLab, this is Houston. You're go for hatch closure and tunnel close out, over.
+Does it look like the momentum problem's solved?
+In a nutshell, we're optimistic but we can't say definitively yet, over.
+Sounds good to us. Okay, we're going to close her up.
+Roger out.
+
+Coming up now, a go-no-go for undocking here in the mission control center.
+
+Okay, Skylab, and we've just gone around to here and you guys are go for undocking.
+That's undocking, that's correct.
+
+We undocked on time. We're moving away. We indicated about 3/10ths of a foot per second separation velocity. We're getting ready to run the uh RCS check.
+
+Very good, Allen, and we'll be watching them.
+
+Seems like we're leaving home, Bob.
+
+Copy, Jack.
+
+Beautiful site tonight. We left our spotlight on. It's uh just like a Christmas tree. Our spotlight is illuminated white and we see them stars in the background. It's quite a beautiful thing.
+
+Sounds pretty.
+
+Team 28, you guys sound like you're sad to be leaving, and uh Al is flying
+It will be the go-no-go point for the deorbit burn.
+And uh for your information, Skylab, the wind is dropping off it appears. It's down to 17 knots and we hope that's going to improve the sea state a little bit.
+
+That's good news.
+
+We were wondering if our doctors were sea sick.
+
+They took their scopolamine.
+
+It seems that the thrusters just started firing more and roll this recently for some reason. Maybe we just noticed them because it's getting dark and we can see the flashes.
+
+Copy that.
+
+Boy, that roll, yeah, in free CMT, free with the dock that it really moves out with that pull.
+
+Pretty hot machine, huh?
+
+Well, it seems uh not too much different in pitch and yaw.
+
+Skylab, the bird looks super to us. You're go for deorbit entry.
+
+Good news. We're ready to go ourselves. We'll see uh on the ground, I guess. Is this our last com?
+Well, we've got an Orea path hopefully uh after blackout, so
+Good news. We're ready to go ourselves. We'll see uh on the ground, I guess. Is this our last com?
+Well, we've got an Orea path hopefully uh after blackout, so we may uh be able to talk to you a little bit. But then, in case we don't, we'll um see you back, hopefully tomorrow night.
+
+We'll be there.
+
+Should be coming up shortly on main shoot to
+
+Report from the ship that uh they have a visual on the bridge of the ship that the descending spacecraft is visible from the bridge of the ship.
+Passing through 2000 ft now, the ship reports.
+
+Spacecraft reported in stable two position
+
+from the ship.
+Feeling good. That was one entry. You should have seen that uh swirl and the fireball out there. I got my look down there. I looked yesterday I couldn't resist. I just stood for about three or four seconds it was so bright.
+Man, that was spectacular. That was one entry. I like all those bangs too when the shoot came out. God, I like to hit the water too. That's good.
+I think going over to test topped it off. That was the frosting on the cake. You might as well have everything while you're going to do it, right? Everything but the phone on launch. I only went around watching the launch, you know, I got to ride. I just like to fly.
+I'd like to do it again.
+
+The ship moving in now to uh hoist a command module aboard the the ship.
+520 yards away now, the ship reports.
+
+Flight dynamics reports a time of splashdown as 22 hours 19 minutes 54 seconds Greenwich mean time.
+
+Hey, what was the max G's?
+3.8?
+Looks like a thumbs up and a handshake for Dr. Paul Buchanan.
+That probably would be the hand of Alan Bean that got shake first.
+Alan Bean, who is the record holder of time in space.
+Dr. Buchanan passing in a tape recorder and
+wearing those masks that are really a kind of reverse
+from what existed in the early stages of space work. Instead of keeping the astronauts completely covered up, they uh do the same thing to the people who are going to work right close in around them because at this point in time, after being away from the conditions of Earth that
+require the body to build up immunity, these as
+Jack Lousma the first astronaut out.
+Next out is Owen Garriott.
+The um Skylab astronauts now uh being moved into the uh Skylab mobile laboratory.
+All three of the astronauts appear in excellent shape uh report from the ship. Owen Garriott uh looks just great.
+We we will be bringing the line down shortly. The uh three Skylab uh three crew members, Al Bean, Owen Garriott, Jack Lousma are now in the mobile laboratory uh going inside the lab at approximately 23 hours 20 minutes Greenwich mean time. All three uh walked outside of the or stepped out from the command module and walked over to a seated position. All three uh looked good, Johnnie in spirits and are now undergoing their start of their six hour physical exam.
+

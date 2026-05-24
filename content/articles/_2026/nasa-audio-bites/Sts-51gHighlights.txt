@@ -1,0 +1,447 @@
+MTC
+This is Shuttle Launch Control, mission 51G, marks the 5th launch of the Orbiter Discovery. It is the 18th mission of the Space Shuttle Program and is highlighted by its international crew and cargo.
+
+The primary objective of this flight will be the development of, or the deployment of 3 communication satellites and a free flying NASA spacecraft. The Shuttle will also support an experiment sponsored by the Strategic Defense Initiative to test the use of a laser beam to accurately track an object in Low Earth Orbit.
+
+Here in the Launch Control Center, we are completing the final poll of systems engineers here, receiving a go for launch. We have gotten a final clear to, to go from the Range Safety Officer, and we should be picking up the countdown here shortly.
+
+T-minus 9 minutes and counting and the ground launch sequencer has been initiated.
+
+TC, I verify 978.
+Copy.
+LPS, start the APU brush recorder.
+Copy that, inwards.
+LPS, please start fire room. Current flight is online.
+LPS copy.
+T-minus 7 minutes 30 seconds and counting.
+The ground launch sequencer has started retracting the Orbiter crew access arm.
+3A to you’s up and running now.
+Copy.
+And Paula Clayton reporting that we have 3 Apu’s up and running.
+
+See you, crew.
+Roger and work.
+
+The crew has been asked to close the visors on their launch and entry helmets. The final perch sequence of the main engines is underway. T-minus 3 minutes and counting. All systems are go. The beanie cap is being retracted off the top of the external tank and moved out of the way.
+
+Telescope for ET LH2 pressurization.
+Vehicle is now isolated from ground loading equipment.
+T-minus 1 minute and counting.
+All systems go, the sound suppression water system is now being armed.
+
+We’re coming up on an auto sequence start.
+T-minus 31 seconds.
+
+And we have a go for auto sequence start. Discovery’s 4 redundant computers have primary control of critical vehicle functions.
+T-minus 21 seconds and counting, as our B engine nozzle profile is now underway.
+T-minus 16 seconds.
+12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. We have booster ignition and liftoff. Liftoff of Discovery.
+
+And the shuttle has cleared the tower.
+Discovery, Houston, your go with throttle up.
+Roger, Houston, go with throttle up.
+
+Throttle in back up to 104%.
+We have confirmation of solid rocket booster separation on time. Velocity 5290 feet per second. Downrange 33 miles.
+Discovery, Houston, first stage performance low.
+Roger, look, first stage performance.
+7000 feet per second, 84 miles.
+Discovery, Houston, press to Miko.
+Roger, press to Miko.
+Main engines now throttle down to 85% of rated thrust.
+Main engine cutoff is confirmed.
+
+Ohm’s to burn currently underway, last almost 3 minutes.
+Discovery, with you through target for 9 minutes.
+Roger, Houston. We read you loud and clear. We had a good ohm’s two. Gimbal checks were good and we’re just starting into the post insertion.
+We copy, Dan. It looked good to us, too.
+We’re going to Discovery currently in a 190 nautical mile circular orbit.
+Discovery, Houston, your go for payload bay door opening.
+Roger, Houston, we read you loud and clear. The payload bay doors are open, all nominal, just about have the PDI’s loaded and we’re trucking along.
+Looks good from down here, too, Dan.
+Discovery, Houston, you are go for orbit ops and you’re go for verniers.
+Okay, Roger, that’s good news, thank you.
+
+This is Mission Control, Houston, through aboard Discovery currently going through health checks on the 3 satellites.
+Okay, all the health checks are complete, the sun shields are closed, we have no anomalies to report.
+We copy, we did see one, John. The Morrell is solid rocket motor temp, appears the deucer has failed off scale high.
+Okay, we don’t look at that parameter, thanks for the word.
+
+Failure that transducer will have expected to have no impact on deployment.
+Discovery, Houston, will see at Hawaii at 5:4. Yes, team is signing off. Glad to help you get up today, and we’ll talk to you in a few days about coming home.
+Hope it’s longer than a few days, but thanks for all the help, and we’re trying to do a co-ascale right now. See you down the road a little bit.
+Roger that.
+
+Mission elapsed time is 7 hours 31 minutes, and we are approximately 33 and 1/2 minutes away from deploy of Morellos. Discovery will be maneuvered into a deployment attitude with the pen open payload bay, facing the direction desired for the thrusting of the Pam D solid rocket motor, also in preparation for deployment the protective sun shield will of course be opened.
+Okay, sir, we’re sitting here, we’re almost in attitude, and we’ll be starting down on page 6-2 here shortly.
+Sounds good.
+
+The spin table activity would begin at 15 minutes before deployment when the spacecraft is spun up to a rate of 50 revolutions per minute, to provide gyroscopic stability.
+Okay, Houston, we started mechanical sequence.
+Houston copies.
+From this mission control, sun shield opening now visible.
+Now both restraint now removed, and the satellite spin up now, uh, beginning. 25 RPM and climbing steadily. Now 40 RPM.
+46.
+And uh 50 RPM.
+Payload officer confirms that spin rate has stabilized at 50 revolutions per minute, there’s first motion. It’s now at uh 25 RPM. 40.
+45 RPM.
+Uh still at 45 RPM.
+Houston, we’re going on internal power.
+Discovery, Houston, Airbatz, go for deploy.
+Okay, we thank you and the P.S. thank you.
+We are at deployment minus 1 minute and counting, and all systems continue to look good.
+
+15 seconds.
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1, and we do have verification, electronic verification that the satellite has been deployed.
+Houston, Sultan. I just wanted to say to the Arab Sat folks that it looked very good. The team here did a very, very good job and it never looked better, as a matter of fact, it looked much better than the Morellos deploy. Thank you.
+Roger, we copy, it sounded real good to us down here.
+It’s a perfectly biased opinion.
+Yeah, we’d rather have biased opinions than biased deploys. Good job, guys.
+And Discovery, Houston, again it looks like another successful deploy, and we just got good word that Arab Sat is right on track, they have picked up the track.
+For those of us who had never seen a pair of step before, it was quite a sight, and we surely enjoyed it. This is the first of 3, it was the closest back in the bay, and we got a real close look at it, both during the spin up and deployment. To me, it was quite impressive, both when it was in the bay and as it was leaving. We felt it, of course, when it departed the Orbiter and we heard it. It smartley moved straight up the tail as they always have in the past.
+
+Discovery, Houston, we’re with you through Teedress for 50 minutes. And I have a message for Sultan.
+Okay, we hear you loud and clear. Sultan’s listening.
+Roger, all the Pslam has been informed that the new month has started in Saudi Arabia, and tomorrow is EAD. Congratulations from His Majesty the King.
+Well, thank you very much, as a matter of fact, we’re just sitting here trying to set up the camera to photograph the new moon and that’s good news because I’m really starving up here in thirsty. But that’s really great news, and thanks a lot, and please deliver my thank yous to everyone down there, to my group and everyone in mission control.
+I’ll do that, Sultan.
+This is mission control. CapCom Dave Leestma just relayed a message to payload specialist Sultan Salman Al Saud from backup payload specialist Albasam, that the new moon has been seen in Saudi Arabia. Marks an end to the holy month of Ramadan, a month of fasting which ends for individual Muslims throughout the world as soon as they cite the new moon.
+Discovery, Houston.
+Glad, Houston.
+Roger, we’d like to wish you all a good evening and sleep well tonight. Looks like you probably have a fairly busy morning with the deploy tomorrow morning, and the Orbiter looks good to us, we have no new flight notes to give you, and we’ll see talk to you again in the morning.
+Discovery, Houston, good morning Dan and John, happy anniversary.
+My golly, thank you, appreciate the good music and my best wishes to and all those other good folks that were up here with me 2 years ago. Thanks for the good music.
+This is mission control, Houston. Admitted music and observance, or perhaps retaliation for Fabian’s playing it on the down link during STS 7 2 years ago.
+STS 7 was launched 2 years ago today.
+John, we see a good set of stars in the table, you go for line on those. We’ve already got the numbers, so we don’t need that and you can delete the IMU align in the cap.
+Okay, JOS, that copy, and it’s in work.
+Mission control Houston, television survey of Arabsat showed that all the solar panels were indeed folded tight and not deployed as an earlier indication suggested. We are anticipating a go to proceed for the deployment sequence. If a go is given for deployment of Arabsat, it will happen at 1 day, 2 hours, 23 minutes, 56 seconds.
+Roger, it’s all yours and we will be continuing on from the 35 minute point here very shortly and JO has got us just about in that attitude at this time.
+Houston, we’re putting Arabsat on external power.
+Roger John, we copy.
+And Houston, we’re turning the Arab set batteries on.
+Roger, we’re watching that, John.
+Mission control, Payload Officer has verified that the mechanical sequence has started and that the starboard read strain came out nominally, a port read strain is on its way, or the port read strain is now out also. Payload will be spun up to a rate of 50 RPM, there’s first motion. It’s now at 25 RPM, 40, 45 RPM, still at 45 RPM.
+And Houston, we’re going on internal power.
+Discovery, Houston, Arabsat’s go for deploy.
+Roger, we thank you and the PS. Thank you.
+We are at deployment minus 1 minute and counting and all systems continue to look good.
+
+15 seconds.
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1, and we do have verification, electronic verification that the satellite has been deployed.
+Houston, it’s Sultan, I just wanted to say to the Arabsat folks that it looked very good. The team here did a very, very good job and it never looked better, as a matter of fact, it looked much better than the Morales deploy. Thank you.
+Roger, we copy, it sounded real good to us down there.
+I respectfully biased opinion.
+Yeah, we’d rather have biased opinions than biased deploys. Good job, guys.
+And Discovery, Houston, again it looks like another successful deploy and we just got good word that Arabsat is right on track, they have picked up the track.
+
+Standing, glad to hear that.
+Okay, I've got a message from Khaled and Ali.
+Sultan, it's cool on quantum bacar.
+Thanks a lot. By the time we come down you're probably speaking another language.
+I've been working on English for a long time.
+And this is Mission Control Houston, that message in Arabic, read up to Sultan Al Saud by CapCom, Mike Mulane.
+Um was from to ArabSat officials in the payload operations control center, Khaled and Ali.
+The translation of it is uh quote "Please thank our friends for the excellent work," unquote.
+Had mission elapsed time one day three hours eight minutes. This is mission control Houston.
+And we're just uh starting to get ready for the uh waste water dump.
+And uh Houston, so far the dumps look like they're real good. Uh unlike the old way where it's kind of a big snowstorm and spray, it looks like just a thin solid stream and we're not noticing at least to this point any ice formation.
+Sounds good, Dan. That's good to hear.
+Uh this is mission control. A thin stream is precisely what's expected of that nozzle.
+And uh this nozzle of course, to uh preclude the freezing up and the formation of uh ice on the nozzle tip as has been observed in some earlier occasions.
+Okay, the dump's complete, we got all the way down the five percent and uh as I mentioned before earlier, it started out as a steady stream and I think as the uh pressures and the temperature decreased uh we started uh seeing a little bit uh very small ice chips uh flick off and they uh got uh a little bit bigger all the way down uh to uh dump termination.
+Okay, Dan. We saw that. Everything look good, and that's a normal indication.
+Houston Discovery, the supply water dump has started.
+Okay, we're watching.
+Our dump's still continuing and uh looking very good.
+Okay.
+Roger, the supply water dump's complete uh and uh the uh the supply water dump uh looked like pretty much a steady stream as it came out of the nozzle uh throughout the dump.
+When uh tank B went to zero and the tank A started dumping uh there were a couple little squirts uh like there might have been a little air in the system uh right about there.
+And unlike the uh waste water dump where there were some uh small flecks of ice chipping off uh with the TV and watching it up here on this monitor, I couldn't see any ice uh even small chips uh from the beginning to the end.
+Thanks a lot, Dan, we copied it and it sounds like a good dump.
+It looked great.
+That was new dump nozzle. Sure seen them work slick.
+If you're ready for a little good news in the early morning uh with your coffee, we just uh got word from the ArabSat uh people that the AKM burn was successful and we're on our way.
+Great way to start a day.
+This is Mission Control Houston.
+We're 42 minutes away from deployment of the Tellstar satellite.
+Uh, Houston Discovery, a few your information we're working pages 6-4 and 6-5 of the deployment checklist.
+Roger, John. We copy that. Thank you for keeping us up to date.
+Sunshield on the Telstar satellite has been opened.
+Being, the spin table is now up to 50 RPM.
+And Houston Discovery we've got the Telstar on internal power.
+Discovery, Houston. Telstar is go for deploy.
+Good news, go for deploy. Thanks.
+Ground indications are that the payload has been deployed.
+Houston Discovery with your post-deploy report.
+Roger. We're uh ready to copy, John. Sounds to me like it's three up and three away. Size retired.
+Well, we're not ready for retirement quite yet, Bob, but uh we're glad to be three for three.
+We were off on time, and for anomalies, we'll say nominal, nominal, nominal.
+That sounds good, I like good work to me, John. Well done.
+Well, we appreciate all the good work at Houston and KSC to make these three satellites ready for deploy.
+Discovery currently in its proper attitude for the separation burn after having deployed Tellstar satellite.
+The crew will then maneuver the spacecraft to belly toward the satellite to protect the windows from any uh debris from the uh Perigee Kick Motor ignition.
+Make we had a good PKM burn, minutes 29 seconds.
+Uh, Roger, before we go uh LOS Hawaii, and hand over to Tedra, so I want to pass along a well done from the folks at Tellstar. They really appreciate the uh the effort that uh all hands have put into it, and applaud the efforts of the crew in getting a another successful deploy.
+Uh, tell them we appreciate that, and we appreciate all the good work to them.
+That's affirmative.
+And you might also pass along to John if he's uh handy, that he now holds the record for PAM deploys with five.
+He said he'd like to do five more.
+Bob, at one time we heard that this was uh going to be the 100th uh satellite put into space uh by Hughes, and uh if in fact that is the case, we are real pleased to be up here when it happened.
+Now, that's affirmative, John. That's a century mark for Hughes uh with satellites.
+Discovery, Houston.
+Go ahead.
+Uh, Roger, just want to pass along some more good words to you. The uh we picked up the uh Telstar on uh with ground tracking, and have had uh good commanding through it, and everything looks good uh for the confirmed good PKM burn.
+Outstanding, we're obviously very delighted and uh congratulate the good folks of Telstar.
+And Houston Discovery, uh our XCAP startup to version uh all went nominally. We're starting into the uh phantom station keeping.
+This is Mission Control, this uh discussion of course having to do with the orbiter experiments on the digital autopilot.
+Houston Discovery, we're done with the uh phantom station keeping and proceeding to the velocity pulse step one.
+Roger, Discovery. We copy, uh good work.
+In Houston Discovery, uh we've completed the uh velocity pulse step one and now we're heading over to the rotation Excel step one.
+Roger, Dan.
+And we just started the uh limit cycle test for Vernier.
+Okay, sounds good.
+And the rotation Excel and rotation discrete uh went uh very well.
+Okay, we copied everything. We copied all the words before and it looks like you're doing pretty good on fuel too.
+Yeah, once uh we got off of that first station keeping with all the primaries uh firing uh it's been going pretty good. We were a little worry you were going to have enough to complete this test but looks like we'll make it now.
+Concur.
+Well, greetings, Houston. Uh we are on the mid deck and uh we've had a pretty good flight so far.
+As uh you know most uh momentous events uh have the occasion of uh having a ceremony, and uh we had uh a launch day, uh quite a momentous event. The 100th American to reach space as a result of the uh manned spaceflight program was on board.
+And uh we're going to let the world know who that person was right now.
+Uh, Shannon Lucid was the uh first runner-up.
+Yeah, she was a 99th, and uh she got this safe uh 3 in ahead of Steve Nagel, who was the 100th individual to uh reach space uh in the manned space program, at least 100th American. And for that event, we have a cake, which Steve will be able to cut and I assure you they were working on a speech all this time, he probably has some words he'd like to say.
+Okay, we're ready.
+Thank you very much. I'm not sure if that's true, although I sat 3 in behind Shannon. My nose is about 3 and a half in longer than hers is, so it's still a debatable point in my mind anyway, but I thank you very much for this great honor, and especially the cake, which I'll gladly eat.
+All right, Roger, copied. Do you have METs on those entries into space?
+Steve wants to know where we got the cake and Rita did a great job of making us a 100th person in American in space cake.
+And Steve's cutting it up right now.
+Too bad you won't be here to join us, Ted, but I'm sure that somewhere during this mission, you folks in mission control are going to be able to have your cake and eat it, too.
+This Mission Control, we're a minute and a half away from acquisition through Hawaii, and it's on this pass that we will perform HPTE, the high precision tracking experiment.
+This experiment consists of an 8 in diameter retro reflector attached to a side hatch window and it will receive and reflect a low energy uh blue laser uh from a test facility located on the island of Maui.
+And this experiment's designed to test the ability of a ground laser beam detector to accurately track an object in low earth orbit.
+This test requires the orbiter to be maneuvered to a position with the uh side hatch on the port side of the orbiter in line of sight of Maui.
+What do you through Hawaii for 9 minutes?
+Roger, Houston, and I think uh there must be another uh number incorrect in that uh cap uh because uh looks like we're pointing almost the tail at uh where we wanted to be pointing.
+We already got the uh Starboard wing towards the Earth. The port wing is pointing straight out into space.
+From their description, it sounds as though the orbiter is about 180° uh out of position with the uh hatch pointed toward space and then appear likely we'll be able to recover and uh get uh in a good attitude for this pass.
+Discovery Houston, sorry about that. I guess we're going to have to go for the secondary one uh later on in the flight. Uh we're still trying to sort out what happened.
+Roger, we copy that and we're watching Maui to see if we see any signs of a track.
+Roger, we can see the light.
+Copy.
+This Mission Control. Uh it appears that uh the orbiter was out of position for the HPTE experiment uh because of a bad number fed into the flight control system.
+Roger, we're still trying to figure out what went wrong with our tracking exercise and I think we might have uh the answer here uh.
+I think uh the altitude uh in the cap was in feet and I think it tracks in nautical miles, is that not true?
+Yes, sir. That's correct. It should be uh nautical miles above the fisher ellipsoid.
+Okay, thanks. The crew correctly entered the attitude change uh information in the orbiter's onboard guidance computers.
+The numbers entered into the crew activity plan were provided in units of feet and the onboard guidance was expecting numbers in units of nautical miles.
+This was a result of a ground based accounting error in the development of the STS-51G crew activity plan.
+Houston Discovery, uh we've got the uh Spartan grappled and we're just waiting for the unlatch. Uh, this operation appears to be going quite nominally.
+Discovery, Houston, you can unlatch on time.
+Roger that.
+And Houston, we've got a good release on the Spartan.
+Roger, we see Spartan unlatched also.
+This Spartan in the armor, the deploy position. Uh all Spartan 1, subsequent events are programmed and stored in the machine.
+The discovery crew will verify Spartan is functioning properly immediately after the release as they observe a pirouette maneuver a 45° rotation.
+After that pirouette and about 6 minutes after the release, the Discovery will be maneuvered away from Spartan 1 through about 90 nautical miles in 16 orbits.
+We're getting ready to do it.
+Roger.
+And we are now released and the arm will back away, watching first for the 45° pirouette maneuver.
+And Houston, if you can see it, it's maneuvering, 9 seconds late.
+Roger, Brandy. We're looking at it.
+And uh Houston on the release, it would look steady as a rock according to Jail.
+Roger, look good down here also.
+That indicating the RMS did not impart any rates of rotation to the system uh during release.
+Houston as you folks down there can tell, she works just like advertised.
+Hey uh we've got uh Spartan uh bellowing out in front of us now as expected. It's still uh very steady, holding uh its original deployed attitude, and it looks very good.
+Okay, John, that sounds great. Uh the Spartan people pass on their congratulations for a job excellently done.
+They also uh point out that the It's a good idea that they signed up for the ballet lessons.
+And uh hope that you pick up the right Spartan on uh your return on Saturday.
+Tell them to bet on it.
+Roger that.
+It was our pleasure.
+Roger, it looked uh rock solid from down here when we were watching it too.
+It was solid the whole time up until the uh the first maneuver. It rolled in that first attitude, and it held that uh attitude rock solid.
+And then rotated back and uh was nice and steady for the last minute and 30 seconds before we uh initiated the initial step.
+We were able to visually track the uh target out to uh over uh 12,000 ft uh on during this operation.
+Okay.
+
+beat that. Also, some more good news. The Telstar AKM firing uh was successful and uh it's in geo sync.
+Roger, that's great news.
+And while we're watching that, I just thought I'd pass on to you that the second Arab Sat AKM firing went perfectly.
+That's good news.
+Got some cheering down below in the mid deck here.
+I can imagine.
+Flight day five will begin for the 51G crew when they are awakened at 12:17 a.m. Central Daylight Time. Tomorrow's activities include the high precision tracking experiment, which should occur on orbit 64.
+Houston Discovery.
+Discovery Houston, go ahead.
+Yeah, we just got some great news for you.
+Okay, we're waiting.
+We just took some pictures, maybe the first ever of the summer solstice from space.
+Roger, we copy that.
+Anyway, we got some great movies of the crew taking pictures of the summer solstice.
+John tried to grapple it, but missed.
+Well, you've got everybody in the uh mission control just thoroughly excited about what uh what you reported.
+This is Mission Control, Houston.
+Acquisition at Hawaii in about 40 seconds.
+And an attempt to uh track orbiter Discovery with a low-power laser at Maui.
+And by orbiter Discovery to track Maui as it goes by underneath.
+Discovery, Houston, with you through Hawaii for 9 minutes.
+All righty, Houston, we got you loud and clear and uh we're an attitude and uh looking out to see if we can spot Hawaii.
+At Houston, we have the target set.
+Roger, copy that.
+Uh, could you distinguish a uh a color of the beam?
+That was a bluish-green.
+Yeah, it pulsed for a while and then locked on steady for a short period of time.
+Roger, it sounds like we did get some uh some definite tracking time then. Thank you.
+And you're loud and clear. We want to pass on uh some congratulatory comments from the HPTE folks. They are just static over the uh video that you sent down and they really appreciate it. Thank you.
+That.
+And also be advised the test was successful. They did uh track the shuttle.
+The work on Discovery, thanks for the uh this is 51G, which uh we are part of and very proud uh to be uh doing for the United States and uh all the other countries that are involved with it.
+And uh a very good flight so far and uh we hope things uh continue to go. In fact, after look out the payload bay uh we did look pretty empty today. Hopefully tomorrow we'll uh add a little bit to it and then be ready to come home on Monday. We plan to do today is kind of take a little tour around the inside the vehicle and introduce you to the crew and let them uh get you a little bit of an impression of some of the things that they've been seeing and doing uh during this mission. Right now we'll switch over to the mid deck where John is creating and start at work. You know one of the great things about exercising in space is the same as exercising on Earth. It feels the darn good when you get done especially after jogging a few thousand miles. Uh I think personally uh my favorite pastime like the rest of the crew is uh just uh laying on my back, watching the world drift by out those big overhead windows. So I'd like to introduce you to Shannon Lucis. Uh she was our uh Spartan expert. But it hasn't all been just sitting there watching the world go by as Dan mentioned we do have an active payload bay and that there's also a lot of hard work. But right now, we're down below us there on ahead of us and under the proper lightning uh conditions we've been able to see it like it sunset. So it's still out there and we're looking forward to uh tomorrow when we'll go back and uh John and uh Ben will pick it up. Oh I'd like to introduce now Steve Nagel who obviously has already gained a lot of notoriety by being the 100th American in space that was part of the manned space program and he's going to tell you a little bit about some of the things he's been doing down here. Steve. This area is uh a little furnace. It's called the Automated Directional Solidification Furnace. Consists of these two cylinder cylindrical canisters and a small electronic unit. This is a material processing experiment uh and it has a magnetic composite material inside the furnace called bismuth-manganese. In zero gravity, when we heat these samples then resolidify them, uh we theoretically come out with a perfect distribution of the composite and uh thereby have the potential for having a better, longer-lasting and higher-quality magnet. Uh we ran this furnace uh three times, uh processing a total of four samples. It appears to have run uh very well and we're looking forward to to getting the results back from these runs. Another one of the metrons on this flight and that's John Fabian. He was mission specialist on STS-7 and uh I was fortunate enough to uh get him assigned to this crew and he's done a bang-up job uh literally banging uh three satellites on the hearing this out of the vehicle and he'll tell you about it. Thank you, Dan. Um we've uh been real pleased to deploy three Telcom communications satellites uh during this flight. Uh I think that uh this type of activity and performance uh by the folks that uh uh that make the payload operation work in Houston and uh at the Kennedy Space Flight Center, in addition to the flight crews uh uh is what the space shuttle program is really all about and uh making uh access to space routine and economical and providing a a better world for the many people uh to live in. Earlier I alluded to the international aspects of this flight. We've already launched a satellite, Morelos for Mexico and the Arabsat uh for the uh Arab Consortium uh Communications Consortium and we also have a couple payload specialists on board from uh foreign shores. And with me right now is Patrick Baudry from France and he's going to tell you about the experiment that he's been working on. Uh we hardly see the guy. He's down here the whole time uh testing out all the equipment and his uh he'll tell you what he's been doing but he's really busy doing these things. Thank you, Dan. Most of the time, I stay down. I am in the mid deck working on a French experiment uh program and uh this program is a scientific program divided in two main groups. One group is dealing with uh the equilibrium of man in weightlessness. As you noticed, in weightlessness, nothing is uh is the same. We just move from uh one way to another way, and we don't have the same sensation as on the Earth. So the first objective of the group of French experiments is to better know uh what is the strategy of adaptation of the man in weightlessness. The second group is uh dealing with the cardiovascular system uh in weightlessness also, in space, and with this instrument, which is an echograph, and applying this type of flow of probe on certain part of the body, we can see uh how the blood flows and how the arteries are modified, and drawing a new map of the uh blood circulation inside the body. Back on the flight deck, uh we have another payload specialist floating up here. And that's the uh Arab sat payload specialist from Saudi Arabia, Sultan Sultan Al Saud. Thanks a lot, Dan. Uh, I mean, like everybody else, I've been enjoying the trip and was particularly pleased, as a matter of fact, that the deployment of Arab sat go extremely successful. And I also been doing a bunch of experiments down in the mid deck and I've got a chance to do some experiments up here and uh in the flight deck. This is a liquid separation experiment and it's been set up with me with some of our scientists to help us hopefully in and in an oil recovery and and and consulting the oil leaks and pollution and also I've been experimenting with some observations shots over Saudi Arabia which gives me a good excuse to get more window time and look at the Earth. I also I've been tomorrow as a matter of fact, I'll start myself and Steve Nagel and doing some uh like video camera shooting uh to uh to photograph the thruster engine thrusters of the shuttle for some of our scientists here in the states and Saudi Arabia and and I've got experiments. having a technical discussion up here. Perhaps you can help us. We're wondering whether or not a hot dog is a sandwich, or if it's strictly the Weiner. Well, I tell you what, that's the first thing we've had to work on. We'll we'll try to get to work on it and come up with a moker decision. We would certainly appreciate it. Thank you. And Discovery, I sure wish you hadn't asked that question. The moker is uh really uh having a tough time and we're going to have to call in some of the back rooms to to work on it. We want an official decision now. We got a lot riding on the on the decision here. Discovery, Houston, have some information you may or may not want. Okay, we're standing by. Yeah, I've got Mr. Webster here and I'll read what he says about a hot dog. It says to perform in a conspicuous or often ostentatious manner, perform stunts and fancy maneuvers while riding a surfboard. Does that help? I see seven of them. I think you're going down the wrong wrong road. Okay, maybe this will help. Uh we uh consulted with pointers here and they say that a pointer is uh or a correction that a hot dog is a sandwich that's .0005 nautical mile of in length. Well, there might be a wiener that points that way, but not the whole hot dog. Guess who lost. Well, the final moker count, including uh some spectators in the back room, some of the family spectators was that it's a sandwich by nine, and a wiener by five. Well, the majority is wrong. Sounds like they they don't know what a hot dog is up there in Oklahoma, huh, Shannon. Shannon says that she's keep quiet. For flight day six, I'm talking about some of the activities. Um, this will include the rendezvous, grapple and birthing of Spartan one. And uh, for your info, we had uh Spartan inside at 36 nautical miles. Roger that. Discovery, Houston. Add pop. All right, Roger. You've uh snuck up on uh Spartan a little closer than we had originally uh targeted for. You you're in a range where we think you could go ahead and do block 10. And uh and be successful at it. And if you can do that, you go ahead to uh do 10 and 10A. Houston, we got a locked up on radar 127,000. Roger, sounds good. You guys do good work. We aim to please. And Discovery, Houston, your go for auto angles. Discovery is currently at a range of some 54,000 feet from the uh Spartan. They've had uh apparent failures of two RCS jets. They've uh restrung the management of the RCS jets over to uh General Purpose Computer number three, which gives adequate redundancy for continuing the rendezvous sequence and grappling and capture of um Spartan. The remote manipulator arm is currently deployed in the capture position. Houston Discovery uh with the gyro binoculars uh John reports that uh the Spartan appears to be stable with the grapple fixture pointing slightly towards the Earth from its expected position. Okay, copy of that. Good work. Thank you. Range now 3,200 feet, closing at 6.5 ft per second. And Houston, Spartan is still very stable. Uh we are looking at the we're looking at the flag, and we've got the grapple fixture slightly off to our starboard side and uh still somewhat forward. Roger, copy that. John, thank you. 500 ft now separating Discovery from Spartan. It it appears to be stable and there are no uh no apparent rates. So I'm looking at uh the bottom of the uh Spartan now. It appears that uh the experiment door has closed. Okay, copy, thank you. This is Mission Control, range 150 ft to closing at a rate of .2 ft per second. At Houston, we can see additional lights on the spacecraft now and can confirm in fact that the lights are on. Roger, copy that John, thank you. The the the vehicle appears to be out of its uh nominal attitude uh at present, we plan to close into 35 ft, take a close look at it. And then if it appears reasonable, that we plan to uh position the spacecraft lower than normally and uh use the RMS's capability to uh reach down and uh and get the grapple fixture. Discovery, Houston, we've got 1 minute to LOSTedras. Talk to you next at Guam in 20 minutes. Okay, we'll see you there and hopefully with Spartan. Sounds good. Go for it. Discovery, Houston, with you through Guam for 9 minutes. Hello Guam, we got a uh Spartan on the hook. Ah, that's great to hear Dan. I win my bet. Could you bet with Craig Gross? Nah, it was the flight director. We got nothing but confidence in your ability to do things like that, guys. Well, it sure was fun. And uh maneuver such that he can lower the payload relative to the arm and start a a slow drift to starboard side of the vehicle while I maneuver the arm up and over the the spacecraft to approach the grapple fixture. Okay, again, good work. Sounds like a great job and a good innovative ability on being able to get it under difficult circumstances. No alarm.
+
+Flies beautifully, there's no question about it. It's a quality piece of equipment and it's really a pleasure to operate this machine.
+
+Well, you sure did a good job there. It really looks great from down here, and everybody's real happy about it. Roger, we'd like you to verify that the lights on Spartan went off when you grappled.
+
+Yes, they did.
+
+Roger.
+
+Spartan is down and latched at Mission Elapsed Time 5 days, 2 hours, 48 minutes, 15 seconds.
+
+Discovery Houston, we'll see you at Guam at 3 hours and 42 minutes. And the Spartan folks would like to pass on to you their congratulations and appreciation for a job excellently done.
+
+Thank you, we appreciate that.
+
+And Houston, Discovery. This is the something. Good morning and thank you very much for the music. I didn't hear it already, it was off downstairs, but appreciate it very much as we are going to pass over Saudi Arabia and take some pictures.
+
+This is Mission Control, Houston, as the crew of Discovery is coming up on an in-flight press conference.
+
+Roger, Houston. We are reading you loud and clear and Sultan is ready on the mid-deck.
+
+Okay, we have a good downlink. Uh I'll hand you over at this time to the Washington commentator.
+
+Uh, Discovery, this is Washington D.C. Uh we're looking forward to this conversation this morning with the Saudi King as well as a minister from the French Ministry.
+
+Well, so am I.
+
+I give the words uh according to my English.
+
+Dear Sultan, we are proud of your mission. It is a great achievement. I wish to send through you my best wishes to his Excellency President Reagan and the friendly American nations. Thank you very much.
+
+I thank you, Sayyid, on this word, and inshallah to all my regards to all. And I also feel, alhamdulillah, I'm proud to carry this mission to my people, my country, and inshallah we perform well on the duty. Hello, the world, have a good evening.
+
+Roger, we're no joy on establishing communications with France. We're going to go ahead and terminate at this point, give you a minute to get everybody up on the flight deck, and we'll go with the press conference.
+
+Okay, thank you.
+
+Welcome to the Johnson Space Center. We'll start with the pool question from French media, which will be given in first in English and then in French.
+
+Well, I am French TV and radio. I would like to ask Patrick Baudry if this flight has fulfilled his wishes and whether it's been worth 5 years preparation.
+
+Patrick Baudry, we are live from Houston with Paris. One question in French that you can answer in French as well. Has this flight brought you all you were expecting after 5 years of training? What were the most moving moments for you, and what lessons bring you for the future?
+
+I am sorry to understand that it is Patrick Baudry who is posing a question, but I am absolutely not certain because the connection is extremely poor, as well as the sense of the question that I didn't understand. For the first part, uh, what I was expecting of this flight, well, I was expecting a lot, as you know, and I have had even more than what I hoped for. It has been a flight absolutely magnificent from the first second to the minute present. As to my personal pleasure, because we must say it that way, uh, I hope it is communicative, and that all those who worked for this flight with me, uh, they will be, they will participate, participate to this pleasure as well, and really, I haven't been disappointed at any second. I can guarantee you that the space, the space habitability, especially, it is really something, and fortunately, with Hermes, they will be soon there too.
+
+For Patrick, the question is, as it's been going on for some time, you were asked at the news conference, you said ask later, we'll ask now. Did you bring any wine on board Discovery?
+
+I understood if I brought some wine on board, if the question is that, yes, I brought some wine on board, and I know this wine is very good, but I couldn't test it because it was part of my PPK, which is my personal kit. So I could not use it during the flight, but I assure you, it is a very good wine and I test it again when we come back and we'll see if there is some change in the test of the wine.
+
+Uh this is to Prince Sultan. What do you think you have accomplished so far from this trip?
+
+As a matter of fact, I think the deployment of Arabsat was the climax of our objectives through the 51-G mission, also participating in the mission itself, and the member of the crew will hopefully open more opportunities for us in the Middle East to participate in overall space program.
+
+Uh just a quick question for Commander Brandonstein. Wonder if you could just summarize what you think of the accomplishments of the mission, uh and could you do it in English, French and Arabic for us, please.
+
+The answer, the answer to the last one is no. The answer to the first one, uh I think, that's almost stated already, and that's uh the the launch of three satellites actually from three different countries, and then we deployed Spartan and went back and retrieved it yesterday and all those uh satellites and the Spartan operated fine and uh we're very proud of that accomplishment not just for ourselves but also for the uh many many thousands of people from the ground that support these missions preparing them, training us, and supporting during the flight. And we've also thrown in a few other test objectives of uh autopilot and water dump systems and the likes to keep us busy in the meantime plus doing numerous hours worth of earth observation.
+
+This is for Shannon, or Steve, or J.O. Was there any discussion about who the 100th American in space was?
+
+No, we followed that very scientifically and Steve won by science.
+
+I guess that wraps up the press conference, and we'll return this to Mission Control.
+
+Okay, Discovery, sounds good. It looks like we got our money's worth out of you again today. Now comes the hard part, if you can uh configure and stow everything, you can come home.
+
+Uh we'll down to that, and we'll come back up again in a few days.
+
+Roger, Discovery, request all crew members temporarily drop what they're doing and float to the attention. I have an important announcement to make and request also that Steve Nagel make his way to the front of the bus, please.
+
+This is Mission Control, standing by for a special ceremony.
+
+It has been determined that in about 5 seconds, Steve Nagel will pay will start the 100th orbit of this flight. 2, 1, mark.
+
+The 100th American has just started the 100th orbit of this flight, which will be known officially as Orbit Nagel. Roger, and be advised that was the 100th nose on the 100th node of this flight.
+
+Uh that's extremely poetic. We'll remember that forever.
+
+All right, Steve is in tears.
+
+And we'll be LOS here on T. Nagel in a couple of minutes. We'll see you uh Nagel Guam at 7:13.
+
+Roger Guam Nagel. This is Discovery Nagel. Talking to you on Orbit 100 Nagel.
+
+Discovery Houston with you through Hawaii for the last site on the 100th orbit.
+
+And Discovery copies and we're very sad to see this orbit come to a close.
+
+Thanks a lot for the work today, and the whole flight. You deployed 4 satellites bringing one back and that's the name of the game. So, thanks a lot. Uh have a good entry, and we'll see you later. All 100 of us now in the Mocker have an announcement for you.
+
+Good night Discovery.
+
+That was the Mocker Tabernacle choir as a good night to Discovery uh through the Hawaii site.
+
+Well good night Mocker and uh orbit team. We are uh sure appreciate all the help you gave us uh during this flight. We're sorry to see you leave uh but we'll be home tomorrow and we'll get to see you in person and uh maybe have a beer down the road here a little bit or something.
+
+Or maybe 100 of them.
+
+Maybe 100 of them.
+
+Good morning again, Discovery and J.O., we hope you appreciated that, and I guess you'd have to convince us here in Mission Control and Dan uh on the the results of that last song.
+
+Oh, you guys missed the heck of a bash to party up here last night.
+
+Well, we all wish we could have been there.
+
+Significance of the uh wedding march and getting me to the church on time relates to uh Discovery Pilot John Creighton, who has plans to marry soon. So we all patiently await uh the Deorbit Burn and entry.
+
+If you folks have a minute, uh we've got a musical message uh to you from uh the international crew of Discovery.
+
+Discovery Houston uh you've got a go for Payload Bay door closing when you're ready.
+
+And Houston, APU pre-start is complete with three grade talkbacks.
+
+Roger, Discovery, just to update you on uh the uh weather situation there at Edwards you just passed over. The uh wind has uh shifted around on us and increased velocity from expectations. As such, uh we'd like to change our selection of uh runways to area 9. Eddie 23 on the high wind aim point.
+
+Roger, Houston, switching to runway 23 at Edwards, high wind aim point.
+
+John's reported some light turbulence but he doesn't feel it's a problem and as such uh you've got a go from us for the Deorbit Burn.
+
+Okay, Houston, copy, go for burn.
+
+We are 10 seconds from ignition. The data's back online. 5 seconds, 4, 3, 2, 1, 0.
+
+Houston, Discovery, had a good burn on time.
+
+This is Mission Control, Houston, according to calculations, uh Discovery should now be experiencing the communications blackout as a artifact of uh ionized buildup around the spacecraft. Show altitude uh 183,000 ft, velocity Mach 12.2. Discovery right on course and on time.
+
+Discovery Houston, uh we'll verify nominal energy and ground track. We're still evaluating your nav and T-can.
+
+Roger, Houston.
+
+Discovery, Houston, take T-can.
+
+T-can, it's tactically the navigation ground based system that provides uh position information to the orbiter's guidance systems. Orbiter right now should be in the second uh roll reversal, a right to left move, again, designed to help reduce the uh ship's velocity. Altitude uh 125,000 ft, uh velocity is Mach 5.4. uh, orbiter just uh approximately uh 125 miles uh off the coast of California. Uh now crossing the coast. Velocity Mach 3.9. Altitude uh 105,000 ft.
+
+Discovery Houston, take air data and transfer state vector to backup.
+
+Roger, that's in work. Velocity is uh 0.8 Mach, 21 miles from the end of the runway, altitude 39,000 ft. Uh Sonic boom's reported at uh Edwards Air Force Base. Air speed uh 290 nautical miles an hour, 12 miles from the runway, uh 18,000 ft of altitude. Now making the left overhead turn into the heading alignment circle. This will be a 240 degree turn angle going into uh runway 23.
+
+Discovery Houston, show you correcting the glide slope slightly right of centerline. Surface winds 1-3-5 at 10, that's 10 knots from the left. 1,000 ft altitude. Gear down. 1 mile from the runway, uh 86 ft. Uh gear down and locked, and we have touchdown at mission elapsed time 7 days, 1 hour, 38 minutes, and 50 seconds. And uh we expect the rollout margin to be uh 4,500 ft and 15% braking. No wheel stop at uh 7 days, 1 hour, 39 minutes, 30 seconds.
+
+Discovery Houston, no immediate post-landing Deltas for you. Nice job Dan, welcome home.
+
+Roger, thank you.
+
+That works.
+

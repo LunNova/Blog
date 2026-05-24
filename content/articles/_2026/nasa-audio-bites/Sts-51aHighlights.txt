@@ -1,0 +1,662 @@
+T-minus 1 minute.
+T-minus 1 minute and counting.
+The hydrogen igniters under the orbiter's engines have been armed. These devices are used to ensure that any hydrogen flowing through the engines does not accumulate.
+T-minus 45 seconds, we're just 18 seconds away from switching command of the countdown from the ground computers to the onboard computers.
+Minus 30 seconds.
+T-minus 31 seconds and we are switching control of the countdown to the onboard computers.
+T-minus 25 seconds, sequencer is now controlling the final seconds.
+T-minus 20 seconds, Mark.
+T-minus 15 14 13 12 11 10, we are go for main engine start.
+7 6, we have main engine start.
+3 2 1 and liftoff, liftoff of Discovery and the space flight to retrieve and return satellites from space and the shuttle has cleared the tower.
+Power cleared. Roger roll.
+Roll program initiated, Houston now controlling.
+Roll program completed.
+Beginning throttle down to uh 89%, then to 67% to pass through the period of maximum aerodynamic pressure.
+Throttle down to 67 confirmed.
+45 seconds, down range distance 2 nautical miles, altitude 3.9 nautical miles, velocity 2200 ft per second.
+Beginning throttle up back to 104%, the nominal throttle setting for this mission.
+Throttle's coming up.
+Engines at 104%.
+Discovery Houston, your go at throttle up.
+Roger go.
+TC less than 15.
+Nominal first stage performance.
+Discovery Houston, first stage performance, nominal.
+Okay, nominal.
+Discovery, Houston, two engine tail capability.
+Two engine tail.
+Velocity 8,000 ft per second, altitude 53 nautical miles.
+Discovery, Houston, negative return.
+Okay, negative return.
+Discovery, Houston, press to ATO.
+Roger, press to ATO.
+Let that call up Discovery capable of reaching an aboard to orbit on only two engines uh if that were to become necessary.
+Discovery, Houston, single engine tail capability.
+Single engine tail.
+Three engines still running 104%, about one more minute on their run time for this launch.
+Engines at about 91, 92% of their rated thrust.
+Engines throttled now to 75%, down to 65.
+Maintain 3 Gs.
+We copy Miko, 257 up at 280.
+We copy.
+Normal main engine cut off confirmed.
+Discovery, Houston, nominal OMS-1 targets, APU shut down on time.
+Discovery, Houston, we're back with you through TDRS and we have a good shot of Dr. Allen and Dr. Walker.
+Okay, very good.
+And Anna, Kristen was here looking at you a while ago. She got a big kick out of that before she decided to take a nap just before deploy.
+Oh, that's good news. Thanks.
+Ron, as you can see, it's going very smoothly for us. We have no anomalies with regard to the deploy and we're coming up on about uh about 45 minutes from satellite deploy.
+It's a fairly relaxed timeline for us right now because we don't have any problems that we're working.
+Copy, Joe. I know what you mean.
+And while we have some time Ron, I thought the 3M folks might like to know that the Demos is uh dashed not dotting just as it's supposed to be.
+Okay.
+We got it.
+Mission Control, Houston, that report by Anna Fisher refers to the uh 3M experiment down in the mid deck, the uh Diffusive Mixing of Organic Solutions experiment.
+The dash. dot dash that she referred to, the uh Demos signals its uh happiness with its own state by uh uh blinking on and off some green lights on the uh on the equipment itself.
+
+I think so.
+Hello Houston. We can see ourselves going up over the uh coast of South America.
+T7.
+Sure is pretty, the uh clouds down there and the uh. No.
+Roger that. We got a good view of that on the payload bay cameras.
+Houston uh standard checklist will be.
+Okay, continue band. Away from me here in about a minute and a half.
+We concur.
+Roger.
+Mission Control, Houston, the uh starboard side of the sun shield is uh now been uh driven all the way down and latched and restrained. The uh port side is driving now toward its restrained position.
+Telstar is now activated, the Pock is taking data.
+The terminal sequence will begin in about 7 minutes.
+Discovery, Houston, the orbiter and Annex are looking good for deploy.
+Roger that, Ron. We concur.
+And the terminal sequence has started.
+We now have deploy pre-arm.
+Hi Houston, Discovery. How do you read?
+We read you loud and clear.
+Okay. Uh we've got good news. The deploy went without any problems at all, on time, and when you're ready to copy the numbers, I'll read them down to you.
+Okay, Joe. That's real good news and we're ready for the numbers.
+Okay. Wait one.
+Okay, Ron, here we go. Uh roll 329 decimal 55. Pitch 274 decimal 67. Yaw 332 decimal 78. And the rates were minus decimal 001, minus decimal 001, and plus decimal 001. And we have an empty pallet here, looks like we have room to pick up a satellite or two.
+Roger that. We copied the numbers and uh we plan to do just that.
+We got one down and one to go.
+Discovery, Houston, we're with you through TDRS with a view of the payload bay.
+Okay, David. If you're ready, we'll go on with the Syncom show.
+We're waiting.
+Okay, good enough. Uh Joe's going to go ahead and start the DTR here. We'll press the buttons to show you the deploy first.
+Okay, if you're seeing the DTR, we had it queued up just before the start of the deploy.
+As you all know, this was the second uh launch of the Syncom uh LEASAT from uh from the shuttle, the first one being on 41D some number of months ago.
+You can see this one come out similar to that in the frisbee fashion.
+We first released uh four pins that hold the Syncom into the payload bay.
+And then here you can see the Syncom departing. Right at deploy time, Joe Allen threw two switches on the standard switch panel which released the spring uh spring mechanism that uh pushed it out of the bay. And here you can see it coming out at a little over a foot per second and a little more than one RPM.
+The orbiter at this time is upside down and the uh Syncom actually comes out towards the Earth.
+And the orbiter's also flying tail forward so that uh when the Syncom later is what uh half a rev away on the other side of the Earth, it's pointed the proper direction for its uh perigee kick motor to burn and send it off to a uh higher orbit.
+Roger that, Dale. And we can uh confirm that uh the Syncom had a good burn.
+Super and we're going to show you some real fine pictures of the PKM burn just here in a second.
+The Syncom's a uh a fun one to watch from the uh cabin here because it goes down towards the Earth. And you see, as you can see here, uh really fantastic views not only of the satellite but of the Earth uh passing below us.
+We'll second that.
+Okay, we're going to let this run uh David, so you so you can see the Omni deploy and then we'll uh switch over to the PKM.
+Okay.
+Okay, and there you can see it coming up.
+Okay, we're back to the flight deck for a second, and Joe Allen's going to do his work on the VTR to fast forward to the PKM burn position here.
+Okay, the uh the PKM burn as you're going to see is going to look a little different than the PAM ones we've shown you in the past on other flights because of the position of the satellite. We're initially looking down against the Earth.
+And uh we're on the dark side of the Earth, so the uh what we're seeing is the Earth glow in moonlight.
+Right in the center of the frame then you'll see the uh ignition of the PKM and the Syncom.
+Hopefully you'll be able to detect the acceleration because you'll see the Syncom uh move up past the Earth's horizon.
+Joe's going to call it.
+Okay, that is the Earth now in moonlight. Remember we're on the dark side. There's the ignition.
+That's a great picture.
+And in a second, once we're past this cloud here, I think we do zoom in a little bit for you.
+Did you start your watch, Dave?
+I missed it.
+Okay. Now when you come comes up to the horizon, you'll see another interesting uh thing that we've noticed in the flight, previous people have reported. And that is that on the dark side in moonlight, you see a haze layer, a glow above the Earth's horizon. There you can see it now, a thin line that appears to be uh well, what we'd guess 40 or 50 miles uh above the Earth.
+Okay, the Syncom is passing through the horizon now.
+And now it's passing through that uh thin haze layer.
+Okay, there's tail off.
+And you can see that even after the engine uh the engine shut down, we're still able to uh keep track of the satellite with the uh with the camera.
+Okay, back to the flight deck.
+Okay, that's it. Uh you can tell Commodore Truly that we've done our part and uh he has the satellite now.
+Roger, thanks Dale. That was some great work.
+Houston, Discovery, we're going MET uh 0 for the EVA now. They're uh going to power up that.
+Roger, copy. We'll call it 0110.
+Roger that.
+And and uh Dave, it is right there, my friend. Right. We could go get it right as she stands. You let me out on a cable, I could grab it.
+Gorgeous. How How are we going to grab that? It's too smooth and steady. That's your job.
+Okay, guys. They're still on the rendezvous in here and it's all coming in to the cabin.
+Okay.
+Just so you're at the end of your tether.
+Just as if you are at the end of your. That's confirmed.
+Good. Just proceed on through and give me a call at step 9.
+This is Mission Control, they're progressing very well with the EVA, preparing to uh do the flight check with the Stinger on the MMU.
+Okay, no, where am I? No, wait. Don't do that. I'm going to back up. Can I just back up?
+Uh I go uh a little forward for a little bit. I'm going to pitch down so you can see where you're at. Okay.
+You can go a little higher, too, see.
+Don't want to get too close to the satellite. Jeez.
+You can go a little higher.
+Got it, Pat. CVC in the Stinger.
+Welcome to.
+I'm sorry. They're talking to Joe.
+I thought you were going to tell me about the Ramney. That's good.
+Okay.
+Just transmit forward a little bit, please.
+Still. Wow, look at that.
+Houston, Discovery, the sun is up, and we're ready to help.
+Roger, copy that, David, we're ready also.
+Things are proceeding very well in the EVA. The crewmen were holding up. They're waiting for daylight to illuminate the satellite and the orbiter's cargo bay, so they'll have good lighting conditions for the docking maneuver. Mission Specialist Joe Allen on the MMU with the stinger attached to the front will fly around to the back end of the orbiter and insert the stinger into the rocket nozzle, the uh uh used rocket nozzle of the Palapa satellite and he'll then trigger the toggle bolts and tighten the uh grip on the satellite. The uh mechanical arm, operated by Mission Specialist Anna Fisher, will then uh grapple a connecting uh fixture on the side of the stinger and uh then we'll haul the uh satellite and Joe Allen attached to it uh back down toward the cargo bay where uh Guy Gardner, or rather Dale Gardner, will uh attach an A-frame structure to the top of the satellite that will enable it to be grabbed by the mechanical arm from the top and then inserted tail down into a retaining fixture in the cargo bay where it will be firmly mounted for the return to Earth.
+Okay, I'm lined up pretty well behind it.
+
+starting into it.
+But it's not in a nasty position.
+They closed them right about right.
+Okay. I almost can't see it. I'm flying right into the sun.
+Okay.
+Okay. I'm penetrating.
+Coggles pulling.
+Soft dot. Soft dot.
+Crank, crank, crank.
+It's pulling it right down. I'm using no gas at all.
+Alan cranking down our ratchet handle to tighten up the grip on the Palapa satellite.
+Okay. The wrench is broken over.
+Stop the clock. I've got it tied.
+Okay. Add hold now.
+Mark.
+Add hold.
+Okay. Give me a pitch up, please.
+Pitch up.
+And the Rmu officer reports moving the mechanical arm in for the docking.
+Okay, come on in. I know you got plenty of room.
+Okay, Joe. She's got five pieces to go to the gravel fixture.
+I'm watching her in my wrist mirror.
+Like a hawk. And now I can see it.
+Looking perfect, Anna.
+Cycle gyro power.
+Fit cycle.
+Looking perfect, Anna.
+We have you, sir.
+And how?
+There's the hard grapple.
+Good work, Cabin. Way to go.
+That's doggy driving around and we're putting the rope around it's seat.
+Gardner will be moving into the A-frame installation here in a few minutes.
+Okay, Anna. Uh, I need you to do a uh, a little bit of orbiter pitch up.
+Hey, Dan. I'm working real close to the wrist singularity. Okay. I just try to bring it down.
+Okay.
+Okay, can you come down towards me? Yeah, I'm going to do that.
+Okay. Stop.
+And can you go towards my head now for about uh, six or eight inches?
+Okay, let's hold it right there. Brakes on, Anna.
+Discovery Houston.
+Houston discovery, go ahead.
+Roger, we're going LOS and we'll see a Guam at 31.
+Okay, well.
+Are you what? The sun.
+Really hot.
+Reval, aren't we?
+It's hot. Dave, are you there?
+Yes, sir, go ahead.
+My gloves, I would guess, are 120° inside right now.
+That's right, the family's going down shortly, that should help.
+Good.
+Mission Control, Houston lost the signal through the tracking and data relay satellite.
+As we went over the hill, the crew and outside were working to put an antenna bridge structure on Palapa.
+Yeah, what we have to do is to get out of the configuration we are in. Get the A-frame put away.
+Get in uh you and the PFR on the other pallet.
+After reconfiguring the MFR.
+And uh
+Okay. We handed the satellite to you, Dale.
+Okay.
+And uh then I we're get the MFR and put the uh
+Well, and I pull myself off.
+You can do that uh You can do that almost anytime, actually.
+You have to go quick, doff off quick, doff the MMU, and uh go back over to the MFR to get the uh the stinger off it.
+Discovery, Houston, to Gua.
+Uh we return.
+Yeah.
+Yeah. Uh Houston, uh Discovery, we're in a Dale talk. We got a problem here.
+Roger, go ahead.
+Okay, Jerry.
+Okay, Jerry. Here we go.
+The common bracket clamp will not fit on the satellite.
+The problem is, between the two uh octagons, between the two common bracket parts of the satellite is a structure that's sticking out uh far enough that it is hitting the cross brace of the common bracket clamp before I could get the uh the V-head bolts even close to driving on to the octagon.
+Okay, we copy that and understand.
+There's not a piece of structure I can remove. It is uh massive.
+I've tried twisting uh as you can imagine every direction. I tried forcing it on.
+It's within maybe uh an eight to a quarter of an inch of making it,
+but unfortunately post doesn't cult with the common bracket.
+Okay, understand that. And uh what are you proposing to do?
+We are proposing to go to the no-A-frame procedure.
+And uh I will go up to the PFR in the forward pallet and try a technique perfected by yourself.
+Let the handle to me. I'll grab the top end, go uh go and temporary store, get rid of the uh MMU, come back to the MFR in the aft pallet, uh take off the stinger, and then put on the adapter.
+Okay, we copy Plan B and proceed.
+Okay. We got a little clean up to do because I've got the uh A-frame out and I'm the out and all that, so it'll be a short little bit before we get started here for serious.
+Roger, understand that. And understand you'll be putting the A-frame in a temporary stowage.
+I don't know, I think I'll put it right back where it goes.
+And Dale, our preference would be go ahead and temporarily stow the A-frame, as to uh chance working the adapter around it after you have it stowed.
+Okay.
+Mission Control, Houston. As we came through Guam, the crew reported a problem.
+The plan now is to uh go to step B and uh attempt to uh uh mate the satellite to the uh, the locking ring that fits around the uh uh Apache kick motor uh manually, rather than using the uh RMS to steady the uh satellite as it would be attached to the antenna bridge structure.
+In other words, they'll uh try to do this procedure without the antenna bridge structure.
+Discovery, Houston, through Hawaii and Tater's.
+Roger, we're with you, and uh yeah, tell me when you catch it.
+I'll give you a quick summary.
+Tell me when you catch it, pal.
+Yeah, I got it. I'm touching it.
+Okay, now I'm going to get a different purchase on it.
+Basically uh Okay, I got a good firm hold on it. Now you you what you want, but you gotta uh torch out your own torch, okay?
+I will accept the good news, Jerry.
+We're uh due for some.
+We are turquings. Book wrench.
+Roger, we're looking over your shoulder off the uh RMS.
+Okay.
+Gardner now torqueing the adapter down to Palapa for a hard uh fit there.
+Right now.
+Okay. Number one position indicator is down to flush. Beautiful.
+Going to number five.
+I can not I can twist it however you want, now. Okay.
+That's all, right? You're moving it. Yeah.
+Now I'm stopping it. Okay.
+You're extremely normal.
+Number five is coming.
+Oh, Dale, I see what this is down here. It is uh made of that jet black, isn't it? Very thick, heavy metal.
+Oh, yeah. See that thing? Yeah. That was hitting the cloth. It's enormous.
+How you doing, Jerry?
+I'm doing fine, Dave.
+The brake took the out so I could hold it here for a while. Comed on the line.
+I think I handled it to see the job on this one. Okay, sure. Let's try it right there. Okay?
+Okay, Jerry, you're on number seven.
+Keep on truckin'.
+Okay, far enough. Thank you.
+Dave. What a guy.
+I think them for a risk tether.
+I have one. Oh, I know, but I've been doing it with this uh many work stations but this uh just you know, it interacts with itself and it gets old.
+But, I'm so close to the end that it's not worth getting off this force and getting on another.
+Come on number six.
+What's it?
+Looks like weights.
+Eureka.
+Hey Joe, can you take it up in a way, so I can get myself squared away here to do the next step?
+Okay, what is the next step?
+Uh, we gotta we're gonna burst it,
+and then uh well, tell you what, I know we need to put that uh grounding strap on, that's right here.
+Get the grounding strap is the next step.
+And as soon as you ground it, I think uh I'm going to hand it to you,
+and then I'm going to cross I'm going to uh come out of the foot restraint here,
+and cross over.
+Okay, that'll be our next thing, then uh And come down.
+Oh, you're in the drop down again. Okay, keep it up partner. Okay. Okay.
+Okay.
+Mission Control, Houston, uh Joe Allen now qualifies as the uh first human in history to hold a uh 1200 lb communications satellite over his head for one trip around the world.
+Okay, Joseph. Yeah, let go.
+Okay, now be real gentle, Dale. Yeah, I got it. Okay, sure?
+I've got it, Joe. Okay, I've let go of it.
+Okay.
+Okay, here it comes. 2° a second.
+Gently. Gently. Gently, Dave. Dale. I just gave it a touch, Dave. That's about my lowest bit.
+Uh, b b b b.
+Well, Jerry, we're going to try to put her home here.
+That sounds good. I wish we had TV so you could watch.
+In the process of what I think the four and 20 is.
+Okay, I agree. I see the pin adapter. And where Well, we're not perfectly lined up. Uh I don't think there's any problem with the Y-axis and the uh and the bumper bracket.
+Not going to be along the Y-axis of the orbiter.
+No.
+Okay, then it's okay. Show your emotions down, please.
+Okay, nice and easy, Joseph. You don't want to build up any uh built the V there.
+Got it, partner.
+I have a hand on it.
+Okay. Let's put it between those yellow flags.
+Okay, watch number one, please. Click. That's one. All righty.
+Hurry up.
+Okay, it's moving.
+All right, we got her.
+Now, do you want me to move across? Is that yours too, Joe? It's a big latch, yours? Mine is latch.
+Okay, just Joe, you can move across. If you got two, you can watch the third guy, do you have a ready back there?
+Okay, we're getting the third one.
+Oh my goodness, Joseph.
+Got them all.
+Three latches down and locked.
+Take the A-frame off the top too.
+Mission Elapsed Time 4055743.
+This guy take a breather. And I want a suit status. Joe, watch out for that monkey fur.
+Yeah, I'm going outside, Dave.
+Hey, can I get a suit status from you all real quick first?
+I can't see mine, I can't see mine, either.
+Okay, we'll wait until dark, we'll get it in the dark.
+And this is Mission Control. We're continuing to get live downlink television of the uh wastewater dump.
+We are a simulated dump right here.
+We copy.
+And they're terminating the wastewater dump now. Seeing some chunks of ice coming out of the dump nozzle, and some frost around the nozzle itself.
+Okay, that looks pretty good to us Houston. Uh why don't we change the subject now? As the nozzle temperatures continue to heat up and then talk about the plan for tomorrow.
+Uh, let me initiate the discussion by reopening the subject of going to uh, first of all, are you still with me?
+Loud and clear, Rick.
+Okay.
+Okay. I think uh and thinking about it I think there are several advantages that we can gain from it. Uh not the least Uh as I said yesterday, I think the uh increase fuel usage during station keeping it was at least in part due to the fact that the omni antenna as we uh Great, Rick.
+Rick. flew around during our LVLH uh overnight. Break, break, Rick. Um, we're losing Staying in the in the payload bay, and uh, also Break, break, Rick. And although it caused him some problems, obviously he did a very successful uh sun pointing. Mission Control, we got uh communication difficulties here. Also point it into the bay. And let me stop here and see if you're still with me. Uh, Rick, I was trying to break in. We've been dropping in and out again. We're going to try to acquire a little more solid signal here. Stand by.
+Discovery, Houston, we've got UHF over a mile over Bermuda. That ought to give us a good signal. Uh we
+
+missed the first part of your uh discussion Rick. Maybe you better start over and let us uh listen again.
+
+Okay, um I wanted to initiate the discussion by revisiting inertial uh attitude hold station keeping. I think there are uh three things uh in favor of inertial attitude hold station keeping uh, one of which is that uh it avoids the situation we had yesterday where during during our LVLH maneuvering, uh during the night pass, when the Omni antenna uh wound up down into the bay and a certain amount of orbiter maneuvering was necessary to uh clear an operating envelope for the MMU flyer.
+
+Uh also, you may not have been aware of the problems that Joe was having. It turned out he was looking directly into the sun when he docked with the spacecraft and uh even though he was very successful in doing that, I think we need to try to avoid that sun spacecraft MMU geometry for the next effort.
+
+And also, I think uh I would uh be very uh comfortable with doing that MMU grapple at night because the MMU would be between us and the spacecraft. So while you're thinking all those things over, uh I'd like to turn the mic over to Dale and uh let him uh first give you a one-liner on what we think the approach uh ought to be. Uh you can comment on.
+
+Okay, Discovery, we're standby.
+
+Discovery, Houston, are you still there?
+
+Discovery, Houston, are you still with us?
+
+Okay, Dave. How you copying this now?
+
+Loud and clear now.
+
+Okay, Dave. Uh I guess uh where we're at right now is with uh I think it was plan two that uh you all talked to us about last night which is uh you probably guessed from Rick's discussion, using the MMU to stabilize the satellite and then uh having the other guy in the uh get into the MFR on the RMS, wrap the Omni antenna in, point it down into the bay over the forward pallet, have the uh first person uh quick dock the MMU and uh do as we did yesterday, but now in a better position, obviously. Uh take this singer off and put the adapter on and birth it from there. And uh if you have any comments on that, we'll go ahead and take those and if not, we'll give you some of the major details of what we think are the pros and cons of this approach.
+
+Okay, standby one.
+
+Okay, uh Dale, we've got a couple of questions for you. Uh first of all, I wondered how hard it was for uh Joe to hang on to the satellite. How tiring and uh how difficult?
+
+Here comes Joe. Let him uh let him tell you himself.
+
+Uh Dave, I our collective opinion and uh I vote the strongest on this is it'll be very easy to hold with an Omni antenna. With just a uh a four-bar where you have to use most of the strength in your hands, it's uh get your tension after a while. But if you can put the Omni under an arm or use the leverage that the Omni gives you when you put your hand far out on the end of it. I think it's going to be very easy to control in uh pitch and yaw and you could also roll it from there if necessary, which probably will not be.
+
+Okay, we understand that. Uh second question was uh Dale reported his gloves getting very hot. How much of a factor was that yesterday?
+
+Well, uh I think I I should have explained that a little better. They weren't getting hot from touching the satellite. They were just getting warm from the uh from the solar inertial attitude that we were in. The the sun was always on my body and and from the same direction. and my hands got warm. It never got to the point of being uncomfortable or where I was even thinking about stopping work. And in fact, Joe even noticed it up on his end, and I'll let him comment on that.
+
+Uh Dave, in my case, uh your hands get hot as can be. And the problem was not the the metal you were holding on to, but as Dale says the sun, and in my particular case, I couldn't move my hands. If uh uh given the option of more than a single handhold where you can move your hands around and in some cases, shadow it with your own body, I don't think that'll be a problem at all.
+
+Okay, Rick, and uh you haven't uh discussed or mentioned too much about the nominal timeline, uh given the fact that uh we think the uh common bracket, the A-frame would fit on the uh Westar. What are your what are your thoughts on going on the nominal timeline?
+
+Okay, wait one, please.
+
+Okay, I think our response to that is that we've trained that and we know we could do it if there are no uh mechanical interference problems. Uh but also we've learned an awful lot in the last 24 hours about what our capabilities are in the contingency world. And so, so in some respects we know more in real world about the off-nominal than we do about the nominal. And uh I think we could do it. There's no question and uh if that was the decision, we'd press on and and do it that way.
+
+Uh it seems to me now that the more uncertainty and perhaps a a bigger hit to the timeline if we go with the nominal.
+
+Okay, we copy standby one.
+
+And Rick, to summarize uh what we think you said is that uh even given that we believe the A-frame would fit, you still would opt for number two.
+
+Yeah, I I think so uh, Dave. And and we need to keep in mind that we've got a lot less space available in the payload bay than we did yesterday and uh if we were to come up with a similar problem at the same point in the timeline uh tomorrow that we did yesterday, uh it could uh really cause us some problems.
+
+Okay. And I guess that's about all the questions we've got.
+
+Okay, understand. You all mull it over and uh we'll uh continue with our water dump.
+
+This is Mission Control. Uh all orbiter systems are functioning, not functioning normally. We expect the EVA to go as planned tomorrow. The uh execute package for flight day seven will be up-linked as soon as we have lock on with TDRS. and expect uh to awaken the crew very shortly. This is Mission Control.
+
+Now you got your power tool and extenders, right?
+
+The power tool is already tethered off over there on the MMU and the uh extenders are on the MMU already.
+
+Okay, good. I want to see if I can see good.
+
+So we're still firing quite a few thrusters. Let me be careful.
+
+Okay.
+
+No problems so far.
+
+Okay, don't Mission Control Houston discovery now less than 500 now 500 feet from Westar.
+
+And I need to standard if you need them, Joe.
+
+Oh well, look at that satellite. Oh.
+
+You know if the bottom were threaded, Rick could just drill it into the pallet.
+
+He wouldn't even cross it. Oh you to go inertial attitude holds them.
+
+What's your timer say there, David?
+
+16 seconds. A geez. Well, we don't have to do it to the second. Here we go.
+
+Okay, I'm going to release, A powers on. Okay. Hang on. I'll pass it.
+
+Okay, got it but I see you working the MFR, that's good.
+
+Don't let me get too close, Dale. You're fine.
+
+Okay, I'm going to use one of the rollers up there on the target, here I go.
+
+All right, flies nicely. From the sun. Look at that fire.
+
+You are fairly close before the bulkheads Dale.
+
+Go uh where'd you go just a little bit. Go towards the satellite just a little bit security. You're clearing me Dale. You're fine.
+
+Gardner now going after Westar.
+
+Do you have that tether, Dale, right?
+
+Tether's down. Thank you.
+
+Line it up. He's lining it up. You're looking good to me, Dale.
+
+Closing rate's real slow with it. There you go.
+
+Okay, he's in, Joe. He starts the operation. Going for a toggle. Hey, toggle, I got it. Cycle gyro power. Hey, cycle on. That gives a good knock. Okay, cycle one. Gyro power. It's awesome and back on. Start the torque. Oh, speed disc. Okay, Joseph, time to start getting ready. Okay, what? The RMS is coming. Okay. Now pull it loose. Okay, make sure that you're in good shape to let it loose because you have a tether.
+
+Oh yeah. And there they are. All right. Yeah, plenty of times he's going to bring it in a little closer. He's opening the stairs. When you're ready, look it up. It's there, now I don't see any reason you can't uh pull it in. Perfect. Perfect, perfect, perfect. Now, let me get oriented to where I are. Uh okay. See, And it's still rigidized and sort of hanging tough. Let me uh I don't want to get my tether in there. I got to come like this. I need to move all the extension now. Joe Allen in the process of tethering himself to the Westar satellite. He's also uh his feet are locked into the uh manipulator foot restraint which is now on the end of the robot arm. Okay, Joseph, I'm going to start moving the arm up to get you out of the bay and uh we won't discuss that with you except to tell you it's happening. Okay? Okay, Dale, standby for a cycle gyro power. Okay. I'm one foot away from the Omni, Dale. Fantastic. I'm going to touch the Omni now. I'm touching it. Yeah, cycle. I'm not I'm not putting too much Cycle. Okay, there we go. Hey, I'm cycle. going to take it under my arm. Hey, don't move it too fast, Joe. It's all You got twice the master here, remember? Okay. Okay, Joseph. Joseph, make sure there's nothing sharp there. and the it's very uh loose stuff and I'm going to pull back to the MLI here. You don't want to do that with arm. I need to You got twice the master to work with. Okay. Don't want to get a ridge started. Okay. If you need to uh make this thing make this thing a little to your right. Okay, I'm going to move it a bit. Okay, rotate around the be careful. you know, and then that I mean. Don't exert a lot of force, carefully. Hey, Hey Hey Hey, David, I recommend I get off. No, I'm doing fine. I'm doing fine. Discovery, Houston through Guam for eight. Okay, we're with you. Uh we have the stinger uh beat secured. We're in the process of moving the arm uh back to the port side of the orbiter to get ready to position the spacecraft for the uh nozzle installation or nozzle cover installation and adapter installation. Copy. Okay, Anna. Let's let's try that right here once. Uh I don't want to get it too close putting this on. Okay, Joseph, if you feel some minor perturbation now, that's probably going to be me. Okay. I hope it's you. Thanks a lot, Joseph. Okay, very good. And I won't. I'll just try to hold it steady. Okay? I'll try not to let it move too much and if you want to roll it, I can roll it. No, this is a nozzle nozzle cover, so I think I don't need that right now. And we can see the nozzle shower curtain shower cap pretty well now. And so, we're going to take a couple pictures of it while you're conveniently located. Okay. Oh, you just lost the ridge there. Where'd it go? It just came off the tether. Where did it go? It went towards the payload bay, uh towards the cabin, thump against the forward cabin bulkhead. Can you see it? I can't see it. I don't see anything. It was a torque wrench. Oh yeah, I see it. Dale, Just a second. Was it on the mini workstation and those jaws let go again? Oh, it was on my uh lace tether, let's see what's happening here. I don't know, I must have crossed both lines. What? That's all I can figure out. Okay, let me go back to movement here. Sorry about that. Okay, Joseph, I want to talk to you talk to you about roll here. Okay? I want you to roll the satellite to your left, very slowly. Uh you mean you want the bumper bracket to go that way? I want the satellite as you look at it to rotate counterclockwise. Very, I look at it, counterclockwise, I understand that. No, the nozzle clock direction. Here it comes. Okay, I'm going to switch to three, okay. How you holding up up there? I'm doing okay. Omni makes it easier, huh? Why cheat? Okay. Hey, 15384. You're not using torque wrench yet, are you? I'm just the power tool, Joseph. And that's that's all. That breaks it down with an 8th of an inch time, so they're for a good, yeah. How you doing for warm up there, Joe? You got the sun on your back, don't you? I'm doing fine for warm. I'm doing fine.
+
+A lot different. A lot of different.
+
+Okay, back to my left one, Joe. Number six. Okay.
+
+Open it again. Okay.
+
+Now, have you let go of the satellite, Dale? Yeah, Joe, you got it. I'm sorry. Okay.
+
+Okay, there we go. It's back and locked.
+
+Okay, you got it.
+
+We got to go a little further, Joe, and then we're going to be lined up for berthing. Okay.
+
+Joseph, I'm going to let go now. You got it. Okay.
+
+I'm going to I'm going to go back to the aft starboard. Is that what you want next?
+
+You're going to go to the aft starboard for the berthing, uh Dale, and you're going to need to move that TFR.
+
+Sure.
+
+I think so, but you saw better than I can as you go by it.
+
+Discovery, Houston, a minute and a half to LOS. Uh Guam next at 49. Super job, guys. See you over the hill.
+
+Copy you, Jerry. I get
+
+Joe. Yeah.
+
+You listening?
+
+I'm listening. Okay. I want you to move that sunlight.
+
+To your right and down again, just like you did before. Marking that. You're not a train. No, right. You're on pitch. Okay, I'm right. And, uh,
+
+Mission Control standing by for acquisition through Guam.
+
+Looks like Discovery. Go ahead, Discovery.
+
+Roger, we have two satellites latched in the bay.
+
+Roger, that uh gave us a big cheer down here.
+
+Hello.
+
+Hello. President is on the line, sir.
+
+Houston copies.
+
+Hello.
+
+Good morning. Good morning.
+
+Is this Rick?
+
+Yes, sir. How are you doing, Mr. President? Well, just fine, and you? It's good to hear your voice.
+
+I'd like to say hello to all the crew members, and just tell you how proud we are of you and what has been accomplished.
+
+Well, thank you, sir. Uh it was a it was a difficult task, but one that was fun and uh involved a lot of hard effort on a lot of people's part the here and on the ground.
+
+Well, can I just say, Joe, you and Dale deserve a lot of credit for retrieving those satellites.
+
+You know, we've got a little gym here at the White House and I pump a little iron whenever I get the chance. But, um I don't know about that satellite lifting.
+
+Maybe that'll become a new high-tech Olympic sport. Seriously, what's it like to hoist one and hold a thousand-pound satellite?
+
+Mr. President, the way to recommend the physics of that a thousand-pound satellite up here weighs nothing at all.
+
+That should happen in my gym.
+
+Rick, you and Dave and Anna were a great team, keeping the Discovery right in position and working the Canadian arm during the retrieval operation.
+
+I guess you may have been a little busier than on previous flights, since you've been taking on some cargo.
+
+Yes, sir, Mr. President, maybe a little bit. But, uh of course, all the missions are busy and and we all are always working hard.
+
+Well, Joe and Dale, how did the space backpack work for you, I guess, as well. I I'm sure it would have been hard to retrieve those satellites without it.
+
+Mr. President, that uh Manned Maneuvering Unit uh worked perfectly for both Joe on the first EVA and for myself on the second. The uh the docking with the satellite and capture was uh exactly as uh we had trained to in simulators in the ground. It was a real pleasure doing it.
+
+Oh, that's just great. And we were all keeping track and everyone down here rooting and praying for you.
+
+Anna, since this is your first flight, are there any surprises that you've encountered? And I couldn't help but wonder if you'd recommend a career as an astronaut to your daughter, Kristen.
+
+Oh, that I would, Mr. President. Um the experience is uh just everything I expected and even more, uh seeing the world below us, it makes you realize just uh how we're all just part of this world. It's a truly incredible experience and I'm going to recommend it to her, highly.
+
+Now, that's wonderful.
+
+Well, I just want you all to know how proud we are of what you've achieved on this mission.
+
+Our space program has reached another important milestone with your successful retrieval of those two satellites.
+
+And you've demonstrated that by putting man in space, on board America's Space Shuttle, we can work in space in ways that we never imagined were possible.
+
+Bless you all.
+
+Well, I have to go to work now, and You know, thank you for your time, Mr. President. We uh have enjoyed your support in the past, and we uh look forward to your support in the future, sir.
+
+Well, you shall have it. I have to go to work down here on Earth, and I know you'll be finishing up to head back here tomorrow.
+
+So, have a safe return and I might add a soft landing with those valuable satellites on board.
+
+But just please know how proud all of us are of what you've done and God bless you all.
+
+Thank you, sir, very much. All right. Goodbye.
+
+Bye-bye.
+
+Lots of pink stuff outside the windows.
+
+Is that right?
+
+Yeah.
+
+And Discovery, Houston, we're showing uh the PLT's flight control power off. Uh that's for info if you need it on.
+
+Okay, thanks for the call. Uh we did that on purpose.
+
+Just that's uh well reached uh reaching around the cockpit uh we just had to have them off and uh Dave was reaching around the cockpit.
+
+Understand.
+
+Mission Control, Houston, Hawaii data now shows Discovery at 477,000 feet, velocity uh 24,400 feet per second.
+
+Now 4,552 miles nautical miles from the runway. Touchdown 31 30 minutes away.
+
+Discovery, Houston, 45 seconds to LOS, via JSC and we're watching NASA Select with looking at lots of blue sky from uh the uh SLF.
+
+Okay, love it. Thank you.
+
+Mission Control, Houston, now about 40 seconds from entering the blackout. We uh are hoping to be able to punch through that blackout when Discovery passes due south of Houston, uh using the ground station at Johnson Space Center. If so, uh acquisition will be uh somewhere around 5:40 AM Central Standard Time.
+
+Mission Control, Houston, we'll now transition to the Kennedy Space Center for commentary on the status of uh landing preparations there.
+
+This is shuttle recovery control with a brief update on landing preparations here at the Kennedy Space Center.
+
+The recovery team is ready and standing by to welcome the orbiter home.
+
+In the last few minutes, the safety assessment team has been suiting up in special protective clothing.
+
+That team will be the first to approach the orbiter after it has come to a stop on the shuttle landing facility.
+
+During the early safety assessment, the crew aboard Discovery will be busy themselves with a series of initial safety and reconfiguration activities.
+
+And we would expect the 51A crew to be stepping out for KSC's red carpet welcome about a half hour or so after landing, marking the start of Discovery's turnaround for its next flight.
+
+All is ready here at KSC for Discovery's landing, which is just minutes away now.
+
+We return now to Mission Control, Houston, as we follow Discovery's progress towards Florida.
+
+Mission Control, Houston, Discovery now passing uh due east of Victoria, Texas. We still have not established communication through the JSC ground station.
+
+Pre-mission pre-deck show uh velocity of Discovery now 18,500 feet per second at an altitude of 205,000 feet, about uh 1,043 nautical miles from touchdown.
+
+Mission Control, Houston, GC Officer reports we're locked on ESTOL, the JSC ground station, and taking data.
+
+Discovery, Houston, with you through JSC, configure AOS.
+
+Okay, loud and clear, Dick.
+
+Loud and clear also, Rick.
+
+Roger, the comm works good.
+
+Mission Control, Houston, Flight Director Cleon Lacefield just took a poll of positions in the Mission Control Center, all status reports are good.
+
+Velocity now 12,000 feet per second, altitude 180,000 miles. 180,000 feet.
+
+Mission Control, Houston, Discovery now has three Tacan's locked on and they look good.
+
+FIDO reports patchy ground fog at the cape and about two-tenths cloud cover.
+
+Mission Control, we see Tacan's.
+
+Discovery, Houston, back with you through Mila, your energy and ground track and nav look good. Take Tacan.
+
+Roger, taking the Tacan.
+
+All hard as Sherlock is praying.
+
+Velocity now 3,300 feet per second.
+
+Mach speed uh 2.19.
+
+Discovery now entering the heading alignment circle, a uh 304 degree left overhead turn.
+
+Max G's 1.5 on the hack.
+
+Equivalent air speed now 247 knots.
+
+Sonic booms, just heard at the Kennedy Space Center.
+
+Range now 14.4 nautical miles, 627 feet per second.
+
+Okay, save the wings now.
+
+Surface winds 330 at 5, Rick.
+
+Okay, thank you, Dick.
+
+Discovery, Houston, on glide slope, on center line.
+
+Roger.
+
+Wheels are down.
+
+And locked.
+
+We have touchdown.
+
+Nose gear now coming down.
+
+Touchdown.
+
+Discovery now rolling out, runway 15 at the Kennedy Space Center.
+
+After a 2.5 million mile service call, the crew of 51A is home.
+

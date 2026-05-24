@@ -1,0 +1,773 @@
+T minus 1 minute 30 seconds and counting.
+
+T minus 1 minute 15 seconds. Liquid hydrogen tank now at flight pressure.
+Will arm sound suppression water system at the T minus 1 minute mark and release the free lift-off order at T minus 16 seconds.
+
+T minus 45 seconds and counting.
+
+T minus 38. We re-positioning or event doors coming up on a go from ground computers to start the onboard ground.
+
+T minus 31 seconds. We have a go for auto sequence start. Discovery's four computers now have primary control of critical vehicle functions.
+
+T minus 20 seconds and counting.
+
+T minus 15.
+
+T minus 11, 10. We have a go for main engine start. 6. We have main engine start. 3, 2, 1.
+
+We have SRB ignition and we have lift-off. Lift-off of mission 41D, the first flight of the orbiter Discovery and the shuttle has cleared the tower.
+Go and Roger roll.
+
+Mission control confirms roll maneuver.
+
+Standing by to throttle down to 65% to begin passing through the period of maximum aerodynamic pressure.
+
+Throttling down in a 2-step fashion. First 84%, then the 65%.
+
+Throttling down confirmed. 45 seconds.
+
+Altitude 3.5 nautical miles, downrange distance 2 nautical miles, velocity 2150 ft per second.
+
+Passing through the period of maximum aerodynamic pressure.
+
+Engines running at 65%, velocity 2400 ft per second.
+
+Engines throttling back up.
+
+Throttling to 104%.
+Discovery Houston, go at throttle up.
+
+Discovery, Roger, go throttle up.
+
+Coming up on two engine transatlantic abort capability to Dakar.
+
+Discovery, Houston, a correction on the performance call. First stage performance low.
+
+Okay, John, first stage performance low.
+
+Discovery, Houston, negative return.
+
+Roger, John, negative return.
+
+With that call up the Discovery can no longer turn around and return to the launch site in the event of an abort.
+
+Discovery, Houston, press to ATO.
+
+Roger, press to ATO.
+
+With that call up they Discovery notified that they can reach press to abort to orbit, can reach an abort to orbit if necessary if they had an engine fail. Velocity 11,000 ft per second, altitude 63 nautical miles.
+Discovery, Houston, press to MECO.
+
+Roger, John, press to MECO.
+
+Discovery now capable of pressing on to main engine cutoff on only two engines if that should become necessary.
+
+Coming up on single engine press to MECO capability.
+
+Discovery, Houston, single engine press to MECO.
+
+Roger, John, single engine press to MECO.
+
+Three engines now throttling back to uh for the passing through the period of 3Gs.
+
+Okay, have a good MECO, John.
+
+Roger that.
+
+Standing by for external tank separation, which follows main engine cutoff by 18 seconds.
+
+Okay.
+
+Roger that, sounds good.
+
+Discovery, Houston, your go for a nominal OMS-1, APU shutdown on time.
+
+Okay, John, nominal OMS-1 APU shutdown on time.
+
+Discovery, Discovery, had a good OMS-1.
+
+Roger that, sounds good and we're with you through TDRS.
+
+Roger.
+
+This is Mission Control, Houston, 23 minutes into the flight. Discovery.
+Confirm no gimbal check prior to OMS-2, is that correct?
+
+That is correct.
+
+Discovery now crossing the coast of Africa.
+The targets for the OMS-2 burn have been loaded into the shuttle's computers and look good. Navigation looks good and no state vector update is required.
+
+Discovery, Houston, with you through Hawaii for 8 minutes and we're expecting some in cabin TV.
+
+And Discovery, Houston, we've got a good picture of Steve.
+
+And we have a nominal sunshield opening for the satellite.
+
+This is Mission Control, Houston, we have a nominal spin up to 50 RPM on time.
+
+And Houston, as you can see, the spin of the satellite are spinning the satellite is powered up and configured and everything looks real good onboard.
+
+Discovery, Houston, we're one minute to handover to TDRS, your go for the deploy.
+
+Discovery, Roger, go for deploy.
+
+This is Mission Control, Houston, we're now 3 minutes from deploy of SBS-4 and approximately 17 minutes 52 seconds from ignition for the separation maneuver.
+
+All data still looks good. We're still on schedule.
+
+PAM motor is armed, the payload officer reports.
+
+Now 5 seconds to deploy.
+
+And Houston, Discovery.
+
+Go ahead, Discovery.
+
+Okay, as you can see we had a good deploy, right on time. I've got the current attitude and rates if you're ready to copy.
+
+Go ahead, Mike.
+
+Okay, roll 138.03, pitch 136.36, yaw 279.69.
+That was minus .004, minus .002, and plus .002 on the rates.
+
+We copy, Mike.
+
+And Nick, there are absolutely no anomalies and we're still showing RF lock on the PANT telemetry at this time.
+
+Discovery, Houston, good news, Steve. We're watching it and a lot of smiles down here.
+
+Yeah, there's a lot of them up here, too.
+
+Discovery, Houston.
+
+Houston, Discovery, go ahead.
+
+Roger, Mike, we're having difficulty getting a signal down here from the satellite. We'd like for you to load the backup SBS DCOM format.
+
+Okay, that's in work.
+
+Uh, Houston, we've loaded the backup DCOMs and we show we got good signal strength with the backup DCOMs loaded. Does that fix your problem?
+
+Discovery, Houston, we're still looking at it.
+
+And Discovery, Houston, we show you locked up onboard. Uh, we're trying to process it down here.
+
+Okay, I understand. I guess that was the problem before, because we had good signal strength on the primary DCOMs.
+
+Discovery, Houston, that's affirmative, Steve.
+
+This is Mission Control, Houston. The Discovery now moving to an attitude from which to do the witness plate test where they'll stick the arm out over the side and have the camera on the arm look back towards the position of the PAM to record the PKM burn, perigee kick motor burn.
+The the attitude is for the orbiter to place its belly facing the position of the of the PAM motor to protect the top of the orbiter from any impact by any stray particles.
+
+Discovery, Houston.
+
+Discovery, go ahead.
+
+Roger, Mike, we're still uh chasing the data down here. Uh, we'd like for you to reenable uh the DCOM the source DCOM to 2 with the input of 6.
+
+Houston, Discovery, how do you read?
+
+Loud and clear, Mike. We'd like to reenable DCOM 2. It'll be input 6.
+
+Okay, we copy. DCOM 2 with input 6.
+
+Discovery, Houston, with you through Indee, how do you hear?
+
+Houston, Discovery, we read you loud and clear, Dick.
+
+Loud and clear now, Discovery, and it'll be glad to know uh we've got good PAM data down here now.
+
+Okay, that's real good news. Thank you.
+
+And Houston, Discovery, we're seeing a good burn right now.
+
+Discovery, Houston, so are we.
+
+Mission Control, Houston, 20 seconds into the PAM burn. Uh, chamber pressure was good, acceleration was good, all was holding steady. This is an 87 second burn.
+
+All PAM system's nominal at 40 seconds.
+
+And payload's reports that uh we had the You'll be glad to know, more good news. We just had a very good nominal Perigee kick motor burn.
+
+Okay, Dick, that's real good news. We're up here celebrating.
+
+And payload's reports that uh that get that for tomorrow.
+You got that right, Steve.
+
+Discovery, Houston, with you through TDRS.
+
+Discovery, Roger.
+
+You're loud and clear, and I have some SINCOM data for you when you're ready to copy.
+
+Stand by.
+
+Okay, go ahead, John.
+
+The predicted time to 49% is 2 minutes 16 seconds.
+
+The time to free drift is 100 seconds.
+
+Okay, John, copy 2 minutes and 16 seconds for anticipated time to 49% and 100 seconds for free drift.
+
+Could read back, Mike.
+
+And John, I've got the uh SINCOM pin withdrawal times if you're ready to copy.
+
+Ready to copy.
+
+Okay, for the a pivot, it was 5 minutes and 5 seconds.
+For the forward pivot, 4 minutes and 34 seconds.
+For the keel pin, 5 minutes and 13 seconds.
+
+Roger, thank you. We have the data.
+
+Flight Director Randy Stone recently did a status check here in Mission Control.
+All of the systems people are happy with the status of the vehicle and the No problem with this flight is that they never let me look outside. They always make me do all the work.
+We've been noticing that, Steve.
+
+All of the systems people happy with the condition of the orbiter and the SINCOM.
+
+The three retaining pins have been retracted.
+We're 30 seconds away from deploy now.
+
+10 seconds away.
+
+Bay constant deploy, Houston.
+
+Roger that, good news.
+
+And John, we got the current current attitude and rates if you're ready to copy.
+
+Ready to copy.
+
+Okay, deploy time is 1 day, 0 hours, 34 minutes and 38 seconds.
+Current attitude, 178 decimal 25, 86 decimal 92, 22 decimal 14.
+Rates plus decimal 002 plus decimal 003 minus all balls.
+
+Roger, copy that, good show, Mike.
+
+And uh Houston uh Discovery verifies that the omni antenna has been deployed.
+
+Roger, thanks a lot, Steve.
+
+And Houston, we're seeing 30 RPM on the uh SINCOM now.
+
+Roger, we copy.
+
+Hey, John, I got a question for the SINCOM people.
+
+Go ahead.
+
+Okay, uh going back to uh what we saw in the pad at IDT, I was wondering if they would like us to insert the forward pivot pin on motor bravo.
+
+I'll try to get you an answer.
+
+Okay.
+
+The answer to your question, Mike is no nominal procedures to insert the pin.
+
+Okay, thank you, John.
+
+Discovery, Houston, with you through Hawaii for 8 minutes.
+
+Discovery, Roger.
+
+And we have a note for Mike. Uh, Donna says that all the ducks are in a row.
+
+Okay, thank you and uh we saw a good uh PKM burn on SINCOM and that looked like it lasted just a little over a minute.
+
+That's great news.
+
+Discovery, Houston, we're with you through Goldstone and we're set up for VTR dump.
+
+Okay, stand by.
+
+Okay, here here comes the dump.
+
+Roger, we're looking.
+Dump there, Houston.
+
+Okay, we've got it now, Mike. Looks great.
+
+Okay, pulling the pins was uh completely nominal, we did uh Well there there it comes out now you can see.
+Heard a little bit of a thump when it deployed.
+
+The omni antenna was extended in a in about uh 20 or 30 seconds.
+
+I mean that's how long it took to extend.
+
+It's a beautiful sight uh seen against the background of the earth.
+We concur with that.
+
+Yeah.
+
+It it proves the uh physics of Frisbees works up here as well as it does on the ground.
+
+Roger that just like in the SMS and uh thanks goes to the camera person.
+
+Okay JR, I'll take that compliment.
+
+Mission Control two days, zero hours, 10 minutes mission elapsed time. We're counting down to a tell star deployment in 32 minutes. Crew has been going through the uh pre deployment sequences.
+
+We're about to reacquire through TDRS momentarily. This is Mission Control.
+
+Discovery, Houston with you through TDRS.
+
+Loud and clear, John.
+
+You're loud and clear, also.
+
+Discovery, Houston we have live TV of the cabin now.
+
+Okay, John. Okay, John.
+16 and a half minutes away from deployment. Crew beginning mechanical sequence to start.
+
+Mission Specialist Judy Resnik at the aft flight deck operating the video monitors.
+
+The high reflectivity of the padded material on the sunshields often causes the blooming effect on the cameras.
+Well, how's the weather in Houston this morning?
+
+We have some rain showers in the area.
+
+We see mechanical sequence beginning.
+
+And the opening of the sunshield on the Telstar.
+
+Payloads reports the nominal two-motor current drive.
+
+Starboard restraints have now been removed and the port restraints are now beginning to come out.
+
+And the port restraint now has been withdrawn.
+
+Payload reports the uh satellite has begun to spin. 26 RPM, 30.
+
+35 RPM. Good current on both drive motors.
+
+41 RPM.
+
+Up to 48 RPM now.
+
+Satellite spinning at 51. Now back to 50 RPM.
+
+Telstar spacecraft is now on internal power.
+
+Okay, Houston, Discovery. Uh satellite is activated and as you saw, sunshield and restraints and uh spin-up was all nominal. Two motors everything looks good.
+
+Roger, we see it. Thanks for the report.
+
+Discovery, Houston, you're looking good for deploy.
+
+Okay, John, thank you. Looks good here, too.
+
+And we have ordinance pre-arm.
+
+PAM motor has been armed.
+
+Both PAM and spacecraft have been uh placed in the arm position.
+
+Telstar spacecraft uh spinning at a steady 50 RPM.
+
+30 seconds from deploy.
+
+Have deploy pre-arm.
+
+Telstar is now deployed.
+Thanks this way, Houston.
+
+Roger that. Congratulations, three for three.
+
+And Houston, Discovery, I got the attitude and rates if you're ready, John.
+
+Ready to copy.
+
+Okay, deploy was on time. Current attitude 114.36, 100.82, 286.19, rates plus decimal 003, minus all balls, plus decimal 003.
+
+Roger, we copy, Mike. Thanks a lot.
+
+Discovery, Houston, we're going LOS Potswana.
+If you can, we would appreciate your timing the PK AM burn.
+
+Okay, we'll get that for you.
+
+Discovery, Houston with you through Guam for three minutes.
+
+Loud and clear, John.
+
+Okay, it started on time.
+
+Copy.
+
+Okay, it looks like you're shut down.
+
+Roger that. That's good news, Hank. Thanks a lot.
+
+And for your information, Quadralene has it.
+
+Stand on. What do you think about Quadralene?
+
+Roger, radar is acquired.
+
+Super.
+
+Roger that and we're going LOS in 25 seconds. See you at Hawaii at 3:00 a.m.
+
+Okay, see you there, John.
+
+And I'll have a research burn pad for you.
+
+Okay, we'll be ready to copy.
+
+And we are configured for TV now and we have a picture.
+
+What are you looking at now?
+
+We see a split, steel screen.
+
+Okay, John, just for you, uh, we have, uh, configured the arm.
+
+And, uh, well, I'll see if you can figure out what this is here.
+
+This is a test.
+
+Roger, it's a nice 41D.
+
+B for Discovery.
+
+Roger that.
+
+Hey, John, we're going to give you some videos of a Telstar deploy courtesy of 41 Discovery. You want to see the deploy first and then the burn?
+
+That's affirmative.
+
+Okay, we'll set that up.
+
+Hey, John, here comes the deploy.
+
+We see it now.
+
+Hey, just like SBS. It, uh, all worked super good. It was, uh, absolutely nominal.
+
+That really looks super.
+
+Yeah, we don't get to see it in color. We only have black and white TVs.
+
+I don't know if Mike mentioned it to you yesterday, uh, when we deployed the Sincom, we felt just a little bit of uh, thud when it left, uh, the Telstar felt like the SBS did the other day, and that was a little bit of a jolt.
+
+Roger, copy that, Steve.
+
+John, I'll let you watch this as long as you want and then I'll, uh, switch over to the PKAM burn.
+
+Okay, I'll give you a call.
+
+Steve, if you'd like, uh, we'll continue watching this until we go LOS Goldstone and then you can set up the burn for the Myla TV pass.
+
+Okay, John.
+
+And from the 41D crew, our thanks to Dave Holman for uh training up this configuration.
+
+Roger that, Judy.
+
+You reached out and touched someone.
+
+I say again, John, we missed that.
+
+I said you reached out and touched someone.
+
+I understand, John.
+
+We're going LOS. We'll pick it up again in a couple of minutes at Myla.
+
+Okay, John, we'll be standing by.
+
+Go ahead, please. The President's on.
+
+Well, hello to Hank and both Mikes, Steve, Judy and Charlie. Sounds like a little community at town you've got going up there. Listen, we're following your exploits and you're doing a a great job.
+
+How's it going?
+
+Any surprises so far? That's going real, great, but I have to tell you the call us uh we think we got a good bird here and a tremendous addition to our national transportation fleet.
+
+Well, any surprises so far?
+
+Well, I guess for the for the five rookies here it's a big surprise to them. This is a a really tremendous ride, you have to try it sometime.
+
+Well, you don't mind if I think that over.
+
+Listen, I want you to know that the men and women in the Navy and the Hughes aircraft were thrilled by your perfect deployment of Sincom. That communication satellite is going to help all of us in this country and believe me, we're grateful for your great part in getting it up there and getting it launched. And now as of this morning just a little while ago you're three for three with the launch of the AT&T uh communication satellite.
+
+Well, thank you, Mr. President. As a member of the Air Force, uh we're glad to help out the Navy any way we can.
+
+All right.
+
+Listen, uh you know, I know the previous astronauts have now and then been able to pinpoint various things down here that they could see from the vantage point of space and uh how do we look from up there?
+
+You uh seen anything uh unusual or things that you're going to be reporting on?
+
+Well, Mr. President, I guess the biggest thing to us is that the world is covered with an awful lot of water, which uh is important to those of us in the Navy, anyway.
+
+Yes, of course. This has been a season in which some of the Earth that shouldn't be covered with water has been covered with water, too.
+
+Listen, your work up there is helping to make it easier for the people of the Earth to communicate with each other, so on top of being spacemen and the space woman, you're doing some very good work for your fellow citizens of Earth and we're very thankful, and we're also very proud.
+
+Uh may I ask is Dr. Judy Resnick nearby?
+
+Yes, sir, Mr. President.
+
+Well, Judy, how is it your first flight? How is it going? Is it all that you hoped it would be?
+
+It certainly is, and I couldn't have picked a better crew to be flying with, even if they are all uh Air Force and Navy and Army guys fighting about who's best.
+
+Well, as for that, what does an electrical engineer do in space?
+
+Whatever they tell me to.
+
+Well, Listen, I also want to wish a happy 36th birthday to Charlie Walker. Now, I know the birthday isn't until Wednesday, but I have the feeling that you'll all be so busy and uh he'll be busy as you're all be finding a parking place at Edwards. So, uh, I just thought I'd send the greetings now.
+
+Thank you very much, Mr. President. Uh as you're well aware that uh we're only part of a very large team that makes this happen and uh we'd like to accept your kind words on behalf of everybody that uh helped get the Discovery airborne and helped us do this mission.
+
+I'll go along with that.
+
+And uh now I'll say goodbye and let you continue with what you're doing and we'll all be watching you on TV.
+
+Goodbye.
+
+Goodbye, sir. Thank you very much.
+
+Discovery, Houston.
+
+Houston Discovery, go ahead.
+
+Roger, Discovery, uh, we have uh Dave Richmond here uh who's available to talk to Charlie with your concurrence since we only have one air-to-ground loop on our current configuration and before we get to the OAST activities uh if Charlie's available with your concurrence uh we could uh get a short uh conference on your C-PHASE activities if you so desire.
+
+Okay, uh, Dick, this is a good time.
+
+you've unlocked the mast mount and you're clear to go ahead and talk with Charlie.
+
+Charlie, it is not possible to reverse the sign of the RPM change because using the negative of the number, the software handles it improperly and it failed a ground test in the computer.
+It is apparent from your comment Okay, David, I copied that. Any suggestions?
+Uh yes, it's apparent from your comment that the software is trying to change in the proper direction per your call and per the computer here on the ground, although you were having the system's pressures going in the wrong direction.
+We would caution that sufficient time be allowed for those delta Ps to go in the right direction if possible.
+We have questions on the present time delay. In other words, the read backs of 22:31 and also 22:789 and 30, and V4 in case there is a moving ground voltage.
+Okay, first of all, the time delay is 50 seconds, 50 seconds.
+And I went as high as 60 seconds and that and let it go for some 10-15 minutes and it never did stabilize. It kept overshooting to an increasing amplitude.
+
+I have been operating now for some two hours with the Delta P control loop disabled at one constant RPM 2 and I have not had to make any changes in differential pressures. They've been very stable.
+That's very good. We would suggest continuing to operate and making the smallest adjustments possible and waiting the longest times between them.
+And perhaps we can get a continuing stable manual mode that would carry us through the night eventually.
+Yeah, that's the way I see it now. I had really no joy with increasing the time delay and as I indicated in my last call down, those overshoots, the reverse direction on RPMs versus by the control loop versus my manual inputs, seem to be pretty clear.
+Do you still want call down of 22:27 and subsequent addresses?
+We would like V4. Please call those down, perhaps there's something in those addresses that we can see.
+Okay, say again starting at 22:27.
+Yes, through 22:31.
+Okay, starting now. I'll give them to you the fastest way here I can. 22:27, I stand by.
+22:27 is 12.
+22:28 is two.
+22:29 is 220.
+22:30 is 22.
+And 22:31 is 62. Those are all locked of course.
+I copy that. Can you call up V4?
+V4, stand by.
+V Victor four.
+Oh, sorry, thank you.
+Yeah, V4 ground is jiggling between decimal 02 and 00.
+Copy that.
+Okay, what I'm planning on doing is it looks like the best thing to do for me right now is to stay in manual. That is, disable the Delta P control loop, and it looks like it's stable and I'll press with any manual adjustments necessary.
+Very good.
+Okay, thank you, David.
+Thank you.
+
+This is Mission Control Houston, we pass through the Guam tracking station. Next up is Hawaii. In about five minutes, we expect to take television through that tracking station of EVA operations. That will come down at 12:32 p.m. CDT, satellite playback at 12:50 p.m.
+They should be in the midst of extending the solar array when next we see them at Hawaii.
+This is Mission Control, Houston.
+Houston Discovery.
+Go ahead, Judy.
+Discovery, Houston, go ahead, Judy.
+Roger, Dick. It's up, and it's big.
+Up and big. We copy that.
+And we gave you the elbow on the down link while we were taking 10 minutes worth of data.
+As you can see, now that it's stretched out, it is very steady and stable with no wobbles and I'll let Henry describe to you how it unfolded.
+
+Okay, well, that's looking very much like what we had seen in the plant and the horizontal fixture.
+The way it started out and it pulled out, all the little folds of the blanket stayed near the the box lid as it went out, and it's it unfolded from the bottom. In other words, the the folded up part went with the box and they just unfolded one at a time, which is something like we saw at Lockheed.
+Periodically, the blankets would get a little asymmetric. You know, a couple of panels would be stuck together on one side and not on the other. It seemed to be where the power cables go up either side.
+At about 8 minutes out, the mast itself started an oscillation in the x-axis, x-plane, fore and aft, until the mast got fully extended to the 70% point and that oscillation damped out very quickly. In fact, as Judy said, it's very stable now.
+I guess, I would say that the extension was just about as nominal as you could expect.
+We copy that, Henry, and we saw the unfolding. Same observation from here during the Hawaii TV pass.
+The amps we saw were about 6.1 or 6.4 as the most we saw and it averaged about 5 amps while it was driving out.
+We copy, Henry.
+Houston, Discovery.
+Go ahead, Henry.
+Yeah, just to get ahead, see how things are going to work out. I set up the monitoring camera and I've got the crosshair centered right on the tip of the mast and it is not budging one iota, according to the camera. I mean, it is solid as a rock.
+We copy that, Henry.
+And, Houston, Discovery. The extension took 9 minutes and 19 seconds, and we're ready to retract now.
+We copy, Mike. 9 minutes 19 seconds.
+
+Discovery, Houston, with you through Hawaii.
+Okay, Dick, you're configured to take TV.
+That's affirmative, Steve.
+Okay, we're sending you to antenna camera right now.
+And this is Mission Control. We're looking at the two Good picture of a nozzle.
+Water supply nozzle.
+Looks like a piece of ice. Where do you guys want to look at?
+We think that is ice on there. We'd like to get your opinion on the supply dump nozzle there.
+I guess we think it's ice, too. What other opinion would you like?
+Okay, and we're ready to go to the next viewing angle.
+Okay, that can work.
+Discovery, Houston, with you through Aguado for five minutes.
+Roger, Dick.
+Roger, we didn't get T-wrist like we expected, and we'd like a report from you on what you've seen in the new viewing angle with respect to the dump nozzle.
+Okay, I guess I can sense since from that angle it looks kind of like what you'd expect for a chunk of ice.
+Roger, Steve. We copied. We'd like to get an idea of what your estimate is of the thickness of the ice.
+That's a little tough to say, Dick. The angle that we're looking at it now with the sun is not too favorable, but it's probably maybe a couple, three inches wide and about twice as long as it is wide.
+Roger, Steve. What we're interested in is not necessarily the area of the pattern, but the thickness, how far it extends away from the tiles.
+Yeah, I guess that's kind of hard to tell. We took a vote here and decided on maybe a foot.
+Okay, we understand you're seeing a foot of thickness of ice away from the tile.
+Yeah, it looks like a column roughly, you know, like I say, a couple, three inches in diameter and and maybe up to a foot in length.
+Roger, Discovery. We'd like for you to go ahead and initiate a waste dump.
+
+Discovery, Houston.
+Hi there.
+Hi, JR.
+Before Henry starts the RMS procedure coming up at sunrise, there are probably a couple things that I ought to ought to tell you, particularly about clearances and camera views.
+Okay, we're listening.
+Okay.
+You've taken a look at the elbow camera, so you know that you can see the wrist now, and you can see the clearances.
+When you get into the the position in single, from which you're going to translate in orbiter X, you're going to be probably only about 5 inches from the orbiter skin, the port side of the orbiter. And you're going to keep that 5 inch clearance as you translate.
+Okay.
+You're probably going to be just a little over a foot above the root of the wing, and you're going to keep that foot clearance as you translate in X.
+Okay, we understand that.
+Okay. And as you start the X translation, you're initially going to be able to see the the orbiter and the ice.
+But as you move closer, you're going to eventually lose sight of the ice. Probably you'll lose sight of it about 2 feet away from it, and that's just because the camera is positioned about 20 inches above the point of resolution. So the camera will be looking over the ice as you get close to it.
+Okay, that makes sense.
+Yeah, and of course the important thing there is is not to try and fly it down to keep the ice in view because that will get you real close to the wing.
+Right.
+And I guess the only other thing, which is probably going to be obvious to you from your from your elbow camera when you take a look at it, you can check the the clearance from the door as you start from the elbow camera, but you're going to lose sight of the the end effector going under the door. That dump port is about 4 feet under the wing, so you're not going to be able to see the the arm from about the wrist yaw joint on. It's going to be under the doors.
+Okay, I'm sitting up in Henry's seat and I can see a little bit out the window. I'm not sure how much I'll be able to see of that.
+That may be the best view of it, that and the side hatch window, you may be able to see something, too.
+Okay.
+That's about all I've got.
+Okay, we'll let you know how it works.
+Okay. Sorry you have to try this.
+Well, so are we.
+Discovery Houston, I've got a couple more things.
+Go ahead, Sally.
+Okay, the game plan as you probably guessed is translating in X and just trying to make contact with the ice and then back off and see how you did.
+If you feel like you made some progress or you need to move closer to the orbiter in Y, you can go ahead and do that, translate just a little bit, go in and try it again and do that procedure really until it looks like you're having some effect or it looks like you're not going to have any effect.
+One thing that you probably don't need to worry about, don't worry too much about hitting the side of the orbiter in Y, that that is a pretty tough area, it's the wing that you really want to stay away from.
+Okay.
+And that's it.
+
+Houston Discovery, this is Sally for Sally.
+Go ahead, Judy.
+Could you say again how much clearance above the wing a Z of 340 gives us?
+12 inches.
+Okay.
+Houston Discovery, this is Sally for Sally.
+Go ahead.
+The -625 constraint in X. Is that uh the clearance between the lower boom and the door?
+What I mean to say is is that to keep a sufficient clearance between those two?
+That's correct.
+Okay.
+And I think that gives you about 15 inches clearance, but I'm not positive of that number.
+Okay, I can see that clearly out the window.
+Okay.
+All right, this is obvious from the picture, the procedure was successful.
+Good job, Hank.
+We're having a discussion to make sure that we think that we've gotten it.
+Houston Discovery
+Go ahead, Judy.
+So, it looks like we got the supply chunk. We were wondering what you think about moving the arm down a little bit lower and trying for the waist.
+And we see the chunk floating by at this very moment.
+The Vice President has entered the flight control room here on the second floor, building 30.
+Hank, this is George Bush. Can you hear me okay?
+Yes, sir. Loud and clear.
+Well, we're delighted to be here in in the center and we're my my wife Barbara is with me and we're watching you in a pink-looking panther pink panther airplane going across the uh this big center board here and it's absolutely fantastic. But how more important, how is it all going up there?
+Oh, it's going extremely well, Mr. Vice President. We've had a pretty exciting mission and I think we've got most of our objectives accomplished and we are getting ready to button up and bring it home. We've got a fine addition to the to the fleet of orbiters, we are bringing back with.
+And that's good. It's it's read well from down here and ever since you got your plumbing problems fixed, too, that's very good.
+How's Judy doing? JR?
+Oh, I'm doing just fine. We've been having a good time up here, working together as a team and trying to get all of our deploys and and tests done and also having a good time in the meantime.
+When are you going to come home?
+Well, tomorrow, probably.
+We'll be waiting.
+Charlie, what can you tell us about the private sector part of all this? I know there's a lot of uh confidentiality in it, which I think is a very good thing for the future, but is there anything you can tell us down here about exactly what you are doing in the experiments and stuff?
+Well, Mr. Vice President, I think what I can say is that uh I am very pleased and proud to uh be a first representative of uh this country's private industry to utilize this fantastic resource, the space shuttle and uh the unlimited resources of space, uh to prove that I think there is uh a lot that can be done out here that will benefit all of us on the surface of the Earth. The specific materials I'm working with are are still early in development and until we know more about them and we are certain of where we're going, we don't want to raise false hope with anyone but these pharmaceutical substances that we're working with, uh you can uh believe me when I tell you that they will benefit a great number of people both in our country and abroad.
+You know, on on Thursday, I had lunch with the President and he is just back from Goddard, and I think they showed him some of the some of the things that have already been developed or horizons that have been opened up as a result of these space flights and he was really fired up, so I expect after you talk to you talk to him, if you will, when you get back, I imagine he'll be uncontrollable on all this. He was really excited.
+I'll be more than pleased to do just that and I think it really is a tremendously exciting new frontier for for private enterprise and for our great nation.
+Well, say hello to all the rest and I don't want to keep you because I know what you need is one more interview, but we're really proud of you and I just wanted to have this opportunity when I'm back in my own hometown here to to say hello and congratulate all of you. We're proud of you and it's a great inspiration and I expect you would agree that a lot of people down here are helping out too.
+Oh, we we certainly do. We appreciate you taking time to come over and talk with us and you're absolutely right about getting help from down there. We're just a tip of the iceberg of of a great number of people. One one of our former guys said once that we stand on the shoulders of giants and I think that's true.
+You call John Young a giant?
+He's standing right here so be careful what you say.
+Okay. Well, thank you all and God bless you and best of luck to you. Just we're very, very proud and thanks for this chance to just cut in and say hello. Back to bed now.
+Thank you, sir.
+923 Houston, mark. Mach 12.
+Copy, Mark 12.
+That call to the the T-38 chase plane, which will rendezvous with Discovery.
+As mission control we're 12 minutes from expected touchdown and landing at Edwards, we're getting data.
+Discovery Houston, configure AOS.
+Roger, John.
+All the voice contact established. We are not receiving data, straddling, steadily.
+Discovery Houston, be advised. We currently do not have any telemetry. Energy and ground track are go.
+Discovery, Roger.
+Go.
+This is mission control, we're getting data through Goldstone now.
+Uh velocity shows that Mark 8.5 Mission Commander. Uh Hank Heartsfield has the ship in auto, and at this point, we should be performing the second roll reversal, the right-hand roll.
+Discovery Houston, we have data now, NAV is go.
+Discovery, Roger.
+Velocity, Mark 7.
+Sync rate is Houston, take tac-an.
+Roger, take tac-an.
+Sync rate is 154 feet per second.
+Velocity, Mark 6.
+Altitude 129,000 feet, velocity Mark 5.7.
+Sync rate is 265 feet per second.
+Discovery Houston, for your information, APU 1, the backup EGT, it's erratic. It's a deducer. Primary is good.
+Okay, copy, John.
+Uh orbiter just now crossing the coast of California at Mark 4.5. Uh velocity and altitude of uh um over 100,000 feet.
+Orbiter passing underneath Vandenberg Air Force base from where West Coast launches will be conducted in 1985.
+Uh ground track and energy data look very good.
+Orbiter's right on course and on time.
+Hydraulic pressures, APU performance is all nominal.
+Velocity, Mark 3.4. We're getting intermittent data now as we switch uh between uh instrumentation.
+The ship about 100 miles south of uh Bakersfield presently, and is now appearing on NASA Select.
+Discovery Houston, take air data.
+Roger, John, take air data.
+53 miles from touchdown. 5 minutes away from landing at Edwards.
+Altitude Mark 1. or velocity Mark 1.7. Sync rate, uh 200, 300 feet per second.
+Range, about 40 miles from touchdown.
+Discovery Houston, recommend transfer state vector to backup.
+Discovery, Roger, take vector to backup.
+Yeah, the uh smoke uh coming out of the orbiter is a product of of RCS jet firings uh at supersonic speeds. The uh RCS reaction control system jets are the most effective way of uh of uh steering the ship. Aerodynamic surfaces are not effective until uh subsonic speeds are reached.
+We are at uh Mark 1.
+Sync rate roughly 250 feet per second.
+Orbiter making a left-hand turn into the heading alignment cone.
+Discovery, turn the view on your left.
+Orbiter's encountered the hack making a left-hand turn.
+Continues on course on time, 15 miles from the end of the runway, altitude 23,000 feet, touchdown in about 2 and 1/2 minutes.
+Discovery Houston, your NAV is good. You're about 3,000 feet low.
+Discovery, Roger.
+And a NASA T-38 being piloted by uh Charlie Justice from uh Aircraft Operations in Houston, uh rendezvousing with the orbiter.
+At T-38 uh carrying an IMAX camera.
+Sync rate is 130 feet per second, range 10 miles.
+Mark .5 velocity, uh 16,000 feet altitude, uh touchdown in uh roughly a minute and a half.
+Uh the uh flight control system uh still in the auto mode and uh making a perfect left turn uh right around the heading alignment circle, 8 miles from the end of the runway.
+Ship is now converging on the glide slope, coming off the heading alignment circle, lining up with uh runway 23 at Edwards.
+Runway 17 at Edwards.
+Uh 6 miles from the end of the runway, about 30 seconds from touchdown, altitude uh 7,000 feet, sync rate uh little under 200 feet. Discovery, you look good on final.
+Roger, thank you, John.
+Energy levels look very good.
+Altitude 5,000 feet, 4 miles from the end of the runway.
+Altitude 3,500.
+Range 3 miles.
+Altitude 2,000 feet.
+Range uh 12,000 feet.
+Gears down, altitude uh 300 feet.
+Just uh 800 feet from the end of the runway.
+And the main gear are down.
+Nose gear securely down.
+A touchdown at a mission elapsed time of 6 days, 56 minutes, 4 seconds, nose gear down at 6 days, 56 minutes, 16 seconds.
+Wheel stop.
+Roger that, and wheel stop.
+Welcome home.
+

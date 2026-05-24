@@ -1,0 +1,563 @@
+This is shuttle launch control.
+The countdown continues to go smoothly toward an 8:31 a.m. liftoff. The flight crew has arrived at pad B on launch complex 39. This is the 10th launch of the Space Shuttle Discovery, the 35th of the Shuttle program, and on this flight, Discovery will become the veteran orbiter, equaling the record held by Challenger of 10 launches.
+OTC, PLT, radio check over.
+Uh PLT is OTC. I copy you loud and clear, help me.
+Roger loud and clear. Good morning, Stan. Morning, Charlie.
+OTC, good morning. MS3, contact.
+Good morning, MS3. OTC here. Read you loud and clear, help me.
+Ah, you're loud and clear this morning, Stan. Morning, Kathy.
+OTC, MS1, radio check over.
+Uh MS1, OTC. I read you loud and clear, help me.
+MS1, likewise. Good morning, Bruce. Morning.
+Ah, good morning. OTC, MS2, uh switch over to radio check.
+MS2, OTC. Read you loud and clear, help me.
+Ah, you're loud and clear also, Stan. Thank you.
+OTC, OVCC, go ahead. Ah, yes, sir. Hatch closure is complete.
+Much of the activity over the last week has been associated with changing out Discovery's number one auxiliary power unit, which was removed last Saturday and sent back to the vendor for analysis. A new one was on hand and ready for installation.
+Discovery, launch director. Go ahead, ground.
+Discovery, go ahead.
+Okay. Well, I'm going to risk of being repetitious. We're here again and uh everything looks good. Shuttle, ground system, and the Hubble. And we believe the universe is still go, so uh we hope we can get you up there to take a look at it today. Have a good one.
+Okay, we sure do thank you very much. Uh, looks like it's been a good countdown here.
+Yes, sir, and uh NTD, go to proceed.
+Understand, thank you. Ground launch sequence has been initiated.
+PLT, OTC. Go ahead.
+You can perform your APU pre-start, please.
+That's in work.
+APUs provide hydraulic power to the orbiter.
+OTC to PLT. APU pre-start's complete. Three gray talkbacks.
+Thank you, Charlie.
+rely upon T-minus five minutes and counting.
+GLS is go for orbiter APU start.
+PLT, start the APUs, please.
+It's in work, Standby.
+CDR, OTC. Go ahead.
+You can reconfigure heaters, please.
+Commander Shriver asked to reconfigure the orbiter heaters.
+Heaters are reconfigured. Thank you.
+And OTC, PLT, APU pre- APU start is complete, and still bars are all good.
+Copy that.
+There are the good words. Three APUs in good health.
+And flight crew, OTC, 212. Close and lock your visors and initiate your O2 flow and you'll have a good trip.
+Roger that, in work.
+One minute.
+standing by now for a go for autosequence start.
+Pad Talk, Mark, we'll hold at T-minus 31 seconds, due to a failure.
+We've had a hold. And NTD ST, it's the L02 outboard fill and drain valve.
+NTD, USC, MPL. Go ahead.
+It's uh LCC, MPS8, and our PV9 outboard fill and drain close power is off instead of on. And uh NTD, that we're in a no-go situation.
+what has happened is the ground launch sequencer would not hand off to the orbiter's computers to complete the count because the liquid oxygen fill and drain valve was showing off when it should be on.
+FBE, this is the SPS. We're going to make an attempt to cursor that valve closed. So, we've got the torque set off. If this works, we should be in good shape.
+I copy. Proceed.
+It worked.
+We have seven minutes of runtime available on the auxiliary power units. We've been holding now about two minutes and 20 seconds.
+NTD to SPS, the valve is closed. We're go.
+There's the confirmation that we have successfully
+Okay, and uh you're in the process. you're in the pickup terminal sequence MPS
+That's confirmed, we're go. We're good shape.
+Okay, you have to go to proceed.
+Uh, GLS, pick up the count immediately. I copy.
+Mark, GLS is go for auto sequence start.
+We are go for start.
+25.
+Booster hydraulic power units have started, sound suppression water system has started.
+10, T-minus 10, go for main engine start. We are go for main engine start, T-minus six, five, four, three, two, one, and liftoff of the Space Shuttle Discovery with the Hubble Space Telescope. Our window on the universe.
+Mission Control, Houston. Roll Program.
+Roger roll, Discovery.
+The roll maneuver puts the vehicle in the proper launch plane. Engines now throttling back. The throttle down maneuver assists in reducing the aerodynamic loads on Discovery as it passes through the area of maximum dynamic pressure. Velocity now 1,200 feet per second. Discovery downrange, 3 nautical miles.
+Discovery, go with throttle up.
+Roger, go throttle up.
+Engines at 104%. The go at throttle up call signifies that all systems are performing well. All three auxiliary power units look good. Discovery's velocity now 2,300 feet per second, and is downrange 8 nautical miles.
+And both solid rocket boosters have separated. Discovery's velocity now 4,300 feet per second at a downrange distance of 35 nautical miles.
+Booster officer reports all three engines stable at 104% performance.
+Discovery, Houston, performance is nominal.
+And Discovery, two engine Ben Guerrer.
+The two-engine Ben Guerrer call means that uh Discovery could reach the transatlantic abort site at Ben Guerrer on two engines if it were necessary.
+Copy nominal performance two engine bin.
+Velocity now is 6,200 feet per second, downrange 100 nautical miles.
+Discovery, Houston, negative return and press to ATO, select band jewel.
+Negative return, press to ATO.
+That last call means that Discovery cannot return to the launch site at Kennedy. However, uh enough energy uh has been achieved to reach a safe orbit on two engines, should one shut down, and uh Discovery could also reach the backup transatlantic abort site at Ban Jule if that were necessary.
+Discovery, Drew Ban Jule 109.
+Drew 109.
+And that last call means that Discovery could reach the Ban Jule transatlantic site on one engine at 109%. Discovery's velocity 12,000 feet per second, downrange 290 nautical miles at an altitude of 60 nautical miles.
+Discovery, Houston, single engine press 104.
+The single-engine press call means that uh Discovery could make it to main engine cutoff targets on one engine at 104%. Discovery's velocity now 16,000 feet per second, at an altitude of 58 nautical miles, downrange 435 nautical miles. Three engines throttling back now to maintain the 3G limits on the vehicle.
+We are standing by for main engine cutoff at 8 minutes 32 seconds mission elapsed time.
+Did Miko looks uh nominal from here.
+Roger that.
+Roger, Houston Discovery.
+Go ahead, Discovery.
+Roger, we got the payload bay lights on and uh first glance, the space telescope looks like it's in great shape.
+Okay, Bruce, Roger that. Thank you.
+This is Hubble telescope control Greenbelt. As we go through the survey of the Hubble telescope, Director of Orbital Verification, uh Mike Harrington has uh advised uh Mission Control's Payload Officer Jeff Henley, that the Space Telescope Operations Control Center is ready for uh the activation of the main power bus by the crew, which is scheduled to happen here shortly.
+Discovery, Houston just wanted to let you know that the ground is currently configured for HST main bus activation. So we're ready when you are.
+Standby.
+And Houston, uh we just put the main bus power on.
+Roger, Lauren, we copy.
+This is Mission Control at 4 hours 43 minutes mission elapsed time. The crew confirms and the ground concurs that the uh main bus uh power to the HST is activated.
+This is Hubble telescope control in Greenbelt with the electrical power now being provided by the orbiter to the uh telescope's three main buses. The orbital verification team is in preparing to send a series of commands in the blind to establish communications with the telescope.
+And this is Hubble telescope control. We have acquired uh our first data from the uh Hubble telescope here in the control center. This is giving uh the controllers here their first opportunity to take a look at the configuration and condition of the telescope uh since it was powered down on Saturday.
+And uh Houston Discovery, we have uh completed the GGI activation. I imagine you already have the data on that also, over.
+The uh first tree activation was completed at 8 hours 41 minutes.
+The second one 8 hours 52 minutes. The third one at 9 hours 02 minutes.
+The uh final temperature after getting the door back on was 21.1 degrees centigrade at 21 hours and uh Excuse me, and 9 hours 6 minutes. I said 21, I meant 9 hours and 6 minutes.
+Uh, I took a pretty good look at things in there, and it looks like everything's in good shape. Uh, we don't see any leakage or or any other problems over.
+Okay, Bruce, we have a good copy. Thank you.
+We have main engine start 3 2 1 0 and liftoff!
+Discovery clears the tower.
+Good morning, outer space from all the human race. It's time to stow your sleeping gear. We know you had a blast, you up in space at last. Now your main objective's clear. Explore the space telescope, carry all the dreams at home. Space is our world. We're living our destiny. Space is our world. The spirit of discovery. Space is our world.
+Space is our world. Space is our world. Space is our world. Space is our world. Space is our world. Space is our world. Space is our world.
+Good morning, Discovery. Your wakeup music today is compliments of your training team. We want you to make them proud today.
+Houston, Discovery. KT, we copy all that, and we thank you and our training team for an outstanding wakeup music.
+This is Mission Control, Houston, at 19 hours 11 minutes mission elapsed time. Uh, the wakeup music for STS-31 on Flight Day 2, to get the crew up and ready for deploying the Hubble Space Telescope was a song entitled Space is Our World, which was written by a local band named Private Numbers and the training crew of STS-31.
+And this is Hubble telescope control in Greenbelt, with a status update. All systems undergoing a check out aboard the Hubble Space Telescope last night passed with flying colors as the orbital verification continued and followed a near-litter perfect timeline.
+This is Mission Control, Houston, at mission elapsed time, 22 hours, 2 minutes, uh lead flight director, Bill Reeves, pulling the uh positions here in the flight control room, and the stock in Greenbelt, uh to determine whether all positions are go for deploy operations. We're standing by for a uh final go from the stock uh before notifying the crew.
+Discovery, Houston.
+Morning, story.
+Good morning, Discovery. Good morning from Bill Reeves and the Orbit 1 team, and you got a go for HST deploy ops.
+That's outstanding. Thank you.
+This is Mission Control, Houston, with absolutely no uh current orbiter systems issues being tracked, uh two good uh or three good healthy EMUs, a healthy robot arm, uh, and a go for deploy operations. The crew board Discovery will now set about uh uh the morning's work of preparing the EMUs, or spacesuits for donning, in the event they should be required to support uh deploy operations this afternoon. Uh, Steve Hawley will very shortly begin powering up the remote manipulator system and and poising it above the grapple fixture over the Hubble Space Telescope for for uh grapple. And our PTRS officer here in the flight control room confirms uh via telemetry that uh the Hubble Space Telescope has been grappled. The end effector snares have closed and rigidized, and uh Hubble is now firmly in the grasp of Steve Hawley's robot arm. Uh the next major uh milestone of the morning will be to maneuver the Orbiter Discovery to the solar array deploy attitude. The solar array deploy attitude is a solar inertial attitude which uh essentially means that the forward end of the Space Shuttle Discovery or the the nose axis will be pointing roughly in the direction of the sun. That attitude will serve to protect
+
+the fixed head star trackers on the Hubble space telescope as the telescope is lifted up out of the bay and then pitched around to the uh solar array deploy position on the RMS.
+This is mission control Houston.
+The uh Orbiter Discovery has reached the solar array deploy attitude with Discovery in the proper attitude for solar array deployment to the next major step in the deploy operations today will be the release of the payload retention latch assemblies.
+With the release of the payload retention latch assemblies, the Hubble Space Telescope will be free from the payload bay and under the complete control of the remote manipulator system or robot arm.
+And uh once that's been accomplished at the uh time uh designated for the transferred internal power, which is really just about 5 minutes after uh Pela release.
+Uh, the crew will standby for a go from the ground to make that transfer and uh once the telescope operations folks in Maryland have confirmed the transfer complete and successful, the umbilical will be dead faced and then uh released uh paving the way for mission specialist Steve Holly to lift Hubble from the bay.
+Discovery, Houston.
+Go ahead, Story.
+Okay, Steve, we've configured the KU band for beta only.
+You got a go to release the purlers and a go to transfer Hubble to internal power on time.
+Roger that. Understand. Go for a perler release and go for transfer to internal power on time.
+That's firm.
+Our mechanical systems operator here in Houston confirms that the uh mechanical power has been turned on and we're standing by for release of the purlers.
+Discovery, we see the purlers in progress. We'll be handing over to here in the minute.
+Roger that, Story.
+Mechanical systems officer here in Houston confirms that all of the payload retention latch assemblies have been released and the telescope is now free of the uh uh structural attach points.
+And uh Houston Discovery uh we interpret that uh we're still go for transfer to internal power.
+That's firm, Lauren.
+And Houston Discovery uh the uh transfer to internal power is complete. The MET of main bus power, internal power on was uh 1 day, 0 hours, 2 minutes, and 30 seconds.
+Thank you, Lauren.
+And with that transfer to internal power, uh we anticipate a uh lifetime on Hubble's internal batteries uh to be uh roughly 8 hours, uh providing ample margin for a nominal uh deployment of the solar arrays.
+Houston uh Discovery, the umbilical is dead faced and will be standing by for your go for umbilical release.
+Discovery, your go for umbilical disconnect.
+Copy that, go for umbilical disconnect.
+That's firm.
+And Houston, uh don't know whether you were watching or not. The umbilicals are disconnected. There was a good uh clean separation confirmed uh visually on uh TV monitors.
+Thank you, Lauren.
+Hubble is now on its own internal power and the game has begun. The race is on, the clock is ticking with 8 hours of battery life on Hubble's internal batteries. Crew Discovery has that much time to uh conclude the Hubble Space Telescope deploy operations including uh uh observing and confirming the deployment of the solar arrays, and if necessary venturing into the payload bay to assist in that activity.
+The first maneuver in the uh unberthing and preparation for solar array deploy of the Hubble Space Telescope will be a maneuver to a low hover position.
+Discovery, we see you at low hover. No need to acknowledge. We are commanding the DCE MCU command groups.
+The next uh RMS maneuver after some commanding from the stock will be the uh uh transition uh to a a 90° roll position, followed by the move to high hover.
+This is mission control Houston. Mission specialist Steve Holly has uh successfully maneuvered the Hubble Space Telescope to the high hover position is it at this time beginning to tweak uh uh the alignment of the telescope in preparation for the 90° pitch uh that will point the aperture door into the telescope directly into the payload bay before continuing on to the solar array deploy attitude.
+And uh telemetry scene here in the flight control room already beginning to indicate that Holly has begun the 90° pitch around maneuver.
+And this is Hubble Telescope control in green belt. Uh we have uh been given the go-ahead to begin commanding release of the forward latches which hold the solar arrays in place during launch along the side of the telescope.
+Discovery, the SA forward latches are released.
+We copy Story. Forward latches are released.
+The next commands that will be sent from the uh control center here will be to release the aft latches.
+Uh, we will need to be in a free drift uh configuration when this is uh done.
+And Houston uh Discovery, uh telescope is at the appendage uh or solar array deploy attitude.
+We see that, too. Thank you, Lauren.
+Discovery, go free drift for solar array aft latch release in about 15 seconds.
+Roger, free drift.
+Discovery, the solar array aft latches are released. We're pressing on with PDM deploy.
+Copy.
+Discovery, you can go AutoVrn. We've got primary indications that both PDMs are deployed.
+Okay, that's good. We're going uh primary burn.
+Discovery, we're back with you.
+Roger, Houston. Loud clear.
+Okay, here in the night pass, we're going to pick up with the uh high gain antenna deployment, and then when we get sunrise we'll pick up again with the SDM deployment.
+Okay, we copy that.
+Discovery, we have confirmation your high gains are deployed.
+Thank you, Story.
+Discovery, go free drift for plus SDM deploy.
+Yeah, free drift, Story.
+And as the crew just confirmed, that we're seeing uh both blankets beginning to unfurl on the port side solar uh array.
+Discovery, you can go AutoVrn. We're setting up for the other array.
+Okay, we'll go auto vern.
+And we have received confirmation that the tension test has been enabled and the verification team is now beginning to step through the commands to unlatch the aperture door.
+Discovery, about 1 minute to aperture door latch release.
+Copy, Houston.
+Electrical power system console operator has uh confirmed that he sees uh data indicating that the aperture door latch motor is now driving the latch open.
+A motor drive has been completed and that the aperture door latch is now open.
+Discovery, currently in attitude hold uh controlled by the digital autopilot. We're standing by for a go from the uh telescope operators to go to free drift, setting the stage for the uh deployment of the uh solar array.
+Discovery, we'd like free drift for minus SDM deploy.
+Okay, free drift.
+And we see the uh wings uh beginning to move and we have an indication that uh uh we had an out of limits condition. The arrays uh have stopped their motion.
+Houston, Discovery, looks like motion stopped with uh just about one panel showing.
+And Discovery, we'd like you on EVA to continue the prebreathe, but to stop short of airlock depress.
+Controllers here at the space telescope operations control center taking a look at uh making another attempt at uh deploying the Starboard solar array wing.
+Uh, this attempt will be made uh without the tension tests enabled. Results of uh analysis are that there is no indication that uh there was excess tension uh during the previous attempt.
+Discovery, Houston.
+Discovery, go ahead.
+Okay, with the panels that you got out there right now, it's not satisfactory to stay overnight.
+So we're going to have to move out on the EVA.
+Okay, Story. We'll put it in work.
+We do have the DCE back on. We are disabling the tension check, and we're going to look at sending some commands for the minus SDM.
+But we do want to press ahead with the EVA, including airlock depress.
+Okay, Story, we copy uh you will be trying some more commands to the minus uh V2 array but uh proceed with the EVA.
+That's firm, Lauren. Press with the EVA.
+Roger that.
+Discovery, free drift for minus SDM deploy.
+You are in free drift, Story.
+Thank you.
+And with the uh orbiter in free drift, the uh orbital verification team is in the process of uh sending those commands to uh start the motors and resume deployment of the uh starboard wing.
+Okay, Houston, we see motion.
+We have conver confirmation that the solar array wing on the starboard side has been deployed.
+So we have good news, 1 day, 6 hours, uh 30 minutes mission elapsed time. We have full deployment of the starboard wing.
+And for Bruce and Kathy, we'd like you to stop the airlock depress at 5, please.
+Okay, they copy the story and we're uh at 5.5 right now.
+Okay, Charlie.
+Go ahead, Houston.
+You can maneuver right to the release attitude right now. That's in the Cap page 3-20.
+Page 3-20, we'll maneuver to the uh release attitude.
+That's firm.
+Houston, for Steve.
+Go ahead, Story.
+Menu that are go for HST position for release.
+You go, Story.
+Discovery, go for Hubble release.
+Okay, we have a go for release and we're going to be a minute late.
+Okay, Charlie.
+PDRS officer in the control room here confirms the Hubble Space Telescope is released.
+Holly now backing the RMS and effector away from the grapple fixture.
+Rendezvous officer here in the flight control room confirms the separation maneuver completed. Uh Discovery now backing away from the Hubble Space Telescope. The first of NASA's great observatories is now on station at 330 nautical miles above the Earth.
+And Bill Reeves and the Orbit 1 team is handing over here to Milt Heflin and Jim Voss.
+Okay, well, sure been a pleasure working with you today.
+Somewhat like uh our integrated sims, but uh came off okay in the end.
+The uh telescope really looked great as we flew away from it.
+And we're all remarking about uh sure hope it does good work.
+Well, it sure is now, Lauren, and thanks for all the great work you've done.
+Pleasure working with you. Galileo is real proud of you.
+That's our pleasure, too.
+See you tomorrow.
+Okay, Story.
+And Houston, Discovery.
+Go ahead, Lauren.
+A little technically inclined this morning, I'd like to pass on the quote of the day from the onboard astronomer.
+Something to the effect that the big marble sure looks far away today.
+Sure it does.
+Further away than anyone in the shuttle yet.
+Earlier reference made by Lauren Shriver to a comment by the crew astronomer Steve Holly, that the Blue Marble looks far away today, referring to the extraordinary altitude that Discovery flies at on this mission, uh much higher than any of the crew members aboard the vehicle are accustomed to from past flight experience. Discovery in a 332 by 331 nautical mile orbit.
+Houston, Discovery.
+Go ahead, Lauren.
+It's just think uh
+
+Uh, good friend Sunny Carter is still in the office. You might give him a call and see how much he wants for his watch.
+
+Okay, we'll ask him about that. Is he going to give us the story behind this?
+
+I'd tell, you may not know the story, uh, if he doesn't why maybe we can when we get back.
+
+Okay, we'll let him know.
+
+And do the words we have located it mean anything?
+
+Oh, I think it does.
+
+Okay, Lauren, thanks.
+
+And I have a a response from Sunny Bob.
+
+He sends his congratulations to you. Uh, he said you really didn't have to go to all that trouble just to get his watch back, though.
+
+And uh, he says for Stevie, uh, it was good, but it was a little high and outside.
+
+We appreciate that, Jim. Thank you.
+
+One other item of interest that uh, came up a while ago uh, was some uh air-to-ground discussion related to uh, Sunny Carter, who was a mission specialist uh, on the uh, November flight of that of Discovery, which was STS-33.
+
+Uh, apparently on that flight, Sunny Carter had uh, misplaced his watch, and the uh, crew of Discovery on STS-31 uh, apparently located his watch and radioed down uh, asking how much it was worth.
+
+And we have one last thing for you, and that is that the STS-37 crew extends their congratulations and their thanks for deploying the Gamma Ray Observatory Pathfinder.
+
+You bet Steve, there is a comment here.
+
+Yeah, Jim, uh from EV1 and EV2 you might just pass to Mr. Ross and Apt that they only escaped by a narrow margin, and the ball is now in their court.
+
+Okay, we copied that and we'll pass that on to them, Kathy.
+
+And Lauren, that's all that we have for you tonight. Uh we'll leave you alone, let you get on to bed at your convenience, and we'll see you tomorrow. We enjoyed today.
+
+Okay, thanks, Jeff.
+
+This is mission control, Houston. Uh some of that discussion uh relating to the congratulatory message from the STS-37 crew was in relation to the uh near miss that uh mission specialist Bruce McCandless and Kathy Sullivan had for doing an extravehicular activity or spacewalk this afternoon. The uh first uh actually scheduled, planned spacewalk is on STS-37 and uh mission specialist Kathy Sullivan uh called down and uh wanted to let uh mission specialist Jerry Ross and Jay Apt who will do the uh EVA on STS-37 uh to let them know how close they came to uh being second this year to doing a spacewalk.
+
+I'm feeling, hey, alright.
+
+You've been so good to me. You've been so good to me.
+
+You know you make me want to shout, lift my head up and throw my head back and shout. Come on now. Shout. Come on now. Shout. Come on now. Shout. Come on now. Take it easy. Shout. Take it easy. Shout. Take it easy. Shout. Take it easy. A little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit soft in now, a little bit loud in now, a little bit loud in now, a little bit loud in now, a little bit loud in now, a little bit loud in now, a little bit loud in now.
+
+Good morning, Discovery. I guess you're awake after that song. Uh there are a lot of happy people down here who we saw a great deploy yesterday, and Hubble had a good night while you were asleep. I have a note for you from the stock that I'd like to read. Our thanks and congrats from Stock, Hasc, LockHeed, Hughes, Danbury, Issa, and all the other HST elements, on your superb HST deploy and release. Sorry no EVA for Bruce and Kathy, but we are glad you were ready. And thanks to for great TV and crew calls on Solar Array deploy.
+
+This is Mission Control Houston. The crew of Discovery is up and about after being awakened this morning by music from Odetta staying the nights. The song Shout as performed uh for the movie Animal House.
+
+And that was followed by a congratulatory note uh from the Space Telescope Operations Control Center and others involved with the Hubble Space Telescope, read up to the crew by spacecraft communicator Kathy Thornton.
+
+That's a firm and in IMAX pen you've got.
+
+It's asking for maybe a penned uh IMAX when you swing around.
+
+Okay, story we copy you would like an IMAX shot panning around as we maneuver to TG and we're ready with the 40mm and a mag loaded.
+
+Okay, and that ought to be a really spectacular sight when you swing around from port wing to starboard wing in the velocity vector.
+
+Well, we haven't seen much from this altitude that hasn't been spectacular, but we agree that I'd apply be a good piece of film.
+
+Yeah, one of the best.
+
+Mission specialist Kathy Sullivan will be pointing the IMAX uh film camera out the orbiter windows and uh uh taking advantage of uh uh that gravity gradient attitude and the maneuver to the attitude to take some spectacular ground shots in the course of the maneuver.
+
+an electrical arc as you observe it on the ground in 1G, say during a Jacob's ladder experiment in high school. And that is exactly in fact the kind of experiment that first gave this idea to Greg. He subsequently subsequently attended a lecture uh at Utah State University about the student experiment program on the space shuttle, and 0G effects on a variety of phenomena. And he put the two observations together, 0G characteristics and what he had seen in the Jacob's ladder, and conceived of this device to try to get an understanding of whether in fact both gravity effects are entering into the Jacob's ladder type behavior.
+
+This is Mission Control Houston. The Ion Arc experiment referred to by Mission Specialist Kathy Sullivan is a student experiment proposed by Gregory Peterson who is formerly of Boxelder High School in Brigham City, Utah, currently a senior studying chemistry and biology at Utah State University. His experiment is designed to study the effect of weightlessness on electrical arcs.
+
+And that concludes uh this operation of student experiment 8216. We certainly enjoyed and and learned a number of things from being a part of this and again would like to thank Greg Peterson for a good idea and a good experiment and congratulate him on a successful flight and wish him all the best in his post college career.
+
+So long there, Greg.
+
+Good morning, Discovery. For Max Q's keyboard, that's the way that song should really be done. Your next practice is Sunday evening in the gym, don't be late.
+
+This is Mission Control, Houston at 2 days, 18 hours, 4 minutes, mission elapsed time on board Discovery. The crew's awake, they were awakened with uh the song Kokomo as performed by the Beach Boys. And uh spacecraft communicator Kathy Thornton uh spoke to Mission Specialist Steve Hawley referring to the astronaut band Max Q for which uh Steve Hawley plays keyboards.
+
+Okay, and the down link that you now see is uh Lauren on your left and Charlie and I, center and right, in the process of conducting one of our medical DSOs. It's DSO 473. It's a delayed hypersensitivity experiment. That's a complex sounding name. What it really means is that we are placing TB test type uh samples of eight different toxins on the skin of our forearms, Charlie and Steve and I, with the intent of finding out whether the body's ability to regulate its immune response at the cellular level changes in 0G. There is some evidence that that may be the case uh but as yet inconclusive, and this experiment is designed to take a look at that.
+
+There's a hole in the middle of it all. There's a hole in the middle of it all. There's a hole. There's a hole. There's a hole. There's a hole in the middle of it all. Now, the bang caused the hole in the middle of it all. The bang caused the hole in the middle of it all. There's a hole. There's a hole. There's a hole in the middle of it all. And there's a void where the bang caused the hole in the middle of it all. There's a void where the bang caused the hole in the middle of it all. There's a hole. There's a hole. There's a hole in the middle of it all. And there is nothing in the void where the bang caused the hole in the middle of it all. There's nothing in the void where the bang caused the hole in the middle of it all. There's a hole. There's a hole. There's a hole in the middle of it all. And now I'm looking for the nothing in the void where the bang caused the hole in the middle of it all. I'm looking for the nothing in the void where the bang caused the hole in the middle of it all. There's a hole. There's a hole. There's a hole in the middle of it all. There's a hole. There's a hole. Assuming the theory holds, there's a hole in the middle of it all.
+
+Good morning, Discovery. This is Mission Control, Houston. The wake up music for today was the song Cosmos, written by Frank Hayes, and off of the album entitled Don't Ask, which has been released by Firebird Arts and Music Incorporated. Uh the song was selected in honor of Hubble Space Telescope, which is now open for business.
+
+This is John Getter with KHOU TV. Uh for commander Lauren Shriver, before we get to the inevitable spate of questions about the uh Hubble, before you left you said you were anxious to try to form your own personal opinion about the condition of the home planet, pollution uh in all forms, and how the trends are going. Wondering what your opinion is how we look down here.
+
+Well, uh we have had a a very good uh perspective on the earth uh at this altitude. We can see uh a great deal of it, uh a lot of it's from uh a high look angle. Uh from from what we've seen so far uh compared to some of our previous flights, we were commenting last night about this that uh in general uh we have been of the opinion that it it looks uh a little bit better than we remember. Maybe a little less smoke in some places. Uh we have seen one real uh good-sized dust storm over Northern Africa. But in general do we've been pretty impressed with uh uh a lower level of smoke and uh a lot of areas where we had noticed it before.
+
+Frederic Castelle with the French press agency, to Kathy, please. Which are the main geological differences have you noticed on Earth at this high altitude compared to your previous flight?
+
+Well, maybe I can offer a first comment on that since my earlier flight was at uh just a little over one third of the altitude that we're at now uh STS-41G in October 1984, we spent most of our operational time at 120 nautical miles. I guess uh several things come to mind here. I I find I can see linkages or appreciate better the relationships between fairly major geological systems such as very large scale folded mountain belts because they all fall within your field of view at one glimpse uh and you can scan up and down their length or uh across the structures depending on what features you're trying to appreciate in a way that's just impossible when the earth is going by so much more rapidly at the lower altitudes uh and when your nose as it were is is down against the rocks.
+
+uh there are some
+significant large scale relationships of that sort that various geological researchers have asked us to try to photograph for them and come back and debrief to them about and we hope you be able to do that with some of the imagery we've gotten in.
+
+Um this is Laura Tally with the Associated Press for Steve Holly. You were talking about the day of deployment and how busy you were, but could you describe what for you what was the most stressful moment and why and what was going on
+for you during the deployment and why?
+
+I think just the part from the beginning until the end,
+uh
+the know, I guess uh seriously the the most demanding part of that job uh is probably at the beginning when the two objects are so close together
+and uh in our case
+we found that um
+there was a significant amount of cross coupling
+uh that we had not really seen in the simulators which uh made the unberthing task
+a little more difficult than uh uh it would be in a simulator with a normal
+So, uh uh that was probably the most stressful part.
+uh As Lauren mentioned, the clearances at the end uh at the separation are very small and uh they look to me at least a little bit smaller than we had had train to pre flight.
+And uh I would say that was probably the second most stressful part was uh trying to make sure that uh as we released
+which we had to do, I guess out the window because I couldn't get the end effector television to work,
+uh
+was that we had adequate separation between the solar array and the end of the arm and uh and uh we were both prepared to do whatever we needed to do to make sure that the objects didn't contact one another and in the end, we didn't didn't have to do anything abnormal. It it worked uh adequately.
+
+David Chandler from the Boston Globe. Uh some people have called the Hubble telescope the most important payload the shuttle has ever delivered. Is there a special feeling about this mission for any of you. You've all been up there before. Is this one uh really different?
+
+Uh, well I I think it is for me. Uh it's something that uh
+
+I've noticed that uh as we meet other people and uh do some traveling around the country, talking to different groups of people, almost everybody seems to be familiar with uh what the Hubble Space Telescope is and and what it was designed to do.
+And that just sort of automatically uh heightens the awareness, I think, of the country as a whole as to the payload and the importance of the mission. So
+I think I felt something a little more special that way than than what I did before. Just like Lauren says and I think all of us have sat in private conversation, uh it's hard to go somewhere and find someone who has never heard of Hubble and the Hubble Space Telescope. Uh it makes little kids eyes light up. Uh it makes little kids want to learn how to add and subtract and study science. And uh that's extremely gratifying to see that you're a part to know that you're a part of a mission that seems to have excited the nation as well as the world about something.
+
+Hi, this is Rick Feinberg from Sky and Telescope Magazine. Uh it was especially important that you achieve the very high altitude during your ascent. I wonder if any of you would like to comment on uh how the tension or concern was aboard the aboard the shuttle during the launch compared to your earlier launches.
+
+Well, uh
+
+I think uh in general every flight crew that goes to fly
+is uh very meticulous in clicking off those mental milestones as you go through ascent.
+The different mode boundaries that we have marked out.
+Uh
+you know, those those calls that you get from the ground saying that you
+you can now make a certain landing spot or you can continue to orbit.
+In this case, uh I did catch myself a couple of times
+uh
+on the on the velocity scale there saying, okay now, especially during Holmes 2, which is the supplemental burn after main engine cutoff.
+You know, clicking off the miles as the uh perigee altitude came up
+saying, okay, now we can, you know, we can stay on orbit here
+and and now this is a this is an altitude that the telescope can live with
+until somebody can come back to it and rescue it if we needed to to put it out there.
+So that
+added a little a few more thoughts there, but generally on ascent, everybody has got roughly the same milestones. They happen to happen, you know, maybe at a little different velocity.
+But uh one of the main things you're doing is uh
+trying to counteract the effect of uh those three gs for a long period of time
+and uh tends to concentrate your mind
+on a few things.
+
+like breathing.
+
+That that concludes the press conference. Thank you, Discovery.
+
+Thank you.
+
+Discovery, we have one more Big Max
+uh update for you.
+It looks like the latest weather shows that there's some cloud cover over the Western Coast south of 33 degrees.
+It does look clearer towards the Argentine side, but the shot is your choice.
+And the IMAX folks they say lots of thanks for all your hard work today.
+
+Okay, Jim. We copy that and uh that observation squares with what we saw looking south from our last pass and we'll just give a look out the window and and see what we think. And uh we sure enjoyed working with the IMAX guys. If if we can bring across via their footage 10% of the amazing sights that we've seen during this flight, uh we'll be very proud and we'll be very honored that so many people will get to share in in all the joys and excitement that STS 31 has been. So thanks to all the IMAX guys. I know they've been working hard too.
+
+Okay, Kathy.
+
+Rise
+with the Bluebird shine
+like the sun
+Now's the time to rise
+and shine.
+
+Rise and shine
+the world's been turning and everyone is waking.
+Rise and shine
+on this new day the morning light is
+breaking.
+Rise
+with the rest of us shine
+like a pearl
+rise and show your love all around the world
+Oh rise
+with the Bluebird shine
+like the sun
+Now's the time to rise
+and shine.
+
+Good morning, Discovery. Your uh morning mail is on the way. We have no more immediate messages for you. Have a good breakfast, and we'll talk to you later.
+
+Morning Houston, thank you. We conducted a poll on board KT, and we want to know if the flight directors selected that music.
+
+We're trying to decide how to answer that. He did approve that music. I'll give you that.
+
+Hope that explains what's been happening to the Marvel.
+This is Mission Control Houston. The crew of Discovery was awakened for their final day in space. The day that they will return to Earth with uh the song Rise and Shine.
+
+Discovery Houston, we've taken a look at the weather. Weatherman says it's going to hang in there. You have a go to pro to ops 302.
+
+Go to maneuver to burn attitude and a go for the burn.
+
+Roger that, go for the burn.
+
+Discovery's been given the go for the deorbit burn. Crew's in the uh
+maneuver to the burn attitude now. Both uh the weather forecaster here at JSC and the weather pilot Dan Brandenstein at Edwards uh report observed conditions that are go at Edwards and forecast conditions for the time of landing that are go.
+
+Discovery Houston, we see APU 1 up and running in low press. Looking good.
+
+This is Mission Control Propulsion Systems officer reports uh ignition of the two orbital maneuvering system engines and both look good. Beginning the burn.
+The duration of this uh deorbit burn is 4 minutes 48 seconds.
+
+Houston, Discovery uh deorbit burn looks good, nominal burn.
+
+Roger that. Discovery, uh we saw a good burn as well.
+
+Roger.
+
+Discovery will reenter the Earth's atmosphere at 8:19 AM central time or 6:19 AM Pacific Daylight Time.
+
+Over the Pacific Ocean uh at a point roughly halfway between New Guinea and the Hawaiian Islands
+about 4100 miles away from Edwards Air Force Base.
+
+Today's landing uh plans include a detailed test objective for uh brakes.
+
+Discovery is equipped with the new carbon carbon brakes
+that are more uh
+energy absorbing.
+And the plan is to do uh low energy or light breaking after today's landing.
+
+Discovery now at Mach 23 at 253,
+000 ft altitude.
+
+Discovery Houston, energy and ground track are go, and we're still working on getting a filter.
+
+Discovery Houston, good filter. Nav is also go.
+
+This is Mission Control, our C-band tracking now shows uh Discovery at Mach 13 188,000 ft in altitude,
+about 560 miles away from Edwards.
+
+Discovery, reenable PTIs.
+
+Discovery's velocity now Mach 6 altitude 133,000 ft,
+181 miles away from Edwards.
+
+Discovery Houston, state vector transfer to the BFS please.
+
+Transferring, work.
+
+This is Mission Control. A Guidance Navigation and Control Officer confirms that the aero data probes are deployed at the front of the vehicle.
+
+Those probes uh sense the atmospheric pressure
+around uh Discovery and uh aid in updating its navigation information.
+
+Velocity is now Mach 4, altitude is 106,000 ft.
+
+Discovery Houston, take air data to GNC.
+
+Roger, Air Data, GNC.
+
+The Flight Dynamics Officer provides the latest weather update. Winds at the landing side Runway 22 are presently
+Southwest, nine gusting to 13 knots.
+The computation of the uh headwind and crosswind comes out to a left crosswind of 5 knots and a headwind of 12 knots.
+All these are well within limits for landing.
+
+Discovery Houston, take air data to Nav.
+
+Roger, air data coming to Nav.
+
+Velocity uh Mach 1.5,
+68,000 ft altitude.
+Discovery about 5 minutes from touchdown,
+only about 35 miles out from Edwards.
+
+Velocity now Mach 1 altitude 48,000 ft.
+
+Discovery Houston, you're looking good, approaching the hack.
+No change to forecast altimeter.
+
+Winds 200 at 9 gust 13.
+
+Roger, 200 9 gust 13.
+
+This is Mission Control. Discovery's uh velocity now
+700 ft per second as it comes around the heading alignment circle.
+
+Discovery will make a left overhead turn to line up over Runway 22.
+
+Flight Dynamics Officer reports uh Discovery looks good turning around the heading alignment circle exactly on the uh track.
+
+Yeah Houston Discovery, we do have the field in sight.
+
+Roger that, Discovery.
+
+Discovery now at 14,000 ft, making the final approach,
+lining up over runway 22.
+
+And Discovery is on the glide slope converging on the centerline.
+Coming up uh now
+for the preflare maneuver at uh 2,500 ft.
+Current altitude about 6,800 ft.
+
+Landing gear is down and locked.
+
+Main gear touchdown.
+
+Nose gear touchdown.
+
+Discovery rolls out
+on Runway 22 at Edwards at the end of uh mission STS 31,
+after traveling 2,068,213 statute miles on this mission.
+
+Mechanical Systems Officer reports steady breaking.
+The normal amount of breaking is about 8 to 10 ft per second
+and uh this detailed test objective today is designed to be a light breaking or low energy breaking to try out the new carbon brakes.
+
+Houston Discovery, wheel stop.
+
+Roger that, Discovery. Welcome back.
+Congratulations on a super mission
+and the world is looking forward to reaping the benefits of your good work over the next 15 years.
+Welcome back guys and we have no post landing deltas.
+
+Okay, thank you Steve and uh we sure enjoyed it also. It was great fun.
+

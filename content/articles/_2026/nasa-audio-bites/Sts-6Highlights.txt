@@ -1,0 +1,788 @@
+T-minus 1 minute and counting. The firing system for the sound suppression water system is armed.
+
+T-minus 55 seconds and the hydrogen igniters under the orbiter's engines have been armed. These devices are used to ensure any hydrogen uh flowing through the engines prior to engine ignition does not accumulate.
+
+T-minus 40 seconds and counting. We are just seconds away from switching command of the countdown to the onboard computers.
+
+T-minus 30 seconds and counting. We will go for auto sequence starts.
+
+The hydraulic power units on the SRBs have started.
+
+T-minus 20 seconds and counting.
+
+T-minus 15, 14, 13, 12, 11, 10, we'll go for main engine ignition. 7, 6, we have main engine ignition. 4, 3, 2, 1, 0, and lift off. Lift off of the orbiter Challenger on the 6th flight of the space shuttle. The shuttle has cleared the tower.
+
+Challenger is underway. We got a roll program.
+Houston copies Challenger.
+
+The period of maximum aerodynamic pressure.
+
+30 seconds elapsed.
+
+Throttles on all three main engines coming down to 81%.
+
+Velocity 2,000 ft/sec.
+
+Altitude 3 1/2 miles.
+
+Downrange 2 miles.
+
+1 minute elapsed.
+
+Main engine throttles going back to 104%. Challenger, you are go at throttle up.
+Challenger, you are go at throttle up.
+
+Trajectory slightly depressed, no problem, flight dynamics officer reports.
+
+Challenger, Houston, we see your- you're slightly depressed. No problem.
+
+Velocity 4,100 ft/sec. Altitude 15 miles, downrange 14 miles.
+
+Velocity 5,100 ft/sec. 20 miles in altitude uh downrange 22 nautical miles.
+
+Standing by for solid rocket booster separation.
+
+That SRB 7 was at something.
+
+We have an awful lot of crud on the windows at SRB 7, Dick.
+Roger, we copy that.
+
+Challenger, your first day's performance was nominal.
+
+Guidance has converged. Velocity now 6,000 ft/sec, altitude 31 miles, Challenger is 46 miles downrange.
+
+Challenger, you have two engine tal capability.
+Two engine tal.
+
+Challenger now capable of a transatlantic abort to Dakar airport on Africa's West Coast if one main engine fails.
+
+3 minutes elapsed time. Velocity 6,800 ft/sec, altitude 39 miles, Challenger is 70 miles downrange.
+
+All three main engines still at 104%.
+
+Challenger is a go at 3 minutes 15 seconds.
+
+Flight Director Jay Green taking a status check at all positions prior to Challenger reaching negative return point.
+
+Velocity 7,700 ft/sec. 47 miles altitude.
+
+Challenger, your negative return.
+Roger, negative return.
+
+Challenger no longer able to return to the Kennedy Space Center.
+
+Challenger is 127 miles downrange at an altitude of 50 nautical miles, velocity 8,700 ft/sec.
+
+4 minutes 25 seconds elapsed.
+
+Velocity 9,500 ft/sec. Altitude 53 1/2 miles, 165 miles downrange.
+
+Challenger still go, all systems.
+
+All three main engines still at 104%.
+
+Velocity 10,400 ft/sec, altitude 55 miles, downrange 196 nautical miles.
+
+Standing by for press to Meco.
+
+Challenger, press to Meco.
+
+Press to Meco and normal throttle.
+
+That press to main engine cutoff call tells spacecraft commander Paul Weitz that the Challenger can now continue uphill if one main engine fails.
+
+Flight Director Jay Green polling all positions. All controllers reporting everything looks great.
+
+5 minutes 40 seconds.
+
+Challenger, you have single engine tal capability.
+Single engine tal.
+
+Challenger now capable of reaching Dakar airport if two main engines fail.
+
+Velocity 13,900 ft/sec. Altitude 58 nautical miles, downrange 321 nautical miles.
+
+Time for main engine cutoff computed at 8 minutes 20 seconds.
+
+Velocity 15,000 ft/sec, altitude 58 nautical miles, downrange 364 nautical miles.
+
+6 1/2 minutes elapsed time.
+
+Velocity up to 17,000 ft/sec.
+
+Still at 58 nautical miles, Challenger 433 nautical miles downrange.
+
+7 minutes elapsed time.
+
+Challenger, your single engine press to Meco.
+Single engine press. Thank you.
+
+That call tells the crew to press on even if two main engines shut down early.
+
+Challenger's velocity uh nearing 20,000 ft/sec.
+
+529 miles downrange at an altitude of 58.1 nautical miles.
+
+Main engine cutoff still computed for 8 minutes 20 seconds.
+
+23,000 ft/sec. Altitude 58 1/2 miles, downrange 629 nautical miles.
+
+8 minutes, that's master alarm cabin atmosphere life.
+We copy.
+
+Cabin atmosphere master alarm.
+
+25,000 ft/sec.
+
+Roger, we got a mico.
+Roger, we copy and no problem with your cabin atmosphere.
+
+Nominal Mico.
+
+Roger.
+
+Houston confirms external tank separation.
+
+Roger, we don't have 104 yet, Houston.
+
+Roger, we copy.
+
+Challenger, we need for you to switch AFE one fan.
+
+Okay, how about ops 104?
+
+And Challenger, recommend manual pro to ops 104.
+
+Omes 1 will be 223 ft/sec. Burn time 2 minutes 26 seconds.
+
+Looking for a an orbit of 153 by 50 nautical miles.
+
+Go for nominal Omes 1. APU shutdown on time.
+
+Okay, Houston.
+
+Ignition, both engines.
+
+Good Omes burn.
+
+We are 30 seconds away from loss of signal through Bermuda.
+
+The Omes burn continuing in good- in good shape.
+
+Challenger, Houston, we're 20 seconds to LOS, we see a good burn in progress. Configure LOS, we'll talk with you at Dakar at 107.
+Roger, go.
+
+Challenger, Houston, uh is with you state side for about 17 minutes and configure uh AOS if you're not already.
+Yeah, we are and we're ready to open the doors, Dick.
+
+Roger, and uh we're standing by to watch.
+Okay, and we're.
+
+And Challenger, at your convenience, uh we'd like a GNC spec 1.
+
+You got it.
+
+Uh it's a nice sunny day on the West Coast, today.
+
+A little bit windy but sunny.
+
+Challenger uh Houston, I've got a switch check for MS2.
+
+Okay, go ahead.
+
+Uh Roger, we'd like for him to confirm on ML26 Charlie, the supply H2O, tank A, press control valve to press, and that's in block two of his uh post insertion reconfiguration card.
+
+Okay.
+
+Okay, Dick, uh can that wait till after we uh record the latch operation on a cadence? We want that done now.
+
+Uh that can wait, uh just like to see it before we uh go uh LOS uh state side.
+Okay.
+
+And Challenger, Houston, uh we're through with the SM spec 1 and and our correction GNC spec 1, and we'd like an SM spec 1 now.
+
+SM spec 1 is on CRT 2.
+
+Thank you.
+
+And I think those NPS uh things we reported earlier were the reg's bleeding down after hike hike closed the helium iso.
+
+Roger.
+
+Okay, Dick, read up that uh switch in the position you wanted it in again, will you please?
+Roger, on ML26 Charlie, supply, H2O, tank A, press, control, valve, to, press.
+
+Okay, I got it, Dick, and this two here.
+Thank you, Don.
+
+Starboard doors open.
+
+Roger.
+
+Challenger, Houston, uh we're completed with the SM spec 1. Request an SM spec 60.
+
+You got it on CRT 2.
+
+Thank you.
+
+Yeah, Houston, Challenger.
+Go ahead.
+
+Who's our coast uh point there, Dick? Where did we cross uh the coast just now, a couple minutes ago?
+Stand by and I'll get that.
+
+Yeah, let me tell you why we're asking, because our to uh well our nose north so it's towards the aft south.
+
+There are dozens of tremendously large fires down there. At least, they're sure making a lot of smoke blowing out over the gulf.
+
+Roger, we copy.
+
+And Houston, after our burn, uh we show the oxidizer on our propellant quantities as being 37 on the left, and 43 on the right, and the fuel 36 and 38.
+
+Okay, we copy that uh uh bow and we're looking at them.
+Yeah, it looks like that right uh oxidizer on the Omes may be a little bit high.
+
+We concur.
+
+Houston MS1.
+Go ahead, Story.
+
+On the door, it's so leaving it's hard to single out which one is going to close first. But it looks like every one of them is going to close just to the right of point A. In other words, horizontal line about 2.0 is where the contact of all the rollers is going to be, the best I can get for you.
+
+Okay, Story, we're uh happy with that.
+
+Something else, Dick, I think that's been reported before, but obviously there's a lot of little bits and pieces of trash uh the washers, matter of fact, I'm looking at a button back here come off somebody's coat, it looks like. Must be about an inch in diameter, but all these things are slowly but inexorably being kind of drawn out to the gap between the doors there.
+
+Roger, we copy.
+
+Starboard doors closed.
+
+normal.
+
+Roger, we copy.
+Houston, when's the pass we'll be able to show you any TV? We got a couple of things back on the old just project I'd like you to look at.
+
+Standby, I'll get that info for you.
+
+Challenger, Houston, we're going to start working to set up for some TV at Hawaii on your next pass.
+
+Okay.
+
+You're right. It's on the top of the pot. Looking at it as a unit that says that you know, it's it's upper it's on this harbor pod. I can't see the pot when it has there are a couple good sized pieces of things sticking out. I don't really know what they are. If I had to make a guess, I said they're probably pieces of gaps so they are up there. That's what it looks like.
+
+Okay, we copy.
+
+Well, it looks more substantial in that if they be just some pieces of that new frisbee back that's come loose.
+
+Roger.
+
+Challenger, Houston, we're finished with your SM Spec 60. You can have that back. We would like for you to accomplish an SM checkpoint at your convenience. And also you have a go to do the air log resets to both SM and GNC.
+
+Say that last again, Houston, after the SN5 points.
+
+Roger, you're you have a go for the item 48, air log resets to both SM and GNC.
+
+Roger, we understand.
+
+Challenger, Houston, we're 20 seconds to LOS. A reminder that if you want to take a closer look, your binoculars are in Alpha 16. Also your entry rest mats are on board.
+
+We'll talk with you next at the car at 152.
+
+The car at 152, thank you. We have attached the binoculars on the door. The total door operation was normal.
+
+Roger, we copy.
+
+Okay, we got a little less than a minute. We'll see you in the deploy attitude of Santiago, and that'll be at 9:42.
+
+Okay, the further checklist I guess you want us to leave the SBN payload switch in the panel.
+
+That is affirmed.
+
+Okay.
+
+And we'll see you in about 20 minutes.
+
+Okay, 29 degrees.
+
+And some late news for story. We got a go for deploy. We have a go for deploy.
+
+Okay. And breaking.
+
+We can still hold the umbilical to Santiago there.
+
+No, go go ahead and follow nominal procedures. You got a go for deploy.
+
+We'll pick up the power transfer at deploy minus 20 minutes then.
+
+That is correct, and we'll see you down at Santiago.
+
+Yeah, thanks.
+
+Wow.
+
+Hello there. We're with you over Indian Ocean for 4 and 1/2 minutes on the UHF and a reminder not to do the secondary check on that left homes.
+
+Yes, sir. We won't do that. It was a good deploy, John.
+
+That sounds great.
+
+John, absolutely spectacular view out at the overhead window. When it first came in the sunlight, it was tremendously bright and then we got it against the earth.
+
+Hope you got some good TV for us tomorrow.
+
+Couple of quick notes you can delete the water dump at 10 plus 45.
+
+Understand. Delete the water dump.
+
+That's affirmative.
+
+Okay.
+
+And story we're wondering if you ever reacquired the TDRS data after deploy, IUS data.
+
+Yes, we did.
+
+Oh, be right with you my heads up over the front window.
+
+Okay.
+
+And Sunnyvale and White Sands send you a special attaboy.
+
+Well, we're all in this thing together.
+
+Thanks.
+
+Roger.
+
+About a minute away from LOS. Good luck with the burn. We'll see you up in Guam at 10:39.
+
+Hey, till tables still on time.
+
+Thank you.
+
+Challenger, we're with you over Santiago for about 5 minutes.
+
+Challenger Houston, clear.
+
+And if you would, we'd like an SM spec 1.
+
+And the IUS had a good SRM 1 burn and it also had the RCS. 1 burn was successful. The SRM burn was a little bit short, but the RCS made up for it.
+
+Fantastic, John.
+
+You're making our day.
+
+Uh, you're making ours.
+
+Mission Control, Houston, 17 hours 37 minutes mission elapsed time. We have an official statement from Colonel Ralph Torino and others working on the problems uh apparently afflicting the IUS TDRS combination. I'll read that statement to you now. During the firing of the second stage of the IUS to place the TDRS at geosynchronous orbit, apparent loss of control occurred and telemetry from both the IUS and TDRS was lost. Subsequently, it has been determined that the TDRS IUS combination is most likely tumbling. Anomaly teams are at work to produce a plan to attempt to recover the spacecraft. Further information will be released as it becomes available.
+
+Challenger, Houston, how do you read?
+
+Glad glare.
+
+Okay, story we're with you over Indian Ocean for 7 and 1/2 minutes. Standing by.
+
+Okay, we did get it to teleprinter, and as soon as you got any update on uh how the TDRS is doing, we're terribly interested in that.
+
+Well, I do have some uh words. Uh the situation has changed um somewhat for the better in the last couple of hours, so if uh y'all are ready to listen, I'll go over it with you.
+
+Yeah, sure like to hear.
+
+Okay, the latest information is that we were able to successfully separate the IUS and the TDRS. Uh, we are still working on the orbital parameters. We are not in a geosynchronous orbit and uh determining uh exactly our capability as far as uh uh orbit goes is still in work, and I'll get back to you on that. But the rest of the good news is that the TDRS itself is in an inertial mode, stable, all of its panels and booms been extended and locked. The uh power system is uh good. Solar rays are generating uh 6 amps and the batteries uh are up to uh snuff. We've got a good uh telemetry lock on the uh A and B. And uh system is operating on its gyro stable rates and are uh zero. So, uh and also, the thermal situation is good on the TDRS. So there's a lot better than uh what you read in your message.
+
+Okay, all sounds like uh not much RCS we got to use to get it where it's got to go.
+
+Yeah, story and uh we're looking into that now and we don't have an answer for you, but uh we'll get back as soon as we do.
+
+And Challenger, Houston, with it with you here to deploy for about 6 minutes, and uh Bo, we notice in the crew activity plan that you're activating the gas, the getaway specials in the nozzle. So, why don't you explain to us earthbound mortals here a little bit about what you're doing. And you better do it good, because Diane's up here behind us watching.
+
+I see. Well, as you can probably see right now uh, I've got one of the TV camera setup over by the pilot station and it's shooting from the forward right to the left rear part of the uh cabin. How's the picture?
+
+Looks pretty good, it's a little bit dark.
+
+I'm not sure that I can help that much. Uh, in any case I'm just about ready to uh get the gas canister uh from the Air Force Academy uh going here. I was going to take a look at it with a TV picture, the TV camera that's outside, the one that's just on the other side of the bulkhead here and uh, I'll give you a look as well.
+
+Sounds good.
+
+What you see now of course is uh where we launch the TDRS and IUS from yesterday. And the gas canisters are on the right-hand side. And I'll bring the picture over so that you can see those gas canisters. There are three of them. There is uh the Japanese uh gas canister which is investigating the production of snowflakes in orbit. And then the Park Seed Company canister which is going to be looking at the space environment's effect on seeds. The middle one uh is from the Air Force Academy and uh that has uh a half a dozen different experiments on it. There is a metal beam joiner uh where they're going to try to join metals in space. A messible alloy, a foam metal, a crystal pure- purification, a microorganism development, and an electro- plating experiment. They uh I think that's the Air Force Academy they have been working on these for quite some time to get them ready for this flight on the shuttle. And I'll turn them on, I'll bring you back into the cabin here.
+
+We got people down here waving go Falcon flags.
+
+Well, when you get back in the cabin you might be able to see the one that I have up here.
+
+Okay, we got a good picture in the cabin now.
+
+And we got about five more minutes left here.
+
+Okay, this is a little uh encoder which is used to turn on the gas experiments. It's a common encoder and it's used for all of the gas experiments. But there is a code which is used to address each. The uh Air Force Academy experiment has two relays in it and uh I'll call up the first and turn it on. The show is now that it's latent, and I'm going to turn it over to hot.
+
+Don't make any mistakes.
+
+And zero zero shows that it's hot now, so it should be running.
+
+That's good news.
+
+And zero one shows that it's switched from latent to hot so it should be running up till this time as well.
+
+Okay, we copy.
+
+It looks like those gas canisters are in fact going to be running. I hope they get good results from them. I think it's a a great opportunity for a lot of people and especially for students to be able to look at the environment, the space and see how it affects all sorts of different items. As far as my thoughts, on the gas canisters turned on, if we still got a couple more minutes, I can show you uh another one of the small experiments we have on board and that is uh the nozzle experiment.
+
+Yeah, we're all standing by. We got about three more minutes.
+
+Okay.
+
+And we got a good picture.
+
+Okay.
+
+Nozzle is uh rather a simple experiment. It's an experiment to uh take photographs of thunderstorms and lightning from the advantage we have here in space. And uh what it consists of is a detector which will detect the uh electrical and light activity and just a normal 16 millimeter camera that has been used on many aircraft programs before. Uh when we go over places like uh Central Africa or South America where they're likely to be thunderstorms at this time of the year, we uh point the picture at the thunderstorms and take uh point the cameras and take pictures. We also have associated with this uh recorders so that we can record our comments. Uh, people are very interested in this because they can see how lightning propagates from one thunderstorm to another or may encompass a whole area, something that's very difficult to appreciate from the ground or even from a high-flying aircraft. So, a few this morning uh over Africa and we're hoping to get some more as the mission goes on. We've got uh a limited number of passes, and you know, not always do you find the thunderstorms when you want them. But uh we've seen some lightning actually while flying around, and I think we should be able to get some good nozzle photographs on this flight.
+
+That sounds good, Bo, and we appreciate the explanation of your experiments.
+
+Yes, sir.
+
+Challenger, Houston with you at Santiago for four and a half.
+
+And NS1 has got 10 minutes more of uh section G plus whole sample.
+
+Roger, we copy. And I've got some words on
+
+the TDRSS if you all are interested.
+
+Please go ahead.
+
+Roger. It looks like we had a problem during the SRM2 burn, problem with the IUS. We did finally get the TDRSS separated from the IUS and got all its uh antennas and uh everything deployed fine. The TDRSS is operating properly, nominally. It's in a uh off-nominal orbit, however. It's about uh 22,000 by 13,500 statute mile orbit. And uh they're just about to finish getting the 16 foot antennas out and deployed. The uh they're looking at using the RCS onboard fuel to get it up to geosync, and uh they're looking at that problem. Looks like they'll be able to do it and we'll have a good TDRSS here for us for the future missions.
+
+Roger, we copy.
+
+we're thinking what was their problem in logic in Firas or guys.
+
+Uh, we don't know exactly what the problem was yet. They're still looking at that.
+
+Okay.
+
+Am I talking to the Space Shuttle Challenger?
+
+Yes, sir. You certainly are.
+
+Well, listen, first of all, congratulations on the continued success of your mission. I understand you're even ahead of schedule.
+
+Well, we like to stay that way, Mr. President.
+
+Well, listen, the Challenger proves again the quality of our technology and the versatility of the space shuttle. serves as a symbol, I think, of our commitment to maintain America's leadership in space. but all of it would be without any merit at all, if it wasn't for men that we have like all of you, Commander White and your pilot uh Carol Bobko and your mission specialist Story Musgrave and Donald Peterson. And I know that while one of you has been out in space there and connection with the space platform, the others uh, this is your maiden voyage.
+
+Well, thank you, sir. We appreciate that. I know it's uh, it's an old and well-used saw, but you know, we just get the glory. We really get to stand on the shoulders of giants when we participate in this program.
+
+Well, you're pretty close to giants, yourselves. And I know that I shouldn't keep you too long because you're kind of anxious to make that space walk out there. And uh we'll be all watching for that down here. And just please know that all of us, the American people are very proud of your service to your country and what you're doing. And we wish you well on the continued flight and on the space walk. I can't say I envy you. But uh we are very proud of all of you. Good luck to you on the rest of your mission. God bless you.
+
+Well, thank you very much, sir. It's an honor and a privilege to be here and we really much appreciate your call.
+
+All right, goodbye.
+
+So long.
+
+And Challenger uses with the over Guam for about seven and a half minutes.
+
+Roger. Hatch is open. EV 1 is uh halfway out. They're configuring the airlock and ready for Dawn to come out.
+
+That's great news.
+
+Good. I got it.
+
+See. You send uh have a suggested setting for the duck camera now when it's sunlight?
+
+Is the one down here through the little hatch window?
+
+Oh yeah, both.
+
+Story? Yeah. Your uh SCU is hooked on the door here, Kathy. You want to leave it there? Or that's that's the air. I think it's the right place to leave it. All right, I shall.
+
+Uh oh. Did you clear these loose stories? We have an airlock with us. I I caught it, but I don't know what to do with it. That's why I wanted it on a tether.
+
+Yeah, I think that's the rule. There is there is Velcro here over the air hatch. Sure what I'm going to do, Story. Velcro on the inner hatch over there. It's so far on the quick light loose. I'm going to bend it double and stick it in one of pockets in the bag. You You don't have to bend it if you stick it in the back pocket of the bag. All right. The back pocket. Okay, I'll try that. Add and get out and help me help uh help this load.
+
+Cover. Carefully buy the CC.
+
+Mission Control, we hear that uh Astronaut Story Musgrave is uh at least part way out of the airlock now. The hatch is open. This will be the first American space walk since 1974. Skylab 4 when Ed Gibson and Gerald Carr had an EVA on Skylab 4.
+
+Oh, here's I have the settings for that uh camera, if you need them.
+
+Okay, it's 12 frames per second. Speed is 1/60th and the F-stop is 2.
+
+Even in the sunlight, huh? Okay.
+
+And Bob, if you've got the sunlight, you need to use the spot meter also.
+
+Okay. Don is on the hatch.
+
+Do we need to start the launcher on? I looked up and saw I'm looking over my shoulder in there.
+
+How's that compared to the water tank story?
+
+It's going to be stronger, I think, but if you get it going, you can keep it going.
+
+That's a reach right there that I can make.
+
+Order tank that I can't make here.
+
+Musgrave now at the Aft bulkhead and evaluating the handholds on that uh rear wall of the spacecraft cargo bay. Got a good shot of Mother Earth behind you there, Story.
+
+A deeper pool than I've been used to working in.
+
+Musgrave comparing the space walk to his uh earthly training in the water tank. Saying it's a little deeper pool than he's used to working in.
+
+We're looking right at you, Story, at Camera Bravo.
+
+I see you.
+
+Someone steak down around there so I can watch John.
+
+Okay, we got about 40 more seconds here until Hawaii pass. We'll see at Buckhorn at 315.
+
+Okay, Don. Okay, Story. I'll take your head on across the port side and be down here. Okay, I'm going across the bottom.
+
+Peterson now moving along the uh port slide wire, Cargo Bay. Getting loose signal now from the tracking station at Hawaii. America's first space walk in about nine years, seems to be going well at this point.
+
+Okay guys, what have we got left to do out here?
+
+They look clean.
+
+I bring your check store.
+
+Wait. Looks familiar.
+
+Yeah, I want you are.
+
+Okay.
+
+Musgrave has completed closing up the toolbox and all the items appear to have been stored away. I'll stay down low.
+
+Peterson is in the airlock.
+
+Beautiful.
+
+And we're passing out of range of the Hawaii station now. We saw uh astronauts Musgrave and Peterson uh getting back into the airlock, preparing to repressurize. Thus completing uh the shuttle space walk, first one of the space shuttle program. A walk that uh lasted nearly 4 hours. Crew had uh had plenty of margin left in their consumables, the power and the oxygen, all the life support systems in their backpacks. And had completed all the tasks outlined for them in the uh in the EVA checklist. And are now back in the airlock. That's 3 days, 6 hours, 26 minutes mission elapsed time. This is Mission Control, Houston.
+
+We are very pleased to welcome a new CapCom to the STS-6 entry team. And he would like to have a few words with you now.
+
+Okay.
+
+Now can you hear me okay?
+
+Coming in loud and clear.
+
+Well, I just wanted as vice president, and I just wanted to say we're sitting here. Don't panic. There are other CapComs sitting next to me, but uh we wanted you to know that you've driven the Beach Boys off the front pages of the papers down here in Houston and across the country. That's the that's the good news. And secondly, I've just had the pleasure of meeting many of your families and and they are looking forward to tomorrow as much as the rest of the country. And lastly, we are certainly proud of this wonderful example that you're setting. And once again, this whole NASA operation is really inspired, and I think brings out the best in the United States. So I just want to add my words of uh congratulation to those of my boss yesterday and say how much we appreciate what you're doing. Over.
+
+Well, thank you very much, sir. As I told the President yesterday, that uh we are just honored and privileged to be able to do this and uh hopefully it's a demonstration of what we can do in this country when we uh apply the will and desire to do it.
+
+Well, Jim Beggs is here, and I'm sure he he agrees with that. He's been giving yesterday, he met with the President and me in the situation room at the White House, and now here he is today with me in Houston, and he he gave me an opportunity to, uh along with others here in Houston Johnson Space Center, to brief fully on the future. But I think this mission of yours really does make a significant contribution to to the whole effort and it's most inspiring, and thanks ever so much for what you're doing. I'll now turn this over to the pros.
+
+All right, sir. Thanks for calling. We appreciate it.
+
+Mission Control, Houston, coming up on predicted time of entry interface, that is when the spacecraft comes into the sensible atmosphere at approximately 400,000 feet. At that time, the range to the spacecraft will be 4,043 nautical miles. Mark, entry interface at this time. Velocity 24,399 feet per second. Altitude uh as I mentioned earlier, around 400,000 feet, when the first molecules of atmosphere began to collide with the spacecraft. Four minutes away from acquisition at Hawaii, that is if the S-Band can punch through the ionized layer of atmosphere around the spacecraft. Touchdown now 29 minutes away. Mission Control, Houston. The Challenger should be in blackout at this time. Blackout began uh at about 3,447 nautical miles up range from Edwards, at an altitude of uh 335,570 feet. 26 minutes away now from predicted touchdown. NASA 946 and Chase will be going off frequency for a moment and monitoring as the uh orbiter goes over Hawaii, we'll be back with you in about 10 minutes. 46, Roger. 21 copy.
+
+This current blackout period is predicted to run until 10 minutes, 10 and a half minutes past the hour. Or past uh day 5 0 hours in Mission elapsed time.
+
+for about another 11 minutes.
+
+Velocity now down to 23,330 feet per second. Range to the runway 2345 nautical.
+
+Getting data from Hawaii.
+
+Range 2,000 nautical miles from touchdown.
+
+And Hawaii has had loss of signal, intermittent signal from the spacecraft as it passed over that station.
+
+Range now of 1760 nautical miles. Altitude 250,251 feet.
+
+S946 Houston's back with you.
+
+S946 Houston's with you again.
+
+946 Roger, we made our last run and normalized to 185 knots is 2,600 feet down the runway at the close aim point.
+
+Roger copy John and uh we got a little bit of data coming over Hawaii from them. Couldn't talk to them, but all the systems were looking real good.
+
+Standing.
+
+Chase Houston, radio check.
+
+Loud and clear Chase.
+
+Okay, you're still five by.
+
+Some 5 minutes remaining in the blackout period before predicted end of blackout.
+
+Currently, the range is, uh, the display is frozen.
+
+The range should be around 514 nautical miles.
+
+Western Test Range stations in Vandenberg have picked up, uh, Challenger.
+
+Ground track and the energy, that is the velocity, descent rate, etc., for the Challenger are all nominal.
+
+509 nautical miles to touchdown.
+
+Chase Houston, standby for Mach 12.
+
+Mark Mach 12.
+
+Chase copy Mach 12.
+
+McCorn has acquisition.
+
+415 nautical miles up range from Edwards.
+
+Altitude 168,516 feet.
+
+Challenger, Houston's with you through Buckhorn, configure AOS.
+
+Right now, right here.
+
+Okay, you're looking real good. Your energy and ground track are right on, nav is good.
+
+Okay, at time 235730, we had an old, an alert message AMU byte 3, but it did not show up on the system.
+
+Copy.
+
+We also had a master alarm when I opened the MPSTVC ISO number 2, probably just drained the system a little bit.
+
+Okay copy.
+
+300 nautical miles to the runway.
+
+Challenger Houston, I'm M U3 looks good. Probably just had a transient.
+
+Roger.
+
+Challenger, Houston, uh recheck, configure AOS.
+
+Check, you got it now, Roy.
+
+Roger.
+
+Velocity down to 7790 feet per second.
+
+Altitude 150,400 feet.
+
+Range 240 nautical.
+
+Challenger, Houston, an update on the surface winds. Holding fairly steady at 210° at 22 knots. 22 knots headwind, four knots on the left side. Altimeter is uh the same I gave you before.
+
+Okay, thank you, Roy.
+
+Challenger, Houston, take TACAN. And PJ, we need for you to cycle the RAD controller, Loop 1 only.
+
+Oh, I got it. Maybe there was nothing wrong with the simulator, though. We were both in red flow before.
+
+Right, we saw that.
+
+Velocity 5800 feet per second, range 170 nautical miles.
+
+Altitude 126,397 feet.
+
+Velocity down to 5,000 feet per second, 140 nautical miles range.
+
+Okay, and I have that message, disregard.
+
+Well, we just got it, correct.
+
+Roger.
+
+Spacecraft de-servicing convoy at Edwards, ready to roll.
+
+Range now 110 nautical miles, altitude 107,000 feet.
+
+Velocity down now to 4,000 feet per second.
+
+Challenger, Houston, take care of data to GNC only.
+
+No call.
+
+91,000 feet altitude, 3,000 feet per second, 72 nautical miles range.
+
+Challenger, Houston, take care of data to Nav.
+
+No call.
+
+Altitude 78,000 feet, 2100 feet per second, 52 nautical miles.
+
+The cameras at Santa Ynez, California have picked up the spacecraft.
+
+Range 30 nautical miles, 60,000 feet altitude.
+
+Velocity 1250 feet per second.
+
+Range 20 nautical miles.
+
+It's Sonic Buffet. We've been waiting for it.
+
+Roger, copy that. You're right on your energy.
+
+Well, everything looks good here, right? Couldn't look better.
+
+Looks the same down here, PJ.
+
+Velocity down less than 1,000 feet per second, 40,000 feet altitude.
+
+Challenger Houston, bow request manual open on landing gear ISO valve number two.
+
+All right, Challenger and procedures coming up over on the left.
+
+Hello. How are you today, Charlie? Doing pretty good. You guys are looking great. Thank you, sir.
+
+Spacecraft making the turn around the heading alignment circle. You are intercepting the hack, you're right on.
+
+Photo Chase pilot, Charlie Justice is tagged up with the spacecraft, getting a good picture now from the rear seat camera.
+
+25,000 feet altitude.
+
+Now in manual pitch and roll mode.
+
+And we see Balmy Lake Edwards being this sun below us, sir.
+
+Sir, there probably are a lot of sailboats out there today.
+
+9 miles from touchdown. We got the HUD camera on.
+
+That's great. Uh, final wind update: 220, right down the runway at 18 knots.
+
+Okay, we're all fired. You still want the close aim point? That's a firm.
+
+14,000 feet altitude.
+
+Still in manual mode on pitch and yaw.
+
+7 miles to touchdown.
+
+10,000 feet.
+
+We mark the unofficial touchdown time at 5 days, 0 hours, 23 minutes, 42 seconds.
+
+Welcome home, F Troop.
+
+PJ, Bo, story, Don.
+
+You guys have proved again that this is really a cakewalk.
+
+I happened to talk to them, the night before they left and I said go have some fun. And I believe they took me at my word because you really looked like you guys had fun from the beginning to end. We're mighty, mighty proud of you.
+
+Thank you, Jerry.
+
+Well, I tell you, Jerry hit it on the head. It takes a whole lot more people than just the four of us to make it go. So, folks that developed the procedures, tested the equipment, helped train us, and supported us during the flight.
+
+But, we had a lot, we had a lot of fun. Uh, it's a super vehicle we got. I am truly impressed. By a we bring down the road a new vehicle. We get five flights on the first one, and the second one comes along and operates like it did. You know, I don't know how we got there, but we sure have been doing the right things some way, and don't let anybody tell you any different, either. Don Petersen.
+
+I, I figured I was going to be last again, so I still don't have to make a speech. All, all I really want to say is thanks to everybody. We had a great time. The mission went better than anybody I think could possibly expect, and we certainly do appreciate all your efforts and all your support, and we appreciate you being here tonight. Thank you.
+
+I'm so used to being last, I forgot. Well, I guess I'll introduce the, the, the pilot for our group, Bo Bobko.
+
+It's great to be back. I'd like to say to all of you faces that I recognize from NASA, be proud. We've done it again. Uh, we proved that Columbia was not something that just happened. We proved we can do it with Challenger even better. And I know it'll be better with Discovery and Atlantis to come. It was a great mission. Uh, we had an exciting time every day, from the launch to the deployment, to the EVA entries. Every day was more exciting than the last one, and more of just more fantastic. Something you don't imagine. Uh, I've been around this business for an awful long time and heard a lot of people talk about how great it was and uh, thought that well I knew everything that I could you know had imagined everything I could see. That isn't the case. You really got to be there to be able to appreciate it. I'm glad I went, I'm glad you all helped send me. I think that you people from NASA and the United States can be proud. Let me introduce to you, story Musgrave.
+
+We had a fantastic vehicle. It performed flawlessly. As I said out in California, the only bell that rang, the only alarm that rang when I was sleeping, I woke up and thought I'm in a long SIM. That's the only time things like that happen. I put my head up, PJ looked over at me, and he said, go back to sleep. Story. In 10 seconds later, I was back sleeping. We had a great vehicle that performed flawlessly. We had a fantastic bunch of spacesuits, they performed flawlessly.
+
+We had a set of procedures to carry out an EVA, a rather ambitious EVA, with a lot of work to do. We did it, right about to the second, thanks to a lot of good help. We had a good satellite. We had a fantastic mission. I had three of the greatest people and the funniest people to work with that I've ever known in my life. And finally, I've got all of you, some of the finest people in the world to work with that ever happened. There isn't anyone else I'd rather work with, and I'm looking forward to doing it again.
+
+Thank everyone for coming out tonight. We're going to let the crew get on now and uh, get on home and get some rest. And uh, At least that's what that's what PJ said. Good night, everybody and thank you.
+

@@ -1,0 +1,417 @@
+This is shuttle launch control. This is the second launch attempt for STS-30 and the Magellan spacecraft to Venus. Uh the first one last Friday was stopped because of a problem with a recirculation pump uh on engine number one. That uh pump was changed. Uh they also changed a 4-inch recirculation line.
+CDR, NTD on air to ground one, how do you read?
+Your land clear, good morning.
+Good morning, sir. Got a good ship out there today.
+We think so too. And CDR OTC, we are at T-minus 9 and uh we will be in an extended hold at this time. 3 to tackies and we are waiting with you.
+Understand, sir.
+the only violation uh has to do with the uh cloud ceilings at the shuttle landing facility, uh which do not offer enough visibility for a landing should the orbiter have to come back to the Kennedy Space Center after launch. As launch director, we're uh we're always glad to have you aboard, Dave. I think we're getting this part of the countdown real good. Uh we just need to work on the last nine minutes in the weather. Well, y'all have done a great job tonight and you're handing them now but uh appreciate the efforts and now if we can just make the weather work, we'll go fly.
+Roger that.
+We have 54 minutes remaining in our window. It opened at 1:48 and goes to 2:52.
+Okay, as we uh as we wait on the weather here, uh in order to be in a posture to uh to uh get this thing off uh with short notice, if if it ends up that way, I would like to go on down to minus 5 minutes and uh we'll hold at uh T-minus 5 minutes uh if if we're still no go on the RTLS conditions.
+The countdown clock will start now in five seconds, 3, 2, 1, mark. And T-minus 9 minutes and counting.
+PLT, OTC. OTC, PLT, go.
+Configure fuel cell and central bus voltage switches.
+Central bus voltage, the fuel cell complete.
+Copy.
+Let's just go for orbiter access arm retract.
+They are hearing that the cross winds at the shuttle landing facility not uh quite as good as we had thought before. They were right at the margin prior to this, but there are some gusts out there now.
+PLT, OTC.
+OTC, PLT, go.
+Perform APU pre-start.
+APU pre-start in work.
+T-minus 5 minutes, 20 seconds and counting.
+APU pre-start complete. Great talk back on one and three, barber poll on two.
+Copy that, PC.
+And we're 66.2 dash at T-minus 5 minutes and holding. We can stay in this posture uh approximately uh another 11 minutes and 30 seconds and then we would have to uh pick up the uh the count uh if we were going to make the end of the window. Launch director, Cape weather on 212 over.
+Uh, go ahead, Cape weather.
+Uh, Roger, sir. We are scattered at the SLF, so we just got any update observation.
+We we copy that and uh we're looking at the cross winds now.
+There appears to be scattering uh of the clouds near the ends of the runway. This could be good news. Uh, what's important is that those clouds get out of there and that the they not be blown by winds that are too strong as they come across the runway. A flight uh director at Houston uh uh talking uh to the shuttle landing facility and the weather people here.
+Into the flight on 212.
+Go ahead, flight.
+Yes sir, we go for launch. We're ready to pick up the count.
+And uh, N. TD launch director, go ahead, sir.
+Uh, you have a go uh from the Mission Management Team and launch director also.
+Okay. PLS NTD.
+PL S go.
+Okay, let's pick up the count on your mark immediately.
+I copy.
+3, 2, 1, mark.
+And we're at T-minus 5 minutes and counting.
+APU pre-start complete.
+Perform APU pre-start and work.
+Copy that. CDR OTC.
+The liquid oxygen replenishing of the locks tank has been terminated. At this point, the liquid oxygen fill and drain valve is closed. T-minus 4 minutes, 22 seconds and counting. The SRB and external tank safe and arm devices have been armed.
+TDC, PLT, APU, start complete.
+Copy that.
+All three engines now being moved through a pattern to verify their readiness for ascent flight control.
+Let's go for ET LO2 pressurization.
+The ground launch sequencer has started to retract the gaseous oxygen vent tube or beanie cap on the external tank. OTC to flight crew, close and lock your visors and initiate O2 flow and have a good flight.
+T-minus 1 minute 50 seconds and counting.
+Okay, the crew has their visors down and it's oxygen activated, we are ready to fly.
+Copy that. The liquid hydrogen tank now at flight pressure.
+Minus one minute.
+The hydrogen burn igniters have been armed. They'll burn off any residual hydrogen gas under the main engines.
+Let's go for auto sequence start.
+We have gone for auto sequence start.
+Minus 20.
+The SRB nozzle gimbal profile underway.
+T-minus 15, 14, 13, 12, 11, 10. We have a go for main engine start, 7, 6, we have main engine start, 2, 1, 0, and liftoff. A new era for planetary science begins as Atlantis clears the tower.
+Houston, Atlantis, roll program.
+Roger roll, Atlantis.
+This is Mission Control. Good roll program confirmed.
+All three engines will be throttled back to 65% performance as the vehicle passes through the area of maximum dynamic pressure.
+Three engines now at 65%.
+Velocity now 1,000 feet per second.
+Atlantis, 2 miles downrange.
+Engines now throttling back up to 104% performance.
+Atlantis, go with throttle up.
+Roger, Atlantis, Roger go.
+Velocity now 2,000 feet per second, altitude 10 nautical miles, downrange distance 8 nautical miles.
+SRB SEP confirmed, velocity 4,300 feet per second. Atlantis downrange 35 nautical miles at an altitude of 30 nautical miles.
+Atlantis, performance nominal.
+That call lets the crew know that the SRBs and engines are providing the expected thrust.
+Atlantis, two-engine Ben Gurion.
+Atlantis Roger, Atlantis Roger two-engine Ben Gurion.
+Atlantis could make it to the transatlantic abort site on only two engines should that become necessary. Velocity now 5,600 feet per second, downrange 84 nautical miles at an altitude of 47 nautical miles.
+Atlantis, negative return.
+Atlantis, Roger. Atlantis Roger negative return.
+That call signifies that Atlantis could no longer return to the launch site.
+Atlantis now at 8,300 feet per second, downrange 172 nautical miles, altitude 56 nautical miles.
+Atlantis, press to ATO, select Banjo.
+Atlantis, go.
+The press to ATO call stands for press onto abort to orbit uh should that become necessary. Currently, all of engines performing at 104%. Atlantis velocity now 10,400 feet per second, downrange distance 246 nautical miles.
+Atlantis, press to Miko.
+Atlantis, Roger, press to Miko.
+Velocity now 12,000 feet per second, downrange 300 nautical miles, altitude 58 nautical miles.
+Atlantis, single engine Banjo 104.
+Atlantis Roger, single engine Banjo 104.
+Atlantis could now reach the uh landing site at Banjo in the Gambia on one engine.
+Atlantis, single engine press 104.
+Atlantis Roger, single engine press 104.
+Atlantis can press to orbit on one engine at 104%. Atlantis velocity 18,000 feet per second, downrange 510 nautical miles, altitude 56 nautical miles. Three engines begin throttling back to uh protect for the 3G limits on the vehicle. Velocity now 21,000 feet per second, downrange 600 nautical miles.
+Atlantis, Houston, we see a nominal Miko, nominal Oms 1 on time.
+This uh first Oms burn will put Atlantis in an elliptical orbit of 160 nautical miles by uh 65 nautical miles.
+Atlantis, Houston, with you through TDRS. Looks like a good burn, you're go for APU shutdown on time.
+Roger that, Frank. Burn was nominal. Thank you much.
+And Atlantis, your your Oms 2 will be nominal on time.
+That second Oms burn is designed to circularize the orbit to 160 nautical miles circular.
+Atlantis, Houston, we're back with you through TDRS West. How do you read, and do you have a burn report?
+Land and clear, Frank. Oms 2 was nominal.
+That's good to hear, congratulations.
+Thank you, sir. And Houston, Atlantis.
+Go ahead, Atlantis.
+Yeah, what did you guys show for an official GNTLO?
+Roger. It's 124 /18 :46 :58.975.
+Roger that, that sounds about right.
+Roger, did somebody win the pool up there? You had about 5 minutes left in the window.
+Yeah, we don't want to push it any closer than that.
+Well, Roger, we gave you about 4,000 lb of extra performance doing that, though.
+We're not complaining. We're really happy to be here.
+And we're happy to have you there. I'm sure it looks great.
+It's just gorgeous.
+As Magellan begins coming to life, as well as the inertial upper stage that will uh begin the journey for Magellan to Venus. The uh timeline that the crew and the mission control center and the folks at JPL and Sunnyvale are following. Uh everything going exactly according to plan so far.
+Atlantis, Houston, Sunnyvale confirms good pre-deploy checkout.
+Okay, Pierre, look good here, and I'm going back to Orbiter power at this time.
+Deployed listed at uh 6 hours, 14 minutes, 22 seconds MET.
+Houston, Atlantis, the payload, uh we're at 29 degrees on internal power.
+Roger that, Mark. Thanks.
+The inertial upper stage uh flight director declared the IUS go to support the deployment of Magellan, and Magellan flight director declared Magellan go. Uh the orbiter Atlantis is go.
+Atlantis, Houston, you have a go for deploy of the Magellan spacecraft.
+Copy, go for deploy, Pierre. And at 29 degrees, uh everything is really looking good.
+Okay, thanks, Mark, we're watching.
+Flight director Milt Heflin instructed Capcom to give the crew a go and said, "Capcom, it's time to let Magellan spread her wings." Sunnyvale is reporting tilt table motion from uh an elevation of 29 degrees up to 52 degrees.
+We see uh IUS is at 52.7.
+Thank you much.
+Magellan weighs nearly four tons, stands 21 ft high and is 15 ft wide. Uh and uh is perched atop the inertial upper stage, which will provide its uh initial propulsion uh on the fall toward the Sun and a rendezvous with Venus. All still going very well here in the control center in Houston and at the uh satellite control facility at Sunnyvale and at the Jet Propulsion Laboratory, where uh three teams of flight controllers uh are watching their data carefully. 25 seconds remaining before the deploy, the guidance navigation control officer reports uh good attitude, good rates aboard the Atlantis, which will provide a stable platform for the launch of uh Magellan.
+Magellan is deployed.
+Roger that, Atlantis.
+This is Mission Control Houston, Commander Dave Walker aboard Atlantis, confirming Magellan is deployed and on the way to Venus. Next major uh event will be the unfurling of the solar arrays aboard the spacecraft. 15 square yards of solar panels will power the Magellan inter instruments with more than 1,000 watts uh during the journey to Venus and the uh ensuing operations there. Uh that will be followed about 50 minutes from now by the ignition of the uh star 48B uh solid rocket motor on the inertial upper stage. Magellan has 24 thruster rockets used for trajectory correction and attitude control. They're clustered in modules on the ends of the outrigger booms that provide extra leverage in moving the spacecraft and save on propellant. While at Venus, uh Magellan will be kept in proper attitude relative to the planet by three spinning reaction wheels, they function as gyroscopes with one wheel for each of the spacecraft's three axes, pitch, roll, and yaw.
+Okay, Pierre, uh we watched the solar arrays deploy, they came out real quick. Uh they're all out, we've got the tilt table is currently down at uh minus 6 degrees and as you probably recall, we deployed on time.
+Roger that, Mark, we copy all that, good work, and we'll be handing over to TDRS East in about a minute, so we may lose you for a short time.
+The uh IUS burn will take place at a mission elapsed time of 7 hours, 18 minutes. At 6 hours, 59 minutes mission elapsed time, Atlantis moved outside of a distance separating the two spacecraft. Magellan and Atlantis uh separated now by more than 13.2 nautical miles. Therefore uh uh control of Magellan has now been transferred to uh Sunnyvale flight by Houston flight director Milt Heflin. Sunnyvale responded, thanks for the ride, Houston, and Magellan concurred.
+Atlantis, Houston, with you now through TDRS West. And Dave, and the rest of you folks, SRM1 occurred on time and is complete.
+That is wonderful.
+Atlantis, Houston, we have a good stage 1 and 2 SEP and SRM2 ignition. Well, we're as pleased as we can be about that.
+Roger that.
+Standing by for confirmation of uh the end of the second burn.
+Atlantis, Houston, SRM2 complete.
+
+Atlanta.
+We're glad SRM-2 is complete. And while we realize that it's too early to tell about the major portion of Magellan's mission, we're very pleased that it's gone so well so far and we're sure we're sure the JPL folks are happy, we're as happy as they are.
+
+Roger that Dave, and everybody else down here feels the same.
+And shortly as Magellan separates from planet Earth, she will come alive and begin the 15-month freefall to Venus.
+Atlanta, Houston, one more bit of news on Magellan. We've confirmed spacecraft sep from the SRM-2.
+That's great.
+It's on its way.
+Uh, you should be able to maneuver yourself to a pretty good party somewhere this evening.
+You can have the flight deck TVs if you'd like to for a little while here, and the Magellan guys might want to watch.
+Atlanta, Houston, we got a good picture on board now.
+
+Mark Lee and Mary Cleve on the aft flight deck. Mark Lee holding a sign that said Venus or Bust.
+
+Atlanta, Houston, good morning and congratulations on a super day yesterday.
+Good morning, Houston.
+We're up and around, everybody's feeling good, trying to find their toothbrushes.
+This is Mission Control. The flight day 2 wakeup music was the theme music from Superman in celebration of a super day from the planning team Capcoms.
+
+Okay, we completed the HUD, CoAS, Cal, DPO.
+Yeah, do you have any qualitative comments on how it worked?
+Yeah, we sure do. Ron did that particular data take, so I'll let him tell you.
+Okay, my subjective overall comment is that doing the HUD Cal is at least as easy, or probably easier, than the CoAS Cal. And the reason for that is I think it's be a little more granularity in the ability to dim the HUD than there is in the CoAS. And the green light background torque against is just a little easier.
+The results we saw between marks were probably better than what I'm used to seeing using a CoAS.
+
+Okay, we copied all of that. Thank you, Ron.
+And uh as a matter of interest, I went through it on the right side with him while we were taking the data. And the right HUD correlates very well with the left HUD. Hardly any uh difference in the in the marks. When he had one centered over there, it was centered almost perfectly over here as well.
+Okay, copy. Thanks, Dave.
+Pilot Ron Grabe uh gave us a qualitative type report on the uh Heads-Up Display detailed test objective. Uh that test uh consists of using the um Heads-Up Display as a star sighting device uh for IMU alignments. And the purpose of this test is uh to give some comparison between the use of the Heads-Up Display and the use of the CoAS or uh course optical alignment site.
+
+You can go ahead and take a middeck TV, and we'll show you FDA.
+Atlanta, uh Mark and Mary's getting some good middeck uh TV now.
+Okay, Mike, you can see we have FDA here. Uh we are starting the melt. There's a lot of indium in here, and we hope to make a solid crystal out of it. We're applying 90 Watts to it. Uh, it's been about 18 minutes, and we're still waiting for a melt.
+Okay, we copy. Thank you.
+
+Mark Lee and Mary Cleve operating the Fluids Experiment Apparatus.
+Okay, we've had it at about 90 Watts for about 20 minutes, and we just now started getting a melt zone.
+And what we're going to try to do now is uh reduce the power uh just a little bit, and maintain the melt zone about uh an inch. It will be about an inch long as the heater translates.
+
+Okay, we copy. Thanks for keeping us updated.
+The melt seems to be stabilized, and it's about 63 degrees, and uh 63 Watts, and we were up at about 70 Watts when we were doing this uh in a lab on a planet.
+Okay, we copy. Thanks, Mary.
+
+Houston, Atlanta.
+We see some pretty good lightning uh here over the African continent, and not sure with the attitude whether we're going to be able to get all that good of stuff that you might scan around with the bay cameras.
+Okay, thanks, Dave. We'll go ahead and do that.
+Opportunity for payload bay views of some more lightning to uh obtain footage for the mesoscale lightning experiment. Uh this experiment is designed to um help gain a better understanding of large-scale lightning by uh photographing it from space.
+
+at this part of the orbit about the Earth. One of the Earth observation sites that's called out in the uh list that the crew is using as a reference, that's the Halmahera Islands, formerly known as the Spice Islands.
+The Spice Islands constituted one of the original motivations for the voyage of Magellan, the original voyage from which the spacecraft deployed yesterday took its name.
+About a year and a half into the voyage, the crew finally reached the area of the Spice Islands and stayed in that area for several weeks.
+By that time, Magellan had been killed in a local political squabble in the Philippines.
+The Spice Islands were the original source of nutmeg to the Western world, and Mary Cleve and the other members of the STS-30 crew expressed an interest in photographing as many of the sites visited by Magellan's expedition as possible.
+
+Atlanta, Houston, good morning.
+Good morning, Houston, thanks for the great music.
+This morning's wakeup music was a military and academic medley. Beginning with uh Anchors Aweigh in honor of uh the commander, Navy Captain David Walker.
+Second in the medley was Wild Blue Yonder in honor of uh two graduates of the United States Air Force Academy, Pilot Ron Grabe and uh Mission Specialist Mark Lee.
+The third in that medley of four songs was the uh school song from Colorado State, the alma mater of Mary Cleve.
+The last in the four-piece medley, the uh alma mater of uh Florida State University, the uh alma mater of uh Mission Specialist Norm Thagard.
+
+Houston, Atlanta.
+Atlanta, Houston, go ahead.
+Yeah, Dave, we got a problem with uh the galley. Uh it dispenses almost any amount of water that it wants depending on uh or regardless of what you have set.
+You can test it at uh an ounce and a half or two ounces in an empty container, and the very next time you push it, it'll give you eight ounces that gives you a little trouble when you're trying to set up a meal here. And I was wondering if anyone down there has any suggestions of what we could do to get it to dispense the right amount.
+Mark, we're recommending you work Malfunction 6.6 Foxtrot on page 6-138. And that's for a galley dispensing more than selected volume.
+Okay.
+um number of the food products on board shuttle missions are freeze dried. They turn a little dial to select the number of ounces they want to add to the food package, either hot or cold water.
+Okay, final results of the galley IFM.
+We have hooked the contingency water dispenser with the needle valve on it to the potable water outlet at the back of the galley.
+We have to use that for uh all our smaller volumes than 8 ounces.
+The uh regular galley water dispenser still works and dispenses 8 ounces of hot or cold water, but will not reliably dispense any lesser quantity.
+And the rig we have now works fine.
+All we have to do is uh remember to reconnect the water hose we're using for hygiene to that chilled water outlet down there. Uh, and we're prepared to do that.
+So we are safe and comfortable and we're going to quit fooling with the galley except to eat.
+Okay, David, we understand that and uh you did exactly what uh we like you to. Thank you.
+A miracle.
+
+I ran around uh the middeck, and then also uh up under the flight deck, and did some earth observation just to show the capability of the camcorder. I think this is the first time we've really done uh showing all of its capability.
+The Institute of Higher Learning. Uh we don't have any Cornell or Stanford patches on board, only
+Okay, here we have uh your basic cow.
+It's an Angus cow.
+I'd like to say hello to all the farmers of America, one of your own is up here.
+Okay, here we have a Florida State University Pennant. Uh some of its better-known graduates are Norm Thagard and Bert Reynolds. Some people can hardly tell the difference.
+We got a picture of a couple of future space travelers that might recognize themselves.
+And this is an obligatory shot I had to make as I was going around the middeck.
+Copy that.
+And here we have one of the better-known schools across the country known for its academics and athletic program.
+Now we'll head up uh to the flight deck.
+You can see that it works uh pretty good both inside and looking uh outside at the same time. The lighting doesn't seem to bother it too much.
+Mark, we're getting great pictures down here.
+And let us know how Earth looks through the camcorder. This was just about sunset, but a little bit later on, we'll show when we get to sunrise, we'll show a little bit of the Earth, and you can tell us how that looks.
+Mark, that's coming across real, real clear down here, and the folks that have been around long enough say that that's clearer than they've ever seen any downline.
+And we're getting some pictures right now of uh a dog on a mid- on a middeck locker.
+Those are the two that are taking care of my house while I'm gone.
+And we've got some good payload bay uh, well we just had some good payload bay TV.
+Okay, you should be making it to. Yeah, should be Baja and then we'll work our way up to Texas Coast here in a little while.
+And Dave, we did it just picked out a couple of different features and then zoomed in on them to check out that capability. It looks pretty good through the little eyepiece, so I imagine it looks great when you get it up on the screen.
+It does, it looks real good right now, Mark.
+Okay, Dave, that's a very uh typical Baja, and then I come over onto uh in the Mexico, then we'll zoom in on a other cities and lakes and other features.
+Okay, David, now we're picking up the Texas coast. I think we're starting down by Brownsville, I can't exactly tell for sure, but we got uh Padre Island. We'll follow it all the way up the coast.
+And there you guys are.
+Mark, we had no idea what kind of a nice day it is outside.
+Yeah, we thought you'd enjoy watching this more than a bunch of numbers up on the screen, and here's the Mississippi River Delta.
+And then we'll run along uh the coast from New Orleans over to uh Florida, and then we'll run on down the coast to uh Tampa, St. Pete.
+Okay.
+These views uh are being
+Roger that, I think we just saw the SLS.
+And Atlanta, we're losing the picture right now because of blockage. But that was real good, we appreciate it. Those are great shots.
+
+Okay, Sven and Alie, you are in there uh HRAs on the middeck if you want to take the middeck cameras. Yes, the TV will be from the middeck of Atlantis showing crew members Norm Thagard and Mark Lee. And we've got a good picture of uh Sven and Alie right now. We're here to pump you up. Yeah, we got ya. We sure have. You are not David and Sweden, they have a word for it. And what is that? They call us. And David while you're working on something, you work on our go for EVA. I'm trying my best, Mark. Lee and Thagard are uh conducting a detailed test objective, prebreathing 100% oxygen wearing the helmet from the launch entry suit in combination with the helmet retention assembly device. That device allows you to get a good seal with the helmet, keeping in the 100% oxygen that they're breathing and keeping out the cabin atmosphere. The purpose of the test is to determine how much the oxygen flow into that helmet gets out into the cabin and how much it it impacts or adds oxygen to the normal cabin mixture which is usually about 80% nitrogen and 20% oxygen. The cabin pressure vent valve inside the air lock will be opened to reduce the pressure in the cabin down to 10.2 PSI. That process will take about 15 to 30 minutes. During that time they will continue to prebreath in the helmets. After they have completed one full hour of prebreath as a minimum and the cabin pressure has reached 10.2 PSI, then they will be able to take off the helmets. Okay, we're starting a deep breath so uh we just got our DPDTL and we're coming down. Okay, and we're following along. Atlanta Houston, we're about uh 2 minutes to TdrC still OS. We'll see you on the west side at uh 2 days 1 hour 14 minutes. Roger, we copy that. As we went OS, the cabin pressure reading was 13.3 PSI. It is uh going down at about 0.3 PSI per minute. Atlanta Houston, through TdrS West. It's an Atlantis, loud and clear. Data displays uh in the flight control room show that the cabin pressure has dropped down to 10.7 PSI. Atlanta Houston, uh we've been looking over your shoulder on the deep press and uh we see you right in the middle of the control zone, it looks good. It looks good to us too, David. Thanks. The reason uh controllers are anxious to have this information is that we don't have a database yet of how the prebreath conducted using the new type helmets affects the uh mixture of nitrogen and oxygen inside the cabin, so uh new data is needed to make sure that our procedures uh can be adjusted if if necessary for future missions with EVAs. Um, for FEA, we have another sample in and we're uh flowing back to 11 cm. Uh we'll try to record the flow tone. If you'd like to try and take some live TV with it, that's fine. Hey Mary, we'll put that in work. We hope to be getting some views uh of the activation of FEA and the taking of sample 4. Yeah, we got a good, uh real good picture of the FEA. Uh, we are heating now at 90 Watts. Uh so far we see no change in reflectivity and we're waiting for the melt to occur. Okay, we copy, heating now at 90 watts and we'll get some feedback from the FBA people. Looks real good to us up here. Okay, if you look right underneath the heater, uh we're starting to get a melt and we just got a snap from the medium. Okay, I'm not real close to a monitor. I'll slide over and take a look. Okay, we're backing off to 60 watts. Copy 60 watts. We're at 60 watts now. Copy. Okay Pierre, uh we're back up uh we're ready. If If the uh visibility is good enough with the resolution uh for Dr. Lynn to take a look at it. I'm ready to start this melt uh translating it if he thinks it's okay. Okay, Mary PI can concur, you can go ahead and start translate. Okay, thanks. That melt seemed to be shrinking a little too much, uh so I have the power slowly turned up. Now it's sitting at 63 watts and it appears to be stable. We'll keep checking it. Okay, thanks a lot, Mary. For uh Dr. Lynn, the uh melt looks like it's the width of the heater carriage and it looks real stable. Okay, Mary, Mary thanks for that. And they wanted to pass to you, I appreciate all your hard work that getting a lot of good data down here. Thanks, we appreciate that. Atlantis Houston, good morning. Good morning. This morning's wake-up music titled Fanfare from the soundtrack of the motion picture Rocky. Good morning, Atlantis. This is Rob Navias. For Captain Walker, you and your crewmates launched the first US interplanetary spacecraft in more than a decade. Now that you've had a chance to reflect on that, what's the real significance of flights like Magellan? What is the message Magellan conveys to the American people and how important is it that America be the leader in the exploration of the solar system? Well, Rob, we are very aware on on the Atlantis crew of the significance of Magellan. The uh the primary significance of course is that the human race is continuing its exploration of the solar system. The unmanned probe Magellan will give us more information about our closest neighbor, Venus and it'll be followed, of course, we hope, with much more extensive explorations of the other planets. This is Bill Harwood with UPI for Colonel Gravy. Uh before launch, you and your crewmates said the deployment of Magellan represented the the marriage of the manned and unmanned space program. What did you as a crew bring to this mission uh given NASA's plans to buy unmanned rockets for future interplanetary launches? In other words, what is the role of astronauts in deploying uh interplanetary type missions? Well, so far as Magellan was concerned, we had an extensive check out on orbit prior to deploying the Magellan. That's something that you can only do with a manned orbiter. Uh we had the option of bringing the Magellan back to Earth had things not checked out fully. Uh, so, prior to sending it finally on its way, we were very confident that we were launching a spacecraft that was fully up and ready. So, currently, the space shuttle gives us the best capability for launching probes. It requires a very high weight to orbit and and then then on to their final destination. The ability to perform the final check out and lower orbit before sending the probe on its way, that's an advantage that we will persist. For Major Lee, as the only first-time flyer on this crew, describe in some detail if you will, your impressions of launch and ascent. Did it live up to your expectations? Well, that scene was great. Uh, it's a lot like the simulator. We had some great training devices at Houston to train on, but the visual sensation, you just can't, uh, you know, you just can't simulate. Then your first look at Earth from all of it is an overwhelming experience. So, uh, it's been a, it's been a great time so far. This is Bill Harwood again for Dr. Thagard. Uh Sir Magellan has been described or justified rather as a as a means of learning more about Earth and its environment. Um, if you had to justify the cost of this mission to someone who knew nothing about the space program, what would you say? How will the Magellan probe or any other planetary probe improve our knowledge about Earth? Well, I think any increased knowledge about our solar system and our own planet is valuable. The fact is, without this information, I don't think that we'll be able to solve some of the problems that face us on Earth. Obviously, we're concerned about environmental issues and it's been pointed out that Venus is uh has a greenhouse effect. Uh, you would certainly like, among other things, to know whether what happened on Venus has implications for Earth. You need to learn the mechanisms whereby these things occur. If you know the mechanisms, usually those suggest uh preventions or cures. For Dr. Cleve, uh we're coming up on the 20th anniversary of the first human steps on the moon, and although Americans still support the space program, the national fervor that accompanied Apollo is apparently gone. How can today's space program be productive in the absence of a clear, long-range national goal into the next century? Well, I think it's important uh that the space program is now working um on a regular basis, and although it may you may not feel it's as spectacular as it was, hell, I feel it's spectacular. Uh it is providing a lot of data uh both about the planet and on this mission in particular about other planets in our solar system, practical information and also the ability to maybe do some interesting science in space. The the opportunity of using a laboratory that uh provides you with no gravity and the loss of that one constant is really invaluable, I think. For anyone who cares to answer, Admiral Truly said last week that he anticipates a bitter budget battle before Congress this year. Given the high cost of the space station and general fiscal constraints, how can the Bush administration keep both planetary science and the space station on track heading toward the end of the century? Well, I think that it all comes down to priorities. We, in the space program, of course, believe that the space program and its various in all its various forms, should have a high priority and we think that the spin-offs into our society and the technological leadership that the United States has had in this field over the last quarter century attest well to the value of the space program. Of course, the only real guarantee that the amount of funds necessary to continue this program is made available is the support of the American people. If the people want a space program that's first-class, then they funds will be made available and we'll have one. If the our leadership perceives that that is not the desire of the people, then in this democratic society, uh their priorities will be reorganized. We we hope and with your help, we we intend to communicate to the people that we believe it is very important. Thank you very much, commander, and good luck tomorrow. Thanks very much. We appreciated the opportunity to talk with you. Yes, Atlanta. Go ahead, Dave. Looks like GPC4 has failed to sync. Okay. Yeah, we see it's failed out the common set. Stand by. This is Mission Control. Ground controllers noticed at the same time the flight crew did that GPC number four failed out of the common set. Atlanta to Dave, can you tell us uh Do you have a pole fail on your SM CRT? That's affirmative. Okay, Dave. We'd like you to go ahead and continue working down through the procedure, which is going to end up taking up the uh bringing up the freeze dried. And uh it looks like it may be have been a GPC quit. We're still looking at it. Okay, we're getting ready to bring up the freeze dry right now. Part of the procedure that the crew is working through right now and the flight controllers are working through includes bringing uh GPC number three back online. It's been in the what the DPS folks call freeze dried. And it will be back online taking over the work of GPC4. Then they will take a further look at GPC4 and see what we can do to recover use of that computer. The uh flight computers are in a redundant set of four with a fifth computer as a backup. So, there is no direct impact to the flight. All the systems aboard Atlantis continue to function properly. Okay, Dave. We see good data. Now, we'd like you to go ahead and press on. Okay. Data processing systems engineer has asked that Walker do an an IPL which stands for initial program load again on GPC4. Atlanta, we've completed FSR8, seems to be working. Okay, Dave, we copy. Crew members have completed the procedure and have brought GPC4 back online, the initial program load worked. And uh the DPS officer reports that it is up and has joined the common set. Atlanta Houston, uh we've got all our Timbos back up to you and we should be back in the same config configuration we were before the GPC failed. Roger that. Thanks. Thanks for the help. You're welcome. At a first look, uh from the Mission Evaluation Room, it appears that it was a hardware problem. I just want to let you know that we got some good dumps off of GPC4. We're evaluating the data right now. Uh one of the options may be to do the IFM so that we can uh preserve tomorrow for entry day. Uh so what we haven't decided any of that yet, but what we would like you to do is maybe take a look at that IFM just to get a little head start on it if we decide to do it. Roger Michael under standard. We've already been looking at it. Okay, great. There is one onboard spare computer that could be used to replace number four. The in-flight maintenance would take a total of about four and a half hours if all went well during that procedure. Atlanta Houston. Go standard, let's go. Okay, uh Ron, we've decided to go ahead and do
+
+IFM. It was a uh transit hard hardware failure.
+Can I assume if we're going to do the IFM that we're just going to uh write off the rest of the flight plan and uh do the IFM and get ready to come home tomorrow?
+That's affirmative, Dave.
+Okay, we will terminate all our experiment activities this time. We'll get started on the IFM.
+Crew aboard Atlantis has been given the go-ahead to do the in-flight maintenance procedure, which is a GPC replacement.
+GPCs 1 through 4 are located in the mid-deck area directly behind the wall of lockers.
+And the uh procedure takes a little time because crew members have to remove some of the lockers.
+Okay, Dave, the Orbit 1 team is already left, and I'm going to go ahead and hand you over to Tammy. Uh good luck with the IFM. We'll talk to you tomorrow.
+Roger. Thank you, Mike. See you later.
+Atlantis, Houston.
+Houston, Atlantis, go.
+Yes, um changes to the GPC replacement replacement IFM are on their way.
+If you have any questions, please give us a call.
+Otherwise, you're clear to press on to the end of the procedure.
+And um we'd appreciate any periodic updates you can give us.
+Roger. We'll keep you posted.
+Houston, Atlantis, we're working through step five. At the moment the lockers have all been removed and we're proceeding with the cable clamps.
+Okay, Ron. We copy through step five. Thank you.
+And they're moving briskly through what is one of the more complicated in-flight maintenance procedures that we carry as a capability on the orbiter.
+Now uh getting ready to uh begin disconnecting um cable clamp brackets and uh getting ready to change out the machinery.
+Atlantis, Houston. We're now looking over your shoulder with the camcorder.
+We can get right in on things if we run into a problem. It's pretty convenient in that respect.
+It's Norm Thagard holding a flashlight on the uh work for uh Mission Specialist Mark Lee.
+Mary Cleave is marking the cables and uh harnesses as they come out.
+There are 10 which must be removed before uh they can proceed on to the next step in the checklist.
+Okay, I'm looking at step 11 here, and it's got a caution that the IOP or CPU can't be moved can't be removed for more than 5 minutes or overheating of other air-cooled avionics could result.
+I need some info as to how accurate and critical that caution is before we go any further.
+Um the 5 minutes is really a TACAN concern, and since that's not powered out, we don't see any problem with um using taking as long as 20 minutes.
+I understand the caution is really applicable to a 20-minute period.
+That's a firm, run.
+The crew has uh in practice sessions uh the in-flight maintenance people report uh done this change out in under 5 minutes uh with some ease.
+They have already replaced uh the uh central processing unit and uh are about halfway through the procedure.
+We're just putting in the second box now. We're a little bit busy.
+Okay, copy, Dave. Thanks.
+The crews are trained in IFM procedures uh quite extensively before they uh go on a mission and uh they've been through this before, although it was uh down here on Earth uh at Johnson Space Center.
+Uh some would tell you that it's a little bit easier to do this in um uh microgravity.
+Uh although getting a good foothold or a good uh position to hold your body in place while you do these kinds of things can also be one of the difficulties you encounter in space.
+Okay, both the boxes are in. The filters are still to be installed and the connections to be made.
+They have uh replaced both the input-output processor and the central processing unit, the two boxes which together comprise the GPC.
+About another uh 2 hours and 15 minutes left in the crew's day before they go to sleep.
+All quiet aboard the ship, final uh stages of the in-flight maintenance procedure for the uh general purpose computer change out underway.
+I tell you, we've completed the IFM.
+Okay, we're going to press on with the uh FRP 9 and I'm starting uh cabin stow in parallel.
+The crew is now going through steps uh in their uh onboard procedures for loading up the new computer and uh getting it ready to bring it up into the string of the other uh uh computers on board.
+Atlantis, Houston.
+Go ahead, Dave.
+Okay, we believe we have completed FRP 9.
+And Dave, we concur and we send our congratulations. Good work.
+Thank you, Tammy. The credit has to go uh to Mark and Mary uh who did a super job. A really super job on the IFM.
+And uh to Norm who is our dipstick expert, kept uh careful control over all the dipstick procedures.
+Super, Dave, and we wanted to point out this is the first time that such a change out has ever taken place on orbit.
+Well, we're glad it worked so well.
+And all of the efforts have been successful, all of the signatures from the computer uh have been right on the money and the data processing systems people uh feel like they've uh gotten a great deal accomplished in the last 4 and a half hours and sent their congratulations along to the crew.
+Also one note on your GPC4 failure.
+The hardware dump of GPC4 revealed a hardware problem in the IOP, which has been isolated to a machine check error indicating a memory parity error.
+Okay, thanks, Tammy.
+Okay, and again, thanks for the good work changing it out.
+Atlantis, Houston. We have a few words we'd like to share with you before we say goodnight.
+We are all listening.
+On behalf of the entire Orbit 2 team, we'd like to congratulate you on a very successful mission.
+The Magellan spacecraft is in excellent health and has currently traveled over half a million miles on its way toward Venus.
+The FEA, Amos, and MLE folks asked us to thank you for the excellent data obtained during the flight.
+And we especially appreciate all the camcorder down link.
+We wish you a safe trip home tomorrow and look forward to seeing you back here on Earth.
+Tammy, thank you very much. That was uh some mighty kind words.
+And on behalf of the whole crew, we want to thank the Orbit 2 team for their fine work on our behalf.
+And we'll see you all for some beer back on the deck.
+Okay, Dave, and we'll keep it cold. We wish you goodnight, and in an hour we'll be handing over to Ken and Steve for the planning shift.
+Okay, Tammy. Goodnight.
+Atlantis, Houston, good morning. It's time to come home. We have you uh through to car for the next 5 and a half minutes.
+We like the wake up music.
+Roger, thank you. Good morning.
+Yeah, especially Mary and Mark. It makes us feel like we're right at home.
+This morning's wake up music, a uh short clip from the Beatles' hit A Hard Day's Night, paying tribute to to their uh work-dog-like efforts in uh replacing that uh GPC 4 late last night.
+Atlantis, Houston.
+Go ahead.
+Roger, just wanted to amplify our plan concerning the crosswind landing DTO.
+Right now we've got you targeted to Edwards 17. However, if the crosswind is marginally low, we may go for Edwards 15 on the lake bed.
+If the winds go real high and get out of limits for the crosswind DTO, we'll probably be going to Edwards 2-3.
+Okay, we got all that.
+It is expected that the crosswinds at Edwards will be somewhere between 8 and 12 knots on runway 17, which would allow us to get um development test objective for crosswinds.
+We've uh had that as a hip pocket DTO for several missions and uh have never had the exact kinds of wind conditions necessary.
+The test requires a 90 degree crosswind component of 10 to 15 knots.
+Atlantis, Houston.
+Go ahead.
+Ending WCS deactivation, you have a go for deorbit burn. Your signal is Charlie, Dave.
+Roger that. We'll be leaving marks a long time.
+Roger.
+Capcom for entry Frank Culbertson and Mike Baker, as well as Commander of Atlantis, Dave Walker are all naval aviators who have previously been assigned to flying on air from aircraft carriers.
+And the signal Charlie term means that it's time for all aircraft to return to the carrier.
+Atlantis, Houston.
+Atlantis go.
+Roger, your configuration looks real good now. We'll be LOS about a minute and a half into the burn and pick you up on the west side and uh have final words on your runway selection at that time. We're still getting some variability in the winds.
+Okay, thanks.
+This is mission control. The propulsion officer reports that the burn has begun and both OMS engines look good.
+Atlantis, Houston, we're with you through TDRS West. Uh got a burn report?
+Burn was nominal, thanks.
+That's good to hear. We're looking forward to having you land.
+Thank you.
+Dave, the winds are still variable. We're going to hang on to Edwards 17 as long as we can and try to get the crosswind DTO there.
+However, we do have a chance of possibly doing a uh 10 knot or so crosswind DTO on 2-2.
+If 1-7 goes out of limits. If not, the wind is down the runway on 2-3 and we'll down mode to that if we can't get the crosswind on either one of those.
+Okay, we agree.
+We have uh until about 20 minutes before landing to make a firm decision on the exact runway.
+Atlantis, Houston.
+Houston, Atlantis go.
+We had a quick look through quad and you look great. Uh we're expecting another observation on the weather in a few minutes, and we should give you your final update in about 10 minutes.
+Okay, thanks. Thanks a lot.
+Presently, uh winds on both runway 17 and 23 are out of limits for our flight rules because of high gusts.
+Uh runway 22 is showing winds seven gusting to 15, which uh equates to a crosswind of about 8 knots.
+Atlantis now at Mach 14.
+Altitude 187,000 feet.
+Still getting a last-minute weather data here in mission control, and the flight dynamics officer is computing crosswind components.
+Atlantis, Houston.
+Atlantis, Roger.
+Dave, we like you to select Edwards 2-2 on area 15. We'll be going for the crosswind DTO. The winds right now are 270 at 10 gust to 16. That gives us 7 to 12 knots crosswind on 2-2.
+Okay, we select.
+The uh vehicle has been redesignated to runway 22, which is the concrete runway at Edwards.
+Atlantis, Houston, energy, ground track, and nav are go.
+Atlantis, Roger.
+And Dave, for info, we have a little light to moderate turbulence below 5,000 ft. Winds right now, steady state 8, peak 12.
+Roger that. And I'm sure you'll give me another call until.
+We'll do that and the altimeter 29er 9er 2.
+Velocity now Mach 9, altitude 160,000 ft. Range to the runway 318 nautical miles.
+Atlantis is nominal on energy and ground track. That means that it is traveling at the speed and in the area where expected in the predictions made by flight controllers uh during their pre-flight planning.
+Atlantis, Houston, with you through Goldstone. Take tack-in.
+Atlantis will go.
+Now traveling at a velocity of Mach 6, 136,000 feet altitude, 188 miles out from the runway.
+Atlantis, Houston, we'd like nominal aim point, expect a hack turn of 200 degrees. Speed brake should be about 15%.
+Roger, Frank, and the speed brake, thanks.
+Closed.
+Roger, thanks.
+Everything is uh looking good aboard the vehicle for a normal landing on runway 22.
+Atlantis, we'd like a state vector transfer to the BFS.
+Atlantis will go.
+As the vehicle uh approaches Mach 3, the air data probes will be deployed.
+These probes are located in the nose of the vehicle and they sense the air pressure related to the vehicle's movement through the atmosphere.
+Velocity now Mach 2.8.
+Atlantis, we like the air data.
+Roger, Atlantis, take air data.
+Flight Dynamics Officer reports that the Atlantis looks good approaching the heading alignment circle.
+Atlantis, Houston, one more state vector transfer to the BFS, please.
+Atlantis, will go.
+Velocity 800 ft per second.
+Altitude 37,000 ft, now 19 miles out from the runway.
+As Atlantis comes to uh 15,000 ft altitude, it'll be in the final approach phase coming in about 19 degrees on the glide slope.
+Atlantis, Houston, see you on the hack. You look gorgeous. Altimeter 2991. Latest winds 280 at 8, gust to 16.
+Roger that.
+Vehicle is almost perfectly lined up with the plot in mission control.
+Velocity now 600 ft per second. Altitude 14,000 ft. 7 miles from the runway.
+Atlantis, on glide slope, on center line. 280 at 8, gust to 16, 7 peak 12 from the right.
+Roger that.
+Atlantis now 5 miles from the runway at a velocity of 500 ft per second, altitude 6,000 ft.
+Altitude 2,500 ft.
+And Walker will be taking the vehicle into the pre-flare maneuver adjusting the glide slope to 1.5 degrees.
+Landing gear down and locked.
+Main gear touchdown.
+Nose gear touchdown.
+And Atlantis on her final rollout on runway 22 at Edwards.
+Convoy will be moving into place. It was of course previously located at runway 17, but it will be moving over to runway 22 to take care of all the post-landing activity following a safe homecoming.
+Atlantis, Houston, understand wheels stop.
+
+Congratulations, a nice landing, and you've extended the shuttle's reach far beyond Earth orbit now. Commodore Magellan would approve.
+
+Roger that. Thank you, Frank.
+

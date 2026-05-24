@@ -1,0 +1,751 @@
+T minus 1 minute and counting. Sound suppression system now armed.
+
+Hydrogen burn igniters also armed at this time.
+
+T minus 50 seconds and counting. Solid rocket booster development flight instrumentation recorders going to record mode.
+
+T minus 42 seconds and counting.
+
+T minus 38 seconds, orbiter computers positioning vent doors for launch configuration. Coming up on a go to take over control by the onboard computers and we have a go for auto sequence start.
+
+T minus 23 seconds and counting. Orbiter computers now in command of the countdown.
+
+T minus 15, 14, 13, 12, 11, 10, We have a go for main engine start. 6, 5, We have main engine start. 3, 2, 1, 0. We have solid rocket booster ignition and lift off of Challenger and the 10th space shuttle flight and the shutter has cleared the tower.
+
+Houston now controlling, roll maneuver. Roll maneuver confirmed.
+
+15 seconds.
+
+Good roll confirmed by mission control.
+
+20 seconds.
+
+25 seconds, preparing to throttle down.
+
+To 75% on the main engines.
+
+30 seconds, mark.
+
+Velocity 700 ft per second.
+
+Throttling down to 73% confirmed as the vehicle prepares to pass through the maximum aerodynamic pressure.
+
+52 seconds, velocity 1,100 ft per second. Downrange distance 2 nautical miles, altitude 4.7.
+
+Preparing to re-throttle the engines back up to 100%.
+
+3 engines down to 100%.
+
+Challenger, Houston, your go at throttle up.
+
+Roger, Houston.
+
+Challenger and crew giving a go at throttle up.
+
+1 minute 45 seconds, velocity 3,400 ft per second.
+
+Altitude 17 nautical miles, downrange distance 17 nautical miles.
+
+Standing by for solid rocket booster separation.
+
+Looks pretty interesting.
+
+Roger, PC.
+
+Solid rocket booster separation confirmed.
+
+Guidance converging as programmed.
+
+Challenger, Houston, first stage performance nominal.
+
+Roger, Houston.
+
+Nominal first stage of ascent during the SRB performance.
+
+2 minutes 35 seconds, velocity 4,700 ft per second, downrange distance 48 nautical miles, altitude 33 nautical miles.
+
+Return status and mission control. All positions uh give a go.
+
+3 minutes 33 seconds, mission elapsed time.
+
+Altitude 44 nautical miles, downrange distance 101 nautical miles, velocity 6,200 ft per second.
+
+Standing by for press to abort to orbit call.
+
+Challenger, Houston, negative return, press to ATO.
+
+Roger, negative return, press to ATO capability.
+
+That call-up from CAPCOM, uh Guy Gardner, indicates uh Challenger has passed beyond the point of being able to return to the launch site in the event of an abort. And the uh call-up for the press to ATO at 109% uh should an abort to orbit become necessary, it's uh the uh vehicle would continue at 109%.
+
+Roger, no more throttles.
+
+That call-up, the abort to orbit could be achieved with normal throttles as opposed to the 109% throttles.
+
+4 minutes 42 seconds, velocity 8,200 ft per second, downrange distance 179 nautical miles.
+
+Challenger, Houston, press to MECO.
+
+Challenger, Roger.
+
+Challenger given the call to press to main engine cut off.
+
+5 minutes 20 seconds, altitude 55 nautical miles, downrange distance 237 nautical miles, velocity 10,000 ft per second.
+
+3 APUs running normally, 3 fuel cells running normally, all engines at 100%. Standing by for the single engine towel call.
+
+6 minutes, altitude 56 nautical miles.
+
+Challenger, Houston, single engine towel capability.
+
+Roger, Houston. That is really a great ride.
+
+Roger, copy.
+
+Challenger, Houston, uh, we're negative reporting from here on out. You have a final westar go for deploy.
+
+Okay, we copy. Go for deploy. Everything looks good.
+
+Deployment in 1:30. We have some pre-arm and arm commands initiated by Ron McNair and Bob Stewart. Payloads officer verifies that PAM and payload are safe and armed.
+
+At uh 50 seconds from deployment, all the data continues to look good. Spin rate is stable. Currents, temperatures, voltage levels, all nominal.
+
+Dr. McNair, uh now, uh initiating the final command to the uh onboard computers. Deployment in 20 seconds.
+
+15 seconds, data still looks good.
+
+5 seconds to deployment. Uh, payloads officer reports a good deploy from the data.
+
+Westar's deployed. We'll be back with report in a few minutes.
+
+Copy that, and looks good to us.
+
+Hey Houston, uh Challenger.
+
+Challenger, Houston.
+
+Roger, Mary, uh tell all those Westar folks they really have a pretty bird heading out to be heading into geosynchronous orbit pretty soon.
+
+We have about 10 eyeballs and uh 5 noses all at the window looking.
+
+Copy that.
+
+Here in the mission control center, there is an update on the Westar situation. The payloads officer reports that NORAD has um has been looking for the satellite, uh first based on two premises that there had been no burn, and secondly, on the premise that there had been a full burn, and where that satellite would have been had either of those situations taking place. There was no satellite to be found.
+
+So NORAD is now looking at uh cases for partial burns, uh right now on the on the premise that it may have been a 10-second burn and then they'll they'll move that on up and and check all the possibilities through the full duration burn which uh nominally would have been 80 seconds.
+
+So at this point, we have no real new information to report on the whereabouts of uh of Westar and and what the situation is with the satellite itself.
+
+At mission elapsed time 14 hours 35 minutes. This is mission control, Houston.
+
+The Palapa deploy, scheduled for uh later in the day, has been rescheduled. That uh that delay is to allow the engineers who work on that payload assist module to review and see if they have any reasons for being uh less than fully confident, uh what they uh when when a similar piece of hardware uh used on the Palapa satellite uh uh would also be called into play.
+
+Final uh final adjustments to the teleprinter messages uh going up to the crew. Some uh small replanning moving up of uh some of the experiments that had been scheduled for uh tomorrow, uh moved up today, to today, so that uh uh they would not be missed, uh as we shift the Palapa deploy, uh one day.
+
+Oh, we got a great picture.
+
+Looks like it's a great place to go running.
+
+Yeah, Bob, uh first army officer in space, uh you know, likes to do a lot of jogging and all that, so Bob is jogging on the treadmill.
+
+Ron McNair uh is going to take some movies of him. He has the Cinema 360 camera.
+
+Ron is a, you know, very professional in his job of movie making. Uh we call him Cecil B. McNair.
+
+Hey, may have noticed, uh we do have a, this Cinema 360 cam camera, we do have an extremely wide field of view.
+
+This camera can take anything within 180 degrees by 360 degrees.
+
+What we're trying to do is document the middeck activity as we see experiments here in orbit.
+
+We're trying to document some of the food preparation, the running and all the activity uh that takes place during the course of a mission.
+
+Uh this movie will be put together uh for conservatory of planetariums uh uh the name of Cinema 360 and will be distributed to planetariums throughout the country.
+
+Anyway, we're very busy on the set today, as you can tell, and uh we have a lot of scenes left to film with the Cinema 360 both here in the middeck and in the payload bay.
+
+Okay guys, ready on the set.
+
+Challenger, Houston, if you could tell us the IRT status. We can't see it on the TV downlink.
+
+Hey John, it's deployed and uh it went out rotating with a uh very slight coning angle.
+
+Uh it appears to me that it makes about one rotation every 11 or 12 seconds.
+
+Roger that and what is its current inflation status, Vance?
+
+That's why I'm holding off on it. It doesn't it does not look to be like it's inflated yet.
+
+Roger, understand.
+
+Challenger, Houston, we just saw a large increase in radar signal strength. Can you tell whether or not the IRT inflated?
+
+Uh that's negative, John. It is not inflated.
+
+Roger, understand.
+
+Houston, uh you know had a blaze less, but it's just now inciting and the states are coming off.
+
+Roger, understand. Vance, that's really good news.
+
+Well, tell you in a minute. We still don't know if that's fully inflating.
+
+Roger, understand.
+
+Uh John, it looks like the balloon blew up. I'm tracking a very large piece of plastic. It's faded white on one side and dark all of the grabbed black on the other side.
+
+Roger, understand, uh Bruce, we're standing by for y'alls reports.
+
+Uh John, uh some question on my mind whether we should do the uh initial sep burn. Uh it isn't uh equivalent to a jettisoned IRT configuration.
+
+It's uh not a blown up balloon, it's something uh in between. Matter of fact, we're not real real sure the weight is still attached to the balloon itself.
+
+Vance, uh we'd like to go ahead and do nominal sep and uh we will think about it more and talk with you more outbound.
+
+Okay.
+
+Mission control, Houston, flight director Randy Stone deciding to do the nominal separation burn of 3 ft per second.
+
+Uh John, uh what you just saw on the radar was a spontaneous break lock uh and uh a reacquire in the GPC mode over.
+
+Roger. Thank you, Bruce for the report. Uh we currently do not have data.
+
+Uh It was about uh 19,500 ft or 19,600 ft when it broke lock, and locked back up all by itself again at about 19.8 and currently we're out to uh 20,700.
+
+Roger, and uh Bruce, we're going LOS here in 40 seconds from Yargady. We'll see you guys at Hawaii at 00+05, and here on the ground, people have uh worked up some numbers for you. We think you're going to lose it entirely at 26,000 ft.
+
+We'll be watching it closely, John.
+
+Roger that.
+
+Uh, we are getting data through TDRS, so we'll have voice shortly.
+
+Guidance reports that the Rendezvous Radar has a good lock now on uh a target at 47,000 ft, and uh he reports that with some degree of surprise.
+
+Challenger, Houston's with you with UHF at Goldstone. We would just for your information our overall plan here, and although it could change of course, through this teeterous pass, we would like you to leave the radar in the radar mode until it stops acquiring uh in an entire search pattern, and we will watch that for you, and um when that occurs, we'll let you know.
+
+Okay.
+
+Hey John, as you can probably say, uh, we're locked on again. Good and solid with the radar at a range of uh 51,000 ft now. It's been hanging in there for about uh about a minute or so.
+
+Roger, copy, Bruce.
+
+Uh John, we're about uh 12 minutes uh from F1. We uh could barely make it uh if you wanted to, but I understand you're probably uh concerned about other pieces that came off.
+
+Roger uh, Vance, understand and just again uh to clarify it, uh we have terminated the uh rendezvous and we just want to continue to separate uh but we're interested in getting what kind of tracking data we can get here including the star tracker.
+
+Okay, uh Houston, uh Challenger, we have star tracker uh locked on the balloon.
+
+Roger, understand, sounds good, Vance.
+
+Challenger, Houston is with you at Hawaii for 8 minutes.
+
+Roger and be advised you're coming through a little broken, and we'd like to tell you that the entire team down here would like to thank you for all the good data you're collecting, and letting you know that the radar, COS and star tracker sensor data will be a big help for future rendezvous planning. The preliminary close-in nav data shows the nav is doing what it is supposed to do.
+
+Okay, I'm glad to hear John. and I'll keep some more longer-range star tracker data for you. So.
+Roger that.
+
+Crew has acquired the IRT with the star trackers at a range of about 55 nautical miles.
+And after this uh sunset in space, there, they will then cease the uh rendezvous activities and disable the rendezvous radar.
+
+Challenger, Houston. Palapa is go for deploy.
+
+Roger, Jerry.
+
+Things looking real good, though, up here.
+Copy that, that's confirmed down here as well.
+
+Mission Control, 3 days, 2 hours, 9 minutes mission elapsed time.
+Approaching the beginning of terminal sequence start at 3 minutes before deploy.
+Everything continues to look good as leading up to the deployment in 2 and a half minutes, and Jakarta, Indonesia, reporting receiving data from the Palapa spacecraft as it is in the cargo bay of the shuttle.
+Vehicle pre-arm reported, my payloads officer.
+
+Deploy arm.
+
+And deploy fire.
+Challenger, Houston standby for deploy report.
+
+Okay, Jerry, the deploy was absolutely nominal, on time.
+Uh, cut. Uh, attitudes are roll 54.49, pitch 187 decimal 30, yaw 293 decimal 17.
+So rates, roll -0.001, pitch 0, yaw 0.
+
+Copy that. Can't ask for any better. Thank you, Bob.
+
+Any word from our ex-passenger there?
+Everything looks good to us so far, Bob.
+
+Final messages being prepared for the crew, before they're put to bed for the night.
+Flight controllers here reviewing those remaining items that they have to get all the systems squared away to allow the crew to get a full night's rest before the EVA activities in the morning.
+We have a statement here regarding the Palapa satellite.
+Hughes tracking personnel have confirmed that the Palapa satellite cannot be found in its expected orbit.
+
+We have about 37 minutes remaining in this TDRS pass.
+Although, the final verbal contacts with the crew are expected only shortly, and they will be put to bed for the night.
+Challenger on orbit number 54, approaching the western coast of South America.
+We're 3 days, 8 hours, and 31 minutes into this flight.
+This is Mission Control, Houston.
+
+Good morning, Challenger. Houston is with you.
+
+Morning, Janet. Uh, how do you hear?
+Roger, you're loud and clear.
+
+We, uh we just read the teletype the the news and, uh, it blows our minds.
+Roger. Understand, uh certainly as you know Vance, uh everything that the spaceship did and all the procedures that you did were absolutely correct and uh they were done flawlessly and, uh, it blew our minds, too and we're having as you can understand a lot of engineering assessments still going on.
+
+Yeah, we can understand.
+
+Okay, here comes the other latch open the stove.
+Okay, we're looking for you.
+Well, this is going to work.
+I need a little more room, Bob.
+
+Okay, it's open and stowed.
+Oh, it looks nice out there.
+
+Bruce McCandless should be completing the MMU donning and checkout procedure as outlined in his activity plan that that essentially is verifying that the tethers are clear and backing into the MMU so that the the MMU and PLSS latches engage with the MMU constraint.
+Pulling down the rings which have the effect of freeing those latches, just to verify that the it's possible to secure and release from that system.
+He will then attach a lap belt, configure valves and the power systems lights and levers on the MMU. Remove and stow the safety tether, put the arms in the flight position, and make some thruster firing tests with a variety of power on and off configurations.
+
+Challenger Houston with you at Hawaii for eight minutes.
+
+Oh, Roger. Jerry. How are you reading?
+Roger, Bruce, loud and clear.
+Well, that may have been one small step for Dale, but it's a heck of a big leap for me.
+Roger, copy that, Bruce.
+Okay, Bruce, we see you up board.
+You can feel the thrusters banging a little bit here.
+We could feel them when you were checking it out in the FSS, Bruce. Really.
+I sleep, you look real stable out there.
+McCandless has maneuvered the MMU to a position where he's looking right into the windows into the aft crew station in the flight deck.
+
+Okay, so check out there.
+Just for the record, I don't see any stars out here.
+Must be sunrise coming up.
+I have a lot of envious people watching you, looks like you're having a lot of fun up there.
+Well, it's working very nicely.
+Looks like daylight is upon us.
+McCandless and his man maneuvering unit constitute a separate spacecraft of their own, now.
+Well, you may get the name of the world's fastest human being uh going along there at 4 miles a second, Bruce.
+Looks like it's a real solid on uh stability.
+It really is.
+We've brought them there working on the MFR, getting it ready to go.
+I really don't want the windows lines hanging while I'm up there.
+We want you to get out and back before sunset, though.
+Sure.
+Well, while you're here we'll just read the pressures ourselves, Bruce.
+Here you go.
+Okay, here we go.
+Oh, this is really beautiful out here.
+We're getting a nice sun angle and everything.
+What do you got for an opening rate on me, about a quarter of a foot per second?
+Uh, we'll have to uh wait a little while till we uh get a good angle on you there, Bruce.
+We're estimating uh somewhere around 3/10.
+Oh, this is superb.
+I got a real good look at the main engines now.
+204 ft.
+I know I feel this thing was sitting on the launch pad just a few days ago.
+Yeah, it's a marvelous machine.
+297.
+A couple more feet to make it an official 300.
+Come on back in.
+Oh, this is great.
+305, 306, might as well come back.
+That was an awful quick 10 feet, but McCandless at the full distance, a little over 300 feet from the Challenger.
+
+That's 306. Okay, I'll come on back in.
+Bring the whole head standard.
+274, Bruce.
+Okay.
+268, McCandless returning to the Challenger.
+
+That's safe for me to go work on the T-pad is it, Matt?
+McCandless will be attempting shortly to attach the T-pad trunnion pin attachment device.
+That is one of the major EVA tools used to help the astronaut in the MMU attach himself to the trunnion pin, for example, on a disabled satellite.
+To be able to work on it.
+Astronaut Bob Stewart preparing the manipulator foot restraint, the space age cherry picker type device which will be used on the end of the mechanical arm, provide a work platform for astronauts to uh work on space construction or to attend to satellites.
+Bob, when you're ready, I'll go ahead and rotate so you can get it.
+Standby, Rob.
+Astronaut Ron McNair preparing to maneuver the remote manipulator system so that uh Bob Stewart can can get into the manipulator foot restraint.
+
+Okay, go ahead and rotate.
+Okay, Bob, I need you to translate with the nose to be you have enough room to get in there.
+I think there's enough room.
+Give it a try.
+Okay.
+Okay, Bruce, and Bob are ready to go ahead and recapture.
+I'll get out of the way, Bruce. Okay, go to the uh
+
+And and we need to get you back to the uh, uh MMU then.
+Okay, go ahead.
+Go joy it. Have a ball.
+Oh, look at the sunrise.
+Look at this sunrise.
+Astronaut Bruce McCandless will be working uh with the uh main electronics box, that's the simulated box of electronics similar to that found on the Solar Maximum satellite.
+This will be other opportunity to uh practice actually making the repairs that would be made on the Solar Maximum satellite on the next shuttle flight.
+Okay, Jack, Victor, McNair.
+Okay, move away, head over to the MEB.
+Okay, I'll get you over there and check your command once we're there.
+Yeah, okay.
+McCandless on the end of the arm here.
+Just remember one thing, one false move and blop.
+You are the one thing you're on the end of that arm, be careful.
+Challenger, Houston. It sounds like it's Ron's turn to get even.
+Yeah, this is beautiful. It really is.
+Okay, we're stopped. Let me rearrange the furniture here a little bit.
+As we see Bob Stewart preparing his man maneuvering unit for its flight and there he goes with the release.
+Right back on heading now.
+Okay.
+Stewart moving away now from the orbiter.
+They will use the KU band antenna for the tracking.
+Okay, we have you at 57 ft, Bob.
+Be sure and smile for them, Bob.
+Okay, your 143 ft.
+Okay, Bob, we have you at 180 ft now, opening at 0.6. We didn't have data for a while.
+Coming in, crazy, opening at rate.
+Uh, let's go up to 300, then come back.
+As you wish.
+Thanks, Bruce.
+Hey, Bob, uh we have you at 1 ft per second on the radar, you better pull this a few this way.
+225 ft.
+Bob, you there?
+Yeah, I got you, Vance, slowing down.
+Stewart about to reach the limit of his range.
+You know, I've got to tell you about the view out here.
+Now I've got time to look around.
+
+Really, really magnificent.
+Ditch.
+That's where the cinema 360 camera ought to be, is out there.
+
+288 feet .55.
+303 feet .65, want you turn around and come on back.
+
+How's my velocity?
+Bob, you're 250 feet, closing at .55.
+And Houston, we have the radar working good now.
+Roger, Vance, copy that. Thank you.
+
+We're looking good out there, Bob, you're about 140, 150 feet now, closing at .65.
+Eh.
+Hey, the radar broke lock around 70 feet, so I'll just eye ball it from here against standard, you eye ball us in.
+Just like coming down the helicopter, huh?
+Roger, flight.
+A mark 24 helicopter. You can load it different.
+
+Astronaut Bruce McCandless working at the manipulator foot restraint was asked to continue and complete his activities with that, while Stewart performs some of the additional check-outs of the MMU in the area of the cargo bay and then attempts to don the T-pad, the trunion pen attachment device and put that on the front of the MMU in preparations for his evaluation of that piece of equipment.
+
+Okay, Bruce, I'll take your command.
+Okay, I need to go lock some more, and forward a bunch.
+Go ahead and lock. Go ahead and fall it.
+
+It's a real useful tool for working. though, it seems to be nice and stable.
+Okay.
+Back to you, Ron, I need to go open my coordinate system.
+Say going up.
+
+The crew is a little over 4 hours into their scheduled EVA and will begin wrapping it up fairly soon. The flight surgeon here in Mission Control indicates both crewmen doing well. Uh, holding up very well to this EVA.
+Challenger, Houston for Vance.
+Go ahead.
+Roger, Vance. We see approaching termination of the EVA. We would like Bob to proceed with the normal stowing of the T-pad and the MMU. Preparing for closeout and entry into the airlock. We would like Bruce to do one set of force measurements off of the MFR and then for him to close out the MFR and prepare for closeout of the day.
+
+Okay.
+Hey, Ron?
+Go ahead, uh, Bruce. Could you take me over to the, uh, MMU location? Or take me to one of these sports evaluation locations. Your call.
+Okay, I can fix my place we just left. Take you back over there.
+Great, let's go.
+Okay, here we go.
+And yeah, where do I input the force on this thing?
+
+Bruce, I'll take your command. You can zero me in.
+Okay, what's going to be your first motion, Bruce?
+Tension. I'm going to pull the arm down into the in the plus C direction.
+Okay, Bruce, uh, we're going to look at the shoulder pitch check, and uh, we're going to tell you if we see a point 2 degree slip, uh, you tell us if you feel the arm slip, okay?
+Okay.
+Okay, uh, we have you in, uh, position to hold, so go ahead and put your force in.
+Expecting 23 pounds.
+We're expecting around 23 pounds before it slips.
+Okay, go with it.
+Okay. Very slowly.
+That's 20, 5, 3, 3, 5. Three Stop. Stop, that's it.
+Okay, Bruce, uh, give us a light for right now.
+And let me know when you're ready.
+
+I think I'm ready.
+Okay, here we go in line.
+10, 15, 20, 25.
+I can feel it go 25.
+Okay, that's good enough.
+Yeah, that's done, it's good, good, good.
+So when you're ready ready, we'll get you out of there.
+Okay, take me out to the season, so let's unload this truck.
+Okay, we're going to roll up center 360.
+
+The crew is concluding their EVA. Still outside at the moment, but they're about to get back in the airlock very shortly. They have been on the EMMUs for 5 hours and 40 minutes. During that long shuttle space walk, we had some considerable considerable list of the items planned and accomplished, including the first checkout of the manned maneuvering units in which the astronauts, in their space suits, with the MMU attached, moved away at distances of greater than 300 feet from the orbiter, in effect becoming individual spacecraft of their own, the first time that a space walk has ever been accomplished without the crewman being attached by a lifeline or tether of some kind to the parent spacecraft. Much of the work done here today leads up to the servicing operation and repair of the Solar Maximum satellite on the next space shuttle mission in April, in which the shuttle will rendezvous with the malfunctioning scientific satellite that has been in orbit since 1980, and make some repairs to an electronics box so that the satellite can control its attitude and perform its mission properly.
+
+Okay. Let's load, let's check it.
+Okay. Hair lock, repress value is closed.
+There, IRU should come to BGT.
+Inner hatch equalization valve one of them opened to normal, please.
+Okay.
+Challenger, Houston with you at Hawaii for another 6 and a half.
+
+Okay. We got that. You can break it off the air lock now.
+Okay, good show.
+And all of us on the ground want to send our congratulations for a super job today. We certainly enjoyed watching you and, uh, only wish we could have joined you.
+Uh, Roger, it was a real thrill, a real honor to be out there.
+
+We talked it over on board, and we decided that in order to share all the good deals, Vance and I get to go outside tomorrow.
+That sounds fair to me, Hoot. And for your information, you guys have got some company up there this morning. The Soviet's launched at 6:08 a.m. They're going up to rendezvous with the Salyut. And for your information, that makes an all-time record having eight folks in space at one time.
+Oh, how about that?
+Oh, great. It's really getting to be populated up there.
+And, uh, Terry, Rod says he's going to fight all of us to, uh, go out outside tomorrow. And I think he's tougher than any of us, so we may have to listen to it.
+Roger, I don't think I'd want to have to argue with him.
+Unfortunately, my suit's too small for any of them so I'm not worried.
+
+Okay, Houston, Challenger.
+Roger, Vance. We're go for EVA.
+Let's just come out open.
+Hey, it looks like another sunny day up here.
+Oh, hey, can you guys see out the window one of our operational flight wire brackets has come unpinned?
+Roger, Bruce. We can see it on the ground, too. Was the pin in there?
+Pin is there, and I will reinstall it but it's still a little startling.
+We agree with that.
+And, uh, Bob, we're seeing you getting into the prep on stow the T-pad assembly.
+Okay, man. We were taking a slight detour. I'm going to get Bruce the hammer.
+Okay.
+That articulating arm positions the slide wire and the slide wire is secure and not loose, and it doesn't translate into any safety problem for the EVA astronauts. But that's why Bruce McCandless referred to it as startling. Was because that could have caused a problem with closing the payload bay doors.
+And the hammer, the only thing you're going to need, Bruce.
+You know, breaks some.
+This is nice, not to be running so hard today.
+Getting to see the world.
+Yeah, it's one of them, then.
+That it?
+That one of them?
+Two of them.
+Making progress, sports fans.
+All hardware.
+This is just one maintenance task after another here on EVA. Really getting to show how you can fix things, wind, Bob.
+Yeah.
+The thruster seems to be working, Bruce.
+Yes, they do.
+Hey, we can feel them when I fly.
+Yes. Framo checks out.
+Okay, back up A, then B, and satellite stabilization.
+Okay. I can see cities passing by down out there, out there.
+Okay, great.
+See, the cities are big, big close, constellations.
+Oh, it's really pretty and it is really neat.
+And it looks real smooth, Bruce.
+It is.
+Hey, I can see stars out here.
+I'm going to look at the towns.
+Just so I got to get down to work and do the docking, so.
+You know there's no air out here, when you see a little tiny ice crystal, my says like a rod. Come by bearing at about 90 RPM not slowing down.
+Warning, curve on translation is quite steep. Here. It's a lot easier to translate today.
+Okay, that's one on the seesaw.
+Here we go.
+I'll make this one a hard docking.
+Okay.
+And Vance, I'm going to stow the battery bag back in the airlock.
+Okay, Bob, and after that, we're just waiting for Bruce to get back and service GM2 in the his MMU so that you can jump into it.
+I hope so. He promised me I could try.
+
+Did you get that in blood?
+Roger. You heard about avoiding verbal orders. I got out there, Bruce. I got one down here myself I'll get I'll fix you up.
+McCandless backing into the flight support station with his manned maneuvering unit, and shortly grasp the rings which are located on the arms of the MMU after he's tethered himself here, of course. And those pull rings release the latches that secure the life support system on his back to the man maneuvering unit.
+Okay, Vance, I did a docking that time with it. I would estimate it to be about a 15-degree, a 10-degree, at least offset and it connected and it did fine. The primary T-pad seems to work a lot smoother with a lot less force required than the secondary. It may be just because of the mass of the system moving in. But I'm going to make this one a hard dock.
+You look like you feel right at home with that thing, Bob.
+I do, Vance, it's really easy to fight. It's really a nice little machine.
+I just wish it had a little bit more gas in it. It's kind of like a P-38, you know. It's a great little machine, but it sure does need longer legs.
+Commander Vance Brand reporting the crew was about back on the normal EVA timeline and fairly shortly, they'll be moving on with the Hydrazine Transfer Device simulation.
+That will be using a special tool intended for future satellite servicing, to transfer Hydrazine into satellites, which have depleted their supply, which is used for attitude control.
+This test will be done using Freon with a die in it.
+Okay, Bruce.
+There goes the foot restraint into orbit.
+Here it goes.
+We can go get it.
+Houston Challenger.
+Go ahead, Challenger.
+Challenger.
+Uh, we lost our foot restraint. It's starting to float out. We can go get it if you wish.
+The Orbiter.
+Yeah, why don't you?
+Roger. We see it. Uh, how much, how much gas does Bob have?
+Of the Orbiter.
+Okay, you're call.
+I'm going to have the Orbiter go get it.
+Stand by.
+I'm going to go get it.
+You want me to go get it, or you want...
+Bruce is going to do a rescue scenario.
+We can wear hanging on the arm so I'm trying this thing. Can't get it.
+Okay.
+We can go get it.
+Challenger, Challenger.
+Go ahead, Challenger.
+Challenger.
+Uh, we lost our foot restraint. It's starting to float out. We can go get it if you wish.
+The Orbiter.
+Yeah, why don't you?
+Roger, we see it. Uh, how much, how much gas does Bob have?
+On the Orbiter.
+Okay, your call.
+I'm going to have the Orbiter go get it.
+Stand by.
+I'm going to go get it.
+You want me to go get it, or you want...
+Bruce is going to do a rescue scenario.
+We can wear hanging on the arm so I'm trying this thing. Can't get it.
+Okay.
+
+hello, Georgie. S on board.
+Give your hand. Coming back to you, Bob. Give me your hand.
+At the end of my tether, Vance. You're going to have to put in some minus X.
+I'm not completely out of the unit yet so I can come get it.
+You know, I'll just put it a little more minus X, Vance.
+Astronaut Bruce McCandless along the starboard slide wire moving back to pick up the free-floating foot restraint.
+Got him. Beautiful job, sir.
+At least, he won't be reentering in a few days.
+I hope it'll be reentering in a few days.
+The rest of us are planning too.
+Uh, Jerry, uh, Challenger.
+Go ahead, Vance.
+Okay, we thought it might get away from us and, uh, so we went and got it as you noticed.
+And, uh, I guess the procedure worked okay to go get it, to go get get things that get lost, which we happen to have in there our procedures.
+Roger that, Vance. Uh, we verified the procedure we didn't expect to use and you got some prox ops operations in that we missed earlier.
+It looks super. You got a big round of applause down here.
+That's what we brought him all along for.
+Crew of the Challenger with a little demonstration in uh, rescuing free floating objects.
+Challenger, Houston, uh, Vance, you can go ahead and turn your flight controller power back off. Be advised you used 150 lbs of prop.
+And the EVA folks say, "Bravo Zulu."
+Okay, good.
+Well, we delivered a ray of in the SGS 5 crew model that we pick up also.
+Mechanic is working at the special equipment storage assembly in which the hydrazine experiment is stored.
+Can we please go to step two and get some flying in there.
+Yeah, the uh, hydraze transfer method has gone very smoothly up until installing the, uh, multi-purpose tool and at this point, I cannot get the quick disconnect seated.
+I've gone down and put the restraint with as much force on it as I can, and it's something there and I just won't let the quick disconnect push into the fly.
+Okay, we copy that, Bob. We got a set of tool zeros. We'll start looking at it right away.
+Okay, just for static support on the hydrazine, the only thing hard part is remaining. Everything is seated. I just have to twist the the pre-on valve open.
+But the quick disconnect on the other end of the line will not stay seated.
+Okay, Bob, we copy all that. Uh, we're looking at it here on the ground.
+Uh, we don't know what else to recommend right now, Bob. We'll think about it and talk to you about it further.
+We'll go back and scratch our heads again.
+Yeah, this line will retain the pressure itself on it. Get that quick disconnect just to lead it to the uh to the pressure gauge.
+Uh, stand by, Ron, I'm about to Okay, fine.
+If I open the valve, the lines should stay pressurized by itself, but I just want to be sure. I can check it when I get to you. Get it back to Houston.
+Okay, Bob, we had a short drop there.
+We have no further ideas on how to troubleshoot your problem there.
+We think that the QD will hold the pre-on. You are go to open the valve.
+Okay, got to there.
+This is strictly a test, piece from a piece of test apparatus that's a problem.
+Nothing to do with the refueling to
+I'm opening the valve.
+The quick disconnect is holding.
+Roger, copy that, and we concur with your evaluation. Sounds like it all went very smooth.
+It went smoother than it ever had on the ground, Jerry, and for reasons that I will debrief on a tape tonight.
+Challenger, Houston, the President of the United States.
+Commander Brand, I'd like to say a good morning to you and your crew. I'm talking to you from California.
+I don't know exactly where you are. I know you're up there someplace.
+But you're all doing a fine job on this historic mission.
+And, I'd like to say hello to Bruce McCandless and Bob Stewart, who are sending us this spectacular television coverage of Vance's historic walk in space.
+Let me ask you, what's it like to work out there unattached to the shuttle and maneuvering freely in space?
+Well, it's had a great deal of training, sir, so it feels quite comfortable.
+The view is simply spectacular and panoramic and, uh, we believe that moving in its first time working unattached, we're literally opening a new frontier in what man can do in space.
+And, uh, we'll be paving the way for many important operations on the coming space station, sir.
+Well, that is just great. You've really opened a new era for the world in space with this mission.
+You've shown both our commercial partners and our foreign partners, who play an important role in this and other missions to come, that man does have the tools to work effectively in space.
+You, I understand, uh, you had an opportunity this morning, an unexpected or unscheduled thing, uh, maneuvering the shuttle and making a recovery of an object in space.
+Commander, Yes, sir.
+What do you and Bruce Gibson and Ron McNair do while Bruce and Bob are working outside?
+Well, we're we're pretty busy in here, uh, just keeping track of them. They they have a lot of uh tests to go through, and of course it is the first checkout of something that's rather futuristic, the uh, the backpack, the man maneuvering unit. So we're just monitoring them, making sure that uh, we don't lose sight of them.
+That's good.
+Say Hoot, I understand, uh, you must have a special interest in making sure everything's working right up there since your wife will be making the trip on board the shuttle this summer.
+Do you have any tips to pass along to her?
+Uh, that that's true, Mr. President. She is going up, uh, I bought in August, and that's why as you say, I've been trying to check everything out and make sure it's going to work well when she goes. That the thought of myself going up doesn't bother me but I think I'll be nervous when she goes.
+I can understand that.
+Do you think she'll enjoy it?
+I know she'll enjoy it.
+Well, now, could I ask, how are the experiments on board the shuttle working out? I understand that you have one dealing with, uh, arthritis and other experiments on board that may lead to advances in manufacturing and various kinds of material processing.
+So, Mr. President, the experiments are working out very well. We're very pleased with the results we're seeing and there's a lot of promise, uh, being demonstrated in all the areas you just mentioned and, uh, we look forward to getting them back on the ground and analyze and make some, uh, good use of these results.
+Well, well, let me again congratulate all of you on board the Space Shuttle Challenger.
+You're doing a fine job.
+Your commitment and courage on this historic flight, I think, are an inspiration to, to all of us.
+And I know that you have things to do and much more important than getting a telephone call from Earth, so let me just say to you, have a safe journey home and God bless you all.
+Uh, thank you very much for calling, sir.
+We uh, really appreciate it.
+It's my pleasure.
+All right.
+We're so proud to be a part of this mission.
+All right.
+Goodbye.
+Challenger, Houston, considering the time, we'd like you to go ahead and, uh, start closing down shop.
+Roger, Houston. Bob is in the Airlock and Bruce is just coming in.
+Challenger, Houston, is with you at Malla.
+All right, Roger Houston and we're passing uh lock alarm. Doing great.
+Beautiful show.
+Roger that and be advised the current Cape weather is clear and 30 miles visibility.
+Super. Hey, thank you, John for getting us that kind of weather.
+John Young.
+Roger that.
+Now below mach 10, mach 9.7, sink rate 170 ft/s, challenging about 500 miles from Kennedy Space Center uh, crossing the Gulf, now approximately 140 miles south of Mobile, Alabama.
+Houston track and look good from our side.
+Roger, we're looking at the data. Stand by one, Vance.
+Uh, tach and so, tactically I aid in navigation, the sync rate of 200 ft/s, the mach 6.3.
+Challenger, Houston, we're not locked up on the track. Your call on the tack ends.
+Okay, we'll take it.
+Altitude 133,000 ft, velocity Mach 5.9, uh, spaceship now approximately 50 miles off the coast of Florida, traveling at Mach 5.4, think rate of 316 ft/s.
+Challenger, Houston, transfer state vector to backup, your convenience.
+Okay, thank you. We'll do that.
+Altitude 110,000 ft, velocity mach 4.3.
+Challenger, Houston, energy ground track and nav, are go.
+Uh, excellent John, thank you.
+Vehicle in the automatic flight mode still.
+Mach 4 velocity, altitude 103,000 ft, range 74 miles from the runway.
+Challenger, Houston, take air data.
+Roger, take air data.
+Altitude 87,000 ft, uh sink rate of uh 270 ft/s, range 63 miles.
+Challenger now just east of Orlando at a range of 52 miles from the uh shuttle landing facility.
+Roger. You want to chase the 70,000?
+Roger, Jay.
+Thank you and catch us.
+Velocity mach 1.2, altitude 56,000 ft, range 29 miles.
+Challenger, Houston, energy and nav look good.
+Roger, John.
+Looking good here.
+Flight dynamics officer reports the energy level in the orbiter is perfect.
+Velocity is now subsonic at mach .9.
+25 miles from the runway, altitude 47,000 ft, there's the uh final turn into the hack.
+Pitch and, uh, roll, functions now in manual control. Vans brand now flying the ship.
+Whoa, on chases it's on the board on your left.
+Roger, Chase.
+Air speed 256 knots, speed brakes deployed, altitude uh 30,000 ft, range 16 miles to the end of the runway, uh sink rate about 250 ft/s.
+The hydraulic landing gear valves are open.
+APU performance uh still nominal. All APUs running at roughly 106% uh or 106% speed.
+There's this photo from the chase plane, T-38, piloted by Charles Justice of uh air Houston Aircraft Operations.
+With sink rate now less than 200 ft/s.
+Flight control in the automatic mode, 11 miles range, 10 miles from the end of the runway, uh air speed 256 knots, altitude 17,000 ft, playing 1.5 gs on the heading alignment cone, performing a left turn into the runway.
+On the ground sea- Altitude 12,000 ft.
+7 miles from the Challenger Houston, you look good rolling out on final calm surface winds.
+Air speed Roger, 184 knots.
+284 knots.
+Challenger now visible at uh Kennedy Space Center.
+Uh 6,000 ft altitude, uh 4 miles range, uh sync rate 170 ft/s.
+Velocity 284 knots, energy levels still nominal.
+Altitude 1,000 ft.
+1 mile from the end of the runway.
+Gear down, and uh touchdown.
+Space Shuttle's first Florida landing.
+Nose gear down, uh touchdown at 190 knots.
+Flight control reports steady breaking, and a wheel stop uh unofficially mission elapsed time of uh 7 days 23 hours 17 minutes.
+Okay, Houston, wheel stop.
+Roger that. Challenger, welcome home. Fantastic job.
+
+The way we think about the world has a huge impact on how we feel and what we do.
+We all have different perspectives, different values, and different priorities.
+And that's okay, because that's what makes the world interesting.
+But it can also cause conflict when we don't understand where the other person is coming from.
+The key is to try to put yourself in their shoes.
+What are they feeling? What are they afraid of? What are they hoping for?
+When we can do that, we can start to build bridges and understand each other better.
+

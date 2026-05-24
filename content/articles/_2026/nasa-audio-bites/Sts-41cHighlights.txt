@@ -1,0 +1,981 @@
+And we have a go for APU start.
+
+The firing circuit for the solid rocket booster ignition and rain safety destruct devices has been armed by the ground launch sequencer commands. The shuttle is now on internal power. T minus 45 seconds, just 14 seconds away from switching command of the countdown to the onboard computers.
+
+T minus 20 seconds.
+
+T minus 17, 16, 15, 13, 12, 11, 10, we are goal for main engine start. 8, 7, 6, we have main engine start, 3, 2, 1, solid motor ignition and liftoff. Liftoff of Challenger and the first flight to repair a satellite in space. We have cleared the tower.
+
+Houston controlling now. Roll program initiated.
+
+Good roll, puts the challenger in the proper attitude for its flight down range standing by the throttle down for a max view.
+
+Throttles down to 67% as challenger goes through its period of maximum dynamic pressure.
+
+Standing by the throttle back up as challenger passes through the speed of sound.
+
+Velocity.
+
+All throttles back to Houston go at throttle up.
+
+All throttles back up to 104% of a rated thrust.
+
+John you guys still there?
+
+Roger that grip, still with you.
+
+Okay well the view from here is a sight to get the.
+
+Roger that grip.
+
+You guys really look good going up the hill this morning.
+
+Yeah that is a nice day for a launch that we can just handle it that constabulary.
+
+Roger that.
+
+Well there was Gettysburg in mid-July and I just hit town and my throat was dry, I thought I'd stop and have myself a brew. Had an old saloon on a street of mud, there at the table, dealing stud.
+
+Okay okay I get it.
+
+We're up. Good morning challenger.
+
+Good morning Houston.
+
+Flight, we'd like to point out you're now starting orbit 41, Charlie.
+
+Could you say that again?
+
+Roger, we just wanted to point out you're now on orbit 41, Charlie.
+
+Or would you rather we play the wake-up music again?
+
+Happy to send the telekophonia to you.
+
+Roger.
+
+Challenger, Houston, we'd like to get the start trackers to track, please.
+
+Okay we'll do that.
+
+Challenger, Houston, we've got targets ready to send up to you and I've got pads ready to read to you.
+
+Okay, sure. We're just about ready to start dumping the gap on the air.
+
+Roger and, we've got a new state vector coming also and you ready to copy, I've got the NH1.
+
+Okay, if you still have it, we're ready to copy, uh, NH1.
+
+Okay, coming to you. It'll be Ohms, right.
+TV roll, all balls.
+Trims, plus 0.7, plus 5.1.
+Minus 5.0. 243903.
+TIG, 000.
+The VAP isol's are alpha closed, Bravo open.
+Note, for right Ohms engine failure, down mode to RCS interconnect from right Ohms, read back.
+
+And challenger, we're getting a good picture from the flight deck.
+
+Yeah, we're watching what you're looking at.
+
+Think I might want to take that Delta camera there and zoom it back.
+
+Okay.
+
+It's a big sunlight.
+
+Quite a blow that you got there.
+
+Challenger, Houston, we're on Bermuda now, uh, no longer getting TV downlink and be advised, Guide's ready to send you up a target state vector for the L-Diff deploy.
+
+Okay, we're with you. I'm going to put my radar to undo the payload retention lattices.
+
+Roger, copy that.
+
+Ready to open in about 22 seconds.
+
+Roger, copy.
+
+Okay, here everything open under 30 seconds and we did lose a ready to latch on number two as well as number one.
+
+Challenger, Houston, we'd like the payload retention logic power off on both of them.
+
+Okay, I'm going to need to get just a second to pull up one of those things.
+
+Okay, just a second.
+
+And, uh, challenger, we think we're approximately 15 minutes away from going through the auto trajectory area, should be able to get your a man's view.
+
+Okay, copy that. We won't be able to do any commanding until Guam, which is, uh, 1+34.
+
+Yeah, that's fine, work out.
+
+This is Mission Control, Houston.
+As the Challenger crew continues checkout of the remote manipulator arm, and birthing, and unbirthing and re-birthing the L-Diff payload.
+This, uh, 21,000 pound structure is, uh, 14 x 30 feet, and contains some 86 trays of, uh, various types of materials in, uh, materials and structures, power and propulsion, science and electronics, and optics fields, or disciplines, representing a total of 57 individual experiments that are being managed by 194 principal investigators around the country and around the world, actually.
+The, uh, L-Diff will be extended on the remote manipulator arm.
+The end effector ungrappled from the grapple fixture on the L-Diff, and the orbiter simply backed away, leaving the L-Diff in its own orbit, and stabilized in a what they call a gravity gradient mode where the largest mast will point continuously toward the Earth, as it stays in orbit over the next nine or 10 months until retrieval.
+This mission is also one for the Guinness Book of Records with the size flight crew aboard, 3,305, that is five humans and 3,300 honeybees.
+
+Okay, the auto sequence, uh, just terminated and, um, being in course, I guess, the washout sphere uh managed to reach, um, the point at which it quit, um, in a reasonable time, unlike earlier.
+
+And Houston, Challenger, we are, we're here, about 25 minutes ahead. We'd like to go ahead and maneuver the orbiter to the deploy attitude, unless you guys have something better for us to go.
+
+Okay, standby.
+
+Challenger, Houston, uh, we're go to go to the attitude. We'd like to make sure we have control Excel set to two.
+
+Yeah, we'll check all that.
+
+L-Diff deploy, Mark.
+
+Okay, Houston, we're back in it.
+
+Challenger, Houston, through Hawaii for 10 minutes. We're getting pictures and I think I copied, uh, deployed and backing away.
+
+It's gone down air care and uh, there was, uh, that is a rocket drop on her in just about as big.
+
+Roger that. Thank you very much. All the Langley folks are, uh, cheering downstairs and we've got our L-Diff buttons on up here.
+
+Challenger, Houston, TJ, we'd like a verification of the deploy time, please.
+
+It was on time.
+
+Copy. Thank you.
+
+Got a sweet lock on the radar. At 70 feet.
+
+Roger, that sounds real good to us.
+
+This is Mission Control, Houston. Mission elapsed time, one day 17 hours 24 minutes. Challenger on orbit number 28, uh, all, very quiet. And, uh, presently, uh, we, uh, are, uh, trailing Solar Max, uh, at a position, uh, roughly 200 nautical miles behind it, and, um, in about nine nautical miles below the, uh, orbiting Solar Max satellite.
+
+Challenger, Houston, we've got a new orbiter state vector we'd like to send you.
+
+Okay, Guy, uh, we're ready.
+
+Okay, it's coming to you.
+
+Challenger, Houston, Solar Max is ready for rendezvous.
+
+All right, sorry please.
+
+Got your congratulations to the math folks, I think they knew where the target was.
+
+Roger that.
+
+Challenger, Houston, with you through Yargadi.
+
+And, uh, guy, we picked up the visual about, uh, 10 minutes after the start tracker pass began, and about, uh, 15 minutes, let's take, uh, coas Mark, that was a range of 600K.
+
+This is Mission Control, Houston. Uh, Mission elapsed time, one day 19 hours, 51 minutes. Mission Specialist Terry Hart, uh, reporting, uh, visual sighting of the Solar Max satellite at a range of 600 kilometers.
+
+Challenger, Houston, we have data with you through Aurora.
+
+Okay, well, quickly.
+
+And, if you're not talking yet, we thought we could take it, Mark, the visual on the target at about 100 miles.
+
+Roger, understand you could have taken Marks, had you need to, at about 100 miles.
+
+You see this first target, uh, Guy, at a ET of about minus 20 and then the coas, it would have been minus 30.
+
+Okay, sounds good. Thank you.
+
+Challenger, Houston, uh, for your information, the PI has locked on to Solar Max.
+
+Okay, uh, like great. It looks like the star tracker uh picked up a star or something the first time, but we think we may be on the target now. And, Guy, on this path, the, uh, target is bright enough to mark through the coas. Um, right, bright in the acquisition.
+
+Roger, copy.
+
+This is Mission Control, Houston. Rendezvous radar shows Solar Max to be 17.3 nautical miles forward of the, uh, orbiter Challenger.
+
+And, Houston, Challenger, uh, be advised, we're configuring 3BA comma at this time.
+
+Roger, copy.
+
+This is Mission Control, Houston. Current range from Challenger to the, uh, Solar Max satellite, 1420 feet.
+
+It is coming down.
+
+And, cracking the hatch.
+
+Maybe not.
+
+It's going to re-down a little bit more.
+
+And, that's a crack.
+
+It was, it wasn't down all the way.
+
+It is going to lock.
+
+Okay, latch is closed and latched.
+
+Down in the open position.
+
+I got to come back in now and get the power systems.
+
+All right.
+
+You got to get the tether, maybe?
+
+Yeah, that sounds like a good idea.
+
+Hi, satellite out there.
+
+We're pulling back.
+
+600 feet, closing at 0.9 feet per second.
+
+Hey, I'm heading back.
+
+Hey, are you going to have the arm out of here, TJ?
+
+What that, off? I said, you going to have the arm out of here? Oh, get the we'll get it two other feet in the uh quad na Okay, make sure it going to hurt to get over this, okay? 
+All right, my bad.
+
+Oh.
+Hello.
+Nice to count with you by the way, nice to put it over here. You pretty good? Yeah, I'm pretty good with that, TJ.
+However, if I hurt and get over your arm here, without uh, I guess I can wrestle my way over. What you got to stay down easy, you just climb up on.
+Hey, take your time.
+Challenger Houston, the Solar Max is ready for capture.
+Roger, we capture, copy, ready for capture.
+Explaining this jets grip will make this a lot easier.
+Why would you want to have anything to work on.
+400 feet, 0.3 feet per second.
+Okay, let's go. Let me release the launch.
+Okay. The vent valve open up in the hole.
+
+I couldn't say trying to get the other one.
+Range 300 feet, closing at 0.35 feet per second. EVA crewmen going through the MMU activation and check out, removing the launch bolts.
+Which hole the MMUs in position during the ascent phase.
+Are you getting it out of here?
+
+I think you that any more fine that it is the one that?
+Where am I going, here?
+How the footprint is going to keep this guy over the wall here?
+Or you just down this way.
+You get down.
+Yeah, that's it.
+Yeah, thank you. Just for your information while this is going on. We have to use more off the jet so uh just what you movement to the bay.
+About 80 feet out.
+Challenger, Houston Guam for four and a half.
+Okay, sure.
+Um, we're sitting here pretty stable and uh hostile back by the FSS and uh they keep flying around this back out there.
+It's a pretty good fly and machine you got here. You could tell that burst hand switch the thermal and the light the back.
+Roger, I can see the smile on your face from here.
+I bet you can.
+Here comes the sun, guys.
+There.
+It's about the best I can lay on my back.
+Wow, look at that.
+Yeah, this is neat looking.
+It's, they made me
+I like to see that.
+We got to go.
+Okay.
+Okay, I get my last little picture over right there. Have a good one, guys.
+Thanks, legs.
+We'll meet you at that.
+That's it, go one potato, two potato.
+Nelson on his way in one hour and two minutes.
+
+If you're moving, patch your name.
+Oh, you're doing okay.
+Okay, looking good.
+
+I'm going to remove a level of the left, is that okay with you guys?
+Stay ready.
+Okay, pinch it sitting out there out there to about 140 feet at this time, okay.
+Looks like you might need to come up
+Are you talking?
+Yes, Roger. Just a couple up. Okay.
+
+I got it sitting high on the orbit gradient now.
+That was pretty.
+Looks like you need some more, but you don't feel have much motion from us at that point.
+Well, there goes the ATF buy of some the least 6 minutes for comfort after the.
+All right.
+Sorry, I'm handling that.
+Are they looks like the rotating, but?
+I can see it's about a max wobble because it's casting the shadow on the solar ring.
+Yeah.
+Okay, and you go well, low.
+
+I don't think it's talking to you guys.
+Okay, we're using like eight, between eight and eleven right now.
+
+Probably uh just a little brighter now I think.
+Challenger, Houston. Catching you in a hand over, is it okay to use Delta?
+Okay.
+That's all so much pretty shiny.
+Oh, it looks good from here.
+No cloud, huh?
+Damn.
+Satellite looks in excellent condition.
+Didn't work.
+
+You think you think you can?
+
+It might fit, squired the way I'm in the dock.
+
+Or your picture down a little bit there.
+Okay.
+Did you re read, read it out?
+Thank you. Read that.
+Yeah, it's just the satellite catching into me a little.
+Yeah, looks like it is.
+Got to check the contact on the back side.
+I clear.
+It looks like you might have bucked the little bit that the start that.
+Yeah.
+Yeah, that's true, it did fire that time.
+And it shows it didn't fire.
+Okay, can check it.
+
+You start to.
+Big shot, too.
+
+They didn't. It didn't fire again.
+Okay.
+I'll back off and check him out then.
+
+Like, I stood a bit bit off.
+Yeah, you did.
+Thank you, that they did check okay when you were we checked him out.
+They see the little bit in the uh chuck there, but they worked.
+Be careful again, thank you. There's no way you can break it.
+Okay, do you want to re-attempt it again or you want to come on back in?
+That's off on the shoulder way now.
+I'm all clear.
+
+Hey, guys, really got some weight going on that satellite.
+How are you doing?
+
+One more try.
+I got uh 1500 per side.
+
+Okay, you thought that started that rotation about to your left now and uh we're good. We really need to stop that to do a rotating grapple. Uh is any way that you think you can do it with your hand? If you can't get a grapple to it, yeah.
+I'd rather do that.
+I'm with these weight out here.
+Okay.
+So that's the way you're going to have to try to do that and uh
+I guess the one that the weight to your left or something if you can.
+
+Okay, see what you thought to the end of it.
+Pardon?
+Yeah, you could just walk one out to the end of that orbit.
+
+So, if you get that going at hole, somewhere like that, that be fine.
+That's what you hold on to it with both hands on that one.
+That's it.
+Some of this terrible.
+I'm moving this table.
+It's looking pretty good as far as this is concerned.
+Nelson attempting to manually stabilize Solar Max by grabbing the end of the solar array panels.
+Apparently, the trunnion pin adaptor did not latch properly.
+That's the role.
+Yeah, this.
+Now, let's get a little bit of tilt in there again.
+Can you walk towards the uh the middle of that array uh, that you're holding on to to your left?
+I'm meeting you there.
+Yeah.
+Got a cycle zero power first.
+Wait, I'm going to put some roll in and I'm going to behind, I'm going to do that.
+Come on. Is that what you want?
+No, that's not what I want.
+Yep.
+Five probably the other thing.
+Okay, it's uh started to join again. Now that you grab hold of it again, it is going that hole again.
+Let's to grab a hold, going that hole again.
+Okay, I think you think you'd be doing a better job if you went in and grab all of the end of actor?
+Grab a little bit just.
+Can you read this?
+Yeah. I know.
+Okay. Grab about it. I don't know if I have enough gas to do that.
+How much you got left? You got left.
+We had uh 1200 on one and then yet 1200 on both of them.
+I guess I okay. Come on back in, thanks. Which way the movement now?
+We head it backwards towards the rotating around.
+To your left. Continue left.
+I mean we chose a satellite.
+Really?
+That will race are in the satellite.
+They were fairly high, but come back to the rotating around to your left.
+Get it down.
+Okay, yeah, I'm safe.
+Mission control Houston. That last burn was a good one.
+We're at an altitude of 265.2 nautical miles now.
+Trailing Solar Max by about 30 miles.
+And we're about uh right at 5.2 nautical miles below it.
+Next maneuver is uh terminal initiation maneuver.
+That will take place at uh 3 days 21 hours 49 minutes, or in about 55 minutes from now.
+We're currently at mission elapse time 3 days 20 hours 54 minutes, and this is mission control Houston.
+Challenger, Houston. We'll be handing over to TDRS in less than 2 minutes.
+Solar Max is ready for capture.
+Their coning angle is less than or equal to 15 degrees this time.
+Rotational rate is approximately 1/2 degree per second and we would like UHF re-enable, please.
+Uh, UHF is re-enabled. We copy all that gear. Thanks very much.
+200 feet, closing in point two.
+100 feet, closing in point two five.
+Challenger, Houston, a minute and a half to all this.
+TDRS, uh Solar Max is starting to see a little bit of uh blooming pinchment.
+Roger, Roger.
+We got it in the cargo bay uh pretty much now through and uh it looks stable enough.
+Roger, copy that. We know we're in good hands and use nice soft gloves.
+You are the best.
+Remote arm is now in motion.
+This is Mission Control, Houston.
+Loss of signal at the tracking satellite.
+The remote manipulator arm was in motion at the time of loss of signal.
+So, hopefully at Yargody in 6 minutes,
+
+We should have
+confirmation on whether the first grapple attempt was indeed successful.
+
+A slight amount of coning over a long period with the Solar Max satellite. However, the rotation is still hanging in at 0.5 degrees.
+
+Rotation, 0.5 degrees per second, rotation rate.
+Which is what the crew has been training for.
+
+For a rotating grapple.
+
+Challenger Houston, sending by through Yagadi.
+
+Okay. We've got it, and we're in the process of putting in the FFM.
+
+Outstanding.
+
+Forward of the RC The thruster remaining is 41 Charlie.
+
+Roger, copy that.
+
+Challenger, the President of the United States.
+
+Hello, Bob.
+
+Good morning, Mr. President. Thank you very much for speaking with us.
+
+Well, these calls between the two of us are becoming a habit.
+I promise you, though, I won't reverse the charges.
+
+Over?
+
+Well, I don't think I can afford them, Mr. President.
+
+Well, once again, I'm calling to congratulate you and the rest of the crew
+aboard the Challenger there on an historic mission.
+The retrieval of the Solar Max satellite this morning was just great.
+And you and the crew demonstrated once again
+just how versatile the space shuttle is
+and what we can accomplish by having a team in space
+and on the ground.
+I know you'll agree that
+those folks at the Goddard Space Flight Center
+did a fantastic job
+maneuvering the satellite for you.
+
+And Terry,
+I guess you made one long reach for a man this morning when you
+snapped that satellite with the 50-foot robot arm.
+
+George and Jim,
+you've done fine work as well. The pictures sent back of you working in space
+are spectacular.
+They're also a little scary for those of us that are sitting comfortably
+anchored to the Earth.
+But um
+Bob, I understand that satellite you have on board
+would cost us about $200 million to build at today's prices.
+So, if you can't fix it up there,
+would you mind bringing it back?
+
+Over.
+
+Well, we, uh
+We're going to do our best uh to repair it tomorrow, sir, and uh if uh
+for some reason that is unsuccessful, which we don't think it will be, we will be able to return it.
+Uh, we certainly concur with all of your remarks.
+The
+Challenger and its sister ships are magnificent flying machines and I think that uh they can
+make a
+significant
+road into space
+with regard to repair or servicing of satellites and I we believe this is the initial step.
+The, I would also like to concur with your remarks regarding the
+the people at the Goddard who uh managed to put the satellite back in the configuration that we could retrieve it after the little problem we ran into the other day.
+Uh those people and the people at Houston and everybody that worked on it
+really made uh this recovery possible. It is a team effort all the way.
+Uh, it so happens we get to the fun part.
+
+Well,
+let me tell you,
+you're
+all a team that has made
+all Americans very proud
+of
+what you're doing up there
+and what the future bodes for all of us with regard
+to this opening up of that great frontier of space.
+And uh,
+seriously, I just
+wanted to again say how proud we all are of all of you
+and congratulations to you all.
+Have a safe mission,
+a safe trip home,
+and God bless all of you.
+
+I'll sign out now, so get on with your chores.
+
+Thank you, sir.
+
+Yes, you. Thank you.
+
+Mission Control, Houston, we're about 6 minutes from acquisition of signal through the Tracking and Data Relay satellite.
+Expect to have the crew outside in the payload bay when we get there.
+
+Currently at mission elapsed time 4 days 19 hours and 1 minute.
+This is Mission Control, Houston.
+
+Yeah, that's okay.
+Either way.
+
+Okay. Right.
+
+I should follow them.
+
+Okay.
+
+Look at this.
+Just join yesterday.
+
+Okay, I go.
+
+Okay, I'll keep my credit right on it.
+
+Mission Control, Houston, the airlock is depressurized.
+Nelson and Van Hoften venturing out into the payload bay now.
+Communication we're hearing is uh, Intercom chatter between the two.
+Also the crew inside Challenger.
+
+Must be crazy to look down and see them moving out there.
+
+That's your tension.
+
+Tell them I'm going back inside for a minute to get my tool.
+
+Looks like those L-belt guys make handy handholds.
+
+He sure is.
+
+Hey, DJ, be ready.
+
+You bet. Let me know when you're ready to capture.
+
+Okay, I'm pulling out now.
+
+All right.
+
+I just slide your end up a little bit there.
+
+There you go.
+
+Hey, capture laser.
+Okay, and the factor going to manual, Mark.
+
+Capturing.
+Mark.
+
+That's good. Got it.
+Close and capture. Let me know when you're ready to uh rigidize.
+Right. Rigidizer.
+Okay, rigidizing. Mark.
+
+Mission Control, Houston, Van Hoften now in the manipulator foot restraint.
+
+Try to step up a little bit for mark and a little bit more towards the satellite.
+Get plenty of room towards the satellite, you just...
+Back up for it a little bit.
+
+Okay, step.
+
+I don't know, maybe that training pen maybe uh
+I don't know, it sure looks pretty normal to me.
+
+For an inside depth.
+
+Okay, hold it there.
+
+So,
+start having any trouble back yet. I don't know.
+
+That.
+There's any green lights but I don't know if they're
+All right, I just try to drive them in.
+
+Thanks forever.
+
+I got 1, 2.
+Okay, let's look for days on there.
+
+Okay, got a wheel.
+Okay, it's on 0.5. Open.
+Okay, volume is loose.
+
+Coming down and unlocked.
+Good.
+
+It looks and behaves as it's supposed to.
+
+Let me know when they're flat there.
+
+Here they are.
+
+Hey, James, join me up.
+
+Okay.
+
+Take tool.
+Hey, you can go straight up from where you are. Yeah, I got straight up. Right, right, right. I mean it.
+
+And I buy this. Great.
+And then fireworks.
+Hey, come on back.
+Yeah, I can't get fire in the place right now.
+
+Okay, just start where we usually do that. We can work that thing under.
+Yes.
+It's a beast.
+
+All right. I'll throw you as slow as I can. Okay. All right.
+Looks good.
+You drive me back and I think you can call that level. If I come in over the top of this thing.
+
+Ah, I got a good angle on it right now, one.
+
+Mission Control, Houston. It looks as if we've gone to LOS, Taters.
+At last, uh, passed through Taters, we listened in as the astronauts worked on the Attitude Control System.
+
+The EVA is working along very well.
+
+They've pulled out the old ACS module.
+Are putting that down on the flight support structure and endeavoring to take the new one and place it
+in the Solar Max.
+
+We're about an hour and nine minutes into the extravehicular activity.
+And this is Mission Control, Houston.
+
+Maybe.
+Okay, the engine is on.
+
+Get into the screws.
+
+That's right.
+I'm going to scan the screws.
+
+Hey.
+
+Go.
+I just want you to trigger, turn it off.
+
+Okay.
+
+Hey, Terry, a hinge in that?
+
+Roger, it's all downhill from here.
+
+Yeah, right.
+
+You take when you get a minute? Can I get a status from you?
+
+Yeah, sure. I'm standing right here looking at this right over the ACS module.
+And
+I got the surface of it about
+uh 50% or maybe a little more of the
+surface of the individual cells of that is delaminated.
+
+Okay, we copy that. We saw something hanging off uh the uh front edge of that starboard solar ray there, banking it looked like a strap or something.
+That's the bolt. It's just the bolt that held it down and it was trapped to the satellite.
+Okay, thank you.
+
+Okay.
+Get ready to take this thing apart.
+
+Take me down a little, DJ.
+Okay, stand by, I want to take a second or two.
+If you need, you got to chew that thing. It's not going to fall the bottom.
+Okay, we're going back to the locker there, DJ.
+I think you're still with us. Jerry, you're still with us.
+That's firm for about a minute and a half.
+
+Hey, Jerry, any B dot, we need to reach grid, put on the new one.
+Okay, that sounds us, just outstanding. We got uh oral coming next at uh 06.
+
+Hey, DJ, good and then take me back to the locker if you want.
+Okay, uh, keep some higher settings up there.
+Okay, I just got the nails off.
+Get into screws.
+Cook it up, ready?
+Okay, do it.
+
+This is Mission Control, Houston.
+
+30 seconds to Hawaii.
+
+And further uh
+Audio and television coverage of the
+EVA in progress.
+Change out of the MEB
+Main Electronics Box to be
+Here we go.
+Challenger Houston, Hawaii, for 10 minutes.
+Yeah, I agree with you.
+Okay, Jerry, uh, start report.
+All right, connector on a lock
+You then make the uh
+In the wet app
+We locked two of our little member by screw, uh
+Um, everything's done. I've double-checked all the little uh, clips, are over the connectors and so I'm going to get ready and button it up.
+
+Sounds great.
+Okay, lose it up.
+
+When you take me off the little bin, see?
+Pick it both up.
+Yeah, that's cute.
+
+Two for the price of one there.
+
+This is the Payload Operations Control Center at 5 days, 16 hours, 55 minutes, mission elapsed time.
+Through the night, the Payload Operations Control Center has continued to check out the Solar Max satellite
+to verify the repairs made by the astronauts yesterday.
+Ground controllers have completed checkout of the new Attitude Control System
+and found it in excellent working order.
+They've also completed deployment of the satellite's high-gain antenna,
+which will be used to communicate through the Tracking and Data Relay satellite
+once the Solar Max resumes operational life.
+The antenna was gimbaled in single and dual axes successfully
+and presented no problems in deployment,
+though it had not been moved previously since the launch of Solar Max in 1980.
+Additionally, the Payload Operations Control Center has checked out the repaired main electronics box
+for the coronograph polarimeter instrument.
+The Solar Max satellite is now ready to be released from the shuttle's robot arm upon the command of the shuttle crew,
+now expected at about 4:30 Eastern Standard Time this morning.
+
+And Challenger, Houston, I got a tweak on your uh, deploy time.
+
+Go ahead.
+Roger, we like to release the Solar Max at 19
+hours, 28 minutes, and 30 seconds.
+
+Hey, you're really getting accurate, huh? Okay, 192830.
+Roger that.
+
+Challenger Houston, we'd like the radar measurements and inhibit, please.
+
+Okay, we'll do that.
+Thank you, and you the Solar Max is go for release.
+Hey, check, go for release, thank you.
+
+And I've got a note on you on the uh, release.
+
+Go ahead.
+Roger, they're seeing an apparent albedo uh, effect due to the reflections
+in the Solar Max sun sensors.
+So what you might see is the space the spacecraft may move slightly when the safe hold is commanded.
+And so that's expected, so don't be alarmed by it.
+What slightly?
+Let me find out.
+We got guys and uh, against the previous agreements, the when we give you a go for safe hold,
+we're not going to expect any further action that we take with respect to the satellite, to be investigated by you folks.
+We won't get excited.
+Roger, we concur, and it may be up to 15 degrees, correct?
+Okay, thanks.
+
+Challenger Houston, your go for release as long as you're within 5 degrees.
+
+Roger.
+
+And we have SMM release.
+
+Pock reports it looks smooth.
+
+Pock reports, essentially, zero tip-off rates.
+
+Houston Challenger, you are go for safe hole.
+
+Copy go for safe hole and virtually zero tip-off rates.
+
+This is Mission Control Houston, flight director for the entry phase of 41C, Gary Cohen and his flight control team have arrived in the control center and are debriefing and preparing for hand over from the planning team.
+
+Challenger and orbit number 103, just approaching the West Coast of Africa at mission elapsed time 6 days 15 hours 31 minutes. This is Mission Control Houston.
+
+Challenger Houston, with you through Hawaii.
+
+Okay. Guy, you're loud and clear. We think we've got the vehicle set up and configured this time. We'd appreciate it if all the folks there in the boneyard that give it a good look over for it.
+
+Okay, we'll do that.
+
+Challenger Houston, your configuration looks good.
+
+Okay. Thank you.
+
+See you up here.
+
+NASA 946, Houston Weather CAPCOM, how do you read?
+
+Loud and clear, how 946.
+
+Okay, loud and clear. I just hadn't heard from you for a while. Paul, I just wanted to make sure we still had a good COM link.
+
+Challenger Houston, we're standing by ready for gimbal check whenever you are.
+
+Okay, coming at you.
+
+Thank you.
+
+Houston Challenger, the gimbal check looks good on board. And scope standing by for the APU prestart whenever you're, your go.
+
+We're go for APU prestart.
+
+Okay, Guy, APU prestart's complete.
+
+Okay, thank you, scope.
+
+And the APU prestart looked good to us, too.
+
+And the gimbal check also looked good.
+
+Okay, thank you.
+
+Challenger Houston.
+
+Roger.
+
+Yeah, Crip, uh some little discouraging words we'd like to wave off for one rev. We've got a real low deck at about 2,000 feet that's starting to move in and thicken up. Uh we're hoping it's going to go away uh in two and a half hours.
+
+NASA 946, NASA 946.
+
+Go ahead.
+
+We've just waved off a rev because of some clouds at the cape. We're going to have another go at the cape on the next rev as the current plan. I'm going to try to talk to flight here when he gets a minute the how strong he is leaning towards the following rev at Edwards. Just for your information uh right down to the end there we had given a a go for the burn uh but then there was a cloud deck from 2500 to 2300 over Titusville that John saw move in Okay for Challenger for scope with the SLF and we waved them off.
+
+Roger. Roger, Dick uh we'd like you to pick up the uh APU switches there on page 3-8 in the middle of the page if no go for deorbit burn and uh be advised that if the KSC weather continues to look bad for today and tomorrow then we'll probably come down to Edwards today and hope to have that word for you over the States.
+
+Okay, that sounds fine. Thanks.
+
+You like I've been there before.
+
+Yes, sir.
+
+And Gary'd like to pass on so have we.
+
+Challenger Houston.
+
+Okay, Guy, go ahead.
+
+Roger uh the KSC weather is uh getting worse with rain showers. Tomorrow looks about the same, so we'll be going to Edwards this rev. Uh I'm working up the pads right now for you, meanwhile, uh we'd like you to go back to OP 2 and update the landing site.
+
+Okay, we understand that.
+
+And Challenger Houston for scope.
+
+Challenger 946. Roger, Dick you can go ahead and get the uh APU boiler and two supplies on and the APU controller powers. All three of them on.
+
+That's a copy.
+
+Houston, NASA 946. Go ahead.
+
+Roger, you're loud and clear. Paul, we are burning to go to Edwards on this rev. The TIG time is in 38 minutes. We're going to to runway 17.
+
+Uh if you can give us a run to that runway, we would appreciate it. We have told the crew they have a 1,700-foot X distance touchdown with the nominal aim point at 195.
+
+Okay, we're texting. I'll give you a call in about 15 minutes. Challenger, I'll give you a call in about 15 minutes. Okay, and then we'll get it together. Roger, and then I'll just, let me go ahead, man, that a little.
+
+We're going to be shooting, shooting them to you.
+
+Okay, standing by. How high you want the winds, John?
+
+Say again, Paul, you cut out by another load.
+
+How high do you want the winds? You want us to go up to 35?
+
+No, I think from your first report that the winds at altitude uh we we uh were real happy with them. In Challenger Houston we're still working up the targets, we'll have them to you shortly, a good approach with the left overhead I guess starting from.
+
+Okay, Roger, that.
+
+Flight director, Gary Cohen, polling the controllers here in mission control. We're a second time this morning, for go for deorbit burn.
+
+We're go again for deorbit.
+
+Challenger, Houston, your go for deorbit burn.
+
+Roger.
+
+Challenger Houston, 30 seconds to AOS. Have a good entry, we'll see you at Mach 12.
+
+Okay, see you there.
+
+Wish you could see this right where we're prepared, you know.
+
+Roger.
+
+Challenger Houston, with you on TDS, configure AOS.
+
+Houston, Challenger, we're loud and clear. It's been nice all the way.
+
+Sounds great.
+
+Challenger Houston, energy ground track and nav are go.
+
+Roger, I understand and how do you read Mika.
+
+Loud and clear. Now, we just handed over to Dryden.
+
+Okay. Okay, we read you loud and clear and uh move, that smooth all the way.
+
+Roger, sounds good.
+
+Lanes 300 miles, Mach 8.8. Altitude 156,000.
+
+Challenger Houston, take talk hands.
+
+Roger, take talk hands.
+
+100 miles, Mach 4. 104,000 feet.
+
+Challenger Houston, transfer state vector to backup, your convenience.
+
+Go ahead.
+
+Altitude 75,000 feet.
+
+Dryden's long range tracker now has a visual on the Challenger.
+
+3004.
+
+800 knots, 35,000 feet.
+
+600 knots, 20,000.
+
+Hello, Chase is aboard.
+
+Oh hello, Chase.
+
+Challenger Houston, looking good on final, winds are calm.
+
+Got the wins.
+
+6,600 feet.
+
+3,000 feet.
+
+5 on the Houston, the Challenger has wheel stop.
+
+Roger, welcome back on Friday the 41-Charlie.
+
+Unofficial touchdown time, 73805. Wheel stop, 73854.
+
+Central Time.
+

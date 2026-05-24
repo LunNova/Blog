@@ -1,0 +1,588 @@
+A loss of sequence has been initiated.
+Flight OTC 212.
+Go ahead.
+You can transmit your SBC's by the clock.
+Welcome.
+PLT OTC, go.
+You can set your AC bus sensors to monitor.
+In work. 12101 Mark.
+PLT complete.
+NTD flight 875 complete.
+Copy array, retrap.
+JRPF OTC, can you start your hydraulic brush recorders?
+Recorder running.
+PLT OTC, can perform your APU pre-start.
+In work, sir.
+HID, your pre-start checks, please.
+H2 verified.
+Light OTC, pick up recorder commands on the clock.
+Welcome.
+OTC for ALT 3, great job, thanks.
+Copy, thank you.
+For AP start, VLT perform your APU start.
+HDR, reconfigure your heaters.
+Heaters reconfigured.
+Thank you.
+OTC PLT, we got three of them up at 3000.
+Thank you, sir.
+OTC, to all crew members, you may close your visors at this time.
+Now for part sequence 4.
+It's an extra tally.
+Go for ETLA to pressurization.
+BLT OTC, you make clear your caution warning memory, verify no unexpected errors.
+That's in work.
+Prepare for ETLA to pressurization.
+Prepare for sequence start.
+Prepare for main engine start.
+8, 7, 6, 5, 4, 3, 2, 1, 0.
+Plus 2, plus 3, plus 4, plus 5, plus 6.
+Roger, roll.
+The vehicle rolling from tail south around to 35-degree azimuth northeast.
+Roger.
+All APUs running at 106% of RPM.
+5-mile altitude.
+Roger.
+Columbia Houston, your go at throttle up.
+AC 150.
+Roger on the PC.
+25 miles altitude, 26 miles down range.
+Roger, SRB set.
+Distance 70, altitude 45.
+Velocity 56, R 5709.
+Columbia Houston, two engine spang capability.
+Roger, two engines spang.
+Columbia Houston, negative return.
+Roger, we got a clear atmosphere that we haven't seen before.
+Roger, copy.
+Columbia Houston, single engine spang capability.
+Roger, single engine spang.
+Columbia Houston, press to Miko.
+Roger, press to Miko.
+Throttling down to 76% in the main engines, 61 miles altitude.
+205, still on 30 up at 293 feet per second.
+Roger on the Miko.
+Columbia Houston, with you on Tedras.
+Got the radial clear, man, it's just super up there.
+Just beautiful.
+Roger that.
+And Houston, we're ready to open the doors.
+Okay, Brewster, arm you standing by.
+And you have a go to open the payload bay doors.
+Okay, that's in work.
+Columbia Houston, we're still having some difficulty with the down list.
+We'd like to go ahead and, uh, change pick moves, and then reload the Tiffle, please.
+Understand you would like to go to PCMU 2 and reload the Tiffle, so, over?
+That's affirmative, John.
+Houston, the, uh, starboard door is coming open. It looks like a snowstorm out there.
+Roger that.
+Okay, Houston, you got the PCMU 2 loaded with, uh, 161-103 Tiffles.
+Roger, thanks a lot, John.
+And Houston, the payload bay doors are open. Uh, everything was dual-motor time, all microswitches, uh, were normal.
+Roger that, Brewster, good show.
+Columbia, Houston, we got a picture of the Space Lab module. As soon as you finish block nine, you are go for tunnel ingress.
+In work.
+Okay, uh, tunnel ingress is in work right now.
+There's a possible dog up there to the 12 o'clock position in standby.
+Franklin, uh, we've got the, uh, airlock heads to the mid-deck open and, uh, we're proceeding down in still step nine.
+Well, Houston, uh, MS2 here in the airlock tunnel adapter. How do you read me over?
+That's in clear, Owen.
+And Columbia, Houston, we can see you coming down the tunnel.
+Welcome to Space Lab.
+Hey, we're just moving into Space Lab right now.
+That's a firm, uh, Owen.
+Hello, Houston, this is Space Lab, radio check on the intercon, how do you read that, Franklin?
+Okay, uh, Owen, uh, we, uh, read you, uh, in the barrel, but readable.
+This is Wolf speaking, how do you read me?
+Roger, uh, Wolf.
+Du bist laut und deutlich.
+Sehr gut, danke.
+And, uh, Space Lab, this is Marshall Ops on air to ground one, how copy?
+Roger, this is the C.
+Marshall Ops and Bill, uh, we hear you loud and clear in Space Lab.
+Well, wonderful, Owen. What a, what a venture this is.
+Fantastic, I tell you there's a bunch of guys that have a pretty good time up here.
+Oh, it's, we're having a ball down here, Owen. Our goosebumps have goosebumps.
+As Space Lab, Marshall Ops, uh, say for a wolf, uh, can you indicate which step you are on, uh, for 201?
+Put on electrodes.
+We're putting on electrodes.
+Roger.
+The, uh, experiment 201, the ISA experiment, uh, entitled The Effects of Rectilinear Accelerations, Optokinetic, and Caloric Stimulations in Space, will be, uh, carried out, uh, by the Space Lab crew.
+The procedures followed will be that the mission specialist will be wearing a helmet, in which, uh, a video monitor will be in front of his left eye, while a, uh, video camera will be monitoring his right eye.
+He'll see various moving patterns in this video monitor that's that's over his left eye, and superimposed on those patterns will be a cross, which he will try to keep aligned in an upright position with his head.
+Okay, where's the focus thing on this one?
+First thing. This way.
+PI 201, uh, we completed the checkout, everything looks good to us.
+Okay, I read you.
+Uh, then, uh, copy, do start the experiment.
+Okay, I got two crosses on here now.
+Well, two crosses.
+One's a big eye on the cross, the other's, uh, the regular cross.
+Okay, there we go, now.
+I got I got a cross and a field of dots moving clockwise.
+Okay, I got direction.
+Okay, that's moving counter-clockwise.
+Okay, the step's going down.
+Okay, stretch going up.
+I don't know, but it just looks fuzzy, like it could stay standing cleaning off, but I don't know.
+Okay, and now we do the, um, following thing.
+I give you a roll stimulation bot, and you match pattern velocity velocity with head roll.
+Right.
+Okay, starts going clockwise.
+Okay, I'll clear, Houston, how may?
+Reads you loud and clear, Houston. How may?
+Redu loud and clear and we're standing by.
+Okay, we are in the middle of, uh, meal prep and taking a picture of the activity associated with the same.
+And it is unbelievable.
+I mean, inside the hood right now.
+Okay, can you, uh, re-up them?
+Oh, I did just start firing.
+I don't know, that was a, uh, it's Was that a beam or the thruster? I can't tell from up here.
+Thruster.
+Okay.
+Um,
+Space Lab, this is experiment three. Um, is Owen, uh, in the, um, Space Lab module at the window or is it, uh, is he at the outflow there?
+I'm able to buy, get the back window right now, Steve, and I am unable to see any, uh, beam firing, although there's a good deal of shuttle glow and air glow visible all around, but, uh, no indication of the electron beam.
+Mission specialist Owen Garrett, conversing with principal investigator Steve Menday, on experiment number three, which is the API experiment.
+However, in this case, he is, uh, actually using a handheld 35-millimeter camera.
+Should have set down by now, I think.
+For the 20 people, we have a question, um, um, our data shows that that was a, um, a sub-block number six, which would be an ion, uh, ion beam and not an electron beam. Is that affirmative? Also, is there this next one coming up?
+It has been modified.
+Hey, well, we'd like to know, is it an electron beam or is it an ion beam?
+Yes, we just checked with the experiment 20 Ops team, Byron, and, uh, it is electrons.
+Although the, uh, page EO-12 has been changed because of some modifications, the numbering system of the modules, your startup block number six will contain some electron runs and that's what we're after for this FO.
+Copy that, thank you.
+This is experiment 34, Owen. Uh, I'm sure that, uh, you are, um, using the time for, um, some advantage, uh, even though you can't detect the Heisa 20 beam. Over.
+That's correct. As a matter of fact, uh, one thing that's uh, rather interesting, uh, the, uh, glow on the tail. Uh, when the, uh, jets fire, the glow is not enhanced until the jet quit firing, at which time the glow then, on the tail immediately brightens up, uh, as if perhaps there were some cloud established around the spacecraft during the thruster firing, and then after the firing is complete, then the ambient atmosphere can impinge upon the tail.
+Now, that's just a, a quick guess, but at any rate, the glow does not, uh, increase until the jet firing is complete.
+That's a very interesting observation. Thank you.
+Looks like the tail is glowing a little bit, Owen.
+Yeah, and I'm recording some of this. Uh, it's got a pretty good glow off the tail.
+Columbia, Houston, standing by at the air gap for 7 and a half minutes.
+Columbia, Houston, with you at air gap for 7 minutes.
+Read you loud and clear, Houston. How may?
+Read you loud and clear and we're standing by.
+Okay, we are at the middle of, uh, meal prep and taking a picture of the activity associated with the same, and it is unbelievable.
+
+Understand the meal prep is unbelievable today.
+
+It was unbelievable the first time we tried it, too.
+
+Roger, are you referring to Gemini, or first time this flight?
+
+First time this flight.
+
+Roger.
+
+Probably the same way with Arlo and Wilf did it too, back there in the bright fly, I think.
+
+Roger that.
+
+Tell them to get the guys out of the spacelab to come and eat.
+
+Well, I bet they're ready for that, John.
+
+Yeah, so what's fun sliding up and down the tunnel, they come to the door, pick their eight in and say what's for chow, before you can tell them they go back and start with the science.
+
+Well, it seems to us up here listening, like they've been awful busy back there.
+
+Yeah, I think is going to be needing equal signs after this is over with.
+
+We concur.
+
+Columbia, Houston, we're going L.O.S. We'll see you at Myla at 2152.
+
+And you'll have air to ground one capability at 2130.
+
+Okay.
+
+John here, Byron.
+
+John, reach around and clear. Go ahead.
+
+Now, Byron, we have we'd like to clear the understanding before coming to the anti-spread.
+
+Can I just summarize how we understand the experiments are going in all cases of liquid entry.
+
+First of all, the spreading on the front end plate goes beyond the anti-spread barrier, prior to it jumping to the rear end plate.
+
+Is that correct or not?
+
+Yeah, that's correct. It generally from the the feeding end plate, it will jump over the onto the anti-spread barrier.
+
+Okay, copy that. Now, the next thing is, in the question of the liquid jumping from the front to the rear end plate, have we understood it clearly that this liquid actually jumps mechanically and stretches in the process.
+
+No, the liquid does not jump from one to the other.
+
+But, um Sorry, I get the liquid does not jump, it'll it forms a bubble, but for at least the Dora's experiment, the bubble is too big and will spread over the feeding end plate prior to reaching contact with the rear end plate over.
+
+Okay, I've understood that. Now, the main problems, um we want to come to the donut problem. We believe we understand this. Um this presumably is only formed when the liquid is withdrawn and a dimple at first is formed in the upper surface above the entrance or exit hole to the reservoir, is that correct?
+
+Correct.
+
+Excellent. Now, the next thing is we're going to go into the donut mode, but be very careful not to drink to pull gas in or air, I should say. Could you now withdraw very slowly and see if you get a dimple.
+
+Okay.
+
+You get a dimple?
+
+And, um, since we're in nighttime now and we're getting some good air, so I think I'm going to have to switch over and do one of the other time critical experiments for a little bit.
+
+Okay. Look, Byron, that's superb. You've really helped us along a great deal. Thank you very much. Um, I suggest you wipe off and close when possible.
+
+Okay.
+
+And, uh Spacelab Marshall Ops, we've got you on S band for 49 minutes.
+
+Okay, Bill.
+
+Rod, clear, Bill, and I'm finished with 25.
+
+Okay, we have the PI standing by to talk with you.
+
+All right. You're loud and clear, uh, 025 PI on.
+
+Hi, I'd like to thank you for performing the experiment 025, the mass discrimination, and reading out the data for the last performance.
+
+This showed that you are nearly adapted back to the baseline level. And I wonder if you could tell me, did it feel much more difficult than on the ground or was it nearly as easy?
+
+I know it was much more difficult. We all think we have a uh uh much harder time of determining which is heavier up here.
+
+Well, that's very interesting to know. Uh, I wonder if you could tell me if this round that you've just done was any easier than last time.
+
+Uh, it feels about the same. Um on estimated also that only about 20 to 30% of them did he feel confident that they judge which one was more massive.
+
+And how about you? Did you feel your run was any better or not?
+
+I really didn't. I'm sitting here with the card if you want the letters.
+
+I'll find out later. Um, could you answer me another question? I'd like to know how your own body weight feels. When you first went into zero gravity, I expect you felt very light. Do you still feel very light or are you getting more back to normal?
+
+No, I still feel like I'm really uh initially told I was totally upside down.
+
+Lot of the feeling that I'm always uh trying to float up to the ceiling, even though I'm really not.
+
+Thank you. That's very interesting. Is there anything you'd like to ask me?
+
+No, I don't think so. Want to apologize for not getting to your experiment the first day. Uh it was extremely hectic up here and we were just uh really coming up on the learning curve and got way behind schedule.
+
+I quite understand that.
+
+Mike Mike, how you standing in for Madam Rodo, I understand you're about to recommence experiment 326. Is that correct?
+
+That's correct, I treated Madame Rodos blade with anti-spreading barrier material, but I'd like to try again.
+
+Okay, I'm sure that's very welcome. Uh two words of advice, uh the film magazine 2415 should still have enough film left, I suspect.
+
+And I suggest that you start with the smallest sphere, that is standard step four decimal one, in Madame Rodos procedure, start with the 20mm sphere for safety.
+
+Okay.
+
+Marshall Off, this is PS 1, and I have a 20mm sphere. And I was playing around to find the resonance frequency for it, uh, I think it is about 2 Hz, that's just a number I'd like to relay down before I come back and take some shots of it.
+
+Copy that and Roger the 2 Hz F0.
+
+Yeah, that's amazing the high. Uh, but it is also the limit that's the highest frequency I can do with the FPM. And, the amazing thing is I'm using a very small amplitude uh to excite the uh oscillation. It's only uh 0.15mm and it looks uh already very, very close to the stability limit of the sphere. It really oscillates.
+
+Okay, we copy that and uh all for a minute or so away from L.O.S., be advised that the C-pack battery charge scheduled for 13 hours 30 minutes is not necessary. They are at 100% and they would prefer not to overcharge, so you uh you have that time clear for you.
+
+Okay, that's great and I'll uh stay with the FPM and uh play around a little more and, uh, I have the feeling that is really the way to do it. Uh, the uh problem that we have is that everything is uh strict procedures and things don't obey to the procedure here, and you have, um, a problem. It is much more beneficial to have some free time and try what you can do.
+
+We concur and uh you can expect to see us again over at 13 + 30.
+
+Okay, thanks I'm all set.
+
+Marshall Off, this is PS 1.
+
+Yes, Spacelab, uh go ahead Ulf.
+
+Okay, I have an interesting phenomena here. Uh I'm talking about the Madame Rodo's uh sphere. If I increase the uh uh frequency, the excitation frequency from low to higher numbers, then uh, I'm unable to uh cause a resonance phenomena at the same frequency as if I do it the other way around and decrease the excitation frequency.
+
+It's a very amazing and striking thing that if I come down from higher frequencies, I find the resonance, if I do it from lower frequencies, I do not.
+
+Roger, copy the uh, if you get a hysteresis there uh very interesting, thank you.
+
+Spacelab Marshall uh for Bob.
+
+Okay, Bob, I've got um a little bit of review on this Oscellopsia run. I can either uh go through that now, or if you've got specific questions, we'll try and answer them.
+
+All right, let me just ask you a couple specific questions here. Uh, one understand that the PS is the subject and not the MS. That's the first question. Second question is, what's the destination of the TV? Is it going down real time and we don't have to worry about handling it?
+
+And the third question is, uh I gather we're doing uh, in a standing position we're doing both the yaw and rolling Oscellopsia as before. We're also doing the Z Oscellopsia and then in addition we're doing Oscellopsia with pitch with the eyes open, and then Oscellopsia with which I don't understand, with eyes closed, in pitch, and eyes closed in yaw. Is that correct?
+
+Standby.
+
+Oscillopsia is the perception that uh sometimes occurs, when moving the head back and forth, that uh a stationary object that a person is looking at uh is also moving.
+
+Okay. Uh we're going to try and explain your question here, Bob. What we're doing is adding to the original procedure a number of steps which involve Oscillopsia during pitch. We want you to close your eyes and do pitch movements, and then close your eyes and do yaw movements.
+
+This will be done with the helmet as per the original, it's just an addition to it.
+
+Then we want you to repeat those three steps with the helmet. That's just doing it a second time.
+
+Then we want you to doff the helmet, holding it using the long EOG cable, and repeat that entire protocol.
+
+Okay. Uh, first, are you uh you said we're going to do the regular procedure and then in addition to that, we're going to do Oscillopsia with pitch. And I assume that the new step 5.3.1 is with pitch with eyes open, and then 5.3.2 is pitch with eyes closed and 5.3.3 is yaw with eyes closed, correct?
+
+That's affirmative.
+
+But there's three extra steps to it.
+
+Affirm.
+
+Okay.
+
+We need one more calibration on the EOG Bob if you would, please.
+
+Okay, that's fine.
+
+Okay, giving you the Oscillopsia.
+
+all of we started wrong, right?
+
+Tell me something on the frequency.
+
+Yeah, 1 Hz Bob.
+
+It's a lot of love, that was that.
+
+Now, Wolf, Spacelab this 104 from the SMA.
+
+Did you get our brief comments on the, before we started this run as to how the 104 stuff went?
+
+Uh, we only caught part of it on.
+
+we completed on uh Byron the full recruitment curve, I replaced that view point three, and the H curve looked pretty good, so M looked real well, and H looked fair. And then we did two points each on uh each of the dropping shock uh viewpoints and they all seemed to look pretty good.
+
+Okay, on, we we sure do appreciate everything you people have given us today.
+You are welcome, Owen.
+You're welcome. We and I have a couple of questions that I like like to get to your impression on if you had the time to answer a three or four of them here.
+Well, one other objective comment, Owen, that is the pressure on the budget, the system significantly stronger today. Maybe they were a little tighter, but on the other hand, it could be that we're just less used to it after 7 days, and it seemed like we were having to pull up awful hard to reach up to the T bar.
+Okay, well, that was one of the questions I wanted to ask you is just what that felt like. Also, I'd like to to know what you felt in terms of the speed of the drop between, particularly what you felt since you got to drop on that first day. Is there any difference in what you perceived to be the speed?
+
+Yes, we were dropping it. I thought significantly faster velocity and hit the deck uh with uh maybe not as much as we would have on the ground where we would have been accelerated constantly, but still uh with a significantly higher velocity than uh we did on the first few days. As a matter of fact, it surprised me and surprised uh Byron both uh a couple of drops as to the velocity with which we hit the deck and so we had to adjust ourselves a little bit to uh get re-re-accommodated to that.
+
+Okay, well, is it is that why we we watched you miss your foot one time there and I we were wondering if that was the reason.
+Did you say miss? Um, miss my foot?
+
+Yeah, you missed your footing, and you uh appeared appeared to uh flow backward somewhat when you came down for the landing.
+Yes, I think that probably was it. Uh just to hit a little faster than I expected. And also uh that uh foot pad is a very slippery, as you know.
+Yeah, we we understand that. Uh could you also both you and Byron, maybe relay Byron's message, give me your impression of what it felt like uh unloading the arms in zero G versus dropping that way on the ground?
+
+Well, uh maybe I'll go ahead and answer. Um the uh there was a big surprise the first time, sort of floating in the harness, and all of a sudden it's uh, you know, like being shot out of a cannon. Um it's uh it was very surprising experience. After that, I tended to uh tighten my arms a little bit to keep myself up towards the top of the harness. The um the biggest problem I think is that uh it was really difficult to stand up and to get that handle up into the releasing mechanism. Uh that that took an awful lot of effort and um we were trying to, you know, pretty much as rapidly as we could, but I felt felt after 16 or 18 drops, that uh that was about all I was willing to do for a while. It was getting pretty tiresome.
+Yeah, I can understand how that that feeling would happen. I guess it's important to note uh whether or not Owen really felt that way the first time he dropped. I think that uh that shows a lot of adaptation perhaps.
+Maybe a combination of adaptation and then we might have been a little bit tighter in the uh straps this time, too. So, it's probably a combination of both.
+
+Okay. Um, I guess that's really about all we have right now. I I really do want to thank you for everything you did for us, and uh if we don't uh see you again, and hopefully we'll get to see you on the last day, but if we don't see you again, we'll we'll see you out out in the desert.
+Sure, may well you can even knock a few days off of that dry and stay if you like.
+
+We'll talk about that, Owen.
+
+Chancellor Kohl is with us all the way from Athens, Greece. Along with you astronauts hovering in space, with me here in Washington and the whole world listening, this is one heck of a conference call. Seriously though, this space shuttle mission represents the enormous potential available to mankind. The space lab in which the experiments are being carried out, was designed and built by the European Space Agency. The Federal Republic of Germany and other European contributors can be especially proud of this achievement. It is fitting that on this, the German-American tri-centennial, a German astronaut is part of the shuttle team. The shuttle is demonstrating that technology can be used to bring people together, in a new spirit of enterprise and cooperation, to better their lives, and sure the peace of mankind. I know Chancellor Kohl agrees with me that this shuttle mission, with its German and American crew, represents the highest aspirations of our two peoples. Chancellor Kohl, this is a great day. Perhaps you could give us your thoughts on this marvelous occasion.
+
+Thank you very much, Mr. President. It is a terrific experience for us to be able to talk together this way, and to talk to the crew as well. Above all, I would like to send my best wishes to my countrymen. Dear Herr Mehrbold, I would like to take this opportunity to assure you and your colleagues, your team members, that I and all countrymen in Germany have, with great excitement and pride, been following your flight for days now. We are proud indeed that your participation in this highly successful experiment is at this time, demonstrating in such an impressive way the close ties between Europe and the United States. And that it shows, once again, that we Europeans are in fact able to hold our own in terms of technologies of the future. This US European shuttle mission is indeed a convincing proof of our closeness, of the closeness between Europe and the United States. President Reagan has already pointed out that it is an exceedingly happy circumstance of which, of course, we are very much aware that it is possible at this time to have a German scientist, a European astronaut as a member of the crew at this particular time at the time of the tri-centennial celebrations of German-American relations. Remembering the time when the first Germans came to the United States. I am especially happy that our countryman, Herr Mehrbold, is aboard the shuttle at this time. We hope that this joined enterprise will indeed lead to further successful cooperation between the United States and the Europeans in the area of space research, and I would like to tell you, Mr. Mehrbold and your crew members, that I hope you will have a healthy and happy return to your families.
+
+I'd like to take this opportunity to congratulate the entire crew. You're doing a fantastic job, and we're proud of you. Our investment in space, has been an exceptional bargain. Byproducts now touch our lives in so many ways. This hook up, as well as the calls everyday of millions of people around the world, are made via communication satellites. Weather and navigation satellites guide us and help us protect our lives and property. The high-tech spinoffs of our space effort are too numerous to list. The experiments on this shuttle mission will add to the treasury of human knowledge and be put to practical use, improving our lives right here on Earth. Chancellor Kohl, I just want to tell you that it's such an honor for us to be together in demonstrating to the world, that when people are free and work together, there's nothing that can't be accomplished. Together, the free people of the world, with the use of technology, are building a world of prosperity and peace never imaginable a few decades ago.
+
+If you peer into the uh uh 45-degree mirror, I imagine you can see the uh sample in there, the 321 silicon rod. And uh I'm sure you've inspected it for cleanliness. The lamps should be coming up in power. And we expect according to our timings that uh any moment now we should get your flashing ops for uh manual heat adjust and uh resume.
+Roger, copy that.
+Uh, Spacelab, this is Marshall Ops. Uh with some good news, your uh MHF ops lamp is now flashing. And uh if you like, you can uh think about uh setting the heater power up and trying to form a molten zone.
+Okay, it looks like we're um
+And uh for the people on the ground, we can see uh the reflection uh starting to melt at least on the surface right now.
+Yeah, hey, we're uh getting an excellent image of that uh heated silicon rod. And we see both filaments illuminated and a reasonably symmetrical illumination of the silicon rod. Uh, Dr. Iyer will be coming on air to ground right away to uh discuss that with you.
+Hello, Byron. This is Aheimer speaking. Can you hear me?
+I can hear you loud and clear. I have both here also.
+And I wish you good luck for the melting of the silicon rod. And so far, the picture looks very good.
+Roger, we confirm, and I don't think we've quite melted through yet.
+No, it's not yet molten through. Um, I would suggest to adjust the height of the molten zone to 1.5 times diameter.
+Okay, we copy.
+For me, the melt looks asymmetric in the moment. Could you confirm that?
+Roger, we think it's symmetric also, yes.
+A-symmetric or symmetric?
+No, I think it's asymmetric.
+Asymmetric, okay.
+Uh could you please give me a short report if the rod looks clean around the molten zone, or if there is a certain contamination on it?
+Well, we have the same type of a light gray contamination that we've had on the ground, Owen.
+Dorf is making observation that thinks that we only have one filament going, but uh it's not clear, we have a kind of a strange angle on the mirror.
+And uh Spacelab, our data on the ground indicates that both filaments are operating.
+Okay, that's good news and we are uh melted through now. We can rotate the sample.
+Can you see the crystal rotating?
+That's affirmative, yes, it's rotating.
+Byron, as soon as the crystal is growing thicker, you can start slowly to turn up the potentiometer a little bit. But not before it's growing thicker.
+Yeah,
+Well, Byron, I think you can start now to turn the potentiometer up a little bit. This is the very critical phase before the diameter starts increasing.
+Okay, it looks like uh we have maybe about a uh twice the length to diameter now.
+Keep keep the potentiometer lower. It's very high in the moment. Oh, it looks bad. Yeah, I think it looks very bad. Turn it down fast. Turn it down fast.
+Okay, the diameter of the growing crystal has to increase first and then you can start again turning the potentiometer up.
+Now you should turn it up quickly.
+Otherwise it will stick together.
+And what is the contact angle?
+The contact angle should be uh 11 degrees. You have to turn up the power now a bit more.
+Okay, it looks very good again now. Be careful.
+Do not turn turn up further. I think is the diameter starts decreasing again.
+Roger.
+It's coming up now we see it.
+Keep it lower the power keep it lower for the moment. But but it's it still seems to be a single crystal.
+Okay, Spacelab, before we go over the hill, we want to tell you that you need to stop tape recorder one at the end of this run.
+And a Dr. Eyre thanks you for a spectacular run.
+Oh, thank you very much. It was very critical uh to grow this uh crystal in the beginning, but I hope they will manage it now.
+Okay, yes, it looks uh reasonably good here. Thanks.
+Be careful that the two parts of the crystal do not crow together, so keep the zone as high as possible, but observe carefully the diameter of of the growing crystal. It should never decrease.
+Spacelab, Houston.
+Spacelab, go ahead.
+Roger, uh I have a note for you on the Sal active
+
+when you're ready to copy.
+
+Ready to copy, Bob Brian.
+
+Roger, at an MET of seven days, three hours, and five minutes, we'd like you to perform the Activate SAL procedure, page 7-2 of the Spacelab Ops checklist, prior to conducting your VFT SAL operations.
+
+And when you do that, we would like a report of the SAL heater status by having you tell us which heater LED light is on.
+
+The rationale for that is that the seal flange left number one temp has been two to five degrees lower than the other seal flange temps, and our data shows a heater has been on continuously. We'd like to determine which of the heaters is on. Over.
+
+Copy, I'll do that at 73 hours, so that's still over an hour away and I'll take care of it then.
+
+Houston Spacelab on air-to-ground 1. Over.
+
+This is Houston, go ahead, Owen.
+
+You were concerned about the LEDs and the heaters. The only heater that is on is the seal flange aft. All of the switches are in auto, but all of the LEDs are out except for seal flange aft, and that LED is remaining illuminated.
+
+Roger, copy that.
+
+Spacelab Houston on air-to-ground 1.
+
+Yeah, we have some information in regards to some SAL temp measurements. We'd like to tell you that you can delete the SAL temp measurements at 7 days, 12 hours, and 30 minutes. We'd like to verify that you did take a set at 7 days, 8 hours, and 30 minutes.
+
+Well, when we,
+Talking about last night, or yesterday, I guess my last night, your yesterday morning, or this morning.
+
+At 7 days, 8 hours, and 30 minutes, which is when I was.
+
+Right, that's when I was getting up. I don't know. Hang on, let me see if Owen took a set.
+
+Owen said he did not and didn't feel that he was ever asked to. The only measurements that we know anything about taking are those that are in the cabin temp logs. There's no definition of anywhere to take SAL temp measurements. Even though the CAP keeps calling us and we keep asking where, no one ever tells us where. We've never taken them.
+
+We copy that Bob. Maybe to clarify this, could you tell me what measurements you recorded on page 8-7 for hot test number one temperatures.
+
+Okay, for hot test number
+number one at 7 days, 9 hours and 10 minutes we have SAL inner hatch, which is on the outside of the inner hatch, of 23.0 degrees. And the SAL shell at the location indicated on page 8-9 of 23.5 degrees.
+
+We copy, Bob, but you did what we thought you did, and then the only measurement we show would be the hot test number two, which will be at about 7 days, 22 hours.
+
+And we'll make those.
+
+Thanks, Bob. Sorry for the confusion.
+
+And Columbia Houston be advised.
+
+From the STA, the weather is now clear from Lake Isabella on into Edwards.
+
+And Columbia Houston, you are go for deorbit.
+
+Columbia Houston, radio check.
+
+Loud and clear, John, and we copied the weather at Edwards, looks good from Isabella end.
+
+Roger, and you're go for
+
+Okay, we copy that too, sorry.
+
+Roger, thanks, John.
+
+And this is Mission Control. The word has been relayed to the crew that they are go for deorbit burn. It's coming up in about 36 minutes, 37 minutes from now, out over Indian Ocean after we pass out of communication from Tracking Data Relay Satellite on the last leg of orbit 166.
+
+Columbia Houston, configure AOS.
+
+Columbia Houston, configure AOS.
+
+Houston, we configure AOS.
+
+Roger that. We're reading you loud and clear.
+
+We are done with 9.5 of 158.
+
+Roger.
+
+Columbia, Houston, energy, ground track, and nav are go.
+
+Roger that.
+
+Columbia now north of San Francisco with its cross the coast.
+
+Mach 8.
+
+Columbia Houston, take tac-in.
+
+Roger Houston, take tac-in.
+
+138,000 ft, descending at 200 ft per second.
+
+Columbia Houston, take air data.
+
+Descending at 240 ft per second.
+Roger that.
+
+77 miles from the runway.
+
+Mach 2.5
+
+Columbia Houston, transfer state vector to backup.
+
+Okay, state vector to the backup.
+
+Seeing puffs of smoke from the reaction control system used down quite low.
+
+Mach 1. 50,000 ft, descending at 180 ft per second, 26 miles from the runway, and they just experienced the sonic boom.
+
+Columbia now on the heading alignment circle.
+
+Slightly different being the heavyweight vehicle with its payload of Spacelab, heavy cargo.
+
+Commander John manually flying the vehicle around the heading alignment circle.
+
+Okay, one sec, Houston.
+
+Roger, surface winds are calm.
+
+Columbia is on center line and on glide slope.
+
+Columbia on its final approach to the runway, 5 miles out.
+
+5,000 ft.
+
+Approximately 285 knots.
+
+Still in manual flight control mode. Commander John Young controlling the vehicle.
+
+Going into the flare.
+
+Gear coming down.
+
+Gear down, and locked.
+
+And we have touchdown, unofficial touchdown time for the main gear, 10-07-47-23.
+
+Nose gear coming down.
+
+And gear contact.
+
+Nose down at 10-07-47-41.
+
+And STS-9 is home from the longest shuttle mission to date.
+
+We have a stop on Columbia.
+
+Roger, that. Columbia. Welcome home. Beautiful landing.
+
+Doors are coming open.
+
+Copy the doors.
+
+And Columbia, Houston, we got some good news and some bad news for you.
+
+Roger, the good news is we got lots of beer waiting for you, the bad news is we drank it 8 hours ago.
+
+Well, what took you so long?
+

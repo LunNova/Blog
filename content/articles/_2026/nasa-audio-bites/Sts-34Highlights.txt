@@ -1,0 +1,398 @@
+This is Shuttle Launch Control.
+Liftoff of Atlantis's 5th mission into space is planned for the opening of today's launch window at 12:50 PM Eastern Daylight Time.
+A full 5-day mission begins with the primary objective of deploying the Galileo spacecraft from the payload bay so it can begin its 6-year journey to the planet Jupiter.
+Commander for this mission is Don Williams, the pilot is Mike McCulley.
+There are 3 mission specialists: Franklin Chang-Díaz, Shannon Lucid, and Ellen Baker.
+
+Atlantis, Houston, you're loud and clear.
+And so are you, Frank. Sound real fine for the quarter. I am one.
+Roger. We're ready in here.
+That's good, guys. Good morning, Houston, the PLT Comm check.
+Atlantis, PLT, Houston. Good morning. You're loud and clear. How me?
+Loud and clear, Frank.
+We thought you'd be higher by now.
+So did I.
+Houston, Atlantis, M.S. 1, Comm check.
+Atlantis, M.S. 1, Houston. Good morning, you're loud and clear.
+That's break and you're loud and clear also.
+Roger that.
+Good morning, Houston from M.S. 2. How do you How do you read?
+Atlantis, M.S. 2, Houston. Buenos días, Franklin. Suenas bien claro.
+Okay, Buenos días, Frank. Claro y fuerte también.
+Roger that.
+Houston, M.S. 3, Comm check.
+Atlantis, M.S. 3, Houston. You're Good morning. You're loud and clear and nice to talk to you again.
+Good to talk to you, too.
+
+Ground launch sequencer has been initiated.
+This is ENTED to the test team. We will hold it 5 minutes unless we get a go for from flight before 5.
+
+Okay, we're going to be go on towel but we're going to have to switch sites to zerogosa so we hold at T-5, we can give the crew an update.
+
+T-minus 6 minutes 30 seconds.
+
+PLT OTC perform APU pre-start, except for fuel tank isolation valve opening.
+
+PLT, copy.
+
+McCulley will configure switches in the cockpit to put the APU's in the ready-to-start configuration.
+
+The APU pre-start is complete with the exception of the APU fuel tank valve.
+
+Copy.
+Countdown clock is holding at 5 minutes, flight and TT.
+Go ahead.
+We're ready for briefing.
+Roger.
+Atlantis, Houston.
+
+Roger, one more change to the towels site. We developed some showers at Ben Grier, we're going to change primary towel, the zerogosa 3-0, that's area 5 on Spec 50. Forecast weather at Zerogosa. 3000 scattered. 9000 broken than 7. And they say it's a thin layer at 9000. Forecast wins 080 at 8. Gives you 6 tail, 6 right. Altimeter 3015. How copy.
+Copy. All that. 3015.
+And ENTED, this is flight to 212 we're go.
+Copy, I have to go to proceed. Finish up APU pre-start.
+PLT. OTC, you can open the APU fuel tank, I solve valve this time.
+
+We're open and I've got 3 great talk backs.
+I copy that. Thank you.
+
+T-minus 5 minutes and counting.
+
+We have a go for orbiter APU start.
+
+Roger, we got 3 good APU's.
+
+McCulley reporting we got 3 good APU's, and uh, Williams reporting the heater reconfiguration is complete. T-minus 4 minutes.
+
+Still for per sequence 4.
+The gaseous oxygen vent hood will be retracted from the orbiter in the next few seconds.
+
+PLT, clear cautionary warning memory. Verify no unexpected errors.
+
+T-minus 2 minutes 30 seconds. Liquid oxygen tank now reported at flight pressure.
+Warning memory is cleared and no unexpected messages.
+Copy, and flight crew, close and lock your visors, initiate O2 flow and have a good flight.
+
+Visors down, O2 flow on, we're go and thanks.
+
+One minute 30 seconds.
+
+T-minus 31 seconds.
+
+We have a go for auto sequence start. Atlantis's 4 redundant computers have primary control of critical vehicle functions through liftoff.
+
+We have a go for main engine start. 6 5 4 3 2 1 And we have ignition and liftoff of Atlantis and the Galileo spacecraft bound for Jupiter.
+Houston, now controlling.
+
+All clear, well program.
+Roger roll, Atlantis.
+Roll program initiated, about 110 degree roll maneuver.
+Guidance confirms a good roll maneuver.
+3 engines throttling back now to uh 65% as Atlantis passes through the area of maximum dynamic pressure.
+Throttles now at 65%. APU's looking good. Velocity now 1400 ft per second. Downrange distance 3 nautical miles.
+Atlantis, go with throttle up.
+
+Going for the top Houston.
+Engines now back to 104%, all systems performing well.
+Standing by for separation of these solid rocket boosters at 2 minutes and 4 seconds.
+Separation of SRB's confirmed, velocity now 4200 ft per second, downrange 33 nautical miles.
+Atlantis, performance nominal.
+
+Performance nominal, Frank.
+Performance nominal means that we are getting the expected thrust from the combination of the SRB's and the 3 main engines.
+Atlantis, APU 1 to high speed.
+
+That's a real shift.
+That call no impact, velocity now 5000 ft per second.
+Atlantis, 2 engine Zerogosa.
+
+2 engine Zerogosa.
+Atlantis could reach the transatlantic aboard site at Zerogosa if that became necessary on only 2 engines. Velocity now 5700 ft per second, downrange 86 nautical miles.
+Atlantis, negative return.
+
+Negative return.
+Atlantis can now uh not return to the Kennedy shuttle landing facility.
+Downrange 136 nautical miles, velocity 7400 ft per second.
+Atlantis, press to ATO, select Ben Grier.
+
+Press to ATO, select the Ben Grier.
+The press to ATO call means that Atlantis could lose performance of 1 engine and still make a safe orbit.
+Group Ben Grier 109.
+
+Group 109.
+Velocity now 11000 ft per second.
+Atlantis, press to Mico.
+
+Press to Mico Houston.
+Downrange 293 nautical miles, the press to Mico call assures that Atlantis can uh reach safe uh and nominal engine cut-off if 1 engine should fail. Velocity 13000 ft per second, Atlantis 338 miles downrange from Kennedy.
+Atlantis, single engine Zerogosa 104.
+
+Single engine Zerogosa.
+That call means that Atlantis could reach the transatlantic aboard site at Zerogosa on only 1 engine.
+Atlantis, single engine press 104.
+
+Single engine press.
+Atlantis could now reach uh safe orbit on only 1 engine at 104%.
+
+All systems performing well, 3 engines at 104%, APU's looking good.
+Velocity now 20000 ft per second, downrange 572 nautical miles, coming up on uh main engine cut-off at 8 minutes and 32 seconds.
+Main engine cut-off confirmed by our booster officer.
+Roger that Don, you look marvelous going up.
+That's warm.
+
+Frank, it's an incredible ride.
+You look great.
+Congratulations to all of you.
+
+Atlantis, Houston.
+
+Houston Atlantis, go ahead.
+Roger, you've got a go for opening the payload bay doors and a preliminary go for orbit ops, and you can get out of your suits.
+Okay, understood. Uh go for payload bay doors and preliminary uh go for payload ops.
+
+That's affirmative.
+This is mission control. Mechanical systems officer reports that the payload bay doors are full open.
+Atlantis, Houston.
+
+Go ahead, Frank.
+You have a formal go for orbit ops.
+Yeah, we don't look too far up here but we appreciate that and as we come back across Florida here in a couple of minutes uh our best wishes to Bill uh
+Podanger and Elsoft G and the entire launch team for absolutely spectacular launch today. Atlantis just a magnificent spaceship.
+We appreciate those words Don, and we'll pass it on.
+
+Houston, Atlantis, quick information. You know, if you look out the payload uh uh bay, John Layo looks absolutely super.
+This is mission control, Houston, 5 hours and 48 seconds into the flight of Atlantis, and all proceeding very well and smoothly toward the deploy of the inertial upper stage in Galileo.
+Payloads is reporting that uh they are now seeing a solid lock to the payload interrogator.
+That's the black box aboard the orbiter that uh talks to the Galileo and the IUS.
+It maintains a radio link to those 2 spacecraft after the deploy.
+The actual uh exact time of deploy will be uh at a mission elapsed time of 6 hours, 21 minutes and 22 seconds.
+Uh, we've completed the IUS PI uh check, and everything looks real good to us, and everything went just according to the uh checklist.
+Okay, great, thank you Shannon.
+
+The report is Atlantis is maneuvering to the deploy attitude as per the timeline.
+The next major event coming up will be the uh tilt table elevation to 29 degrees.
+Yeah, you know, Atlantis, uh my U.S. is up at uh 29 degrees and that we're proceeding on to step 4.
+Okay Shannon, we copy that.
+All proceeding a pace as we prepare for the deploy of Galileo in about 37 minutes.
+Okay, uh, we finished with the test phase the navical and we've done the final payload checks.
+We're down to about the 49, everything looks real good.
+And we're waiting uh for your go for deploy to proceed on.
+Atlantis, Houston. Uh just let you know, we're waiting on the power share discrete uh evaluation, and then we'll give you a go for deploy at that time.
+
+Okay, that sounds great. We're just sort of floating by here waiting for that.
+Next major event in this uh deploy uh countdown will be uh release of the umbilicals that tie the uh Atlantis to the inertial upper stage.
+Atlantis, Houston.
+
+Houston, Atlantis.
+Roger Shannon, it's been a long time coming but you have a go for deploy.
+
+Okay, understand. We have a go for deploy so we're starting out on step 5 at top of page 4-10 and just pressing on.
+Roger, we concur with that.
+Uh, Houston, just let you know that the bill call's released. We got all the verification for that.
+And uh, the U.S. is moving up to 58 degrees and it looks like so far it looks looks like it's going pretty good.
+Okay, that's great news, Shannon, thanks.
+Ground telemetry uh is confirming Shannon Lucid's report of tilt table motion.
+The tilt table uh was at 29 degrees.
+It's now moving up to an elevation of 58 degrees.
+That's the deploy attitude.
+
+All systems reporting go across the uh uh mission control center uh and also at Sunnyvale, the Galileo Pac, also reporting uh green lights all the way.
+Hey, Houston, orbit of 58 degrees, it took 3 plus 28, everything looks nominal and we're proceeding on step 7, purge heater activation, etcetera.
+Roger, we copy that Shannon. Thanks.
+
+Currently, in the uh steps that uh involve the cessation of RTG active cooling aboard the orbiter, and the vent and purging of those RTG cooling lines, lead flight director Milt Heflin here in the orbit 2 shift in mission control has polled the positions around the room.
+All the operators reporting systems in their areas uh very healthy.
+The orbiter looks good, the IUS looks good, Galileo looks good.
+
+Have confirmation, the orbiter has gone to free drift as uh intended.
+We're now 16 seconds to deploy, 15 10 seconds now.
+And the Sunnyvale flight director has just confirmed the successful deploy of the inertial upper stage and Galileo.
+Galileo reports positive telemetry of deploy.
+Also, we see the orbiter performing a minus X translation maneuver to move away from the IUS Galileo stack.
+Flight at time, Houston. This spacecraft is stable.
+Galileo is on its way to another world.
+It's in the hands of the best flight controllers in this world.
+Flight safe.
+Roger, Atlantis. We copy that. That's great news. Thanks.
+
+Good morning Atlantis.
+Good morning, TJ, what a good way to wake up. I like the first song a lot better than the second one, but I recognized all three.
+Roger that.
+
+This morning's wake up music was a tribute to Commander Dan Williams and pilot Mike Mullally. Commander Williams and pilot Mike Mullally, uh, both went to Purdue University and, uh, the music led off with "Hail Purdue," the fight song from that university, followed by "Reveille." Since both the gentlemen are graduates from the Naval Academy, that was followed by "Anchors Aweigh."
+
+The SSBUV, which stands for the Shuttle Solar Backscatter Ultraviolet, is an instrument designed to help assist satellite controllers on the ground in accurately calibrating solar backscatter UV instruments, which are currently flown on several Earth-orbiting NOAA satellites, such as the TIROS-N and the Nimbus 7.
+SSBUV data takes are going to be made over the same Earth locations within the same one-hour window as the ozone sounders on those NOAA satellites. These orbital coincidences occur several times a day, offering many opportunities for SSBUV data takes. And then the comparisons between the data sets from SSBUV and the ozone sounders on the NOAA satellites will be compared to help verify the degree of accuracy in the current data set that experts use in, uh, uh, measuring atmospheric ozone and solar irradiance.
+The SSBUV is contained in two getaway special canisters in the payload bay on the starboard longeron towards the, uh, forward end of the payload bay. One canister contains the spectrometer and the five supporting optical sensors and, uh, the other containing, uh, power and and control mechanisms. The SSBUV has been properly calibrated and the crew aboard Atlantis, ready to begin the first solar view data take.
+And as you can see, I think we're in a correct attitude now for the SSBUV solar viewing. If you could confirm that, we appreciate it.
+Yeah, we concur, Don. Looks good.
+Okay, we're going to open the door on the SSBUV.
+Its movement.
+Commander Dan Williams confirming that the, uh, lid on the SSBUV canister is, uh, opening.
+And we can visually verify that the pop top is open.
+Roger that, Atlantis.
+
+Atlantis, guidance system is currently in a solar inertial mode, uh, tracking the sun along the minus Z axis, providing a direct, uh, line of sight between the SSBUV spectrometer and the sun as it rises over the horizon.
+Houston, Atlantis.
+Go ahead, Atlantis.
+Okay, we've terminated, uh, solar viewing at, uh, 1:47:1/1, colon 47, colon 50, and I can verify that the, uh, MDA is closed.
+
+Okay, Franklin. We copy all that. Thank you very much.
+
+Mission Specialist Franklin Chang-Diaz confirmed that the solar view mode of the SSBUV was terminated, and the crew is ready to maneuver to the minus ZLV attitude for the 24-hour Earthview data take phase.
+Good call on the sunrise, Houston. It's in it's, uh, our clocks counted down to, uh, 24624, we saw a large orange ball pop above the horizon.
+Roger that, Atlantis.
+We've got the, uh, command, uh, right at sunrise, as expected. Looking out the back window, uh, we can see the horizon-scanning mechanism on the sensors on the, uh, SSBUV payload, uh, doing their thing. The little mirrors are moving up and down in the windows there where we can see them.
+Okay, thanks for the update, Don.
+Houston the flight.
+Go ahead, Atlantis.
+
+Roger, Houston. Uh, I got a lot of, uh, very nice, uh, lightning, uh, over Africa, uh, on Camera Delta, and I'm putting it on the VTI, but if you care to look at it right right in real time, uh, you can see it now. Looks like a real show.
+Okay, Franklin, we're ready for that, uh, TV you've got of the lightning over Africa.
+Okay, it's coming at you now.
+Okay, thanks.
+Atlantis, Houston.
+Go ahead, Houston.
+The, uh, lightning TV that we just saw was really spectacular. We appreciate it. And the M LE passes, that's the best he's seen.
+Okay, thanks a lot. We'll be looking out for them.
+
+Atlantis, Houston, with you through TDRS West.
+Houston, Atlantis. We heard you, and for the P M folks, we just started sequence number two, samples five and six. The first four samples look great, looked just like, uh, uh, the simulator. And this one started off looking real well, too.
+Okay, Shannon, we copy. Thanks a lot.
+
+And Mission Specialist Shannon Lucid also verified that the polymer morphology experiment samples five and six have been started in their processing, uh, phase.
+The, uh, polymer morphology samples, uh, which are basic compounds, uh, such as polyethylene, nylon 6, and other polymer blends, are, uh, mounted in a cell which generates temperatures up to 200°C, and as the samples, uh, melt and then solidify, a, uh, rotating carousel moves the films into an infrared beam that provides for some spectral information to be recorded on the PM data recorder onboard and then brought back for postflight study.
+One of the unique advantages of the PM-1 over, uh, materials processing experiments flown in the past is that it, uh, offers the advantage of measuring the effects of microgravity during the actual melting and resolidification process.
+
+This is Ellen's retina, uh, with the, uh, the fiber optics device that we, uh, that we've been testing, is, uh, demonstration of a really really good capability that we now have. And it's part of our, uh, orbiter crew equipment.
+Okay, thank you, Franklin. Our flight surgeons down here say that the look inside Ellen's eye was excellent. They could see everything that they wanted to see.
+Absolutely, no way. Can you see everything you want to see just by looking in Ellen's eye?
+Well, they did say they'd like for her to set up an appointment with the ophthalmologist when she gets back.
+She was afraid of that.
+Atlantis, Houston, Doctor Meehan passes on his congratulations, says that the photos of the inside of the eye are spectacular and they can't wait to get the other photographs back from the experiment.
+Okay. And, uh, just for Dr. Meehan, the the session went real well today and it went real well yesterday. I was a little surprised, um, when I looked in Franklin's eye yesterday. It looked exactly the way it did on the ground. He had, uh, good vessels and good venous pulsations, and, uh, I didn't see any difference. Of course, they analyze it a lot more closely than I can. And, um, Franklin's got the camera. My eye's been dilated. We're trying to hold ourselves steady, which is probably the hardest part of this task. I'm going to put on my safety goggles, which are, uh, but I usually use for swimming, and Franklin's going to point the special camera at my eye, focus on the back of my retina, and, and take some pictures. And actually, just to add to Franklin's comments on the fiber optics, I think it was pretty remarkable that we were able to do that. And, uh, just considering some of the medical uses, um, I think this could be a real handy tool to have because the crew on board could down-link pictures to the docs on the ground, and I think they could be pretty good at making a diagnosis. It actually worked a little bit easier than it did on the ground for some reason. We thought we'd have to use restraints, and as it turns out, it's much easier not to.
+Ellen, are these still photographs that you're bringing back down for study?
+Yeah, these are, uh, slides of the back of my eyeball, and they'll be analyzed to, uh, determine whether or not the vessels have changed at all from my preflight photos, to see if there's been any leakage into the brain and a little bit of swelling in the brain that might cause some of the symptoms of, uh, motion sickness. So, I think Dr. Meehan will be happy when he when he gets his film developed. It looked looked like things went pretty well to us and I think we have another session on flight day four.
+Atlantis, Houston, for Ellen and Franklin, that was a job well done. I think everybody, uh, got a lot out of that. I understand a little bit better what the experiment is and what it's going to be used for.
+
+Good morning Atlantis.
+Hello, TJ. We send you the best from northern Australia.
+It's a little dark out our windows, but I suspect it's probably, uh, about time to get off third shift where you are.
+That's a firm, Don. Um, your execute package should be on board.
+Okay, any more goodness?
+Just that we got a full day planned for you.
+Well, thanks. We'd be disappointed if you didn't.
+Top of the morning.
+Top of the morning from your planning team.
+
+The wake-up music this morning was a tribute to the three Mission Specialists. Shannon Lucid got her undergraduate degree from the University of Oklahoma. Franklin Chang-Diaz got his undergraduate degree from the University of Connecticut. And Ellen Baker got her undergraduate degree from the State University of New York at Buffalo.
+Looking at a very rare live view of the southern lights.
+It's really spectacular. It's even better in color.
+And we were just talking about how we wish we had the colors so we could see it down here.
+It started out mostly greens and, uh, and with some blues, and now it's oranges and and reds and, uh, violets, and still the light greens and and a little bit of blues. It and it almost looks like a rain coming down from the universe onto the atmosphere. Houston, we pass, uh, good eye, light to all our good friends in this part of the world.
+Roger that.
+
+Right now, there are a few crystals, you know, uh, calling up the wire. I see two like a little long crystals uh, sticking out, and there are a few more little crystals that are sticking out. Now the water the top uh covers.
+Okay, yeah, Shannon, we concur with that. You were dropping in and out, so we we didn't hear all of it, but we understand that you have some crystal growth there now. We'd like you to go ahead and, uh, put the camera back in and take a couple of manual shots, and then go ahead and proceed with Cycle 2.
+Okay.
+The student experiment, the ice crystal experiment, uh, did not function as expected on flight day one. Uh, the crew reported they had not seen crystals forming in the expected locations along the, uh, uh, filament in the crystal-growing chamber. It appears that the troubleshooting efforts have resulted in, uh, some success, as, uh, uh, Mission Specialist Lucid reported, uh, at least a couple of crystals beginning to grow up the filament away from the plate.
+Atlantis, Houston, with you through TDRS West.
+Okay, the good news is we've really have some great ice crystals in there on the wire, and they're just, you know, growing right along. And we have some, uh, video that Franklin took with the fiber optics of the ice crystals if you want to see it.
+Atlantis, Houston, that's outstanding. The backroom is ecstatic and Tracy's real pleased with the results.
+Extensive ice crystal formations beginning to develop along the filament. And our payload officer here in the flight control room, reporting that, uh, the Principal Investigator student Tracy Peters, uh, very happy with what he saw. The intent of his experiment is to, uh, discover what geometric shapes ice crystals may take as they form at very supercool temperatures, temperatures below 0°C, in microgravity. Earthbound scientists have tried to determine the relationship between temperature and crystal geometry, but gravity has the effect of deforming the crystals. It's hoped that the result of this microgravity experiment will aid in the future design of, uh, radiator cooling and cryogenic systems as well as in enhancing the understanding of high-altitude meteorology and planetary ring structure theories.
+
+Okay, you might want to, uh, inform the Rand McNally folks that we just made a fantastic pass here over the United States and we found Oklahoma. It is so gorgeous that you can't believe it. And not only that, from our perspective, from up here, and not only looks like it's right in the middle of the United States, it really and truly looks like it's right in the middle of the universe. And Ellen Ellen was noticing the river there and she said, "What is that?" And I said, "Well, that's the Red River." And she had never even seen it before, so her education is complete.
+Well, thank you, Shannon. I'm speechless.
+I knew you would be.
+Milt says that made him feel pretty good.
+
+Good, just wait until we see the pictures.
+Okay.
+Shannon Lucid is reporting, they just made a marvelous pass over the central U.S. and she found Oklahoma. It looked like it was not only in the center of the United States, but the center of the universe. And the lead flight director for this mission, Milt Heflin, who also is from Oklahoma, so that made him feel good.
+
+Okay. I had just a couple of things to pass on to you. SSBUV, the Ice Crystal, IMAX, MLE, and PM, all pass on their thanks for a job well done.
+Got a good day today.
+Galileo is about 457,000 miles from the Earth now, and looking nominal. And a message for Shannon from Milt. Milt says that he was really proud to hear Shannon say those wonderful things about Oklahoma. And he was also surprised that it only took her three days to find it.
+
+And with that, the Orbit 2 team says, good night. We'll see you tomorrow.
+Well, we probably would have found that a little bit earlier if it'd been on the map.
+Okay.
+Other than that, we also appreciate the great support from all you guys around the control center and around the Johnson Space Flight Center and the rest of the NASA crowd and everybody else who has helped us get this far. Atlantis has just been a magnificent spaceship and my hat is off to the rest of this crew, also because they pull off some amazing feats with some of the experiments today that I didn't think we were going to be able to save. So, we work together as a team, I think, and that's what counts. That's how you win championships is with teams. So, thanks Mike and thanks Houston and we'll talk to you in the morning.
+All right, thanks. We concur with all that. Thanks.
+There was a recent addition of an Atlas that came out that did not have Oklahoma on it and Oklahoma natives Milt Heflin, the lead flight director for this mission, and Shannon Lucid, of course aboard the Atlantis who is also from Oklahoma, were just making sport of that and and others were making sport of the fact that they were from Oklahoma, which is a common thing here in Texas.
+
+Is this the real life? Is this just fantasy? Caught in a landslide, no escape from reality. Open your eyes. Look up to the skies and see.
+Galileo!
+Good morning, Atlantis.
+We enjoyed the sounds of the Bohemian Rhapsody. And the sounds of Houston's voices.
+Well, we thank you, and we're sure glad you recognized it. And Don, you should have some morning mail on board. We also included a crossword puzzle for your enjoyment, and there'll be an answer key available tomorrow.
+They'll be looking ahead in page 17, huh?
+Roger.
+This is Mission Control. The conversation related to the wake-up music, that music was entitled Bohemian Rhapsody by the band Queen, as a tribute to the Galileo spacecraft which was the primary payload deployed by the crew of Atlantis on flight day one.
+
+Hello, Commander Williams. This is President Oscar Arias from Costa Rica. I want to express to you and the rest of the crew our gratitude for what you are doing for the well-being of mankind. Congratulations and good luck.
+Thank you, Mr. President. The rest of the crew and I are very honored to be able to talk to you this afternoon.
+I want to say hello also to Shannon. I understand Shannon is a microbiologist, to Ellen, I also understand she is a medical doctor, to Michael and to Franklin, who we all know he is a physicist. Um, you're lucky, Commander Williams, not to have any economist or political scientist with you. Franklin, cuéntanos cuéntanos a los costarricenses cómo les ha ido hasta el momento y cuáles son las principales investigaciones que realizarán en Venus y en los asteroides y en Júpiter.
+Muy bien, Don Óscar. Es un placer saludarlo de nuevo y a todos los costarricenses y también por este medio, el resto del del grupo de países latinoamericanos y habla hispana. Ha sido una misión maravillosa, esta misión número dos que he llevado a cabo con el gran honor que he tenido. Hemos podido eh desplegar la sonda interplanetaria Galileo que lo hicimos en el primer día. Esa sonda se encuentra en estos momentos a unos más o menos un millón de kilómetros de distancia de la Tierra de camino para el planeta Venus, al cual en realidad no más usará como vehículo para impulsarse aún más y seguir su trayectoria hacia su destino final, que es el que es el planeta Júpiter. También claro después de haber desplegado la sonda Galileo, hemos llevado a cabo tres días de experimentos en varias ramas de la ciencia. Tenemos un experimento bastante importante para los países latinoamericanos que se llama el SSBUV, que es un equipo, un equipo de instrumentos para medir el espesor de la capa de ozono, la cual es un, el cual es un tema tan, tan fundamental en estos momentos eh en estos días eh cuando nos preocupamos tanto sobre el medio ambiente. Además de esto claro, hemos tenido la oportunidad de ver a todo el sector centroamericano y tomar fotografías ayer y anteayer tuvimos eh eh pasamos por encima de de la área centroamericana, Nicaragua y Costa Rica y pudimos tomar bastantes fotos eh de la del Valle central de Costa Rica y por, por pura casualidad estaba despejado la ciudad de San José y tal vez en el futuro les vamos a enseñar esas fotos cuando tengamos la oportunidad.
+Bueno, pienso Franklin que va a ser muy lindo para los costarricenses poder ver fotografías tomadas por vos desde allá tan lejos en el espacio y realmente muy interesante lo que nos cuenta sobre las investigaciones que realizan, los experimentos que realizan, realmente yo pienso que en la próxima década una de las grandes preocupaciones de la humanidad será la protección del medio ambiente y todo lo relativo a la capa de ozono. Realmente es una experiencia maravillosa para nosotros poderte saludar y realmente creo que te convertís en un ejemplo para la juventud costarricense y del mundo latinoamericano en general.
+Lo que has logrado es un paradigma para nuestra juventud que necesariamente tiene que ver en vos un símbolo de lo que puede llegar a ser cada uno de nuestros jóvenes en la pequeña Costa Rica. Si hay deseo y voluntad de superación, si hay deseo de esforzarse más y más en la vida y de llegar a lo que has llegado, vos nos sentimos sumamente orgullosos de todo lo que has realizado. Realmente pones muy en alto el nombre de Costa Rica y de la América Latina en general. Quiero decirte, Franklin, que el próximo viernes y sábado nos visitan los presidentes del continente para celebrar 100 años de democracia. Yo quiero pedirles a los mandatarios que manden lo mejor de los científicos de esos países para la conferencia que pensamos celebrar organizada por don Rodrigo Zeledón y Eduardo Doryan conjuntamente con vos en marzo de 1990. Una conferencia espacial del continente americano que realmente esperamos vengan lo mejor las mejores mentes científicas de todo el continente y nos acompañen en aquella oportunidad una vez más aquí en Costa Rica. Quiero aprovechar esta oportunidad también para invitar a los compañeros tuyos de la tripulación al comandante Williams, a Michael, a Shannon y a Ellen. Seríamos realmente, nos sentiríamos realmente muy felices si en marzo de 1990 podríamos saludarlos personalmente y no como ahora únicamente a través de una pantalla de televisión.
+Muchas gracias, Don Óscar, y en nombre de la tripulación le doy de veras de nuevo las gracias por esta invitación tan tan honrosa que nos hace y téngalo téngalo por seguro que por allá estaremos. Yo quiero decirle que nosotros vemos con sumo beneplácito la iniciativa de Costa Rica hacia la integración de las de las Américas en estos temas espaciales tan importantes dirigidos al al bienestar y a la paz de la tierra misma. Esto con el patrocinio tan tan oportuno y importante del del programa de las Naciones Unidas para el desarrollo, que nos están ayudando a llevar a cabo este evento y claro mis mis felicitaciones al Ministerio de Ciencia y Tecnología de Costa Rica y al ministro Rodrigo Zeledón y Eduardo Dorián por su trabajo, su labor tan tan importante en la organización de esta conferencia.
+Un brindis final, Franklin, con una tacita de café que ya debe estar medio frío pero por ser café costarricense y por ser el mejor del mundo, no importa. Un brindis para desearles muchos éxitos, que en los días que van a estar allá puedan realizar muchas investigaciones más y realmente no tengo palabras cómo agradecerles en nombre de este pueblo a todos ustedes lo que están haciendo por el bienestar de la humanidad. Y yo creo que puesta la ciencia al servicio de la paz en el mundo es algo que el mundo entero tiene que agradecerles eternamente. Salud, muchos éxitos, mucha suerte.
+Muchas gracias, Don Óscar, y de nuevo un saludo para todos los latinoamericanos y a Costa Rica especialmente y especialmente a la selección de Costa Rica, a la cual veremos participar en el Mundial de Fútbol de Italia el próximo año y allá estaremos haciéndoles barra.
+Muy bien, Franklin, muchísimas gracias. Te vemos, si no antes en marzo de 1990.
+
+Well, this is sort of impromptu. My little alarm just went off and it's time for me to do my um my Scopedex uh saliva test. Uh this morning when I got up I took a Scopedex, and then at 30 minutes, 1 hour, 2 hours, 4 hours, 6 hours, 8 hours, and now 10 hours after I took it I've been collecting my saliva so that when we get back to Houston, the lab can analyze and analyze it and see how much of the drug I've absorbed. Uh there's been a feeling that perhaps drug absorption and metabolism is different in 0G and of course, this would be something that we would need to know if we do have people living up here for long periods of time because some folks will need some medication, and if the dosages need to be altered because of the weightless environment, uh then we would we would like to know this. So to collect the saliva, I have a little cotton ball, and I uh just put it in my mouth and chew on it for a little while and soak it up, and like I said, then we'll send it back when we get home and see what the lab has to say.
+The rest of us down here appreciate the medical work that y'all are doing, Ellen. We hope that it makes our flights better.
+
+got a beat up glove, a homemade bat, and a brand new pair of shoes. You know, I think it's time to give this game a rest. Just to hit the ball and touch them all, a moment in the sun. It's a gold and you can't tell that one was bad. Oh put me in coach, I'm ready to play today. Put me in coach, I'm ready to play today. Look at me, gotta be fantasy all. Yeah.
+Good morning, Atlantis.
+Good morning, Houston, but it's not even light there yet.
+No, it's still a little bit dark outside.
+The wake-up music this morning was uh by John Fogerty, the title of the song was Centerfield.
+Atlantis, Houston uh with some words on the weather for Monday and uh subsequent days.
+Okay, we're ready to copy the weather.
+Roger that. Uh for Monday, Edwards weather
+
+the winds uh get to be a problem. and I'll read them to you for a 1900 Zulu forecast to 240 at 12 gust 20. And it turns out that earlier in the day is a better shot for us at 16Z. You can expect 240 12 gust 18. And after 19Z, the forecast is for the winds to increase to 240 20 gust to 30. and it looks like uh with a frontal passage there, the winds will stay at those levels, or our forecast to stay at at those levels uh through Thursday. So we see uh an opportunity at Edwards on Monday with uh probably better opportunities earlier in the day. So the uh MMT is recommended a uh Rev 2 early deorbit and a landing at about uh 1630 Zulu at Edwards. Probably runway 23. Roger, we copy all that. Roger and we will be we've been working the timeline on this looking at options for one rev early or two rev early. Looks like we'll go with the two and we'll adjust your sleep time uh to uh or at least your wake up time and sleep time. So that you're up about an hour earlier tomorrow than you were today. Roger that. This is Mission Control, Houston, Capcom, Ken Cameron, confirming with the crew aboard Atlantis, plans to bring Atlantis and crew home, two orbits uh earlier than the original nominal end of mission uh plan. A deorbit ignition on orbit 79, brings Atlantis and crew to a landing at Edwards at about 9:33 Pacific time. 9:33 Pacific time, then go ahead and do orbit off. CNN, this is Houston. Please go ahead with your voice call. Atlantis, this is Tom in here in CNN Center. Uh we are ready to proceed with the interview if you are. Good morning, Tom. We're ready to talk to you guys. Commander, this has to be a very exciting mission for you. Uh you have said that uh you'd be ready almost to hang it up after this one. Uh how How much were you looking forward to this uh mission? The commander shuttle mission has been a goal of mine for a long time, Tom, ever since I got into this program. I'll tell you what, it's everything that everyone has said it was going to be, uh especially with the crew here with Mike and Shannon and Franklin and Ellen, we've just had a super time, and I think we've accomplished uh quite a mission here so far. We're looking forward to the rest of it. Let's back up a couple of days. The launch. You went through a couple of delays with the weather and a computer that needed to be replaced. How anxious were you the the second time you walked out to the pad? You know, those sorts of things are disappointing, but they're part of the manned spaceflight program. And we understand the necessity to do that. Safety is the most important thing in this program right now, and we've got to keep the flights and the vehicles and the crews safe in order to continue the program that we've got laid out for the rest of the year and it's going to be a spectacular one. We hope you guys will be watching. Commander, if I could, I'd like to talk to Franklin Chang-Díaz. Franklin joined us as a guest commentator on a mission previous, and all he could talk about was Galileo and how important and exciting this was going to be. Uh Franklin, good morning and uh how important is Galileo to you now that it's gone and on its way? Well, we certainly all breathe a sigh of relief. We know when the whole thing uh worked out according to plan, and we kept hearing all the good news uh from the ground that the spacecraft had uh done all the things that he had to do to get on its way. But I guess uh you know, uh it's just been wonderful to be a part of this crew and uh just kind of put my little uh uh two cents worth on the whole operation. All right, I have a question for Michael McCulley. This is your first flight. You are the pilot of this mission. Uh did you have any trepidation uh beginning for a mission where you knew it was going to be your first time but you would have time at the controls? No, I I I feel very well trained by all the folks back at Johnson Space Center and the other training facilities that we used. Having Dawn and Shannon and Franklin uh to guide us and uh to make sure we're doing the right thing and to and to give us their knowledge of previous flights has uh made all the difference in the world. And in fact uh I've been very, very comfortable from the very beginning of the flight all the way until now. All right, I have a question for mission specialist, Shannon Lucid. Uh Shannon, you're a biochemist. Uh what about the corn seedlings that you've been planning but first one question about you seem to be floating up there. Are your feet strapped in or are you just uh being held in place? I have my toes hooked around a a little uh switch guard and that's what's holding me in place. We haven't the corn seeds were planted before we uh uh left. We're going to put them in the freezer here in just a couple hours and bring them back down. The uh scenes we have seen from Atlantis during this mission, uh the lightning especially, uh has been uh very, very visual. What what can you tell the people down here about what it's looked like to be turned upside down and and watching the earth pass below you as rapidly as it does. From my point of view, it's absolutely magnificent. Uh the spacecraft has been performing in an outstanding manner, and uh we've all been having a great time, but the world uh as we know it is uh is a very fragile place, and from this point of view, it's very obvious that that's the case. And we need to take good care of it. And I'd like to maybe let Alan comment on that too, because she's been watching some of the lightning and a lot of earth observations. I'll echo the second Dom's uh comments. It's just been gorgeous and uh I think I can speak for all of us when I say that uh our world is a beautiful place, and we do need to take care of it and you get an appreciation of uh how thin the protective layer is above the planet when you look at it from up here. All right, Commander Williams, thank you very much. I'd like to thank all the Atlantis crew, Franklin, Shannon, Ellen, Mike. Have a safe reentry and a safe landing at Edwards on Monday. We'll all be watching you. Thanks Tom. We really enjoyed talking to you guys today. As you can see the crossword puzzle was done. Congratulations, we'll uh check your answers post flight. We'll accept another one. Right now we are working on the growth hormone uh concentration distribution and plant experiment. We have four containers that have corn seedlings in them and we are going to freeze two of those four containers and post-flight, Dr. Bandurski and his team will be examining the corn seedlings for uh growth hormone. You know, plants tend to grow upwards in the uh 1g environment, and we're not exactly sure how the growth hormone will be distributed uh in this weightless environment. So we have this little nitrogen freezer on board here and Shannon just put one of the canisters into the freezer. Okay, sample one is in the freezer now. Okay, and we'll be comparing the frozen seedlings and the control seedlings when we get back. Atlantis, Houston. Good, thanks. And I just want to give you a little bit of an update, uh we'll have uh a teleprinter test message coming up a little bit later and we have two more tags, messages, the football scores and a one page of the flight plan for tomorrow. That's fine, copy all that. What's your those uh two tags messages you think is the most important. I'll let you be the judge of that, and uh once we get those tag messages on board, we plan on stowing the KU uh early. Okay. We'll check the quality of the uh teleprinter message. Hopefully it's as uh good a quality as the Houston game was today. Okay. And Atlantis, Houston, I think that's about all the notes we have for you today and uh the orbit 2 team has enjoyed working with you. This will be our last uh time with you, hopefully. And uh you guys have done a superb job. And we'll see you tomorrow back in Houston. Good night. Well, the whole team has and uh we'll see you tomorrow. And a special thanks to Milde and the rest of the team there in Houston for just absolutely magnificent job on Galileo operations and the rest of the flight also. But uh I think we'll all as the years pass and Galileo journeys toward Jupiter, look back on this one as something that was accomplished by a great team working together. Roger that, we concur. We'll see you tomorrow.
+
+wins 190 at 8, six head 5 left.
+
+Velocity is 500 feet per second, 5800 feet altitude, range 3 miles.
+
+Landing gear down and locked, altitude 390 feet.
+
+Main gear touchdown.
+
+Gear touchdown. And Atlantis rolls out at the conclusion of mission STS-34.
+
+Roger, Atlantis. Congratulations on an outstanding mission. You've extended the shuttle's reach to the outer planets. Bravo Zulu.
+
+Thank you, sir. It's nice to be home. And stand by. And that was without you guys, so super support.
+
+Roger, thank you, sir.
+
+And a special thanks to Milled and the rest of the team there in Houston for just an absolutely magnificent job on the Galileo operations and the rest of the flight also, but I think we'll all, as the years pass and Galileo journeys toward Jupiter, look back on this one as something that was accomplished by a great team working together.
+
+Roger that, we concur. We'll see you tomorrow.
+
+Time keeps on slipping, slipping, slipping into the future. Time keeps on slipping, slipping, slipping into the future. I want to fly like an eagle to the sea. Fly like an eagle, let my spirit carry me. I want to fly like an eagle till I'm free. Oh, the future.
+
+Good morning, Atlantis.
+
+Well, greetings. I'm not sure we're flying like Eagles, but it sure has been a good time so far.
+
+Well, that music was because your planning team is looking forward to watching you fly home today.
+
+Oh, well, that sounds like a good plan.
+
+We'd like to know you're also we're also pleased that you enjoyed our crossword puzzle. We also want to report that all your answers were correct.
+
+Oh, this was the first team crossword outfit up here, you know.
+
+Well, the first team crossword outfit on the ground, that was really well done guys and a lot of good thought went into that one.
+
+Well, we appreciate that.
+
+The wake-up music this morning for the crew of Atlantis was titled "Fly Like an Eagle" by the Steve Miller Band.
+
+Atlantis, Houston. The lakebed is go and you're go for deorbit burn.
+

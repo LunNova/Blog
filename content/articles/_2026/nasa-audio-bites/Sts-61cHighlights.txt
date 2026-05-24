@@ -1,0 +1,491 @@
+Space Shuttle Columbia once again poised for launch on this fifth attempt for mission 61C. All looking very good this time. This is the seventh flight for orbiter Columbia. The ship pioneered the use of reusable winged spacecraft with the first launch of the Space Shuttle in April of 1981.
+
+Since that time, the shuttle fleet has flown a total of 23 missions. Columbia went on to be reused for the second, third, fourth, and fifth shuttle flights and the first Spacelab mission, STS-9. This is our fifth launch attempt for 61C. You've got Our first try on December 19th was abruptly halted at T-minus 14 seconds when our ground computer detected an apparent problem with one of the booster hydraulic power units. We came back after the holidays targeting liftoff for January 6th and got down to the T-minus 31 seconds. Mark on that date, when a ground side liquid oxygen valve closed sluggishly and forced another hold at T-minus 31 seconds. Our launch window expired before we could recycle and get off another try on that date. This past Tuesday, we had unacceptable weather conditions at our transatlantic abort sites of Dakar and Morocco. And we decided to call it a day at T-minus 9 minutes. We came back on Friday and had unacceptable weather conditions here at the Kennedy Space Center and had to call it quits.
+
+We're back here this morning and everything looking very good, very promising for a liftoff today. Liftoff targeted for 6:55 a.m.
+
+Okay, let's make sure the lift looks good today. The golf is going to win the ball game and we're going to launch with the CLS scope, auto sequence start. Have a ground launch sequencer go for auto sequence start. Columbia's general purpose computers now have primary control of critical vehicle functions.
+
+T-minus 20 seconds. Everything is go. The orbiter's onboard computers have armed the SRB ignition hold down post and T0 umbilical.
+
+T-minus 12 seconds.
+
+T-minus 10. Go for engine start.
+
+T-minus 6, 5, 4, 3, 2, 1. We have ignition and we have liftoff, liftoff of Columbia on mission 61C, and the shuttle has cleared the tower.
+
+Houston control and now.
+
+And uh, Columbia's ready to go.
+
+Roger, roll Columbia.
+
+Good roll, 73 degrees. Puts the ship in the proper attitude for the flight downrange with wings level and astronauts' heads down.
+
+Engine's still running smoothly at 85. Now stepping down to 67% as they pass through the period of maximum dynamic pressure on the vehicle.
+
+Columbia, Houston, go at throttle up.
+
+Roger print, go at throttle up.
+
+That's a great run.
+
+At 1 minute 25 seconds, all main engines back at 104% of rated thrust and operating smoothly.
+
+Velocity 4000 feet per second, altitude 13 miles, distance downrange 12 miles. Main engine still continue to look great.
+
+Houston, Columbia, we got PC less 150.
+
+Roger.
+
+That call pre-cursor to solid rocket separation, which now occurring and occurs nominally. That call and that event right on time at 2 minutes 6 seconds.
+
+Columbia, Houston, performance nominal.
+
+Roger, I'm nominal performance.
+
+Distance downrange 70 miles, altitude 40 miles, velocity 7000 feet per second.
+
+3 minutes 11 seconds into the mission.
+
+Columbia, Houston, negative return.
+
+Roger, negative return.
+
+That call indicating we no longer have a return to launch site capability.
+
+4 minutes 30 seconds mission elapsed time, velocity approaching 10,000 feet per second, altitude 54 nautical miles. Columbia now in space, not yet in orbit.
+
+Columbia, Houston, press to Mico.
+
+Roger, press to Mico.
+
+That call on time, advising the crew to continue to fly forward to main engine cutoff should one main engine fail to operate. All main engines continue to operate perfectly, flawlessly at 104% of rated thrust, exactly as programmed. 8 minutes into the flight, we should be at 23,000 feet per second velocity and it looks like we're going to be right on that mark. All main engines now at 90% of rated thrust running very smoothly.
+
+About 20 seconds, 22 seconds remaining until main engine cutoff.
+
+And Fido advises nominal Mico.
+
+Right on time at 8:22 into the flight, Columbia now back in space and in orbit after a sabbatical of more than two years.
+
+Columbia, Houston, with you through Yargadi for 9 minutes.
+
+Hello, flight. We just left and cleared through Yargadi. We had a DUDOME's two on time. Orbit shows 176 by 175 and uh flight ship Columbia is looking good.
+
+Roger, Hoot, glad to hear it.
+
+We have the uh infrared TV camera powered up, and we're planning on using it a little bit on the central America pass coming up. I wanted to tell you that the view out of here is just spectacular. It's just gorgeous to see the the coastal Brazil is uh totally clear. And we've got some good pictures, I think.
+
+Roger, Franklin. We copied.
+
+I tied the hole Franklin down here. He's getting uh perfectly clear view of the Central America.
+
+Hope he's getting some good pictures.
+
+I can't hear. There's too many cameras, wasn't there?
+
+This is Mission Control Houston. The IRIE camera is an infrared camera located on a pan and tilt unit in the payload bay of Columbia. They have activated the camera while over Central America and the objective of the uh camera is to uh acquire uh radiometric pictures uh or information, uh selected uh terrestrial and celestial uh targets. Camera contributed uh by the RCA communications. Uh the IR camera uh provides a ground field of view of approximately 27 by 21 nautical miles. Uh that's at an orbital out altitude of uh 160 nautical miles.
+
+And for uh gym for the Earth ops folks, uh Frank and uh we think that's terrific shots of the uh the past uh central America. And uh Charlie and Bob have been running the uh IR camera continuously for probably about the last uh 30 or 40 minutes and uh seem to be getting some decent data on it.
+
+Okay, that sounds great. We're glad you got some good pictures. We'll be looking forward to see them when you get back.
+
+Frank and I were really thrilled. Costa Rica was uh just about cloud-free.
+
+We'll pass that along and I'm sure they'll be thrilled at that.
+
+Satcom K1 owned and operated by RCA American Communications or RCA Americom is one of three KU Band domestic communications satellites. We'll be operating in the 12 to 14 Gigahertz range. And on Satcom K1 there are 16 operational transponders and uh six spares. Each transmitting 45 Watts of power, more than the uh 12 to 30 Watts used for C Band transponders.
+
+Payloads officer does report that uh the PAM and uh Satcom satellite uh both look healthy and are ready for deploy.
+
+Payloads Officer reports um the PAM do uh PAM D2 spin up. Spin rate on the um payload assist module is 50 RPM.
+
+The satellite is looking good. The spin is doing well and we're standing by for a go for deploy.
+
+Columbia, Houston, you have a go for deploy.
+
+Thank you, Houston.
+
+And LS a minute and a half. T-minus at 9:31, we will not call you, but we will be standing by if you need us.
+
+Okay, we copy.
+
+Satcom is uh due to be deployed in about well less than 3 minutes now. Uh that will happen before we reacquire the signal through the tracking and data relay satellite. We will get voice confirmation at that time.
+
+Is Satcom deployed, Houston?
+
+Roger, we copy.
+
+Okay, it felt to us like the uh satellite went out at about 2 seconds on the countdown clock.
+
+Over.
+
+Okay, we copy that. Uh excellent work, Columbia. You've given us a lot of hard work over the past couple of months and we really appreciate it. Thank you very much. And we'll let you know about the uh deploy time.
+
+Okay, great. Okay, we can verify that the Omnia is out on the satellite too. We can see it.
+
+Okay, that sounds good. Thank you very much.
+
+The uh burn for the payload assist module uh should occur around uh MET of um 10 hours 16 minutes. And uh 2 minutes following that, the Satcom uh should uh separate from the PAM.
+
+Satcom officials pass along, job well done. Thank you very much.
+
+Thank you, Jim. Uh thank you, and thank you and Sanclone and the guys really did a nice job getting that thing out. Uh tell Shin Tom, they had a very nicely built bird and they did give us any trouble.
+
+Our pleasure. We're just uh pleased that it went so well.
+
+And so are we. I guess all your hard work paid off.
+
+You guys have a nice day down there, don't you?
+
+Shannon, it's so clear that I think I could I could give them their morning traffic report on the radio. I can see uh we can see the traffic backed up on 45 at the loop and uh the Katie Freeway is all backed up and and uh I could get a job as a radio guy.
+
+Yeah, you're sounding really good.
+
+And Shannon, in the midst of this uh uplink data take, we've had a couple of astronomy buffs looking at the Andromeda galaxy out the overhead.
+
+Well, I'm certainly glad they can put their education to good use.
+
+And the uh flight director wanted to make sure that you didn't suffer from Andromeda strain.
+
+Well, Steve said he would. Steve has carefully analyzed it, Shannon, and he says there's a lot of stars out there.
+
+I am really impressed. If I had a PhD in astronomy, I'd be able to find that kind of data myself. The UVX, the uh ultraviolet experiment uh activities are going on. UVX, um it's a three canister payload designed to measure diffuse ultraviolet background radiation.
+
+And Jim, uh just for the Champ folks uh this last wave we had uh Steve looking, Stephen Hoott looking out the window with the binoculars and me with the spectrometer and uh we're guessing you could see down to about third magnitude with the moon in the naked eye. I never saw the comment through the spectrometer so we uh we had it planned along with the orbiter and maybe we got lucky, I don't know.
+
+Okay, thanks for the report.
+
+Crew members still involved with the um Champ payload. Uh Champ standing for uh Comet Halley active monitoring program. This involves a 35 mm camera and equipment to photograph of course Halley's comet. Uh photographic images and Spectre will be obtained uh through the windows of the orbiter crew cabin using the uh 35 mm camera. And uh Pinky Nelson has um about an hour or so ago um had enclosed himself in um a uh camera shroud uh in order to eliminate all cabin light interference. And earlier on um and uh today's activities uh in looking and preparing the uh Champ payload for activation um they had some problems with the image intensifier. So they have opted uh not to use that intensifier during this uh activation objectives uh of the Champ payload, uh including investigating um uh behavior as well as chemical structure of the uh Comet Halley. This is Mission Control.
+
+And now for something completely different.
+
+Monty Python's Flying Circus.
+
+Good morning, Columbia. Houston is with you through Yargadi for about 8 minutes.
+
+Good morning, Shannon. Let's clear through Yargadi.
+
+The wakeup music this morning was a theme from Monty Python's Flying Circus.
+
+Shannon, we're going to have uh Congress and Bill Nelson give you a uh a quick rundown on the central Venus pressure.
+
+Okay, we're ready.
+
+Hello, Shannon. Uh this is the first time this has been performed. So the guys over in building 37 would like to hear. Uh we've been running consistently with the pressure in the mid-20 ranges. But uh just now, now that we're in flight day three, the pressure is starting to come down into the low-20s. If you'd pass that on, I'm sure they'd appreciate it.
+
+Okay, thank you very much. We'll pass that on.
+
+We didn't We didn't tell Bill it was going to be on live TV while we did that.
+
+Well, he did an outstanding job.
+
+And uh Shannon, we're going to have Bob talk to you briefly here about uh what we've been doing what he's been up to so far and what we've seen with the IR camera.
+
+Okay, that sounds good.
+
+So we had the IR camera powered up for rev four. Charlie got it turned on. And uh that was our first go-around with it. We got some interesting pictures coming over South America, although the cloud cover and turn on folks. I think we uh I don't think we got Mount Ruiz, but there were some bright spots on the on the picture that we believe represent the volcanic activity. So we're hopeful that we got some of that. We also got some good IR pictures of the Satcom deploy, which worked out rather well. Uh they didn't show any thruster activity, which is what I know my friends back home were looking for. But if there were no mutation and they shouldn't shouldn't have seen any IR activity.
+
+and uh so far it's looking good.
+
+Okay, we copy that. Thanks, and we'll pass that along.
+
+Standard bill got one more note on the uh the leg plethysmograph.
+
+Okay, we're ready, copy.
+
+Uh pass this on to Dr. Bill Thornton and Dr. Tom Moore. I've taken a a total of eight leg measurements and as we would imagine, the leg got much smaller at the beginning of flight because of the fluid shift in the body. However, I was surprised that the leg started filling back up. Uh not to the point at which it was on the ground. You can also tell Dr. Bill Thornton that on some of the other crewmen, I was able to do his clinical characterization of SMS including the temperature and pupillary size and the power, as well as the eye hand tracking. He'll be happy to hear that, to Dr. Bill Thornton.
+
+Okay, we'll pass that along. Seems like you all have been very busy, and we appreciate the report.
+
+In addition, I've been having a ball.
+
+Well, we're glad to know that.
+
+Congressman Bill Nelson briefing on the Central Venous Pressure experiment and the leg plethysmography and uh on um the SMS power or space motions sickness power.
+
+Jim, what we're going to do is attempt to conduct the paper fiber experiment, and this is on behalf of Daniel Aibara who is a student from Appleton, Wisconsin and his corporate sponsor is the James River Paper Company. And well, what the purpose of the experiment is, is to try to remove gravity as one of the free parameters in the formation of fibers. So what we have here is a locker with nine different cylinders that contain some paper fibers. And I'm sure you can't see that very well on television, but the paper fibers are in here and we'll get some close-up pictures as we do the experiment to show you later on. We'll shake this up and get the fibers evenly distributed and then try to compress the cylinder to remove the fluid in which the fibers are suspended to make a a paper mat. And the hope is that by doing this, we'll get a more uniform paper as the distribution of fibers will become more uniform due to the lack of gravity. And we'll conduct that experiment now, while you're watching if you like.
+
+Okay, that sounds great. I'm sure he's watching and he can he has right to be proud.
+
+Pinky Nelson and Steve Hawley working with a student experiment.
+
+Okay, we just completed the first apparatus. There was just a little bit of free water, and we think we got the paper mat compressed pretty well. You may have been able to observe me trying to do the compression, and that's that's a pretty good bit of exercise. I think I'm going to let Dr. Nelson help me with some of these.
+
+That's fair. We did see that, and I guess you can forego your treadmill today.
+
+Yeah, Steve says he's really enjoying this. It's a lot of fun. And and he wants to know if you really need all nine of these things squeezed.
+
+And Columbia, Houston, you're looking so good. We'd like to get all nine. Thanks a lot for your time and effort.
+
+Well, we Yeah, thank you, Jim. We do answer with all nine.
+
+Columbia, Houston, AOS, T-minus two minutes, next, 319. And for Stephen Pinky, thanks a lot for your work. I'm sure you made Danny Bear very happy, and we're all excited to see the results when you get back.
+
+Okay, thanks Jim. We'll pass that on to them. Glad it worked out.
+
+The next TV event on Orbit 35 will be a VTR dub of an orbiter tour narrated in Spanish by Franklin Chang-Diaz.
+
+Muy buenos días a todos los todos los de Latinoamérica y a todas las personas de habla hispana en los Estados Unidos, y un saludo muy especial a mis queridos costarricenses. Nos encontramos a bordo del transbordador Columbia. En estos momentos pasamos nuestra trayectoria orbital nos está haciendo pasar exactamente eh por encima de las capitales más importantes las ciudades más importantes de Centroamérica y todo el continente o casi todo el continente sudamericano. Durante el transcurso de estos dos días que llevamos en nuestra misión eh he tenido la oportunidad de acumular algunas algunas vistas de nuestras operaciones aquí a bordo del vehículo que las quería las puse en una cinta eh una una cinta cinta de video para que ustedes se puedan dar una idea del tipo de cosas que llevamos a cabo a bordo del del transbordador y cómo esto pues se opera durante las misiones que llevamos eh una vez una vez al mes. Muy bien. En estos momentos lo que ven son escenas de a bordo del vehículo. El vehículo tiene planta baja y planta alta y esta es la planta baja. En aquí vemos a nuestros compañeros en el en el proceso de operar diversos aparatos a bordo. En esta vista tenemos eh estoy yo flotando desde la parte alta de la planta baja. Esta es una vista de la la planta alta, el puente de mando del transbordador. Aquí está el el comandante de nuestra misión, eh Jim Wetherbee, y estas eh son tomas eh de la parte delantera del vehículo donde está la mayor parte de los controles necesarios para operar eh el transbordador. A la mano derecha pueden ver a Charlie Bolden, que es nuestro copiloto, y un poquito del destello de la luz del sol que hasta cierto punto nos está haciendo que la la imagen se haga un poquito más oscura. Estas son de tomas en la parte trasera del puente de mando. Aquí está mi otro compañero es Steve Hawley en el proceso de tomar ciertas medidas eh con el experimento UVX, que es un experimento que que se está eh llevando a cabo para estudiar las emanaciones ultravioletas del del espacio. Este experimento está localizado en el compartimiento de carga y es totalmente controlado desde nuestra cabina. Esta es la parte eh opuesta de la parte trasera del vehículo, aquí estoy yo operando el laboratorio de materiales también que tenemos en la parte trasera del del compartimiento de carga. Esta es una toma también en la parte trasera viendo por las ventanillas directamente hacia la cola del vehículo y por por la ventanilla se puede ver también el la curvatura de la Tierra. En este momento, cuando tomamos esta toma eh fue durante el sol poniente, o sea que se puede apreciar la cola del vehículo y la puesta de sol, un espectáculo sumamente maravilloso, eh un espectáculo eh totalmente imponente. Más tomas eh se ven ahora de el puente medio, de la planta baja del vehículo. Aquí nos alistamos eh mi compañero eh George Nelson, Pinky Nelson y y yo para tomar ciertas medidas que llevamos a cabo un experimento con unidades eh para almacenar sangre en el espacio. Estamos estudiando el proceso de cómo se lleva a cabo eh el almacenamiento de sangre en el espacio, tal vez para futuras misiones eh eh futuras misiones este tipo de experimento eh sea de cierta necesidad. Se estima, por ejemplo, que la falta de gravedad impide, por ejemplo, que la sangre entonces eh se estratifique y ese ese tipo de estudio lo estamos llevando a cabo en este módulo de experimentos. Aquí son algunos eh algunas tomas del comportamiento de fluidos en el espacio, en este aquí podemos ver una un glóbulo de agua, agua agua pura, siendo eyectada por una pajilla y muy pronto pues simplemente la la el glóbulo de agua eh pues eh se desprenderá de la pajilla y empezará a moverse en sus modos normales de oscilación. Como ven, todo tiende a a mantenerse unido, se forma un glóbulo. Claro, inmediatamente el glóbulo empieza a alejarse en diferentes direcciones y hay que destruirlo. Estas son pruebas de la conservación de la cantidad de movimiento angular en tres ejes y es otro pequeño experimento que llevamos a cabo aquí en en en la a bordo del del vehículo. Son pequeños experimentos de física que serían interesantes para estudiantes eh de secundaria y para que se den una idea del comportamiento de las leyes de la mecánica aquí en el espacio. A medida que estoy hablando, estamos pasando por el territorio eh de la Latinoamérica y es un placer para mí el poder llevar a cabo esta transmisión desde el espacio, especialmente para los los países latinoamericanos y para todos los eh eh las personas de habla hispana en los Estados Unidos. También un saludo muy especial de este compatriota que tanto los quiere y para mis amigos de California, eh un saludo de colores. Espero que les haya gustado esta transmisión. Hasta luego.
+
+Okay, Jemma, I think that's all I have to say. It's back in English now.
+
+Okay, thank you very much. We appreciate it. It was very interesting and it's nice to see all your smiling faces. Keep up the good work. You're doing a good job.
+
+Bill Nelson would like to uh give you a status on protein crystal.
+
+And we're ready to copy.
+
+You might want to tell the folks at Marshall that uh crystals are forming and we're just on flight day three. Uh, particularly in the proteins uh Can-1, Can-2, and Can-3. Uh, and uh of course, there are some crystals in lysozyme, which we expected thus far. In uh the uh PNP, the bacterial PNP, I have not been able to see crystals forming yet, but I have a photographic record uh of all of it on each day.
+
+Okay, we copy that. I'm sure Marshall will be happy and we'll pass that along. Thanks.
+
+Representative Bill Nelson, uh explaining uh giving us an update and explaining the uh protein experiment that he's involved with. Uh that experiment being the uh handheld protein crystal growth. This uh particular crystal growth experiment operation uh involves the use of four pieces of equipment uh to attempt to um to grow about 60 different types of crystals.
+
+the Argon injection uh experiment uh is one of the student experiments located in the uh middeck locker. Now, it's a materials processing experiment. The process involves uh injecting Argon bubbles into a uh molten metal alloy under microgravity conditions and uh comparing uh uh this honeycomb structure to those uh earth produced structures. The uh student involved with this experiment is uh Rachel Safman uh from Germantown, Maryland, her sponsor being a Fair Child Space Company out of Maryland also.
+
+Yeah, there's another thing that Rachel may be interested in there, Jim, uh if you can tell her that when we opened the experiment, the supply pressure had bled off to uh about 43 PSI. So we pumped it back up with a bicycle pump, and she'll be able to see that when we uh show you the videotape.
+
+Okay, we'll pass that along.
+
+Which is probably obvious to you but well the first thing we had to do uh once we got the pressure pumped back up was connected to AC power, and that's what I'm doing right now. Then we'll turn the power on, um again, check all the temperatures on the heaters as well as uh on each of the alloys and there are two alloy samples in as I said they were about 74 degrees when we got ready to get started. Uh once I checked that, we turned heater A on and it was it only required heater A for the experiment. The temperatures came up very uh uniformly, and it took a total of well, I let it run for 18 minutes, and actually got three temperatures stabilized at greater than uh 136. And the final temperatures of the alloys, the two alloys was 139 degrees on each. Uh what we then do is actually turn the heaters off and uh remove the AC power from the experiment and we go into what I call a pneumatic uh and a hydraulic part of the experiment. Uh I'd like to apologize to Rachel, we were trying to get uh, you know, everything, the the injection. Um, Canda has a quick explanation of what happens. Once we get the alloys uh heated up and get them in a molten state, then we actually uh open up uh a valve that lets air. We used air in this case I guess for safety and as opposed to an inert gas like Argon for which the experiment was designed. And we actually uh inject the air under pressure into the molten metal and uh then close the valve that lets the air uh reside in the molten metal and it probably breaks up into numerous bubbles or forms a big bubble. And it's sort of like making uh a honeycomb structure, just in in one fell swoop. We then removed all the sources of heat and let the experiment cool down, and we gave them about a 30 30 minute cooldown period. So hopefully uh everything got back into solidified form.
+
+this uh, maximum number of air bubbles in it. And what Rachel hopes to do from this thing is be able to to make a honeycomb structure, lightweight, uh, kind of good strength, uh, lower cost than it cost you to to presently make a honeycomb structure, as you would find in a modern airplane wing or something of that sort. Uh, like here in the shelf. The experiment seemed to go uh, really well, Jim. It was very well put together. Uh, again, Rachel Sassman uh, from Gaithersburg, Maryland, is the you know, the inventor of this thing and with some help from Fairchild, was able to put it together.
+
+Okay, that's good news, and she'll be thrilled.
+
+Columbia, Houston for Hoot.
+Go ahead, Jim.
+
+Yes sir. The decision has just been made to bring you back one day early, that is Thursday. Uh, we've accomplished a significant portion of the payload activities. We really appreciate your hard work and this ensures an extra opportunity at KSC for landing which also ensures that we get Columbia back down on the ground and turned around and back into the operational flow again. We'd like to let you stay a little bit longer but we can't. So, we'll bring you back one day early, that is Thursday.
+
+Oh, okay. Uh, Jim, you broke up a little bit. Understand you're going to extend us for two days?
+
+And please do not shoot the bearer of this message.
+
+Okay. Uh, Jim, we we copy. You're going to bring us down a day early.
+
+That's affirmative. one incentive for this decision to shorten the mission by one day uh is to allow two good opportunities for landing at the Kennedy Space Center in Florida, uh Thursday and Friday. Uh look better than a Friday and Saturday landing for those two good opportunities as far as the weather is concerned.
+Uh landing now scheduled for a Thursday morning instead of Friday.
+
+We think uh 61C has set an other record. We seem to be the first flight to ever do less than a priority mission.
+
+Sorry about that.
+
+After you finish UVX 11 Bravo, we would like to deactivate UVX, and that's on page 7-8. Over.
+
+Okay, understand. I'll be that. Now we'll do 11 hot, 14 laten uh on 11 Bravo, will uh remember to reconfigure relay 9 at -18 minutes and after the completion of 11 Bravo, we'll do a UVX deactivate.
+
+Okay, that all sounds good to us, Steve.
+
+Well, I hope uh they get some useful information out of all this. I'm sorry that it didn't uh work uh completely like we had hoped it would.
+
+Steve, the uh UVX folks have informed us they expect to get lots of good data from the great work that y'all have already done.
+
+Okay, well we certainly hope so. Thank you. And Shannon, uh is there an identifiable target for 11 Bravo that uh the astronomers on board might be able to see?
+
+Sure. Uh the answer to your question is that 11 Bravo is a galactic payload, and Mars is in the general vicinity of where you'll be looking.
+
+Okay, that sounds like something even the pilots can find, right? Astronomers can probably identify the galactic halo.
+
+Right, we expected that astronomers should get the galactic payload in Mars is red, so you ought to be able to see that.
+
+Okay.
+
+the ultraviolet experiment. UVX consisting of um three uh canister payload that's a part of the getaway special bridge, a a bridge on an aluminum structure that spans the width of the payload bay as accommodating up to 12 getaway special canisters.
+
+This is mission control, Houston. Uh as we uh pick up communications uh through the tracking and data relay satellite in approximately five minutes, uh we will be hearing from the uh President of Costa Rica, President Luis Alberto Monge Alvarez. Will be phoning um mission specialist Dr. Franklin Chang Diaz. Franklin was born in San Jose, Costa Rica. Please stand by for the President of Costa Rica.
+
+Un saludo muy cordial para el comandante Gibson, y una felicitación para toda la tripulación, y unas breves reflexiones que salen del corazón de todos los costarricenses.
+
+Para el pueblo y el gobierno de Costa Rica, la hazaña histórica que cumple el Columbia es una victoria de la humanidad. Al felicitar al comandante Robert Gibson, a toda su tripulación y muy especial al doctor Franklin Chang Díaz, hijo de esta centenaria democracia ubicada en el centro del continente americano, estamos expresando al mismo tiempo nuestra fe en la infinita capacidad del hombre para marchar día a día hacia la superación espiritual y material. El avance científico y tecnológico espectacular que representa la misión del Columbia reafirma la libertad y la paz de que disfrutamos, pueblos como el de Costa Rica y el de los Estados Unidos de América y lleva esperanza a los pueblos que aún luchan por conquistar su propia paz y su propia libertad.
+
+La presencia de un connotado científico nacido en Costa Rica como el doctor Franklin Chang Díaz en la tripulación del Columbia simboliza también una centenaria alianza de los pueblos costarricense y estadounidense. No es una alianza militar. Es una poderosa e inquebrantable alianza para defender la paz y la libertad con todos los recursos morales de que disponen los pueblos libres.
+
+Muchas gracias, señor Presidente, aquí está Franklin.
+
+Franklin, Frank, como le dicen ustedes allá, le reiteramos la felicitación más cordial de todo el pueblo de Costa Rica. Por más que él aguce su imaginación, no podrá adivinar la conmoción nacional que significa saberlo en esta misión del Columbia para todos los costarricenses. Le agradezco mucho que haya aceptado la invitación que hace unas cuantas semanas le formulé para que visitara Costa Rica después de esta histórica misión eh por el espacio. Me acompañan aquí el embajador de los Estados Unidos, Luis Tams, me acompañan tres de sus hermanas y uno de sus hermanos y en una terraza de la casa presidencial eh casi todo el gobierno y otras eh personalidades del país. Todos eh emocionadísimos de poder tener esta conversación y de poderle transmitir de nuevo que consideramos que su ejemplo es un ejemplo extraordinario para la juventud de Costa Rica y para la juventud del mundo entero y muy especialmente para la juventud de origen hispano en en el mundo y en la Europa en la península ibérica. Eh deseamos tenerlo un día aquí para que usted pueda recibir directa y personalmente el homenaje eh de cariño y de admiración que quiere tributarle el pueblo de Costa Rica.
+
+Muchísimas gracias, don Luis Alberto. Es un verdadero honor para mí y para en realidad todos nosotros el poder establecer esta comunicación desde el espacio con usted para que sirva de símbolo de el lazo de que ya se ha mencionado, existe entre los Estados Unidos y los países democráticos de América Latina.
+
+Permítame, por favor, eh presentarle el resto de de mi tripulación. Ya usted conoce a nuestro comandante eh Robert Gibson. Tengo a mi derecha a mi compañero Steve Hawley y otros eh eh astronautas que están con nosotros eh hoy en esta misión, son George Nelson, y claro, tenemos también con nosotros eh a dos eh observadores. Uno de ellos, el señor ingeniero. Compañía RCA, y ah, un representante del Congreso norteamericano, el Licenciado Bill Nelson, representante de la Florida.
+
+Para mí es un verdadero honor, como le digo, el poder dirigirme a los eh países latinoamericanos eh el día eh el día anterior, en español para que los países eh de habla hispana empiecen a participar en una forma activa en el proceso de la conquista del espacio. En nuestra misión nosotros lanzamos un satélite de telecomunicaciones para el servicio de los Estados Unidos y tal vez en futuras misiones, como se hizo en la misión pasada, y espero en muchas próximas, empezaremos a lanzar satélites latinoamericanos y quizá inclusive satélites para el servicio de la Cuenca del Caribe y Centroamérica. De nuevo le agradezco mucho su atenta eh llamada y espero eh con mucho deseo, tengo de ir a visitar Costa Rica en el próximo futuro. Muchas gracias.
+
+Pues, muchas gracias por eh darnos esta oportunidad eh por este medio que acabo de comentarlo con sus hermanos y con el embajador de los Estados Unidos de que todo esto nos da la sensación de que estamos actuando dentro de una película de ciencia ficción porque no conocemos los aspectos técnicos y científicos de de toda esta operación y precisamente ayer lo escuchábamos emocionados al oír a 300 kilómetros de la Tierra en nuestro idioma, en las explicaciones que usted hizo para para miles y miles y quizás millones de televidentes de habla hispana. Por esas explicaciones entendimos un poquito más de de los aspectos técnicos y científicos y de la importancia de la de la misión. Sin embargo, no no resisto la tentación de hacerle una pregunta que parece una broma porque me pidió un campesino de Costa Rica que se la hiciera. Primero pensé que no era correcto que se la hiciera, pero ahora ya es un poco más sereno mi ánimo porque estoy nervioso, se la voy a hacer. Un campesino me ha preguntado que si los astronautas comen lo mismo que se come aquí en la tierra o que se comen otras cosas.
+
+Comemos eh casi siempre comemos lo mismo, es más, en esta misión hasta llevamos un paquete de tortillas, ahora se lo enseño.
+
+O sea que estamos haciendo aquí gallitos en el espacio.
+
+Pues eh felicitaciones de nuevo. Eh feliz regreso para mañana. Ya nos enteramos. Todos estamos muy enterados de las cosas que han ocurrido con la misión del Columbia y sabemos que se ha adelantado 24 horas el regreso. Les deseamos a todos un un feliz regreso y lo esperamos con mucho cariño, con los brazos y el corazón abiertos aquí en Costa Rica.
+
+Muchas gracias don Luis Alberto y un saludo muy especial a todos los costarricenses.
+
+Okay, we've got a T-38 flying down at the cape right now, Johns in it, and uh he's telling us that uh we've picked up a lower deck in there that uh was not anticipated and we're taking a real good look at that right now.
+
+Okay, Copy, Fritz. This mission control, Houston. It's 3 days 23 hours, 27 minutes mission elapsed time. We're about 1 hour away from the uh the uh projected deorbit ignition. The mission rules call for no precipitation within 30 miles, or no thunderstorms within 30 miles, of the shuttle landing facility at end of mission.
+
+Okay, Charlie. Uh, Charlie and Hoot, I got an update on the uh weather at KSC. Uh, right now, it's no-go for both runways 15 and 33, so you're no-go for visibility on both of those runways. But, we want you to continue on your timeline, and we will keep you updated.
+
+Okay, we copy all that. Still uh holding the go for deorbit uh based on weather, Kennedy Space Center. If uh we uh do wave off uh this rev, there is a uh landing opportunity at Edwards uh Air Force Base, California, on the next rev. And uh of course another uh landing opportunity at uh Kennedy Space Center tomorrow uh since it uh does take six days to return the orbiter from uh Edwards uh the likelihood would be that uh we would elect to try a KSC landing tomorrow and save that additional 5 days.
+
+Columbia, Houston.
+
+Houston, Columbia, go ahead.
+
+Okay, I don't have good news for you. The weather is still uh not acceptable at KSC. Uh we will wave off for 24 hours. Therefore, you are no-go for the deorbit burn.
+
+then uh, you will then go to the procedures on page 3-8, then go back to the deorbit prep book.
+Okay, Fred, we copy that. We wave off 24 hours. We're going to page 3-8.
+Roger. It looks like you're going to get your 5 days.
+Roger, that, Fred.
+We have an opportunity cancelled this morning due to poor visibility, as the crew now begins to reconfigure for on-orbit operations.
+Mission Elapsed Time: 4 days, 0 hours, 27 minutes. This is Mission Control Houston.
+Columbia, Houston. We're going to go LOS in 4 minutes. But before we left you, I thought that, I tell you our plan for tomorrow and give you
+Okay, Shannon, we're ready to listen, go ahead.
+Okay, tomorrow we're going to target for KSC, with the option to wave off to Edwards, depending on Saturday's predicted weather.
+Okay, I understand that part, Shannon, and I guess what that means is if KSC is not good tomorrow, we would take a look at what we expected to be Saturday. And if it's not expected to be good Saturday, then we'd probably just go one orbit later to Edwards.
+That's exactly right, Hoot.
+Columbia, Houston. We're 5 minutes LOS, and this will be our last call, unless you have something for us.
+Okay, Shannon. Well, goodnight for the night and happy 8th anniversary, too, on January the 16th.
+Well, thank you. We were talking about that earlier. And goodnight from us. And hope to see you in Houston tomorrow.
+Okay, Shannon, we'll see you there.
+Okay, we'll be looking forward to it.
+And referring to uh 8 years ago as an anniversary, Commander Gibson and Shannon Lucid and other crew members were selected into the astronaut program 8 years ago.
+At MET 4 days, 8 hours, 29 minutes, this is Mission Control Houston.
+Columbia, Houston, with you through TDRS.
+Good morning, Fred, welcome back to the entry team.
+Good morning, Hoot. I'm glad you could join us this morning.
+This is Mission Control, Houston. It's clear that the weather again for this entry day will be a very close call. We are getting very close to a decision point.
+Columbia, do we need another state vector?
+Houston, Columbia, go ahead.
+Columbia, Houston. Yes, you do. That's good news. The other good news is that we are waving from KSC and I've got your PAD for Edwards.
+Okay, Fred. Go ahead with the Edwards PAD.
+Ohm's TIG, 005 / 00 colon 40 colon 30 decimal 0.
+Okay, Fred, copy.
+The Mission Control, Houston, as indicated by CAPCOM, Fred Gregory, we are not going to land at Kennedy Space Center today. They did uplink the PAD and the preliminary advisory data for an Edwards landing, but that does not constitute a commitment to go to Edwards.
+We will continue to evaluate weather. If the forecast shows favorable conditions for both locations, there is a chance that we would defer landing until tomorrow. We look for a go, no-go, uh, for the Edwards burn, that call do at the Mission Lapse Time, 5 days, 0 hours, 27 minutes or 6:22 AM Central Time.
+Columbia, Houston.
+Houston, Columbia. Go ahead.
+Roger. We'd like you to go to page 3-8 of the entry pocket of the entry checklist and proceed with a no-go for deorbit burn, 24-hour extension.
+Okay, Fred. We copy, no-go for deorbit burn, 24-hour extension. Can you tell us the reason we're going to pass on Edwards?
+Columbia, Houston. We're going to take one more shot at KSC.
+Okay, Fred. We copy.
+Going to go around another day and uh try to uh land at Kennedy again tomorrow. Mission Lapse Time is 5 days, 1 hour, 7 minutes.
+Okay, Hoot. Uh we've all decided that now that we've given you the two extension days you asked for, that we figured it's time for you to come home tomorrow. So, we're planning on you coming home tomorrow to KSC and if the weather is no-go at KSC, we figured we'll see you at Edwards.
+Heck, that's what you told us today.
+Um our total flight. But you would say that. But, yesterday was sort of a practice and today, I told you for real.
+Okay, understand Shannon.
+KSC Kennedy Space Center in Florida.
+Weather forecast for tomorrow right now is marginal. Should we have a no-go for weather tomorrow at the cape and wave off, we intend to one rev later come into Edwards Air Force Base in California.
+Okay, everything looks real good to us. And if you have nothing more for us, we'll say goodnight to you here. And everybody down here has been very interested in what you're going to do tomorrow and they've all been asking the flight director so that, you know, thinking that he could tell them. And even the vending machine lady cornered the flight director and wanted to know whether or not she should stock up the machine here in building 30 for the weekend.
+Oh, okay, what was the answer?
+The flight director says that he will see you in Houston tomorrow.
+Okay, I guess we have just one more thing to say.
+Okay, we're standing by.
+It seems that we have talked like this before.
+The deorbit had then we copied them.
+But we can remember when or when, the clothes we're wearing are the clothes we've worn, the food that we're eating is getting hard to find since we can't remember when or when.
+Some things that happened for the first time, seem to be happening again.
+And so it seems we will be orbit then returned to Earth.
+And when somewhere by the moon or clear away.
+Columbia, Houston, I think we'd all like an encore.
+We're afraid to even do it once.
+And as the orbit team flight director said, we know why. That was great.
+Payload's obviously hasn't kept you busy enough today. But that's all we have for you. We'll say goodnight.
+Okay. And flight director said no more encores this mission. And we'll say goodnight and we'll see you in Houston tomorrow.
+Okay. Goodnight, Shannon. Thanks to you and the whole team.
+And thank you and thanks to you for your great song.
+Thanks.
+This is Mission Control Houston, the crew sleep period officially begins in about two minutes during the goodnight call from the CAPCOM.
+We did hear back from the crew, their own rendition of where or when. And we had a great round of applause here in the Mission Control Center, the Orbit Two team applauding the crew on their own rendition of that song.
+And from their own words and certainly referring to the two extension days that they've now had to go through. We are planning on landing in the morning at the Kennedy Space Center weather permitting.
+Should the weather not be acceptable in the morning for landing in Florida, Columbia would make one more rev and land at Edwards Air Force Base in California.
+Following with a landing at MET, 6 days, 2 hours, 4 minutes, or 7:59 AM Central Standard Time.
+
+Columbia, Houston, good morning, after that stirring rendition of Stars and Stripes Forever, we hope you're ready for your 6th and hopefully final day of orbit activities.
+And good morning to you. We just finished marching around the the room here.
+All ready to go.
+All in file, I hope, and we're ready for you, too.
+Kind of hard to get some of these guys in step, but we made it.
+Yeah, we just got a note here from the flight director. He's running out of clothes, too, but he wants to advise you he does know where and when.
+Oh, all right, well, that that sounds encouraging. Wayne, he just needs to fill us.
+Good morning, Columbia, our entry team is with you again.
+Good morning, Fred. It's good to have have you in the entry team back with us again.
+This one, I guarantee.
+All right, good deal.
+Fred, rumor has it that our entry flight director knows where and when.
+I would check with him, but he's looking for it.
+Houston, Columbia, we show ourselves in deorbit prep take three.
+We're following you, Hoot. We're right there with you.
+This is Mission Control Houston, we're in the deorbit prep plan right now.
+We're way ahead of you today, Hoot. I've got a maneuver pads, your Dell pads, and your deorbit burn flight rules for KSC when you're ready.
+Okay, Fred. We are ready to copy the KSC pad and we're running short on maneuver pads.
+This is absolutely the last one.
+Columbia, Houston, you should have two final messages on board. The final shot, Rev 3 or 4. If they look good to you, you can deactivate the teleprinter.
+Okay, Fred, we copy that. And I guess you know if you wave us off today, you're going to get another song.
+I wish I had something to respond to that. Uh, unfortunately, they wiped it out before I got to hear it.
+Well, we could certainly understand them wiping it out.
+Once again this morning, the weather call at Kennedy Space Center will be very close. Uh, it does not look promising at this moment. Precipitation is a critical issue.
+Columbia, Houston.
+Houston, Columbia, go ahead, Fred.
+Okay, guys. We're going to do a one orbit extension.
+We're going to go to Edwards and I have your maneuver pads and dell pads when you're ready to copy.
+Hope you can find some empty sheets.
+Okay, Fred, this is our, this is our last sheet. We're ready to copy.
+This is Mission Control Houston, the deorbit TIG is in Mission elapsed time, uh 6 days, 0 hours, 59 minutes, 30 seconds.
+And uh Fred, we're working on another song, just in case, that.
+Well, this time, we'll make sure that the recorder's not on.
+Okay, just wanted to make sure you remember to stress.
+Mission Control Houston, flight director Gary Cohen, now pulling the flight control team to get go-no-go votes for the deorbit burn and should have that decision momentarily.
+Roger, Fred. We're wondering when you expect a go for deorbit burn.
+Right now, sir, you've got a go for deorbit burn.
+All right, thank you, sir. Copy, go for deorbit burn.
+And this is absolutely the last time I'm going to tell you that.
+Counting down to deorbit ignition, now 1 minute away.
+Columbia, Houston, uh we'll leave you TDRS here in about 4 minutes. You guys have a great burn and we'll see you in Guam.
+Hey, thank you, Fred. We appreciate it. We'll see you on uh TDRS possibly and then and probably at Guam.
+The burn should now be underway and the data in the control center shows both OME engines operating smoothly.
+Columbia, Houston, configure AOS.
+Hello, Houston, Fred, you're loud and clear and we had a good burn on time. Uh, no take slack.
+And we also show all three APUs up and running smoothly.
+Columbia, Houston, uh, the ground shows that everything is A-okay.
+Okay, Fred, we'll see you on the other side of blackout.
+A guidance officer advised the flight director that uh as we went to LOS, the uh data showed the orbiter to be in good attitude for entry.
+Entry interface was programmed to occur and uh we should now be in the period of S-band blackout. Accordingly, roughly within 15 minutes, we should uh have the orbiter uh data and voice again.
+Columbia, Houston, configure AOS.
+Hello Houston, Fred, we're configured AOS.
+Loud and clear, Hoot.
+Data shows the ship to be on course and on time right along the program path of uh entry. Velocity Mach 10.3, altitude uh 161,000 feet.
+Columbia, Houston, energy ground tracking, never go.
+Roger, good news. Thank you, Fred.
+Uh, slightly more than 10 minutes away from projected touchdown, velocity uh Mach 8.3, about 250 miles off the coast of California.
+Columbia, Houston, take tack and.
+Track continues to be right on the mark, very smoothly moving along the program path for entry. 9 and a half minutes from touchdown, uh, 190 miles from uh runway 22 at Edwards. Probes are now deployed taking air data, soon. Uh, velocity uh Mach 4.4.
+Houston, Columbia, our data looks pretty good on board.
+Columbia, Houston, take air data.
+Roger, take air data.
+Uh, that air data being transmitted to the vehicle through the probes, which were deployed in that earlier call. Uh, we are now at Mach 2.9, uh 87,000 feet.
+
+losing altitude to the rate of 260 feet per second, 70 miles from Edwards and roughly 6 minutes from touchdown.
+
+40 miles from touchdown and 5 minutes.
+Houston, surface winds are calm.
+Copy that, Flight. Calm surface winds.
+
+All indications that everything going very smoothly on this entry. The sonic boom audible at Edwards as Columbia now 18 miles from the runway.
+Mission Commander, we've got the flight control in manual mode and is very smoothly and very precisely, guiding the ship around the head alignment circle and the photo says we look good rolling onto final 9 miles from touchdown. Altitude 15,000 ft, sink rate 220 ft per second.
+
+On the Houston, we show you on glide slope, slightly right of centerline, correcting surface winds are calm.
+Roger, copy that, Flight. Thank you.
+
+2 miles from touchdown and altitude 1300 ft, 300 ft altitude.
+3,000 ft from the end of the runway, and we show touchdown at a mission elapsed time, 6 days, 2 hours, 4 minutes, 9 seconds.
+
+Houston, Columbia. We got wheels down.
+Welcome back to Earth, you seasoned space veterans.
+Roger that, Houston. Seasoned fine extra 2 days.
+
+And the sense of relief here among the entry control team is probably very similar to what was experienced in the launch control center, 6 days ago when Columbia was launched after 4 successive delays.
+

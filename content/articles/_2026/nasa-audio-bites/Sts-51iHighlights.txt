@@ -1,0 +1,754 @@
+This is shuttle launch control. Launch Director Bob Seek has been talking to the Air Force weather officer Lieutenant Scott Funk. Uh you've got we've got a five mile uh warning. Just hearing that there is a uh a warning uh of lightning within five miles. Uh we are continuing to watch the weather as we count down towards the launch on time at 8:38 a.m. this morning.
+The count continuing to hold at the T minus 9 minute point.
+Right now, uh the greatest concern being the weather as we look at thunderstorms in the area and standby to hear when we can be cleared to launch. We do not want to launch through a uh a thundercloud or any cloud that has a potential of lightning.
+We also need to have a clear field for the return to the launch site to the landing strip here at the Kennedy Space Center if that should be necessary. Uh Launch Director Bob Seek saying we're just going to have to wait it out and we sit here at T minus 9 minute and holding. The clouds uh in the area which are giving us the problem appear to be uh moving much more slowly than they uh originally had been moving.
+And uh all we can do at the present time is stand by. They are in the process of moving uh towards the north, uh whether they move fast enough uh is of course what we're most interested in.
+Uh we have uh just about nine and a half minutes remaining before we must pick up the count if we're going to make this morning's window.
+Uh we have decided to go and pick up the clock and count down to 5 minute point. We will hold at that point and hope that the weather has improved enough uh to let off the go. This way it will give us additional time so that we can still be uh closer to the end of the window if the weather clears up at that point. And we're at T minus 9 minutes and counting. The launch events are now being controlled by the Ground Launch Sequencer. T minus 7 minutes 30 seconds and counting. The crew access arm uh beginning its retraction. T minus 6 minutes and counting. We're continuing to count down just to the 5 minute point uh at which time we will continue to assess the weather.
+And we're at T minus 5 minutes and holding. The uh test conductor asking his crew to stay spring loaded to go, everything in readiness, uh out on the pad, crew ready to go, the vehicle ready to go, the weather not cooperating as well as we might like.
+Uh we have uh 3 minutes 14 seconds remaining in the uh the window.
+before we have to pick up the count or we have to scrub for today. 1 minute and 52 seconds remaining in this window.
+Uh Launch Director Bob Seek has just announced uh that uh the weather is too dynamic to call and we will not be able to pick up the countdown. Uh we will go through a recycle uh and try again tomorrow morning. This is Shuttle Launch Control.
+This is Shuttle Launch Control. The uh period during which uh commander Joe Engle was checking the transfer capability between the four primary computers and the backup, a uh byte error was uh detected in the backup uh computer. At the present time, they're trying to determine whether this is a hardware problem or a software problem.
+They are going to try and uh reprogram it during this period. We are at T minus 20 minutes and holding. And at the time we come out of the hold, the onboard computers uh normally are changed over to the flight program.
+They have completed the reprogramming of the backup computer and uh have asked for a uh a one shot dump of one of the four uh online computers and then uh they will have to do a dump and compare of the backup computer as well uh after that is completed. We only have a 10 minute window for this morning's launch. We continue to stand by here uh to determine whether or not we'll be able to pick up the count at the T minus 20 minute and we have picked up the count. T minus 19 minutes 55 seconds and counting. Uh we are going to uh be taking a look very carefully at that 9 minute hold. There would only be uh capability of having a one minute and 45 second hold at that point. Uh at the present time, the plan is to hold at the 9 minute point for one minute and 45 seconds and then count down to the 5 minute point.
+
+Okay, our past transition is complete and our T minus 20 minute dumping pair complete.
+Roger, you want the BFS to Op 1 now?
+Okay, the BFS is in Op 1.
+And we've got a big X on CRT 3.
+You copy that? I copied that.
+The indication is we scrub the launch.
+
+Yeah, all indications are we have a uh hardware problem with GPC 5 down list is in and out of sync.
+What are you what's your recommendation? We have a recommendation with DPS.
+Uh we get talking this piece but I feel certain it won't be scrubbed for the day.
+We'll hold at 9:07 and get the final word.
+We have just heard uh that we have another computer failure. We're at T minus 9 minutes and holding.
+Launch director Bob Seek just announcing that we will scrub at this point. Uh they have determined that the GPC number five uh is in a no go condition. This is shuttle launch control.
+
+Well uh not really, we're looking at just approaching the beginning of a hole here, looking at the radar, we're getting a little optimistic here.
+Roger, we're going to talk to your airborne this morning.
+Outstanding.
+This is shuttle launch control, a little exchange there between the weather people at the uh Mission Control Center in Houston and Commander Joe Angle in the Discovery, reporting that there's a little bit more optimism on the part of the weather people than there had been earlier today. Optimism building here in the launch control center and with the weather people that we have a real possibility for a launch this morning. T minus 9 minutes and holding.
+Joe Engle and uh pilot uh Dick Covey have just reported to the NASA test director that uh they are ready to go, the crew on board including the mission specialist. However, the Range Safety Officer has reported that there is a ship in the uh danger area for the SRB recovery area. Trying to confirm whether it will be out of the area in time for the launch. We have just had uh word from launch director Bob Seek that we have go as far as the weather is concerned. We are just about to reset the clock and pick up the countdown at the 9 minute point. We will be counting down to 5 minutes and holding there uh to allow the ship to clear the area.
+Prior to coming out of this uh hold, we had a status check and we're assured that with the exception of the Range Safety Officer, everybody was ready to go. Uh the crew sounded particularly enthusiastic.
+And a cheer going up here in the firing room as the Range Safety Officer says, you have a final go to launch from Range Safety. T minus 5 minutes and counting.
+And we have a go for orbiter APU start.
+T minus 4 minutes and counting.
+The astronaut crew is closed the visors on their launch and entry helmets.
+Commander Joe Engle saying uh that they're ready to get out of dodge.
+90 seconds away from liftoff of 51I.
+Coming up on the 1 minute point in our countdown. T minus 1 minute. The firing system for the sound suppression water system is armed. And the hydrogen ignitors under the orbiter's engines have been armed. Coming up on the 31 second point and And we have autosequence start. The sequencer on the orbiter now controlling the final seconds up to launch. T minus 15, 14, 13, 12, 11, 10, 9. We have a go for main engine start and we have main engine start. 4, 3, 2, 1, ignition and liftoff, liftoff of 51I and the commercial deploy and repair mission. It is clear to tower.
+Roger, that.
+Three engines throttling down out of 65%.
+Altitude 3 nautical miles.
+Three engines in the throttle down condition to manage the maximum aerodynamic pressure as the uh spacecraft approaches uh Max Q at 743 pounds per square foot.
+Discovery Houston, go with throttle up.
+Roger that, go with throttle up.
+Three engines now running at 104% uh given a go at the throttle up.
+1 minute 20 seconds velocity 3200 ft per second, altitude 11 nautical miles, downrange distance 7 nautical miles. Three APUs running normally, three good fuel cells operating.
+Standing by for solid rocket booster separation.
+Separation confirmed, velocity 5400 ft per second, altitude 27 nautical miles, guidance converging as programmed. 2 minutes 25 seconds, velocity 5700 ft per second, altitude 32 nautical miles.
+Discovery Houston, first stage performance nominal.
+Three engines still at 104%.
+Three auxiliary power units functioning normally, three good fuel cells.
+All positions giving a go to ascent flight director Gary Cohen.
+Discovery Houston, two engine tail capability.
+Discovery Houston, two engine tail.
+Four minutes 35 seconds, velocity 9700 ft per second, altitude 57 nautical miles.
+Discovery Houston, press to ATO.
+Discovery Houston, press to Miko.
+Discovery capable of reaching uh press to main engine cutoff, normal main engine cutoff on uh two engines if that were to become necessary. Velocity 11,000 ft per second now, three engines still running at 104%, altitude 60 nautical miles, downrange distance 228 nautical miles.
+Discovery Houston, single engine press to Miko.
+Main engine cutoff time predicted uh at the pre-predicted number of 8 minutes 28 seconds.
+Engines throttling down to maintain uh 3 G's. 5 seconds away from main engine cutoff.
+Discovery Houston, we got Miko confirmed. Energy looks good.
+Roger, we copy, good Miko.
+Separation of the external tank now confirmed, velocity 26,000 ft per second.
+Discovery Houston, know.
+
+Olmsted one required, APUs off on time.
+
+Roger that, verify that, sounds good.
+
+With that uh status in mission control and the call up to the crew, we had a normal ascent profile confirmed, 13 minutes 30 seconds into the flight. Discovery on its way to orbit uh an Oms2 burn would take place at about 40 minutes into the flight, circularizing the orbit at 100 nautical 90 nautical miles. And uh you probably noticed we're maneuvering now to the Oms 2 burn attitude.
+
+Roger Joe, we're watching. Oms engines are in arm press.
+
+We see it.
+
+Houston, we got two good Oms engines burning.
+
+And Discovery Houston, uh we're a minute to LOS. Your burn looks good. We'll talk to you through Yargoty at 5-2.
+
+Okay Mike, we'll see you there and uh that's fine. Burn is going smooth.
+
+The uh Oms burn was successful. Uh we uh lost data from the spacecraft just as it was passing out of range of the uh tracking data relay satellite but it was at the very end of the burn and everything looked good.
+
+Discovery now in orbit on mission 51-I and we're 44 and a half minutes into the flight. This is Mission Control Houston.
+
+This is Mission Control Houston. 4 hours 14 minutes mission elapsed time. Currently, the crew of Discovery is using the mechanical arm and the cameras on the on the arm to uh observe the condition of the sunshield of the O-SAT. That sunshield was uh deflected, apparently. Uh its lightweight structure bent uh during some contact in the opening or closing process early in the flight. Uh it is now uh hung up on the antenna structure of the O-SAT and appears to be unable to be either opened or closed.
+
+During a checkout using the RMS, the crew experienced an indication of a fault in the elbow joint and uh the elbow pitch. That caused uh problems of course with the ability of the arm to extend and the crew then began the checkout in the malfunction procedures, checking out the backup operating mode for the elbow pitch joint.
+
+That was successful and they have the full operating capability of the RMS.
+
+Flight controllers here in Mission Control are considering their options.
+
+Uh the OSAT satellite would have considerable difficulty in the cargo bay unprotected by its sunshield from the cold of deep space or the direct solar radiation. Okay Joe, I'd like to give you a little bit of a summary of uh what we're looking at as far as uh trying to free that sunshield if you got a moment.
+
+Bet your life. Go ahead, Bob.
+
+Okay, uh what uh what we think from what we've seen down here is we'd like you to go ahead and use the RMS and push on the port sunshield on the aft top corner and put try and push it in along the Y-axis and uh just try and push it open and see whether you can free it there. Uh it appears that the motors have already driven the mechanism uh to the full open position so there may be quite a uh a preload on there and just a nudge uh may be all you need to get it over that structure.
+
+Yeah, Bob, that sure looks like you're thinking along the right lines. I think if we could get the end effector down underneath the uh the lip of that sunshield and uh and uh ease it on back a little bit, I think we could get it to come all the way open.
+
+Okay, uh we copy that Joe, and we certainly concur with uh once we get it open uh we'll uh try and go ahead and leave it that way. Also, uh we may have slipped up and not told you, but we're with the game plan that we have now, we're looking at trying to get uh get A-SAT off on a 5-D deploy.
+
+Okay Bob, we'll uh we'll press on and uh All righty, we will do it.
+
+This is Mission Control, 4 hours 38 minutes mission elapsed time. Crew has the arm in position to attempt to push back the sunshield, the port sunshield on the OSAT.
+
+Okay.
+
+Discovery, Houston, go ahead.
+
+Uh Magic Mike got it open. He got it lifted off the uh got it lifted off the OSAT and now in the process of pushing the uh the uh sunshield all the way open, and uh it looks like it's probably going to stay open, okay.
+
+Okay, sounds real good to us, Joe.
+
+Okay.
+
+Hey Bob, I'd like to stay in backup so I don't have to keep switching uh back and forth between uh primary and backup. Do you have a problem with that uh using backup for the other joints besides elbow?
+
+Okay, no problem with that, Mike. You go for it.
+
+Houston, Discovery, uh Bob, uh Mike's got the sunshield uh completely open now and I guess onboard that you're suggesting really looks good to press on with the 5-D deploy on Offhand.
+
+And Houston, Discovery's ready for the uh deploy and SEP HEN.
+
+Okay, uh for an O-SAT 5D deploy, an MET of 0 days/06 colon 35 colon 14.
+
+And uh basically you're a go to get into the uh deploy timeline at this time.
+
+And just for future planning, uh right now we're looking at trying to get uh ASC off on an AD deploy for you today.
+
+Okay, we copy your normal deploy. I guess it looks healthy to you down there.
+
+That's affirmative, you guys do good work.
+
+Spin-up has begun on O-SAT. We're now showing 32 RPM.
+
+We're at 50 RPM with the OSAT spin rate and holding it steady at 50 RPM.
+
+O-SAT is up on internal power and looking healthy.
+
+Discovery, Houston, OSAT is go for deploy.
+
+Copy, Houston, go for deploy.
+
+The uh deploy will take place at the equator, here on Orbit 5.
+
+Terminal frequency Houston.
+
+OSAT now deployed.
+
+Houston, Discovery, deployed on time.
+
+Okay, Mike, sounds fantastic. We all breathe a sigh of relief down here. Uh that's one.
+
+And you think you did.
+
+Roger, the uh tracking data that we've uh gotten on the uh O-SAT shows us uh good PKM burn.
+
+That's outstanding. That's great news. Thank you, Bob.
+
+OSAT therefore is halfway to geosynchronous orbit and uh so far the system in excellent health.
+
+Next order of business today is the deploy of the ASC satellite. A rough time for that uh deploy is uh at a mission elapsed time of 11 hours 10 minutes. That will take place over the equator on the descending node of Orbit 8. The deploy mode command was nominal, everything's looking good for ASC here.
+
+Roger, copy that, Fish. Sounds good.
+
+Data now shows uh ASC spinning at 45 RPM. Flight Director Bill Reeves is polling the room to see if we're go for deploy.
+
+Discovery, Houston, ASC is go for deploy.
+
+Roger, copy. Go for deploy.
+
+Discovery, Houston, we're going to lose you on uh Hawaii here in about a minute. Pick you up next through TDRS.
+
+As we uh went over the hill, all the data looked good. We'll be um in a loss of signal period as the deploy takes place.
+
+Discovery, Houston, with you through TDRS.
+
+Roger, Houston, we've got you loud and clear.
+
+And I'm ready for a post-deploy report when you're ready to copy.
+
+Roger, we're ready to copy. It's a new world's record for PAM deploys in one day.
+
+Okay, ASC had a nominal deploy. The uh time was on time, we had no anomalies.
+
+Roger, we copy that. Good work.
+
+And it sure has been a banner day for us. Uh we're real proud of the way we've been able to get uh both those satellites on and uh and on their way. And uh we really want to congratulate uh Mike too. We think he's probably pretty well checked out on single-joint ops now.
+
+I think he passed.
+
+Discovery, Houston.
+
+Go ahead, Houston.
+
+Roger, we'll be LOS in 3 minutes and this will be our last transmission tonight. We got word that the ASC PKM burn was nominal, so you're two for two today and you have a lot of people on both sides of the world that are happy with your work today.
+
+We'll give you a wake-up call at 2200 MET.
+
+Good night, uh y'all. And thanks for the word on the burn. That that's going to give us a good night's sleep, Ken.
+
+And Houston, Discovery, we're passing over the west coast of Australia now and uh can see the lights of Perth standing out there.
+
+Roger, we copy Joe and thanks for that report.
+
+And the people in Perth and Geraldton will be pleased to hear that.
+
+Geraldton is just right up the uh coast there too, and it's uh mighty pretty little town.
+
+And we sure hope it's not long before they're able to use the the old satellite that just went up.
+
+Roger, we concur with that.
+
+This is Mission Control. That was uh Mission Commander Joe Engle commenting on the uh Earth observations that the crew is able to make uh passing over the west coast of Australia. They can see the lights of the uh Perth and Geraldton area. In 1962, the officials uh of Western Australia and Perth greeted and saluted astronaut John Glenn during his orbital path over that area.
+
+As a salute to the crew of Discovery and to uh the new Australian satellite just deployed yesterday from the shuttle, officials of Western Australia wish to repeat the uh lights on uh Orbit 17 today, and at mission elapsed time 23 hours and 50 minutes, Commander Joe Engle reported seeing those lights.
+
+Oh no, where are we?
+
+Somewhere over the rainbow, way up high.
+
+Joe Henry, I don't think we're in Kansas anymore.
+
+That's a Q8.
+
+Good morning, Discovery, wherever you may be.
+
+Well, I think we're now over Kansas.
+
+How are y'all doing this fine?
+
+We're doing fine. How about yourselves? You ready for another day in a Syncom deploy?
+
+This is Mission Control. The deployment time for the Syncom is now set for one day, 23 hours, 50 minutes, and 54 seconds. The deployment of the uh Syncom satellite is frequently described as a frisbee deploy. A spring deploys the uh satellite out of the payload bay in a rolling motion and uh spins up to about 2 RPM. Spinning uh stabilizes the satellite in preparation for the firing of the perigee kick motor 45 minutes later.
+
+Discovery, Houston, you're looking real good for deploy.
+
+Hey, we're feeling real good for deploy.
+
+This is Mission Control. The payloads officer confirms that the push-off pins are 100% retracted. The crew will now uh disable the drive motors from those push-off pins.
+
+Discovery, Houston, we would like you to disable the motors, please.
+
+Roger that.
+
+The crew is also uh now pre-arming the pyrotechnic device that will be uh released at the time of deploy.
+
+And then comes the way.
+
+Roger, we see it deployed. Good job.
+
+Get that big boy.
+
+And you get to wrestle with one just like that in a couple days.
+
+Uh so we're looking at it.
+
+And Houston, antennas deploying.
+
+Roger, we copy that and bringing a lot of smiles, a lot of people's faces.
+
+And Houston Discovery, appears to be spinning up as well.
+
+Okay, thanks a lot. That's good news.
+
+This is Mission Control. The crew uh reports uh that they see the satellite uh beginning to spin up on its way to uh 33 RPM. Kind of hard to believe there's going to be someone hanging onto one of those things in a couple days.
+
+Go ahead, looks a lot bigger close up, I'll tell you.
+
+It looks big enough from here on the TV screen and we just got some preliminary tracking data and it looks like the uh PKM burn is in com was very good.
+
+Outstanding.
+
+Uh Roger, we got a uh a good uh TV down link and we're ready to go on the PV toss. Okay.
+
+If you can see it past all our total test there and it's ready to uh go ahead and select the four cells and process.
+
+Roger, uh we concur. Your passing game looks good. Let's try your running game.
+
+Right.
+
+Okay, ready to proceed.
+
+Roger that, proceed.
+
+Okay, ready to start processing.
+
+Roger, you've got to go for that.
+
+Okay, the thing uh PV toss is into its processing phase now at uh It's up to 401 degrees and the thing is powering back. It's going through about 80% now.
+
+Okay, thank you. Hacks appreciate it.
+
+We did get a good report from Van Hoften at the PVTOSS experiment. Was uh heating very well. It was up to a 401 degrees at the moment.
+
+Yeah, Dave, uh good news for the PVTOSS guys. The cell 9 ran to completion last night. The uh time of completion was 2 days, 12 hours, 49 minutes, and 8 seconds.
+
+Great, that's good news. Thanks a lot, Hax. Thanks for all the work you did yesterday, too.
+
+Oh, no problem. Put the pay us all the good money for.
+
+Good morning, Discovery. Houston with you. Hope you had a good night's sleep. Looks like a nice day for an EVA today.
+
+You bet you. Looks like it. We're all ready for it.
+
+Discovery's rendezvous with Syncom has uh now gotten down to the final stages.
+
+we're the successful NSR burn here over Yargadee.
+Discovery, Houston, it looks like we're you're heading toward the right place.
+I think so.
+And Dave, I believe we got a tally-ho on it.
+Roger that, that sounds pretty good to all legalized up there.
+Discovery now within 50 miles from Sincam and closing, and the KU band rendezvous radar is activated and has locked on to the Sincam and is in the passive mode.
+And now you're going to close on Sincam.
+Roger that. We got much guys looking for it at the top window here.
+Discovery has come around into attitude and is now about 331,000 feet from Sincam.
+Hey, this is Discovery before we go LOS. We got a tally-ho, aren't we closing in?
+Roger that, go get that thing.
+We're cutting the corner on it now, by the way.
+At SR. You might even have some radar detects by the time we get you at why.
+I probably will.
+Imco officer reports that the rendezvous radar got a detect at 28 nautical miles.
+Discovery now about 49,000 feet from Sincam, and they'll be swinging around. Payload Bay will be coming up from beneath the Sincam.
+The RMU officer meanwhile reports that the crew is beginning the process of uncradling the robot arm of Discovery.
+Houston Discovery, we got a tally-ho and it's dead center in the co-ask.
+Roger that. Sounds good.
+Mission control, the flight dynamics officer reports the Sincam was at 7,821 feet when Commander Engel reported it was centered in the co-ask. Co-ask is the crew optical alignment site.
+But it doesn't look like it's spinning hardly at all, but.
+ranges to Sincam now about 2,300 feet.
+And Discovery Houston, your go for airlock depress.
+We copy, go for airlock depress.
+Depressurization of the airlock has begun.
+Also discovery at about 300 feet from Sincam.
+Discovery, Houston, your two minutes to LOS T-driss. We'll talk to you next at Guam at 1:24. And tell Ox and Bill they're looking good for EVA.
+Okay, they're feeling good.
+Roger, we were waiting for that call.
+Okay, Houston, uh, we're holding line and clear. We got it right down here and nestled into the payroll space and, uh, I think you're outside. Get ready. You guys go on and have a good one.
+Mission specialists, Jim Van Hoften and Bill Fisher getting set up in the Cargo Bay, making the preparations to begin the salvage operation.
+My Lounge will be operating the remote manipulator system. On the end of that, of course, is mounted the manipulator foot restraint in which Van Hoften will stand to do his capture of the Sincam.
+Very good. Very good entrance, Dude.
+Roger that. And Houston, we got a real slow rotation rate on the space craft.
+Looks like we're gauging about 1 RPM per hour.
+Okay, we copy.
+Van Hoften on the MFR now at the bar stowage assembly where he will pick up the capture and grapple bars.
+And there he is. I mean the, uh, cover far for it.
+Roger that.
+And if you look back off, you'll see a uh Hurricane Alena.
+Wow, there it is.
+Discovery is passing over the Gulf of Mexico and the crew looked back to get a view of Hurricane Alena as they passed over.
+Okay.
+Thank you, Barb. This guy.
+Hey, I'm ready to black to this guy.
+So they were copy.
+Van Hoften being maneuvered on the end of the mechanical arm up to the Sincam.
+Looking good, Ox.
+Get me a little closer, Joe.
+Okay, it's coming around.
+Get a box.
+Okay, Ox, we got a hold of it now.
+I don't know who it is, but it it seems to be very manageable, Joe.
+Great.
+I'm into this.
+Roger.
+Van Hoften has the satellite under manual control simply moving it by pushing it and turning it with his hands.
+Sincam weighing about 15,000 pounds.
+The satellite is approximately 14 feet in diameter.
+That is safe.
+Okay, Houston, safe and lever's in.
+Search form is what do I do with this node?
+Okay, and Houston, copies, that's one.
+I'm going to start stabilizing and then I'm going to have to get that bar out.
+Roger.
+I think you, this is kind of deja vu out there.
+Okay, we're listening.
+Van Hoften remarked it was a little bit of deja vu talking to his former crew member, Pinky Nelson, the cap com here in mission control today and both of them worked on the repair of the solar maximum satellite about a year and a half ago.
+And uh, Ox is going to buy the capture bar and uh, we're going to put it down and let fish put the handling bar on too. We'll call him, uh.
+Okay, we copy.
+Okay, down now.
+Yeah, she had a good arm, that would have been a piece of cake.
+I did that.
+I'm going to help bring it forward slow. You're just going to walk it up there. If you can.
+Okay.
+Walk it up there slowly.
+Okay, I have the first trunnion in my left hand. Okay?
+Can I walk it over there if you can?
+Well, I have the handling bar in my right hand.
+That was nice work for one day, I think.
+Okay, right now let's you try and hold it still.
+Hammock bar is on.
+Okay, hold it there.
+We got it.
+I think I got it, buddy.
+Okay, hold on tight.
+I will.
+Okay, uh, Fisher, you're ready for, uh, Ready for input, though. I got it.
+You got a good hold on the fish. I'll get this bar here. All right?
+Very easy to hold it.
+Van Hoften has removed the capture bar, Okay.
+And now we got a good shot of fish mens pressing about uh, seven and a half tons, I guess.
+Yeah, I think I can get an arm here.
+Van Hoften is now attaching the grappling bar to the side of the satellite at the same location where he had the capture bar originally.
+Well, I didn't try to put this thing on on the fly.
+Okay, it's mine.
+Take me down.
+The arm will move back and then use the grapple fixture just attached to grab hold of the Sincam and maintain control of it while the crew goes into their salvage operations.
+Okay, fish.
+Now we need to roll the satellite inward. Okay, here you go. Here it comes.
+Just keep the weight slow, fish. You bet.
+We practiced this before, you know.
+Roger that.
+Hold it right there if you can.
+Got it right here. Hey, nice job.
+Right there. Very easy to maneuver.
+Kind of a beast, didn't it?
+A lot of fundamental iron, ox. I'll tell you, buddy.
+I know it's tough.
+Once we get the end effector over the grapples texture of fish, okay.
+and you'll grab it, right.
+Okay, you got it, buddy.
+Okay, we got it, uh.
+And hold on to it now, fish.
+Sure, I got it. It What if What if it's happening and you got it or not? We got it. We got a good capture. You want more?
+A good capture, of fish.
+I can feel it. Pulled that whole satellite right right away from me.
+Yeah, I bet you could.
+Okay, Mike, is lifting it away from me really slow now, fish.
+Okay.
+We're going to let go then, huh?
+Okay.
+We're going to this thing.
+Hey, all right, now we're going to work, huh?
+It worked, though, you guys. Yeah. Now we'll get to work fixing it.
+All right.
+Look good. Good.
+Feeling good. I know it.
+Oh, Mike, it looks so great.
+And Joe, you can, uh, just make a little note. Uh, Pinky, you down there?
+Standing by.
+Hey, found a big piece of grey tape from the uh, fly swatter mission. I'll bring it back and give it to them as a souvenir.
+Buck on the end of the satellite. Okay, it's a good work on the arm, Michael. Get home yet.
+It ain't the pen yet.
+No, we're not home yet.
+That lady needs to sing yet.
+That lady's right in front of us.
+This is mission control. Four days, four hours, seven minutes. Discovery is passing out of range of the tracking data relay satellite. Mission specialist, Mike Lounge was maneuvering the mechanical arm with the Sincam on the end of it into position for astronaut Bill Fisher to install the shorting plugs on the side of the Sincam. The operations of the arm have been restricted because the loss of the primary operating mode in the elbow joint.
+Lounge has been operating the all the arm's joints in the backup mode uh, which requires one joint at a time operations.
+Discovery, Houston, switch your Guam.
+Okay, the station and arm lever here is at the safe position. Roger that.
+Safe position is in. I'm putting the strap around it. Roger.
+Okay, that's done.
+Roger that, we're going pre-trip and we'll start the maneuver to the, uh, MAV axis state of zero. And Houston, I don't know if you were with us when we got the shorting plugs in or not, but we did get two shorting plugs in.
+Okay, Dick, we copy. Thanks.
+Okay, I'm moving the cover. The arm moving lever is in the safe position.
+Safe position. Looks good.
+Okay, bolts are in.
+Crew going through the operations which will bypass the satellite's electronics and the timer which uh failed to operate when it was initially deployed.
+And I see started on storing the SPU.
+In the midst of the spun bypass unit operations.
+There you go. There you go.
+Looks like it's on par.
+Okay, SPU is on the stand.
+Copy, pitch your frame is on.
+Roger that.
+Okay, just a reminder on the uh order of connections. J2, J3, J11 and then J13. Roger that. And just before I put them in, I'm just I'm going to look in at all these uh plugs and all the everything looks fine. There's no evidence of debris or anything in there that uh you know, might cause a problem.
+Looks clean as a whistle.
+Okay.
+This is mission control Houston at four days, five hours, 57 minutes mission elapsed time. Discovery is passing out of range of the tracking data relay satellite at the very end of orbit number 67. Currently astronaut Bill Fisher at the side of the Sincam, installing the electrical connectors for the spun bypass unit that will enable at a later time ground command for the firing of the PKM.
+Discovery, Houston, true Guam.
+Hello, Houston. Uh, Discovery, we've uh got the uh SPU over onto the uh 135 position with uh two of the bolts secured. Working on the other two, and we had a good checkout on both sides of the box, uh with the exception of uh waiting for light for the continuity checks.
+Okay, Dick, we copy, that's correct.
+That's it. They're all down. Good, solid connection.
+Okay, I'm ready.
+Okay, let's, uh, go for power A and B on, fish.
+Okay. We have two lights. Continuity and Relay driver are different.
+Both sides.
+No, that's, that's the test, A.
+Same thing for side B.
+This is mission control, Houston at 4 days, 6 hours, 26 minutes. We are now about 5 hours 15 minutes into the EVA. The spun bypass unit now has been tightened down, and the crew just performed the continuity checks for the electrical connections and got good indications on those checks.
+The crew now will proceed on with the remote power unit installation, a battery pack, which uh enables the deployment of the Omni antenna.
+Okay, uh, Houston, uh we've begun uh reconfiguring for the uh despun uh test access uh work but are standby for your go to continue.
+Okay, and you've got a go to continue the RPU portion of the of the work, and then we're probably going to wrap it up after that.
+Okay.
+Okay, I'm ready.
+Hey.
+That guy.
+Okay, I'm ready for the RPU check.
+Okay. Okay, let's go.
+Okay, uh, Relay, A and B lights to off.
+Relay light off.
+Okay, check that you have at least 20 seconds with the RDU we want to charge the shift. I think we got that. We do.
+Okay, RDU relay enable to enable.
+Okay.
+Two green lights. Two green lights.
+Roger that. RDU relay enable off.
+Okay.
+Done.
+Okay, check the, uh, omni antenna area clear back there, Ox. It's clear.
+Okay, Omni deploy, fire.
+Omni deploy, fire. Here she comes. Looking good. Looking good, buddy.
+All right.
+Hot dog, look at that, check.
+Bill Fisher has uh operated the switches on the remote power unit, which have deployed the Omni antenna. This is the antenna that will allow the initial communications uh between the spacecraft and the Hughes ground control. They are nearing the end of today's EVA operations.
+Take her away, Michael.
+And Houston, we're going to take the uh spacecraft to the uh park position.
+Okay, we copy. Looks like good work.
+Yeah, I'll take one last look around, let's uh come on back in. Yes, sir.
+All right.
+Bye-bye.
+This is mission control. Today's extravehicular activity lasted 7 hours and 8 minutes. This broke the previous record by one minute.
+You guys worked hard yesterday. Get a little clean up again today, and then deploy that thing.
+That's a check. It's a labor of love.
+The arm will now be moving the Sincam into position for the crew to work on it.
+Okay, covers are in, take her away.
+Discovery, Houston, we'll check in with you again through Hawaii in five minutes.
+Okay, thanks, we'll see you there.
+As we last heard from the crew over the Guam station, uh the crew had already installed the nozzle cover, a uh replacement for the one originally on the spacecraft's FERG kick motor rocket nozzle. This new one in cor
+
+rates the temperature sensor, which will help ground controllers over the next couple of months observe the gradual warm up and stabilization of the solid propellant in that rocket motor.
+Discovery Houston, through Hawaii and TDRS.
+Okay. Came out easily. No problem.
+Okay.
+Fisher is now removing the second safing arm pin. Two were installed during safing operations in yesterday's EVA. That ought to do it.
+And Ox, when you finish there, you're going to want to uh get the old spin-up bar and hit over to the MFR.
+It won't be long before they can tell with the temperature that fill is, about 13 hours.
+Yeah.
+Okay. We're going to be bringing it around to the uh 130 theta 135 position.
+Okay.
+This is mission control. The satellite being positioned for mission specialist Bill Fisher to set the timers on the spin-bypass unit.
+They'll do it.
+Okay. I got the gu- got copy and if you're ready for the pre-deploy activation and status check, we'll do it.
+Let's do it.
+Okay, power A and B both on.
+Firm.
+And we have good relay driver and continuity inhibit light at both sides.
+Okay and uh check your pyro power light off.
+Okay. All the lights are off except for the continuity and relay driver in here.
+Okay, timers A and B on.
+A coming on.
+B coming on.
+Both are flashing as they certainly should, they should.
+Okay.
+We'll leave it like that.
+We'll get them, War.
+Okay. A spacecraft is uh coming around to give you uh the uh handling bar.
+Once Fisher has control of the handling bar, the arm will let go of the satellite and pick up Van Hoften on the manipulator foot restraint along with the spin-up bar.
+We're getting there, Mike.
+Okay. I think that'll do it.
+Okay, Fish. Uh we're about ready to ungrapple here. If you're if you're ready, uh hang on to it and well, we'll do that.
+Ready?
+You're free, Mike.
+And you're clear.
+Arm unit officer reports the mechanical arm has released the Syncom.
+It did good, Fish.
+Really good.
+And you're done fine, Fish.
+I'm going to coming down to you, Ox.
+Discovery has passed out of range of the tracking data relay satellite. Van Hoften will ride the end of the mechanical arm up to the satellite with the spin-up bar. We'll detach the grapple bar from the satellite and attach the spin-up bar.
+Spin-up bar's on.
+Discovery, Houston through Guam for nine minutes.
+I got a hold of it through Fisher. Fish.
+Okay. We both got it.
+I'm real careful here, Fish, as you are.
+Me too, real good.
+Okay, very good.
+Okay, Fish, we're in attitude and uh you can go ahead and start taking your bar off.
+Oops, here we go. Bar's off.
+I'm free.
+Okay, we're coming up, Ox.
+The real flow.
+Just gas. I want to tell you, if something ever happens and I'm about to lose it, I'm going to give it a heck of a push, the load.
+Sail off.
+I don't know how that acts.
+Doing good now, Mike. You still moving?
+Yeah, I'm about to stop.
+And this is a stop.
+Van Hoften holding onto the Syncom by the very lightweight spin-up bar.
+Hey, if you can get this lined up, I'm about ready to lock it out of here.
+Actually, you're looking pretty good, and if you can move it up so you get a good flow on it.
+That's a decent deploy position, Joe.
+Well, it's a decent deploy attitude, if you're in the in a good position.
+You're not in a good pitch if you want to be level with the orbit.
+Okay.
+Keep coming.
+Okay, well, if you can give it more, you're still slow but uh it's not too bad.
+Okay, I'm going to loft it out of here.
+Well, that looks good. Take what you got.
+It's all set.
+Yeah, you got a pretty good yaw going right now.
+Alright. Okay, I'll stop it.
+We're ready when you are.
+All right.
+Get a yaw on.
+Okay. And often trying to stabilize the satellite before he gives it a final push.
+Hey, you're about aligned uh X lies.
+Good. Pitch is coming.
+Very good. All right, so.
+Everything looks good, Ox, whenever you get the raid stamp, put it in your car, and then when you're comfortable go ahead and shove.
+Okay, I'm ready.
+Okay, the rage looks real good.
+Okay.
+Hey, get me in here, I'm hit.
+Maybe you will get another hit on it.
+No. Going in fast.
+Okay, it's a good push.
+Yeah, your power is still moving.
+That's good.
+You didn't quite line up, but I, I'm going to be able to get it again, here.
+Watch out. Give me down, give me down.
+Okay, stop right there. Stop right there.
+Help me out.
+Van Hoften preparing to give a second push to the satellite.
+Okay.
+As the spin-up bar comes around.
+Thank you. That's one and a half RPM, Ox.
+Here's the punch more.
+Good row, Ox, for little coding.
+If you can give me there I'll get her again, Joe.
+If you just load it, Joe.
+You can get another one.
+Keep it going, what they want, 10?
+Back up. Back up a little bit. Back up. Back up. Okay, stop.
+That's at least two.
+One more pulse.
+And often preparing to push the satellite again.
+Intended spin-up rate to be about two or as good an RPM rate as they can get.
+Make it. Make it.
+Okay, let's give it up, it worked good.
+Goodbye.
+Looking good, it's a good steady spin and you're right on attitude.
+Good.
+The light is still blinking.
+Three RPM.
+Okay, we're back out of here.
+Good spin, you know.
+Good spin.
+That's right, in the perfect attitude.
+Oh, it's great.
+It's not real easy to.
+Well done, Ox.
+It's not turning a bit. That's a perfect spin.
+Thanks, go, Sam Wilson there, got right on the money.
+Okay, we copy. That's great work everybody.
+Well, that that boy goes.
+I can still see the timers blinking.
+Well, it works.
+Yeah, I do too.
+Syncom now begins the slow process of warming up and stabilizing in orbit.
+Perhaps two months away now from the firing of its perigee kick motor to send it to geosynchronous transfer orbit.
+Deploy time with the Syncom was about 10:09 AM Central daylight time, five days, four hours, 11 minutes, more than 2,000 orbits of the Earth after it was originally deployed on mission 51-D last spring.
+Okay. Screw driver is coming loose. Can you see that?
+Mike, Mike, watch your window.
+That's come out of the Lisa.
+A little bit of shake out of the bag and set.
+Yeah.
+Moving about, maybe a foot a second, a little left.
+Okay.
+I think it's going up pretty much, I'm safe, we'll screw up that.
+Let's not mess with it.
+Well, bye-bye.
+Operated a Japanese screwdriver.
+Well Ox, for what it's worth, it's got a raid of about 20 RPM.
+Mission control in addition to the three normal satellites and a Syncom salvage the crew is now just deployed a power screwdriver.
+Good news, we've acquired the uh the satellite. Commands have been sent, the telemetry is getting back.
+Hey that's great.
+Great.
+Roger.
+They've completely commanding on the despun shelf side and everything looked nominal. All the equipment that they commanded on responded properly and the UHF antenna heaters are on, the status looks good.
+Hey that's great news.
+You bet it is. Uh everybody down here is just as proud as punch of the good work that you guys did and uh is really uh enthusiastic uh about uh the further commanding and we're just looking forward to really running this thing out.
+Well good, we are too and I'll say it again, we had a lot of real great help from the ground from you guys there in Imoca. We sure do appreciate it.
+I see that's four for three now, ain't it?
+Roger that.
+Oh, I was up here uh if you if you got any other sick ones up here that you need fixing, once you just go and let us know before we come down we'll take care of it.
+Okay, we'll uh we'll do that then we've taken a vote and we uh we've decided that it's five if you want to count the engine cover.
+Okay.
+And Discovery we've taken one more count, if you want to count the power tool, it's six.
+Well, I thought about that, we're going to try and keep quiet about that.
+Lots of luck.
+And uh, Houston we just got a uh visual tally on uh Syncom at ahead of us uh sparkling in the sun.
+Roger that. Well, we uh we down here think that the Syncom is not the only uh one that's sparkling up there today you guys.
+And we think we've also got a tally on the on the power tool.
+Okay, well we copy that, we'll put the planning shift to work on it.
+And Discovery Houston uh when you get to it in the checklist, you have a go for payload bay door closing.
+We copy uh go for closing when we get to it.
+Mission control Discovery's payload bay doors are now closed and latched.
+And Discovery Houston uh we got the torquing angles, looks good to us and you go to maneuver to the deorbit burn attitude.
+Okay, thank you sir, we're underway.
+And Houston that three APUs look good here.
+Roger we concur.
+And Discovery Houston uh targets look good to us, your go for 302 and go for the deorbit burn.
+Okay, go for 302 and go for the deorbit burn. Thank you.
+Discovery will be burning while at an altitude of 184 nautical miles. Her velocity 2500 25,400 feet per second.
+Mission has begun on Discovery.
+And Discovery Houston uh 30 seconds from LOS. The burn looks good to us. We'll talk to you through Guam at 38.
+Okay, looks like this bus is coming home.
+You bet.
+Discovery now committed to a landing at Edwards Air Force Base at 8:15 AM Central daylight time this morning.
+Discovery Houston, with you through Guam for six minutes.
+Roger, Houston, and as you saw we had our burn was on time, we had a nominal shutdown, and things are looking great on board.
+Roger we copy that, Joe.
+Telemetry from Discovery looking good. The RMU officer reports three good APUs up and running.
+Discovery Houston, we're 30 seconds from LOS Guam, we'll talk to you out of blackout.
+Okay, we'll see you then.
+Now processing TDRS data.
+Discovery Houston, configure AOS.
+Okay, Houston, AOS, we're showing 13,000 and about 100 and uh 75,000 ft.
+Commander Joe Engle reporting their altitude at 175,000 ft, their velocity about 13,000 ft per second.
+And Discovery Houston with you through Dryden now, how do you read Joe?
+A lot better Mike, and we're coming through 10.5 mach and about 165,000.
+And Discovery Houston energy and ground track look good, Joe.
+Okay, very good, we got our tac-can coming in now.
+And Discovery Houston nav looks good.
+Okay.
+And Houston our Tac-can data looks good. We're standard vibe for go for new to go and take it.
+Discovery Houston, take Tac-can.
+Okay, thank you, sir.
+Discovery now processing data from the onboard tactical air navigation system.
+We now show mock 6.99 for Discovery. Altitude of about 140,000 ft.
+Discovery now crossing the California coast.
+And Houston air data looks good on board, standard by to take it.
+Discovery Houston, take air data.
+Discovery now intersecting the heading alignment circle.
+And we'll begin a 185 degree left overhead turn on to runway 2-3.
+Altitude 16,000 ft now.
+Velocity 587 ft per second.
+Okay, Houston we're rolling out on final and it look beautiful.
+Roger Joe we copy, and your winds are 250 at 17, gusting to 21.
+Roger that.
+And Discovery Houston, we show you slightly below glide slope and slightly right of center line.
+Okay.
+Altitude 5300 ft.
+Descending 157 ft per second.
+Velocity 546 ft per second.
+Less than a thousand feet now.
+Gear door's open, gear coming down.
+Gear locked.
+Touchdown on main gear.
+Discovery rolling out now at 195 knots and touchdown on nose gear.
+Discovery now coming to a stop on runway 2-3.
+Mechanical systems officer reports breaking looks moderate on Discovery and looking good.
+And we show will stop.
+Welcome home, Joe.
+Let me say one more time, thanks a million, you guys did a great job helping us get down, we appreciate it.
+Roger that, Joe, and once again, congratulations the whole crew and we're looking forward to seeing you back here in Houston.
+We'll be back just soon as we can.
+Roger.
+

@@ -1,0 +1,517 @@
+This is shuttle launch control. We do have a 500-foot-thick layer of fog in the area here at Kennedy Space Center. Looks like it will probably take a couple of hours for that fog to lift for good visibility for launch today. Also, the winds aloft are a little bit out of specification at this time. Commander Michael Coats is preparing to enter Discovery's cockpit. Michael Coats is 43 years old and captain in the United States Navy.
+
+Coats was the pilot of the 14th space shuttle mission which was 41D.
+Pilot John Blaha is 46 years old. He is a colonel in the United States Air Force.
+He is making his first trip into space this morning. Mission specialist James Page now being prepared for his entry into the orbiter's cockpit. Page is a medical doctor, he's 36 years old and this will be his first trip into space this morning. Mission specialist Robert Springer now getting ready. Springer is a colonel in the United States Marine Corps. He's 46 years old. He is a member of the astronaut class of 1980 and will be making his first space flight today. James Buckley is currently being assisted right now by the white room personnel. He is 43 years old and is a colonel in the United States Marine Corps. Buckley was a mission specialist on STS-51C, launched on January 24th, 1985. He next flew October 30th, 1985 as a mission specialist on STS-61A, the West German Spacelab D1 mission.
+OTC.
+OTC.
+OTC.
+Okay, white room is broken down. Okay, we're ready clear now.
+Copy that.
+The clock will be holding at the T-minus 9-minute point.
+TCM, OTC, minus 9 minutes and holding. We will be holding for an extended duration. We will be waiting for the fog to lift at this time and also uh looking at the upper-level wind situation.
+OTC, CDR, radio check, how do you read?
+RDU5 by CDR, how me.
+RDU5 by.
+Guys done a great job. Keep it up.
+Okay, uh just to bring you up to speed, we have uh closed out all the paper so the only constraints we have uh for picking up the count at this time uh is the weather.
+Okay, and we'll let the sun take care of that and we'll be ready.
+OTC, CLT, how do you read?
+RDU5 by PLT, how me.
+Roger, clear.
+And OTC, MS3 for comm check.
+RDU5 by MS3, how me.
+Hear you same, sounds good.
+NTD, MS1, uh comm check on any ground run.
+MS1, this OTC, RDU5 by, how me.
+Okay, have that to the same, OTC.
+Okay, copy.
+NTD, this is MS2, comm check, how do you read?
+MS2, NTD, RDU5 by.
+Read you same.
+We just got a report that the fog was thinning across the state.
+We went into this hold at about 7:48 a.m. this morning and the window extends until 10:37 a.m. today.
+NTD, flight.
+Go ahead flight.
+Uh, based on our latest weather obs and runs of the STA, we would anticipate being ready to go probably in the next uh 5 to 10 minutes if our crosswinds don't go out of limits on us.
+Understand, sir. Hey NTD launch director for the benefit of the the team and the the crew, all who are hanging in there patiently. We are still uh doing the analysis on the winds aloft. We still have uh one area that's uh in exceedance and discovery uh Mike, you folks hang in there with us the management team is working the winds situation as hard as they can and I hope we can get back to you shortly.
+Okay, Bob. Thank you.
+But since the cross winds are creeping up on us I want to start the activity in motion to come out of this built-in hold.
+Okay, why don't we shoot for a uh new T0 uh 1457 uh This is shuttle launch control at T-minus 9 minutes and holding.
+It appears the upper-level wind situation is going to allow us to proceed on with launch.
+Launch director Ops Manager, sir uh on 52.
+Launch director, go ahead.
+Yes, sir, uh the mission management team is pulled and uh you're a go to continue the count for launch.
+Copy, thank you, sir, and And we did get the go from mission management team chairman Bob Crippen who has told the team members and has given his final go to pick up with the launch countdown and press on toward launch today.
+Three.
+Two.
+One.
+Mark.
+T-minus 9 minutes and counting.
+5-minute issued.
+And the ground launch sequencer has been initiated.
+And PLT, OTC, configure fuel cell and essential bus source switches.
+Roger, connecting essential buses to fuel cells.
+Coming up on T-minus 7 minutes 30 seconds and counting.
+Okay, let's go for OAA retract.
+And we have a go for orbiter access arm retract.
+Arm is being retracted back into the launch configuration.
+At T-minus 6 minutes the orbiter test conductor will give pilot Blaha a go to perform the auxiliary power unit pre-start.
+CLT, perform APU pre-start.
+APU pre-start in work.
+OTC, APU pre-start is complete.
+Copy.
+T-minus 5 minutes 30 seconds.
+Coming up on a go for APU start at the T-minus 5 minute point.
+Okay, let's go for orbiter APU start.
+CLT, perform APU start.
+APU start, in work.
+CDR, reconfigure heaters.
+Commander Coats has then asked to reconfigure the orbiter heaters for launch.
+OTC, APU start is complete.
+Copy that.
+Yeah, let's go for purge sequence four.
+The valves on the main engines are being opened to allow liquid hydrogen to circulate in the engine's nozzle and turbo pumps to condition the engines for starting. T-minus 3 minutes 30 seconds and counting.
+We are now transferring to internal power and switching off the orbiter's ground support equipment power bus.
+At this point, Discovery is running off its onboard fuel cells.
+Yeah, let's go for ET LO2 pressurization.
+And we have a go for pressurization of the external tank, liquid oxygen tank.
+T-minus 2 minutes 45 seconds and counting.
+CLT, clear caution and warnings.
+And the gaseous oxygen vent hood is now being lifted off the top of the tank to be retracted to the launch configuration.
+In flight crew, this OTC, close and lock your visors, initiate your O2 flow and have a good ride. Let's go for
+CDO ATU sequence.
+T-minus 1 minute 50 seconds and counting. We've had a go for liquid hydrogen pressurization on the external tank.
+Minus 1 minute 30 seconds.
+At T-minus 1 minute, the heaters on the booster joints will be deactivated.
+Minus 1 minute.
+Just seconds away now from liftoff of Discovery. All systems are go.
+Coming up on T-minus 31 seconds. Let's go for auto sequence start.
+We have a go for auto sequence start. Discovery's four redundant computers have primary control of critical vehicle functions for the remainder of the count.
+15 seconds.
+T-minus 13, 12, 11, Minus 10. Let's go for main engine start.
+We have a go for main engine start.
+6, 5, we have main engine start.
+3, 2, 1, SRB ignition and liftoff!
+Liftoff of STS-29 as Discovery clears the tower.
+Oh, pull. Oh, pull now.
+Roger, roll Discovery.
+Space Shuttle Control, Houston, good roll program confirmed.
+Three engines now at 65%.
+Standing by for the go at the throttle-up call.
+Discovery, go at throttle-up.
+Roger, go at throttle-up.
+That call means all systems are performing well as the shuttle main engines have resumed their firing at 104% of rated thrust.
+Relative velocity now 2400 feet per second.
+Climbing at a rate of 1700 feet per second, downrange distance 11 nautical miles.
+SRB separation standing by for performance call.
+Discovery, performance, nominal.
+Roger, nominal performance.
+That call indicates Discovery's performance uh was good on the first stage.
+Now have three main engines up and running at 104%, three good fuel cells, three good APUs, altitude uh about uh 250,000 feet, relative velocity 5300 feet per second.
+Discovery, two-engine Ben Gerir.
+Roger, two-engine Ben Gerir.
+Discovery now can make a landing at the Transoceanic Abort site, Ben Guerir, should one engine fail.
+Relative velocity now 6000 feet per second, climbing at a rate of 1100 feet per second. Discovery now passing through 300,000 feet as all positions are in the Mission Control Center report, go.
+Discovery, negative return.
+Roger, negative return, John.
+The call indicates uh Discovery can no longer make a return to launch site abort.
+Now 190 nautical miles downrange, relative velocity 9100 feet per second.
+Discovery, press the ATO, select Banjuul.
+Press ATO, select Banjuul.
+Discovery can now lose one engine and still make a uh nominal uh orbit uh abort to orbit case uh and if two engines fail they could now uh make it to uh an alternate runway at Banjuul, the Gambia.
+Discovery, group Banjuul, 109.
+Roger, group Banjuul, 109.
+And you're press to Miko.
+Roger, press to Miko.
+Discovery now can achieve nominal main engine cutoff targets should she lose one engine. Downrange now 317 nautical miles.
+Single engine, Banjuul, 104.
+Single engine Banjuul 104.
+Discovery can now reach Banjuul if two main engines should fail, uh and we still have three good engines. Still climbing at a rate of uh about 70 feet per second.
+Discovery, single engine press, 104.
+Single engine press, 104.
+Discovery can now reach main engine cutoff conditions with uh one engine up and running, two failed, downrange distance 516 nautical miles. Now reached 3G throttling on all three main engines as expected.
+We have a good Miko at 25.9.
+All right, your Miko 25.9.
+All is uh continuing to go very well in the preparation sequence for deploy of the TDRS-D, the fourth TDRS satellite. This uh satellite will become a replacement for TDRS East, after 72 days of checkout after it is deployed. It will be moved over to the 41° West longitude position now occupied by TDRS East, and TDRS East will become an in-orbit spare, occupying a spot at 79° West longitude. TDRS West will remain at 171° West longitude, and this will complete our three-satellite constellation of tracking data relay satellites for uh providing almost continuous coverage of telemetry and voice contact with the shuttle uh during about 85% of every orbit.
+Discovery, Houston, back with you through the West.
+Hi, Kathy, everything's looking real good.
+Roger that.
+Discovery, Houston.
+Go ahead.
+Discovery, you are go for deploy.
+Roger, copy, go for deploy.
+The crew has been given a go for deploy by CAPCOM Kathy Sullivan.
+Here's Discovery, Kathy, for the uh back room folks, we're getting ready to uh raise the 52.
+Okay, Bob, we'll be standing by.
+And that was Springer uh notifying ground controllers that the crew will begin elevating the tilt table to the 52° mark, which is the deploy uh elevation angle.
+Yeah, Kathy, we're in the middle of this uh raise, and we suddenly got a fire B relay closed and iOS computer A fail, iOS computer B fail, all at 60313. And uh we have static data on the uh display, and we're showing uh getting fire relay, and okay, Kathy, we stopped at the 52, and now we just got a clear lock back and the arrows are away on 200, it looks normal again.
+I copy.
+The um conversation from the crew is about a temporary loss of lock on uh computer commands to and from the vehicles, the uh IOS and TDRS.
+Excuse us, like it's associated with problems, and uh we don't think we have an action for that.
+That's correct, Jim, no action required. Sunnyvale confirms vehicle is safe, computer status nominal.
+Okay, we'll just play it as phenomenal. Is that right?
+That's affirmative, Jim, nominal procedures.
+The invalid messages uh that appeared about computer failures uh evidently are from a loss of lock with the data transmittal.
+Discovery, Houston, Sunnyvale verifies tilt table at 51.8.
+Okay, we copy 51.8.
+Payloads officer uh has informed the flight director that they see the payload's deploy system enabled at this time.
+Hey, we are motion.
+Copy motion.
+The Sunnyvale flight director confirms IUS deploy.
+Okay, Kathy, uh we feel like we had a good deploy on time, and everything looks good at the moment, uh we did not get the repeat of those uh uh spurious uh indications, and uh we're ready to lower the tilt table 6°.
+And Bob, you are go to stow the tilt table.
+It really was pretty sight, the uh the attitude we had and the Earth in the background, really made it look good and it sure is a fine-looking vehicle.
+It looks great from here, Jim.
+All uh systems aboard the vehicle continue to operate normally and uh successful deploy of the uh tracking data relay satellite at uh 6 hours, 13 minutes, 3 seconds mission elapsed time. This is mission control.
+We're just setting up here to do uh PCG. We did the activation, we're taking our baseline pictures. As you know, this is an experiment where we're growing uh very trying to grow very pure crystals of various biological materials which will enable us to you know, when I say us, I mean the scientists to come up with uh apart drugs, pharmaceuticals, to combat different uh disease agents. In other words, no better way to make the key to the lock and uh Bob right now is taking a picture of the structures.
+
+Yeah, we'll do this on our first startup day, and we'll do it a little later. We have to pull these these slide trays out of an incubator, it keeps them at the exactly the right temperature that is favorable for the growth of the crystals.
+
+Wow, I feel good.
+I knew that I wouldn't.
+I feel good.
+I knew that I wouldn't.
+So good. So good. I got to hear.
+
+Discovery Houston, good morning.
+
+Good morning, David.
+
+David, we're trying to figure out how you got James Brown had a had on to sing that to us.
+Hey, that was just a special appearance.
+We appreciate it.
+Yeah, we thought that was pretty appropriate music. You got the whole ground team here feeling real good.
+
+Well, that's good news.
+
+Can you tell us if you've cleared out the tags tray? Because we'd like to start uplink another DTO set of messages on the TDRS West.
+
+Yeah, we did. We cleared it out. Uh we're looking them over. Uh looks like they came out really good. Uh in particular, there were a couple of the test that you sent up that were outstanding. The shades of gray were very good. All the weather charts came out real good. And all of the uh message traffic came out very legible and good also. They're laying in the tray very nice. Looks like tags is working like a charm. Thanks a lot for the picture of our liftoff too by the way. That came out nice. Uh looks like kind of an exciting shot from uh the outside, but you should have seen it from where we were sitting.
+
+Yeah, we we we'd have liked to uh but uh FAO did a real nice job getting that up. Thanks a lot.
+Tags is the texting graphics system. It's a space age fax machine that uses uh laser optics to send uh very high fidelity photographs from mission control up to the vehicle. Uh the kind of uh machine that would be very useful in sending up all sorts of engineering diagrams.
+
+Mission control, Houston, Discovery now out over the Atlantic, approaching the coastline of Africa after the passage across the African continent. Uh when Discovery heads out over the northern tip of Madagascar is the next sighting opportunity for uh the IMAX system.
+Uh they'll be pointing the camera down at the Betsy Boker River Delta which is on the northwestern tip of uh Madagascar. It's a river delta that uh feeds into the Mozambique Channel uh with recent uh uh evidence of deforestation in uh Madagascar, especially as seen from space. Uh much of the uh effect of that activity on the earth is uh evidenced in the silting that shows up in river deltas later. Betsy Boker being no exception. And the astronauts are going to be trying to capture good footage of that for the IMAX camera.
+
+And Houston from Discovery.
+Go ahead, Discovery.
+Yeah, we thought we got a real good Betsy Boker uh delta pass the last time.
+
+Okay, that sounds great.
+
+And we took another uh scene of the horizon that we thought looked uh very pretty that we think IMAX will appreciate.
+
+Well, I'm sure they will.
+
+We're showing uh going through our paces with the ChromeX experiment. As you know, the uh ChromeX is a uh plant experiment, which is investigating the uh generation of root root tips in uh low gravity environment to see if they can uh not only survive survive in that type of environment. Right here, we were just checking on the temperatures and such. Uh that's done on a routine basis, and this is when we're doing a routine check uh after this we went onto the MGAM, which is uh another procedure which you'll see here in a second, and I'll let Pop Smi coming on that.
+The uh the second part of this experiment then something that we've not really looked at too closely before. Uh and in particular with ChromeX. We talk an awful lot about doing this type of research in microgravity, and uh yet we don't have a real good idea of exactly what that microgravity environment is or how it affects the plant growth. So the experimenters in this case have their own little uh mini accelerometers that we strap on uh to the ChromeX experiment, and uh over the period of the flight we'll measure the uh microgravity environment. This will give them a little bit better hint just exactly how that environment uh affects the plant growth and whether the plants can in fact reproduce in this environment. And of course, in the long term, will give uh scientists a better idea of uh what type of plants we can uh grow uh both for uh a space station effort or a a long-term uh space platform.
+
+And all you're seeing now is me getting the uh accelerometer out and placing it on there. It stays there for a day. And measures accelerations in uh in one orientation and 2 days later we switch it 90 degrees and measure it again. And uh based on that, they'll try to make some conclusions uh or how that this may have affected the the results and what conclusions they can draw.
+That sounds good. Thanks for the presentation.
+
+Discovery Houston, good morning.
+How do you do that?
+
+Oh, that's just great. We got two Marines up here standing at attention. What do we do now?
+
+But we have one down here standing in attention too.
+Killing bar, Bob brought the dress uniforms along and they really look good.
+
+This is mission control that earlier wakeup call and expression of the esprit de corps between uh US Marine Lieutenant Colonel Ken Cameron, a Cap Com here in the control center, and uh two Marine colonels on orbit, Colonel James Buckley and Marine Colonel Robert Springer.
+
+crew apparently is queuing up some monochrome views of thunderstorm activity over Australia.
+Okay, Houston, you ought to be seeing uh some light flash now if you're getting the downlink.
+
+You see there seem to be sympathetic flashes, uh one will go off, and a couple next to it.
+We'll be looking for thunderstorms on these night passes. Every once in a while you'll have a long chain of uh thunderstorms and you'll see a chain of lightning just just uh set off like a string of firecrackers going right up the chain.
+
+Yeah, Doctor Major Baigen here has got uh some uh VTR of some of the medical DSOs that we've been doing. Uh the purpose of this DSO, it's a transcranial Doppler which measures cerebral blood flow. What we're doing is we're measuring blood flow in the brain. One of the things they think might uh add to some of the problems that we see with uh space adaptation is could be changes in blood flow due to the fluid shifts that occur when one goes in the weightless environment. So, what we do by this experiment is we have an ultrasound probe which is a lot like a sonar piece of equipment.
+And it measures the velocity of the red blood cells and selected arteries in the brain. You have to point it in the direction you want it to go. So first we start out here I'm measuring Mike's blood pressure. You can see he's really thrilled, it's really a real interesting uh thing to be the subject for.
+Anyway, we started to get our baseline data, and you'll see in a second here we'll start up with the uh blood flow. One of the reasons we want to check this out, there's we haven't had the opportunity to do this in flight before. And if we can show there's some differences there and correlate it at all, and any kinds of uh space adaptation uh syndrome, we might have better ways of uh of preventing it or treating it if it does occur. So this is the first time something like this has been flown. You see I'm putting the stereo headphones on and though you might think I'm listening to the tunes, that's not the case. I'm listening to the I'm trying to listen to the blood flow in Mike's brain, and I can actually confirm there is a blood flow there.
+And I said I'd burn Mike with a notarized statement of that effect. I put it up against Mike's temple. And the uh the set 2 megahertz and the uh frequency is such that it the bone is fairly transparent to it. The lab will go in, echo off the uh red blood cells come back, and by measuring the Doppler shift, get the velocity, and for that we can refer uh some ideas to the flow. And that's how we're doing it, and it doesn't take very long. All together it's probably 5 or 6 minutes and you can get the inflight studies done that way. And after that, we go on and measure the carotid flow so we correlated the two. You get to the measurement rather quickly, but we would like to take it over a period of time to make sure there's none in great variations if there are how to adjust for that. That's why the ones last several minutes at each at each location.
+
+One of the next major activities aboard the vessel will be uh the powering up of the share payload.
+Discovery Houston, and uh for share you go for power up at this time.
+
+Okay, putting uh share power work uh up and work at this time.
+
+Discovery Houston, we need you to power off the share heater immediately.
+
+Okay, it's off now.
+
+Okay, Jim, uh we think the share folks spent a fair amount of time up here in the control center uh during your last TDRS pass reviewing the data they have seen for us and the flight directors. They believe that the signatures they've been seeing are characteristic of bubbles forming in the uh evaporator end of the heat pipe. There may be it's in part a function of the amount of heat that they're putting in per unit time. They may have essentially oversized the heaters for the efficiency of the insulation that they put around the uh evaporator end of the pipe. The net effect of that is that bubbles uh lodge themselves in the liquid portion of the channel, and or up against the uh slot between the liquid and vapor channels and are preventing fluid from wicking as it should uh up into the vapor channel and moving out into the condenser.
+
+Several things are being looked at for tomorrow. Uh just after your AIMS test today, the heat pipe behaved about as as good as it has through the whole flight. That's leading them to consider uh piggybacking on some other maneuvers scheduled in your cap tomorrow, and possibly adding some maneuvers to provide an impulse that will move the bubbles out of the evaporator section uh down into the condenser. Another thing that's being looked at in view of the fact that they think there may be too much heat going into the pipe uh early on as it tries to wet itself. We're giving some thought to possibly determining a a duty cycle on a 500 watt heater and asking you to manually control a pulsed set of inputs for us. Uh one concern we have is they estimate that duty cycle is likely to be very short, something on the order of 30 seconds on and one minute off, perhaps. And that it might take as long as 20 to 30 minutes of doing that uh to get the system primed. Uh we'd be interested in any comments you have as to whether that's that would be a problem to have a block of that sort of activity uh in the flight plan tomorrow. Uh so we'll be looking for your
+No, we can do that. We'll do whatever it takes to get this uh thing started. And if uh if that's what it takes so we'll be happy to support it.
+
+Okay, I I know the share folks will appreciate that kind of response from you, Jim, that your support's going to turn out to be essential, I think, to getting the Sky primed.
+
+Okay, Cathy, what you see here is just a VTR of us uh taking some pictures out the window and holding the CCTV. There's Mike with the 70 out his side. We were able to take some pretty good uh shots with the Aero Linnhoff and the 70mm out those side windows. Yeah, here's CCTV looking out uh from the same perspective we have up here.
+
+That's a great shot, Jim, you're making us all jealous.
+
+You can see the IMAX camera mounted in the overhead. That's like Bob's fingerprint right now. He was going to take uh Aflax and you see uh Jim there Jim was working with the Hasselblad out the overhead. A plan on this pass is uh Jim with the uh Hasselblad, Bob with the Aflax, I was gonna run the IMAX and uh and you saw Jim and Mike earlier.
+Yeah, that was a real nice pass down through uh Central America and across South America. So, we had a lot of good uh photography and a lot of good volcanoes to try and pick up. And what you see right there is Bob uh filming with the 35, taking a couple pictures.
+We're sure enjoying seeing life aboard the orbiter again.
+And down in the mid deck we've got uh Jim and Bob are loading 35mm film. And if it looks upside down, that's because it's generally upside down to us, too.
+Looks just like Jim may be having entirely too much fun.
+Yeah, he's had a rough couple days up here. Seems like there's never enough hours in the day to keep uh these guys happy.
+Either that or not enough days in the mission.
+We were wondering how to bring that subject up.
+Trust me, we've been trying for you.
+Yeah, some of the things we completed today were um Dead Sea, Gulf of Aqaba. We got the uh we set structure, and getting a plane, and uh I think we got a city pretty well on that pass across Florida.
+It's uh it's been a pretty good day up here. We've had a taking an awful lot of field and uh we think we have some pretty good results to be looking forward to sharing with when we get down.
+
+Okay, Bob, we'll certainly be looking forward to that, too. That's all we have for you tonight, so I'll say goodnight from Orbit 2. Planning shift will be here in a little while to tidy things up through the evening, and we'll talk to you again tomorrow afternoon. Have a good evening.
+
+Good night, Kathy. Good night, Kathy.
+Good night, Kathy.
+Good night, Kathy.
+Good night, guys.
+This is mission control. Uh that last um exchange between crew and Kathy Sullivan were the final items for the uh workday for this crew and each crew member told Kathy good night separately, reminiscent of the Waltons television program.
+Good morning, Houston. Is everybody awake down there? This is Captain James T-- No, hold on. I'm going to do this properly.
+Date 1989. This is Captain James T. Kirk of the Starship Enterprise on temporary assignment to the space shuttle Discovery.
+Here in space, shall I call it the final frontier? The Discovery crew is alert and awaiting your morning orders for its five-day mission to perform new experiments, to seek out new information, to boldly go where no astronauts have gone before.
+That's fine for them, but can somebody help me find my ship? It's lost and I've got to beam out of here.
+Keep up the good work, Houston. Kirk out.
+Enterprise, Houston. Tell Scotty to beam me up.
+Good morning.
+Good morning, guys. That was real good.
+Hey, you just remember to have a cabin TV running when you want it.
+Appears that the crew of Discovery has uh beaten the flight control team and mission control to the punch. Uh Houston gets woke woken up first today, uh courtesy of uh Star Trek's William Shatner. After a few minutes of scratching heads, flight controllers decided the best way to respond was to let loose with uh the planned morning's wakeup music which was a medley of uh uh alma maters from the schools uh that this crew attended including Anchors Aweigh for the U.S. Naval Academy, Wild Blue Yonder for the United States Air Force Academy, and uh the Drexel Fight Song.
+Hello.
+Good morning, Mr. President.
+Commander, how are you, sir? We just called up to congratulate you and your crew on the space shuttle Discovery.
+Uh sitting next to me is uh our Vice President who's now head of the Space Council, and who incidentally will be down in Houston in just about two weeks. But what I really wanted to do is congratulate you and then hear about how things are going. We're certainly proud of proud of the mission.
+Uh, thank you very much, sir. Uh we have a very fine orbiter and a very fine crew here, and an awful lot of people on the ground who work very hard to get this uh flight off, the first one of your presidency and the first one of very many to come.
+Well, how is everyone feeling on the flight?
+Equal.
+Well, we're all feeling uh very well, Mr. President. Uh it's been an exciting time. Of course, three of us on the flight are uh rookies in space uh and and I think the uh the cleanliness and the uh smiles you see are just a reflection of the uh the fun that goes along with the hard work. We're uh we're doing an awful lot of good things, but we're uh really enjoying what we're doing.
+Well, we we are following it carefully and glad that the TDRSS uh got the satellite was successful successful operation there.
+And uh, how's the camera? How's that IMAX camera uh going to be?
+The IMAX camera has been uh working out really well, sir. In fact, uh we're getting a lot of great films that will help uh show a lot of people around the world uh how fragile the planet Earth is and this big vastness of space and maybe help everybody uh work to improve that.
+Well, it's a good focus and there is uh so much interest today on the global environment and I think a lot of people will see just from your important mission uh the contribution that space uh exploration can make to the world's environment. So, we're very grateful on that. A couple more questions about that. I was interested because of the history of this about the student experiments and how that was going.
+Well, Mr. President, the uh student experiments are going very well. Uh both of them were uh very well thought out and planned for and uh they've been going just as we expected. Uh Both John Blaha and myself are looking at both of those two experiments and uh the data is looking uh very good and I think the students will have a lot a lot of good information to get out when they get back.
+Well, it's an inspiration to the Americans. I'll tell you to all of us the today's pioneers, and we're seeing you right now, pointing the way for the young young Americans to uh build our nation's future. Listen, all of you down there at NASA, I heard what Mike said and let me just while we're on the air to space, let me simply say to everyone at NASA, that you have our strong support. I know I speak for the Vice President, uh the space program, especially, uh Space Station Freedom is an investment in our future. We're living in tough budgetary times, but I am determined to go forward with a strong active space program and I want to congratulate you Commander Coats and all of them uh for this wonderful, wonderful mission. Uh we look forward to your safe return and I think it's wonderful that two Marines uh can get along with a guy from the Navy and the Air Force and a civilian. That shows uh shows a broadminded approach to life in space. Did you read that?
+Yes, sir, we did. Obviously, the Marines can get along with the other services, but just in case, we have them odd-numbered there's two of us on board.
+I got the message. Sorry to start it going up there, but listen, congratulations, congratulations to you and best wishes and you have been an inspiration to all of us. So long, and God bless.
+Uh thank you, Mr. President and give our regards to Mrs. Bush. Uh tell her we're finding something for the new first lady.
+Oh, catch, you'll be thrilled, but you better come up here and give it to her personally.
+That would be nice, sir.
+You're in. You're invited right as of now. So when you get back, why head this way. Over and out.
+Yes, sir. Have a good day.
+pilot John Blaha at work on the student experiment uh the chicken eggs in space.
+I got the man, John Vellinger who's a senior at Purdue University uh has been working on this for over nine years. He's been in many, many student competitions and uh through the system, he has finally won the right to fly this on board the space shuttle. So, I congratulate uh John for his excellent experiment and uh to let him know it's working really great and I hope that uh when he gets this set of eggs back and compares it to the uh control group that he has on the ground, that he gets some very excellent experiment results. It looks real good. All of the equipment is functioning uh very well.
+Okay, thank you.
+And uh, we're going to go ahead and leave you alone for the rest of the night. You guys did a great job today. Uh, we appreciate all your work. And enjoy your evening.
+Okay. Well, we'll talk to you tomorrow.
+Okay, good night, Mike.
+Good night, John.
+Good night, Colonel Jim.
+Good night, Bob.
+Good night, Dr. Jim.
+Good night, Discovery.
+Good night, Houston.
+
+This is mission control. That uh music was in fact uh emanating from the orbiter Discovery. Uh the song High Ho from the uh Walt Disney film Snow White.
+Good morning, Houston.
+Looks like you uh beat us to the music again. We can uh account for a grumpy, sleepy, happy, sneezy, and doc up there. Uh who wants to sign up to be bashful and dopey?
+I'm not going to touch that.
+This is mission control. Houston, three days, 21 hours, 22 minutes mission elapsed time. Discovery is uh about to go across the equator and begin orbit 63 here. Might note that uh in honor of Saint Patrick's Day, our tracking map is green versus its original and traditional blue. Upcoming is a uh special crew conference with the NBC network.
+Discovery, this is NBC in Houston. Do you read me all right?
+Discovery reading loud and clear.
+If I may now, gentlemen, let me introduce Brian Gumble in New York, right?
+Good morning, gentlemen.
+Good morning.
+If I might, Colonel Buckley, I I know you have focused some of your attention on evidence of the Earth's pollution. I'm I'm wondering what you can exactly see from above.
+Well, obviously, from this perspective, the scale and scope of any type of uh of airborne aerosols is much more dramatic. And what we're trying to do is gather uh some evidence and documentation uh to bring back and show people just how much uh we are dumping into the atmosphere and perhaps get a feel for how that might affect us in future generations.
+Let me turn to Colonel Springer if I might, uh Colonel, is it difficult to be up there, and for all your importance and all the attention you're getting, not feel terribly insignificant?
+Good question. Uh I don't know that we feel all that uh terribly important. Uh I realize that we get a lot of attention because of the work that we're doing and I think it's uh rightfully so, the effort that we're doing, some of the projects we're working on, some of the scientific uh experiments that we're working on are the things that are important and should be getting the attention. But uh you're certainly right. From this perspective up here, uh as you look back at the Earth, you certainly feel very, very insignificant.
+Let me take a moment here to bring the Air Force into this. Colonel Blaha, have there been any major surprises? Anything you did not expect?
+No. No uh surprises at all. In fact, uh to tell you the truth, up here in 0G, there's a lot of things that are a lot easier to do than uh on Earth and it's quite a quite a neat place to be. It's a shame we can't be here uh all the time with a permanent man space station. We ought to get in that direction. You can do all the kinds of experiments that we're doing on this flight on a full-time, year-round basis and uh as a result, uh just bring along the new things that we could discover from the uh whole space environment.
+Let's uh try to let the civilian in on this. Dr. Dr. Bosley, and I know you had hope to research space sickness while up there. What have you learned first hand?
+Well Brian, what we've been doing is trying to collect some uh data in a new area that technology has just made available to us in recent time and that's to study actual blood flow in the brain, non-invasively, which uh is the main thing with the crew, non-invasively. Don't worry, we don't have a whole drill in their skull to measure pressure in there. Anyway, uh we hope by understanding that maybe we'll have a better handle on what causes some uh space adaptation syndrome, but until we analyze all the data after the flight, it it takes a fairly sophisticated numerical analysis, uh we can't make any conclusions as of yet.
+Let me go back to Commander Coats for one final note before I give you all back to to Dan Molina. Commander, you've flown this shuttle before. Do you look to tomorrow's landing as as a rather routine procedure?
+Well, I'm looking forward to it. Uh from what everybody has said, the uh training we get in the shuttle training airplanes is so realistic that once we get below about 50,000 feet in the orbiter, it's uh like you've been there several hundred times before, so I'm I'm really looking forward to that.
+Let's go back to Dan Molina. Dan.
+Thank you, Brian. Commander Coats, looking ahead to tomorrow, I know you were anxious to get a crosswind landing. How does it look for that tomorrow?
+It sounds like we have some winds down there. Uh looks like there's a possibility of getting the crosswind landing in and of course, uh I think in 20 27 previous flights we've had uh one landing that had a any kind of crosswind at all. It's unusual to have it that early in the morning. But uh looks like we may get the opportunity tomorrow.
+Well, to all of you, thanks very much for taking the time to be with us. We all wish you continue success on this flight and a safe and happy landing tomorrow and we'll see you tomorrow. Thank you very much.
+Okay, Dan.
+Discovery will be maneuvering to an attitude to begin another uh share test. This test will involve a pitch rotation maneuver of the orbiter where uh it will essentially be traveling end-over-end at 1 degree per second. Then also uh the IMAX camera system has asked uh that we uh do some filming while that maneuver is underway. The intent of that uh maneuver is to uh try and uh
+
+initiate some movement of the fluids within the share payload.
+San Houston we're ready right now to do the maneuver, you go.
+We go.
+Discovery Houston we want you to turn the heater back on now.
+Yeah heaters back on.
+Discovery now rotating about its own axis.
+Hey John, we want to do the maneuver again exactly the way we did it before. We want you to start it at 231530.
+We believe you had you should have a good IMAX pass from horizon to horizon.
+Okay 231530. You want to start the same maneuver again.
+And the pitch rotation maneuver has begun again.
+Payloader officer reports the IMAX people have gotten a signal that the IMAX recorders are running.
+Did you time that one to catch Florida?
+We thought so.
+He did a nice job. I think the IMAX people like that one.
+Great good hear, Mike.
+Discovery Houston shares looking really good now and if you guys aren't too dizzy, they'd like you to continue one more revolution.
+Okay, we'll just keep it going.
+Hey great.
+All the centrifugal force is kind of strange.
+Yeah, we were wondering about that if you guys are if the orbiter keeps running in you.
+Yeah, kind of hanging in the straps.
+Understand.
+Discovery continues an end-over-end rotation in support of the share payload.
+Discovery Houston, you're go ahead to stop the rotation when you complete this rev.
+Okay, we're stopping now.
+Some skilled piloting evident by Commander Coats. He's stopped the rotation and was within about 2 degrees of the attitude they now want the orbiter to go to.
+Any words on how the share's doing?
+Discovery Houston, the words from payloads is they're all wet and happy as clams.
+That's good news.
+Yeah, they look like they're getting a lot of good data right now.
+Our five revolutions that were done with the vehicle had fully primed legs 1 2 and 3 and partially primed legs 4 5 and 6 and the experiment was working very well.
+Crew then turned heater 3 off and all of the legs dried out.
+The Share experiment engineers team put together a message for flight controllers and have it displayed on one of the front boards in the mission control room.
+Using their acronym Share down the left side of the message.
+It read sure would like to thank you for all of your help during these past few days of our attempts to test our heat pipe although results were other than expected and has the Share emblem there as well.
+A copy of this message also was sent up to the crew on the texting graphic system.
+I just give you a little status report for the Corebex folks.
+Things are looking good and we finished them again activation a while ago and we're looking forward tomorrow morning to cracking them all up bringing it home.
+Okay, Jim, we copy that and they have sent a message back to you from KSC both the PI and the NASA Bionics team.
+Want to thank you and Bob both for your help on the experiment operations during the flight.
+I have a quote here, we're looking forward to green plants and great data at Dryden.
+We couldn't have done it without you. We appreciate all your help and that's from the Chromex team.
+Well we appreciate that and they made it a lot easier with the piece of hardware that was easy to operate for them as well.
+Okay, well I'm sure they're looking forward to a detailed debrief with you after the flight. Thanks again.
+Springer in Basin are working with the protein crystal growth experiment taking photos of the experiment as they prepare to deactivate it for the end of mission.
+The Association of Alabama and Texas Crystal Growers has had a fair amount of success.
+We've got some very very excellent looking crystals some of the samples and we're in the business now of trying to do the uh high magnification photography of a few selected chambers to to try and amplify the results we've gotten, but the folks from University of of Alabama, Birmingham who have been sponsoring this experiment along with the people at Marshall have done a pretty nice job of setting it up and it looks like we've got some good samples to bring back.
+Okay, Bob. I'm sure they appreciate those kind words and they'll be looking forward to seeing the data.
+They are indeed some very sizable and unique crystals.
+We're just the the gardeners up here and just kind of tending the crops, but we've seen some of the crystals, particularly with the high magnification that are just fantastic. They're some of the best examples that we had seen some examples that the people from University of Alabama, Birmingham had shown us, and these are just some of the duplicates of some of the finest crystals and we've got multiple examples of it. So they really ought to be ecstatic about it. We are.
+And Bob, the PCG guys just sent their personal thanks to you, both for the data you've been getting them during the flight and for the opportunity to see their experiment rig on the down link.
+Just one note of probably historical interest, for a 5 plus 2-day flight the total mission failure impact workaround summary only takes 31 lines, and I think that's a new outdoor world record.
+Well, that's quite a compliment to all the people that worked on the Shuttle.
+You bet. Good compliment to Discovery, too.
+And Discovery Houston, that's the last that Orbit 2 has for you this evening.
+We expect the next time that you hear from us will be tomorrow afternoon out at Ellington.
+On behalf of the whole Orbit 2 team, we'd like to send you a very hearty thank you for the great work that you've done throughout the flight.
+The extra effort you've very generously given to all the experiments on board. Flight control team appreciates it, and so do all the the PI's.
+We think STS-29 has set the whole NASA team off to an excellent start on the 1989 flight schedule, and we're real proud of you.
+Enjoy your last night on orbit, and we'll see you at the airport tomorrow afternoon.
+Okay, Kathy, those were mighty nice words, and we sure appreciate the support that we've gotten from you. It really helps to have somebody watching over our shoulder when days getting pretty long and we're kind of tired and you guys have done a super job. We do appreciate it, and we sure like to see you at the Ellington.
+It's been a pleasure, Mike, and we'll be there.
+Roger, good night, now.
+Hi, Daddy, it's Laura.
+Hi, Daddy, it's Fall.
+We can't wait to join in. We love you.
+Good and dead. Get it get up though let's go. Let me get up pal get out of bed get to work.
+Hi, Daddy. This is your darling daughter telling you to wake up.
+Hey, what's up, dude?
+Dad.
+Dad.
+Dad, I'm talking to you.
+Hi, we miss you. Bye, have fun.
+This is Jimmy.
+And Jimmy.
+Hope everything is going well on your flight.
+And if you're lucky, maybe you can get some powdered milk with it.
+You don't ruin it that Dodo.
+Good morning, Daddy Dodo.
+Don't boo.
+Hi, Daddy Dodo.
+I see trees of green.
+Red blooms too.
+I see them bloom.
+For me and you.
+And I think to myself.
+What a wonderful world.
+I think to myself.
+What a wonderful world.
+Oh yeah.
+Can't wait to the next space show, Daddy Dum-Dum.
+Discovery Houston.
+It's time to pack your bags and come on home to this wonderful world.
+Yeah, good morning Houston.
+Good morning, guys.
+I'm sitting next to the rail with deep I'm trying to get to my destination.
+On a tool and one that bands, I'll get back then guitar in hand, and every stop is needed line for a poet at a one man band.
+Oh, without I wish I were, home without I wish I were home.
+Hey, head to the new spaceship, Daddy Dum-Dum.
+Discovery Houston.
+Time to pack your bags and come on home to this wonderful world.
+Hey, good morning Houston.
+Good morning, guys.
+Discovery Houston, uh, we're just real happy that we beat you this morning.
+Oh, we thought you just probably let you go first for a change.
+Appreciate it.
+You didn't want to over sleep today.
+That wake wake up exchange between the crew of Discovery and controllers on the ground opened with a morning greeting from the children of the crew of Discovery, followed by Louis Armstrong's classic, What a Wonderful World.
+The air-to-ground response from Discovery was from the music library of Discovery's crew.
+This time, Simon & Garfunkel's Homeward Bound.
+This will be a deorbit burn that will send Discovery into Edwards Air Force Base for a landing on runway 22.
+That's the concrete runway at Edwards.
+Weather forecast for Edwards is good. For a period this morning, it looked as if we might be able to get that cross-wind component.
+But the latest weather observations are showing that out on the lake bed, the wind speeds are dropping, so we're going to go to the concrete.
+All of the major milestones in the deorbit prep timeline leading up to the deorbit burn have gone very smoothly this morning.
+Discovery Houston.
+Go ahead, Houston.
+Roger, you're go for deorbit burn.
+Your signal is Charlie to Edwards 22.
+Roger, go for the orbit burn, okay 3 wire.
+Roger, that.
+CAPCOM Frank Culbertson radio to the crew that they had been given a go by Mission Control for the deorbit burn.
+He used uh Navy parlance in signaling that to Commander Mike Coats aboard the orbiter Discovery, with the phrase, The signal is Charlie, which uh to Navy pilots means all aircraft should return to the ship.
+And Coats responded, Roger 3-wire.
+Uh in Navy parlance, the best wire to snag on a carrier landing is the number 3 wire.
+Propulsion systems officer reports ignition of both OME engines, and just as that data came to us, we went LOS TDRS East, but all looks good as the deorbit burn begins.
+Discovery Houston, with you through the TDRS West one more time. Do you have a burn report?
+Houston Discovery, we have a nominal burn. Discovery's coming home.
+We're looking forward to it.
+Right now, the convoy at Edwards is in its position to support this morning's landing.
+Latest estimate of crowds at Edwards there to observe are about 450,000 people.
+Discovery Houston, uh got a little bit of tracking at Guam and you look right down the pipe.
+Discovery, that's good to hear.
+Initial data into the Control Center indicates Discovery flying now at a velocity of mach 24.3, at an altitude of approximately 256,000 feet.
+Discovery Houston, we picked up a little more tracking data. You're right on track, and we have not had a blackout yet. We still have good downlink.
+Okay, Frank, that's good news.
+Flight dynamics officer, Bruce Hilty reporting that based on vectors coming into Mission Control, Discovery is quote smack dab on energy.
+Shortly, the vehicle will be passing through 200,000 feet for descent rate about 140 feet per second.
+Discovery Houston, energy, ground track, and nav are go. You got a ready deck, Mike.
+Discovery, Roger.
+Now 12 minutes from touchdown, Discovery approaching the California coast.
+Speed brake on the Discovery's tail open to 81%.
+She's 269 nautical miles from the runway, altitude 151,000 feet, velocity Mach 7.7.
+Discovery, take Tech N.
+Roger, Tech N.
+Discovery rolling left.
+Now about 8 and a half minutes to touchdown, range 145 nautical miles. Discovery passing through Mach 5, altitude 116,000 feet, descending 303 feet per second.
+Air data probes have been deployed on the port wing of Discovery, standing by for the call to take air data, which will feed higher fidelity numbers into the computational systems aboard Discovery.
+Currently, Mach 3.6, altitude 97,000 feet. Now inside 90 miles from Edwards Air Force Base.
+Discovery banking right now as these roll reversals are employed to burn off some of the speed.
+Discovery Houston, take air data to GNC. Hold on the nav.
+Roger, GNC only on the air data.
+Range now 67 nautical miles, velocity 2600 feet per second, altitude 83,000 feet, now inside Mach 2, altitude 74,000 feet, descending at a rate of 160 feet per second, about 45 nautical miles out.
+Discovery now passing under Mach 1, altitude 44,000 feet, 21 nautical miles from the runway.
+Discovery, we see you on energy, approaching the hack, you look fabulous.
+Discovery, Roger.
+Take air data to nav.
+And the viewers at Edwards Air Force Base have just heard the double sonic booms as Discovery passes over, approaching the heading alignment circle.
+Discovery, no change to weather, light winds.
+Roger.
+All data looks good in mission control, now about 10 nautical miles to the runway.
+Flight dynamics officer reports looking good, rolling onto final.
+Discovery, on glide slope, on center line, surface wind.
+
+1956.
+Roger that.
+Altitude 8,900 feet, about 5 and a half nautical miles to the runway, 1 minute to touchdown and at 4,300 feet, velocity .5 mach, now below 1,000 feet, gear down and locked, nose gear touchdown, Discovery now rolling out onto final.
+Houston Discovery, wheel stop.
+Well done Discovery. That's one to be proud of. We felt like we rode through the whole mission with you.
+Roger Houston.
+Great way to start the 89 schedule, Mike.
+You bet. First of a lot, Frank.
+

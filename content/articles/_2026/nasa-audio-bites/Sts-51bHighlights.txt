@@ -1,0 +1,615 @@
+Bob over my command, the seven member crew, and crawling through the hatch now is pilot Fred Gregory.
+Don Lind is MS1 on this flight.
+Dr. Norm Thagard, MS2 on this mission, is now climbing through the hatch.
+And flying on the middeck will be Dr. William Thornton, he is listed as MS3.
+Filling the PS1 position is Lodewijk van den Berg.
+He's a material science payload specialist for Space Lab 3.
+And the final person on this flight is payload specialist PS2.
+He is Taylor Wang and he will operate most of the fluid dynamics experiments on the mission.
+Already aboard for this mission are 26 scientific passengers in the form of two squirrel monkeys and 24 research rats.
+
+Today's launch represents another first in the Space Shuttle program.
+The first operational mission for the versatile Space Lab orbiting science laboratory.
+There are also two privately built minisatellites aboard which are scheduled to be launched from the cargo bay about five hours after launch.
+Nusat stands for Northern Northern Utah Satellite.
+And it will be used to calibrate air traffic control radars around the world.
+Glomar on the other hand is a satellite that will experiment with low orbit relay of radio communications.
+
+After the minisatellite deployment, the crew will power up and open the Space Lab module, and once in the shirt-sleeve conditions of Space Lab, the seven crew members will conduct tests to make pure more perfect crystals and also show how liquid drops behave in space, investigate how humans and animals adapt to weightless conditions, study the aurora borealis from space, and also measure the gaseous components in the highest parts of the Earth's atmosphere.
+Five seconds now from picking up the countdown.
+3, 2, 1, Mark, T minus 9 minutes and counting.
+
+T minus 7 minutes 30 seconds.
+And we are gold for orbiter access arm retract.
+Ground launch sequencer has now started retracting that access arm.
+
+T minus 5 minutes and counting. We have a go for APU start.
+Okay, that clock will hold at T minus 4 minutes due to a failure.
+
+Okay, we failed the SPE we failed to get locks in planet.
+This SPE will be holding at 4.
+T minus 4 minutes and holding. We are holding at this point because of the failure to initiate locks drain back and locks replenish.
+Workers are talking the situation over on the net.
+The team recommends you give me a therm replenish and 55 seconds later pick up the count of T minus 4.
+Repeating we are holding at T minus 4 minutes and we have a recommendation from the Locks Console that the Locks drain back be started manually from the console and that the countdown start 55 seconds after that.
+
+3, 2, 1, Mark.
+Locks console reports that the locks replenish and drain back has been initiated. We're standing by to resume the countdown and.
+3, 2, 1,
+Mark. We are T minus 4 minutes and counting.
+
+4 minutes and counting.
+Celescope for sequence 4.
+Close your visor.
+Visor's closed.
+Celescope for ET LH2 plug.
+The beanie cap has been removed from the external tank top and is now being cleared back on its umbilical arm.
+T minus 1 minute 45 seconds and counting.
+Liquid oxygen tank is pressurized. Liquid hydrogen tank now pressurizing.
+
+Next major milestone occurs at T minus 31 seconds with the go for autosequence start.
+
+T minus 30 seconds and counting.
+We're now on autosequence start. Challengers four computers now controlling the critical vehicle functions from now through liftoff.
+T minus 20 seconds and counting.
+T minus 15, 13, 12, 11, 10,
+9,
+8, 7, go for main engine start, 6, we have main engine start, all three engines up and running.
+3, 2, 1, 0, SRB ignition, and Challenger and Space Lab 3 is airborne and has cleared the tower.
+
+Cleared.
+Houston now controlling. Roll program initiated.
+
+Roger roll Challenger.
+
+Standing by to throttle engines down to 65% to pass through Max Q.
+
+Engines are now at 65% passing through the period of maximum aerodynamic pressure.
+
+Challenger heading out over the Atlantic and up the East Coast out on its 57 degree inclination.
+Challenger Houston, you are go at throttle up.
+
+Roger Houston go at throttle up.
+Velocity 2,800 feet per second altitude 9.8 nautical miles down range distance 6 nautical miles.
+
+SRB staging now complete.
+
+Guidance converging as programmed, velocity 5,200 feet per second, nominal first stage performance.
+First stage performance nominal.
+
+Roger good work dick.
+Altitude 32 nautical miles down range distance 40 nautical miles.
+
+Status check in mission control. All positions giving flight director a go. Expected main engine cutoff at 8 minutes 35 seconds as predicted.
+Challenger Houston press to MECO.
+
+Engines throttling back now to maintain three times force of gravity.
+23,000 feet per second now.
+Altitude 60 nautical miles down range distance 667.
+8 minutes 20 seconds, about 15 seconds away from main engine cutoff. Three engines throttle at about 74% right now.
+
+Main engine cutoff confirmed. Standing by for external tank separation.
+
+We have an APU temp.
+
+Okay. APU 3.
+APU 3 is to be selected.
+
+Challenger Houston, shut down APU 3.
+
+9 minutes 45 seconds. External tank is separated. Crew advised.
+Houston back with you through TDRS, shut down APU 3.
+
+Roger.
+
+Okay we're shutting it down, and our target looks good, dick.
+
+10 minutes 5 seconds, crew advised to shut down APU number 3 because of an overtemp.
+Challenger Houston, nominal ohms 1 target. The other two APUs off on time.
+
+We're executing it, dick.
+One slight problem and overtemperature on auxiliary power unit number 3, that has been isolated to a problem with the A controller, the B controller was switched on and then they got proper cooling just before they shut down the APU.
+So it appears that if there was a problem there, it was with the A controller, and that system is operational.
+And the Oms burn is underway. Propulsion officer reports the burn looks good.
+
+This is one of 2 orbital maneuvering system engine burns, take the Challenger the rest of the way into an elliptical orbit.
+
+The consensus up here dick, is that was a great ride and we highly recommend it.
+That's duly noted.
+
+This is Marshall Space Lab Operations, 58 minutes 40 seconds mission elapsed time.
+Halo Operations Director Clark Owen in the process of going through a status check with all management positions here at the payload control center, as well as with research teams here, preparing to support science operations during the Space Lab mission.
+Actually, Space Lab science activities are technically already underway aboard the Challenger with two experiments.
+The autogenetic feedback training experiment is designed to assist shuttle crew members in countering the effects of zero gravity space adaptation syndrome by the use of biofeedback methods.
+Through this experiment, they are taught to recognize the symptoms and then mentally counteract them.
+The equipment consists of a monitoring facility which enables them to monitor their heart rate, respiration rate, skin moisture, as well as blood volume pulse.
+This information is provided to crew members through a wrist display panel.
+And then the crew members, using the training they received prior to flight, attempt to control any symptoms of space adaptation syndrome, should they occur.
+The second experiment, the setup of the UMS, or monitoring system, and this is designed to develop a system for preparing samples for post-flight analysis, as well as developing a procedure for monitoring crew water intake.
+
+Houston Challenger, the payload bay doors are open.
+Challenger, Houston, you've got a go for orbit ops.
+
+Roger, good news there, dick.
+And they will begin their space lab activation very shortly.
+Challenger Houston, you've got a go for space lab activation.
+
+We copy that Dick, we have a go for space lab active.
+
+This is Marshall Space Lab Operations, mission elapsed time: 2 hours 21 minutes, here in the Payload Operations Control Center.
+The payload re-planning team is in the process of tweaking the timeline, this to identify new parameters for two experiments.
+The Atmos experiment, an experiment designed to look at the composition of the Earth's upper atmosphere, as well as the wide field camera experiment, a camera telescope that will be used to make a study to get ultraviolet photography of large structures in the celestial sphere.
+The purpose of this is to compensate for slight launch delay of approximately 2 minutes this morning.
+Directly behind the Atmos experiment is the Ions experiment, which is looking at cosmic ray sources, both outside the solar system, and possibly from the sun, should there be any solar flare activity during this mission.
+
+Okay, I'll shift over to VCG at 90+51. I am currently in the process of removing the first test cell.
+
+And we continue to receive live down link from Space Lab 3. This time of you have mission specialist Don Lynn as he locks the enclosure door of the fluid experiment system after having installed the first of the test cells of the triglycine sulfate crystal growth experiments.
+Got a quote here from FAS, they say they've evaluated their TV, and they'd like you to leave it in the oven and let it rise.
+That's fine. Go for it.
+
+I run this is Don.
+
+Okay, tell Taylor and Snapple that looking through the storage
+
+apartment enclosure. I see absolutely no damage to the ampule, to the crystal, to the source material. The crystal is smiling at me almost as happy as the monkeys.
+
+And you have a principal investigator down here who's smiling the same way.
+
+The sapphire containing mercuric iodide seed crystal.
+
+And for a freeze-out box, we've successfully, successfully inserted the module, no problems whatsoever. I'm closing the furnace aperture now.
+
+Copy. Don Lind installed the first test, test cell into the fluid experiment system. A a cell in which a a cooler seed crystal within the cell would form a crystal from surrounding fluid, which was heated to a higher temperature than the seed crystal itself, and the crystal would form upon the seed crystal as the temperature of the fluid uh dropped. Because in microgravity there's no convection, it is expected that this fluid experiment system will produce a more nearly perfect crystal than could be formed on Earth. Uh also Don Lind, when completing work with the fluid experiment system, moved to uh setting up the vapor crystal growth system. He inspected an ampule of mercuric iodide at the request of the operations control center. Taylor Wang performed some observations of the heavens with the very wide-field camera and uh just prior to our going LOS, uh uh for the moment, closed down that experiment. At 10 hours and 27 minutes mission elapsed time, this is Marshall Space Lab Operations.
+
+During this loss of signal period, a hand-over from the Gold to the Silver team will be completed. When we reacquire communications with Space Lab, the the Silver team will be operating the Space Lab experiments. A Ludwig Vandenberg, payload specialist uh, specializing in material science, mission specialist Norm Thagard and pilot Frederick Gregory will be on duty.
+
+ uh VCG SPI. I think the crystal looks uh pretty good. The seed has etched a little bit and uh as far as I know, we are now in the in the growth mode. Uh I will start to adjust uh the 300 command.
+
+Okay, Ludwig, this is VCGPI. Okay, everything looks fine. The uh end-point temperature you've entered looks fine on our data readout downstairs here. We would like to see though that the crystal be rotated.
+
+Principal Investigator, Wane Schippel, requesting Payload Specialist, Ludwig Vandenberg, to rotate the crystal, the mercuric iodide crystal to various positions so they can check the crystal for any imperfections.
+
+Okay, I I think the crystal is uh shaping up from uh the way it was etching we during the heat-up. Okay, but uh if it is doing so, it is doing so very slowly. And I'll I'll keep watching it, maybe in a couple of hours, maybe you want to uh to uh increase the rate of growth. We'll just see, okay?
+
+Okay, I think that's a good plan, Ludwig.
+
+still we're showing signs of etching yet. We're going to have to increase that ramp rate quite a bit and then maybe after a while, use it out when it starts picking up. So I think Right. What you want to do is you want to do a rapid slope. Right. For a little while and then come back to a slower one. Correct.
+
+That crystal is approximately 8 hours into its 120-hour uh it's more than 8 hours actually now, into its 120-hour uh uh growth period and uh although uh the crystal was dissolving slightly, that uh is not uh considered a serious problem and uh again uh Vandenberg was given a procedure to go ahead and turn that turn that around. Other than that, the crystal looked real good, according to uh Dr. Wane Schippel, who is the principal investigator uh for that experiment. One other material science experiment that's been operating uh during the early phase of the Spacelab 3 mission has been the uh Mercuric Iodide Crystal Growth uh um experiment. This is a re-flight of an experiment that was on Spacelab 1. Uh it involves three cartridges of um uh the first phase of of Argon uh gas and and inside those cartridges is source material, mercuric iodide. And the investigators are interested in looking at what they call nucleation or the startup of a crystal seed, the formation of the seed crystal itself, in zero gravity. And uh that that experiment started uh at about 6 hours mission elapsed time, and uh the research team here in the PA has indicated that uh uh it will continue uh to grow a total of 70 hours in the first phase, and everything is looking real good with that experiment at this time.
+
+Norm, the uh ARCPI feels like we might have a stuck feeder on rodent cage 9A. They would like for you to do the malfunction number 12, page Mal 23.
+
+Okay, Debbie, uh this is page Mal-23, rat food canister failure rodent.
+
+That's affirmative.
+
+Okay, Debbie, on uh page RF-2, we can verify that the cows on 9A are much lower than the others.
+
+We concur with that, Norm, and I've relived the uh mirror reflecting assembly, and I'm going to uh relive now the food bar of 9A.
+
+We copy.
+
+Okay, Debbie, I wish you could see it. He's a curious little fellow. He's come to the front of the cage to look at me. He's certainly not suffering anything. He's uh looking real healthy and active.
+
+That's good news.
+
+But, I would however, like to know what I'm doing with his food container.
+
+I'll bet.
+
+Okay, and the uh problem is that his food container, he's completely eaten it and it didn't slide forward.
+
+Okay, we copy that.
+
+Obviously ate what he could until he couldn't get at it anymore.
+
+No wonder he's so healthy.
+
+And Debbie, uh, do they want to go to a new food model or simply try and reseat this one?
+
+Norm, I think the PI would like to go ahead and reseat that food bar following procedure in step number five. The PI would like for you to go ahead and make a mark on the food bar in reference somewhere on the slide, to indicate that there is some advancement in that food bar, so we can go back and check it at a further time.
+
+Copy.
+
+Feller was just a little smaller, he could get out this hole where his food bar used to be. He's poking his nose through there.
+
+Well, just tell him to get his nose back down where it belongs.
+
+Certainly learned how to use zero g, he's turned upside down to get at everything.
+
+Hey Debbie, I've completed the uh animal observations for the rodents and done the bits tuning. All of the uh rodents look perfectly healthy. Uh like us though, they're showing a wide variability in the their movements at the time that we look at them in the cage, but they all appear to be real clean and real healthy.
+
+Okay, we copy that and it sounds good. Um, I'll check with the PIs and uh see if they're receiving their telemetry.
+
+This uh animal observation is a standard routine procedure that uh crew members do uh both uh with the uh rodents and the primates uh on the averages of once a day, once every uh 24 hours, just to uh take a look to see how they're adapting to their uh new home at space.
+
+Debbie, I'm the step 7 on Norm 2 of GFSC. I can verify power on, the ready light's on and all LEDs are all other warnings are off, and all the LEDs are eliminated.
+
+Okay, Mark.
+
+That's started on your mark.
+
+geophysical fluid flow cell experiment has been turned on.
+
+This experiment simulates flows which occur naturally in the atmosphere of rotating planets. The first scenario, uh which is scenario number 35, uh models the outer 1/3 of the solar convection flow. This model consists of uh two hemisphere mounted on a turntable.
+
+Electrical voltages simulate uh forces in the oceans, planetary and solar atmospheres.
+
+And the fluid between the hemispheres contains dye that scientists track to measure fluid movement and velocity.
+
+the outer equator measured temperature is bouncing between 24.9 and 25.0, inner equator measure temp 34.0, outer pole measured temp 25.8, inner pole measured temp 35.9, measured high voltage in kilovolt 3.52, table period command in seconds 002, outer pole, comm temp 25.0, inner pole comm temp 35.0, heat flux and watts 031. Uh 310 minutes left to go. Scenario number 35.
+
+Dave, you can pass on to our atmos gentlemen down there that uh the photos we've taken so far have been spectacular, both the sunset and the sunrise.
+
+Roger that, we'll do.
+
+And we copied Fred's uh comment on the Atmos photos and uh Atmos PI is uh very appreciative.
+
+Okay.
+
+And in line with that uh photography we're doing, you might let Bob Stevenson know that we've got him some fantastic Canary Islands up the West Coast of the uh uh of Africa, the Atlas Mountains across the uh Spanish uh across Spain, got him stereo pairs of the Pyrenees, I know he's not interested in that, but uh and we've got some great blooming stuff down around uh on the both sides of Italy and uh uh Sardinia.
+
+Roger that, that sounds uh sounds great, Fred.
+
+And uh Bob ball downs that I just made that we had another spectacular aurora, it was really really beautiful.
+
+I think we got our fair share of shots of it.
+
+Okay, sounds like you're having good success with the aurora.
+
+And Ken, I've got some questions for Tom Hallinan if he's available in the next few minutes.
+
+We got a spectacular aurora. We did a whole aurora pass We're anticipating some communication between uh Aurora uh Principal Investigator, uh Tom Hallinan and uh the uh Space Lab crew.
+
+Uh Tom, I really wish you could be up here. We've seen some marvelous auroras. We've got uh one uh pass that we uh got on tape but very quickly, so there wasn't a proper setup, the first scheduled pass, which was uh about an hour and a half ago. We flew through the top of the aurora, if I could have played the camera straight down, we could have got a reverse corona effect for you. The uh uh I set a lot of time on the TV camera, and the uh there were discrete arcs. Some of them were quite active. The uh vector streets uh were very active. Uh one of them, I really hope we got because the activity moved up and down the uh the arc uh excessively. We're uh we're seeing some uh really spectacular stuff. I wish I could get you up here to show you.
+
+I wish I could be there. It sounds great. When you were going through the aurora, did you notice any effects on Spacelab itself?
+
+Uh the answer is no, but I was not concentrating for that, I think the answer was no, though. was the standard 50 57 aurora with a very decided pink uh lower border.
+
+Ah, it sounds great. convinced myself that I think I convinced myself a couple of times that I saw the enhanced aurora along the bottom, but I'm not really sure on that. I'm uh still getting used to the uh the view from this angle. I think it'll take a lot of getting used to for all of us. I'm anxious to see it. Okay, thanks, and we're sure going to try to get you the best data we can. That part of an experiment to study the uh effects of the solar wind and the high-energy charged particles uh as they penetrate the Earth's atmosphere and create the aurora borealis, and in this case, the one that's being observed is the Southern Lights, the Aurora Australis. Uh, these uh charged particles tend to disrupt communications and navigation and may even have some effect on uh the Earth's long-term weather. So scientists uh like Hallinan are very interested in learning more about this interaction between solar wind and Earth's magnetosphere.
+
+Payload Specialist Vandenberg continues to work with the Fluid Experiment System.
+
+Space Lab.
+
+Uh Microlab, uh please inform the PI of the or the PI group of the AVS that we did some unscheduled inflight maintenance. So everything is okay now. Since about 5 minutes, we have started mode six in the AVS with sell number two and everything looks okay.
+
+Okay, copy, that sounds great. Ludwig. But Ludwig, we just have one question for you. Uh were there any crystallite in the cell during the transfer? How did it look?
+
+The cell looked fine. Absolutely no crystallite. It was crystal clear. So to speak. I mean in other words it was straight solution.
+
+Very good. Thanks a lot. Have a good lunch.
+
+That interchange between Payload Specialist Ludwig Bandenberg and Alternate Payload Specialist Mary Ellen Johnston regarding the Fluid Experiment System.
+
+The, uh, uh, Fluid Experiment System, uh, crystal growth activity, which uh, is entering a milestone phase here with the, uh, removal of the cap that covers that uh, triglycine crystal coming up shortly and uh, once that cap is removed, uh, the crystal will go through a, uh, brief period of critical phase where the crystal will uh, be etched slightly prior to the start of the growth cycle. And now we see that the cap over the crystal is being withdrawn.
+
+This will allow the fluid of triglycine sulfate, the solution to move in and surround the seed crystal.
+
+We're seeing the cap retract.
+
+Yeah, we are we are watching the cap opening PSM.
+
+Yes, indeed. I can see that, too. And uh I don't see any kind of of bloom of any kind. This first cap opening in in zero gravity.
+
+Uh PSM, can you report the status of the crystal, how the crystal looks?
+
+Dr. Ravindra Lal here in the Payload Operations Control Center watching closely the status of his crystal.
+
+It looks like uh small uh crystallites that are either close to or on top of the seed crystal that are coming loose and floating around in the solution. You see those little black spots? But they also seem to dissolve to wash away.
+
+As far as from what I can see, there are definite indications of a bright band in front of the crystal which would indicate that the crystal is etching.
+
+That is good, that is good. Uh, do you see that, uh, Do you see the same thing in the picture that you have, or?
+
+Yeah, that's great. That's great. We're beginning to see what we think is a halo around the crystal.
+
+Yeah, me too, around around the big crystal, but also around the small one. Do you see that? In front of the small one?
+
+Not yet.
+
+That halo they're referring to, would indicate that the crystal is etching or dissolving slightly which is desirable at this time. Uh the crew and the research team definitely want the crystal to uh dissolve first and also that would uh uh I assure that uh Go ahead. the crystallites dissolve.
+
+Good morning. I'm Dr. Bill Thornton in the Space Lab. This morning, we'd like to take you on a brief tour of the research animal holding facility. This is a rather fancy name for the animal quarters on this Space Lab mission. We have 24 rats with us and two monkeys. This is the first time that there has been a large number of animals and men working together or rather living together in space. This facility controls temperature, humidity, as well as providing food and water. It keeps a complete track of all that goes on inside the cage as well as monitors the animals' activities. The purpose of this flight for the animals is simply to be sure that for future flights that we can fly them in comfort and in safety because wherever man goes, I'm sure that he's going to take his animal friends with him in space. Now the real prima donnas of this facility, of course, are the two squirrel monkeys. They're very attractive little animals, friendly and adapted surprisingly well, apparently, to weightlessness. They adapted much more quickly than we did. Even the rats seemed to be moving around quite easily in this totally new environment for them. And so, here then, we have an example of another movement into space of man's ordinary activities. In this case, it's first of all research activities with the animals, but I'm would not be surprised to see the time come that we may have pets in space just as there have been on ships and everywhere else that man goes. What we have here this morning is the first large animal payload, large by our current standards, large animal payload in space, the purpose of which is primarily to test that the facilities are adequate to maintain future animal payloads in comfort. And so, for the future, it seems then that it should be possible for both man and animals to jointly enjoy the benefits of space. Thank you very much.
+
+The Drop Dynamics Module investigation team looking forward to uh the uh turning on of the DDM, uh when that occurs they will know uh at that time whether the uh inflight maintenance which Taylor Wang performed was uh successful. Uh Wang was able to uh patch around the uh the short problem in one of the power supplies of uh that drawer on the control electronics half of the module. And now we'll uh soon know whether or not the DDM will be functional.
+
+Micro lab, PSF, tell me you did.
+
+Go ahead, Taylor.
+
+It's working.
+
+This is great news, Taylor.
+
+You can thank the whole team for me but I have nothing but battery to return. Return to one set. Okay.
+
+We thank you. You did a great job.
+
+Did you hear the shout from the ground from up here? That came on, you have never seen such joy in anyone's face as as was intended in space.
+
+I had, you'll see uh Taylor is glowing from head to foot.
+
+I understand this gold team is better than 24 carat.
+
+You bet you.
+
+to open the uh the the acoustic chamber and install some syringes which uh will be used to uh inject the fluid, which is a water glycerin solution and then it will begin a series of manipulations of the droplets uh to study just how they react in zero gravity.
+
+Taylor, we have live downlink of your drop. That's absolutely beautiful.
+
+We are seeing the first live downlink of the drop formed inside the chamber of the Drop Dynamics Module.
+
+Um, every the pressure DB level on all three axis is 145 DB. And right now I'm applied clockwise torque to the to the to the drop. You can able to see the drop is spinning up, getting faster and faster in the clockwise direction.
+
+That rotating droplet is about 1 inch in diameter.
+
+Looks great. At Eugene Trend, the co-investigator.
+
+Not the drop dynamics module experiment.
+
+Okay. Now I'm gonna apply counterclockwise rotation on my mark. Count with that. We should see the drop slowing down and the rotate the other way around.
+
+Also, we made measurements on, we're getting live downtime, uh live TV down here and we were making measurements on the rotation rates and they look quite good. Looks like we'll be able to do all the experiments without any difficulty.
+
+Fantastic.
+
+We're measuring the period of oscillation in the potential well.
+
+That's co-investigator co-investigator Dr. Daniel Elleman.
+
+Right now, it just started to counter clockwise rotation.
+
+Yeah, I'll took about two minutes to slow down and we can calculate the the torques from that quite good.
+
+Thank you, Taylor. We appreciate it. That'll be useful data. Thank you.
+
+and the uh ions team here in the payload operations control center. That's the Indian research team that uh has an experiment out on the pallet to look at uh cosmic rays. Uh, from uh solar flares as well as from outside our solar system, uh is in the process of preparing to bring their experiment online for the first time this mission. This is Norm, we did the manual checkout uh per Norm 2, and it seems to work. I did not put it in operate yet. I thought I'd uh await your instructions.
+
+And, Space Lab, Marshall Ops, with you through TDRSS also and, uh, Norm, the uh ions PI is very happy and thanks you very much for your efforts in getting this thing started. He wants to try and put it in galactic mode.
+
+Yeah, I'll put it in galactic mode and then start it.
+
+Roger.
+
+Two, one, mark.
+
+Copy.
+
+And ions just wants to thank you guys again.
+
+Well, it makes us feel better when we can get this stuff to work.
+
+It makes us feel better, too.
+
+confirmation uh from uh mission specialist Norm Thagard and from the data from the Space Lab that the inflight maintenance procedure on the Ions Cosmic Ray Experiment was successful. Uh we heard the report that Ions in fact is working. And uh the response from the Payload Operations Control Center uh was, oh boy, that's fantastic from uh Dr. JN Daswami of India. He is a co-investigator on the Indian uh experiment. Uh matter of fact, he uh he jumped to his feet, began shaking hands with fellow team members, and uh the Ions research team in the POC here was all smiles. And that brings up uh to full capacity the uh final experiment here on board Space Lab uh Space Lab mission scientist uh George Fichtl indicating that uh this is uh what uh Space Lab is all about, the ability of uh having or the having crew members uh in space, scientists and uh and astronauts working together in space with the directly with the researchers and the mission management people on the ground to uh conduct experiments and to work around difficulties with experiments uh should that become necessary.
+
+Hey Dave, this is an excerpt from the log of Space Lab Challenger taken at 2113 mission elapsed time and they recorded at about 2140 mission elapsed time.
+
+This is the personal log of uh me.
+
+While eating breakfast in the workroom this morning, I heard great shouts of joy and commotion coming from my executive officer, Colonel Gregory.
+
+I immediately floated to the bridge and noted feverish activity on the part of Colonel Gregory and Dr. Lind, a mission scientist. Both were rapidly shooting cameras.
+
+I turned to Dr. Spock, who told me we were over the mid Atlantic. I looked out with wonder to see the largest plankton bloom imaginable. At least 200 miles on a side with numerous eddies throughout.
+
+Colonel Gregory will now possibly have the world's best picture of eddies in a plankton bloom, and it may even replace the B-17 pictures on future Earth observation training sites. Training sessions, over.
+
+Roger, we copy all that, and, uh, I'm sure that there'll be a lot of people, and Dr. Stevenson especially, that'll be happy to hear that.
+
+in Miss One's BCG.
+
+Uh, good morning, Dave. How are you doing?
+
+Pretty good. I feel a little better today. We are we've if you as you notice, the end point of grow has now been set at the same temperature, so we're letting it just fade out on the grow. Uh this is to prevent any I knew that. Yeah, any new nucleations occurring.
+
+Roger, now on the monitor, can you see the uh the extra polycrystal that's growing right on the very top, uh directly opposite the stings?
+
+You mean sort of under the overhang of the crystal?
+
+Negative on the very very top of the crystal. Directly through the crystal from the stake. Oh top Okay, now we now we see.
+
+Okay, we didn't we hadn't had video just before that, now we do. Um, we can't really identify it. There is a bit of a possibly a little anomaly there, but we aren't sure what it is. It is a It is a poly. That's right. It is Looking through the window, not through the microscope. Uh you can definitely ascertain that that is a poly and it doesn't look like it's a single one. It looks like it has some long uh linear uh growth that's parallel to the sea face.
+
+That's good information. We can't really tell much of anything about that. And now, this is, you say, straight up from the sting?
+
+That's right, it's it's on the face directly opposite from the sting, it's on the top of the crystal and on the monitor it's the little bump that uh that appears on the very top.
+
+All right, that's somewhat different than normal because that's straight up is a facet and normally speaking, we don't pick up polys on the facet, so this is interesting information.
+
+Uh, and this is a very unscientific term, but it looks like there's a spine growing down the top of that.
+
+base. Top of that surface.
+It could be a polly. I'm just saying we haven't picked a polly's up in those areas before.
+I don't the way you describe it it does sound like a polly.
+Yeah, it's a non-planar feature that uh it uh it just really looks like a spine is what it looks like uh a bump on the guy's back.
+Okay, it's does it seem to be is the spine pointing up or is the spine lengthwise with the uh with the uh facet?
+And it's laying on the facet?
+the long axis. The long axis of the structure is parallel to the c-face.
+All right, there's a possibility that may be a bit of a wash forming.
+It is it's where it's starting to recess but it can recess fairly sharply.
+So you can see actually what appears to be a long bar along there.
+That's what it looks like.
+All right, that's that's probably what it is then.
+Okay, thank you for the information.
+Might be right the interested that we've developed a new game up here uh somewhat similar to flying S patterns when you're starting to learn to fly instruments.
+Or flying airplane.
+Yeah.
+And that is as you're translating up the tunnel do one uh roll and make sure that the roll comes out just as you finish uh translating the tunnel. It uh is quite fun.
+Sounds like a good time.
+Sure Rod, that's not a good time. We are dedicated to science. We are not having a good time. We are dedicated.
+Roger that.
+was only done when you're rushing back to take a reading.
+Right, when you're rushing back to get more reading. That's the only time we do rolls and flips in the tunnel. Otherwise, it's not allowed.
+Well, you guys can have a little bit of fun. You are go for a little bit of fun.
+No accelerations though, guys.
+the nation's specialist Don Lind removing the uh Mercuric Iodide crystal from the vapor crystal growth system aboard Spacelab.
+Don, we have opportunity to enable VCG PI team uh on air to ground.
+MS1, this is VCG.
+Good morning.
+Good morning. Do you happen to have a penlight or a flashlight handy so you can shine it through the crystal that give us a much better view.
+Roger. I'll do that.
+Yeah, that that shows a good size crystal.
+Okay, it looks fairly clear. That's good.
+I like that uh You managed to keep it red.
+There was nothing in here to bleach it.
+No sunlight.
+All right, it looks like we used up about half the source too.
+Perfect.
+Do you see any loose crystal lights around the base of the uh of the crystal?
+On the on the pedestal.
+Shouldn't say loose but separate from the crystal.
+Yes, the little fellas that we've uh been talking about before are still there. They seem to be attached to the pedestal.
+Okay, how many of them are there?
+There's only four that I can positively see.
+About what's the size of the largest?
+2 millimeters by 1 millimeter by uh 3/4 of a millimeter.
+Okay, we may as well find this out right away. Uh take the thing in preferably both hands and shake it side to side uh two or three times. See if anything comes loose.
+Nothing. Nothing come loose yet.
+With that amount of With that amount of motion, nothing has moved.
+Okay, I think I I I could give you some more impacts things to give it but let's uh let's just let the landing give it as much as I I don't want to take a chance of giving it more and possibly spending some strain in the crystal.
+So thank you. I guess that's about it.
+Nate Skinner of the uh VCG research team here in the pod getting a first look at the completed crystal.
+Of interest, the crystal was uh 15 times larger than when it started.
+It grew to uh about uh a little larger than the size of a half teaspoon sugar cube.
+FS, MS1.
+We're standing by. Go ahead.
+This is FS.
+I have completed the I've completed the uh pre-cap closure inspection.
+The uh seating surfaces are uh essentially clean. There's one tiny crystal light that may or may not be uh even there. It's uh not going to be significant.
+So the seating surfaces are clean. I'm ready for cap closure and I will not require a uh another inspection after we close.
+Okay, close, go.
+That's an affirmative.
+Affirmative.
+So, here we go, we entered, it's gone to one.
+We copy that, Don.
+Mission Specialist Lind in the process of putting the protective cap back over the triglycine sulfate crystal,
+the crystal that's growing in the fluid experiment system.
+The protective uh cap is being lowered over the crystal, the seed crystal.
+The cap, of course, is hollow and uh does not uh affect the crystal or damage the crystal any as it's closed,
+but rather, uh perform uh forms a cover over the crystal so the fluid can be withdrawn to protect the crystal.
+FS, MS1, the uh closure looks perfectly normal up here. My very quick inspection of the gap indicates that it is nominal.
+Uh when we have a little bit more time, I want to go in again and recheck that cap, but first appraisal is that that's a nominal and a good closure.
+We copy and it's a good job. Thank you very much.
+Roger, Roger.
+Okay, for FS, you have a go for terminate experiment run
+for cell number three.
+Okay, that's as of this time.
+That's affirmative and that's Nom-26 to its completion.
+All right, Roger.
+Uh two interesting things
+to that uh you uh are not significant but you'll be interested in.
+The bottom of the uh cell and bottom is uh the 6:00 position in this coordinate system we've been uh looking at before.
+It looks dusty.
+Now, it obviously isn't dusty, it's a whole series of uh very sub millimeter bubbles that are on the bottom surface.
+Uh the top surface looks almost the same way, but of course it's got a transit uh uh the transverse uh window in there so that's not the other not that surface is available to be covered.
+But when you first glance at it, it gives you a very strange effect.
+Just an interesting observation, I thought you might be amused with.
+Uh they'll be very useful Don uh when we try to uh when we look at this, you know, post-flight. Thank you very much.
+Roger.
+That communication between Don Lind and Roger Cruz of the fluid experiment system team.
+Cruz is a co-investigator with uh Dr. Api Law of uh in Alabama, A&M University.
+And Baseline Marshall Ops for Don FS gives their compliments. They said you're a wonderful baker.
+Flight lab Marshall Ops.
+Go ahead.
+Hey, you guys be on your best behavior here for the next few minutes. We got a special guest here.
+Uh Carolyn Griner, the payload ops director, would like to have a word with two with you.
+Okay.
+Hey, Norm. I just like to tell you and the rest of the crew that on behalf of the pot Cadre, we sure enjoyed working with all of you.
+You've made Spacelab 3 an outstanding success.
+The HOSC and Spacelab and payload management teams have been great support in developing a lot of procedures that you guys have implemented so well. We're really proud of you.
+Well, thank you Carolyn. Again, we appreciate all the help we had from the ground. As usual, these missions don't get done uh unless a lot of people do a lot of things right and that's mostly on the ground.
+We have to do is follow instructions.
+Oh, you've done a lot more than that. It's been a really great week and we're looking forward to seeing you soon.
+I'm just the challenger for the module.
+Uh, according to our teleprinter changes, it's time for us to begin payload Deac. Are we cleared to do that?
+Roger, a go for payload Deac.
+What?
+And Spacelab Marshall Ops. Um, we're going to be handing over all air-to-ground communications to Catcom after this pass and just want to tell you guys uh happy landings and we'll be looking forward to seeing you back safe and sound on the ground.
+Thanks a lot Debby and it's been a joy working with you. Thanks for all the help.
+Roger Norm, same here.
+Roger. You can uh pass on to Spacelab ops that the pilot and commander will ensure that the crew gets back.
+We copy. And this is Marshall Spacelab Operations signing off.
+Challenger, Houston.
+Go ahead Dave.
+Roger Bob, you are go for payload bay door closing on time after the KU band antenna is stowed.
+Okay, that's in work.
+Hey, Houston. You see we got that message, payload bay door sequence fail and we got a down arrow auto sequence on the Aft latch test.
+As far as we can tell sir, looking down at that Aft bulkhead, everything looks good. The door looks uh within the uh bulkhead back there. And uh
+if it's not latched, it's it's certainly well,
+actually, the thing looks latched to us.
+And Challenger Houston, what we'd like you to do now is uh continue with a manual closing starting with the port Aft latches, the item 12 on payload bay doors.
+Roger.
+Pilot Fred Gregory, who uh earlier in the shuttle program was detailed from the astronaut office to work uh payload bay door uh issues.
+Says uh in his opinion the uh alignment of the doors is good.
+Challenger, Houston.
+Go ahead Houston.
+Okay, Fred. We're satisfied with the door configuration. Uh for your info, we saw no stall currents as such. Uh we don't feel there's any jam and uh your visual observation on the Aft latches looks good to us. We'll try to get some camera information while we're here at Myla, however you can pick up with the rest of the Deorbit prep sequence.
+Roger, thanks a lot.
+The situation with the doors is as follows.
+All of the latches have uh shown indications of having latched properly,
+except the port door, Aft bulkhead latches. The feeling is that uh they have not gotten an indication and that uh mechanically the doors have latched.
+Rather, they believe it's a uh uh microswitch that's causing them not to get data for those latches.
+Challenger, Houston.
+Go ahead.
+Roger, uh you are go for the deorbit burn.
+A change in runways.
+We now like Edwards 17 nominal aim point selected.
+For forecast forecast surface winds at Edwards Bob should be 220 10 gusting to 15.
+Okay, I will land as we predicted uh as we determined on that and it'll be a left overhead as some.
+Challenger, Houston, affirmative Bob, that's a left overhead about 190° of turn.
+Mission control Houston about 20 minutes left in this pass. The orbit burn will take place about a minute after we go LOST, TDRS.
+Challenger, Houston, configure LOS, we'll see you at Dryden in about, at 58.
+We copy that.
+Again, we do not anticipate receiving any telemetry or voice contact with the crew until we come out of blackout and acquire a signal through uh both the tracking the data relay satellite first, and then uh shortly thereafter the Dryden ground facility.
+Challenger, Houston, configure AOS.
+Roger, Houston, copy you loud and clear in nominal burn, nominal entry.
+Good news, Bob.
+Mission Control Houston, plot in the mission control center shows uh Orbiter Challenger dead on the entry track that uh is pre-mission predict
+And also coming uh straight down the energy slope.
+Challenger's approach to Dryden of course is from the south.
+Challenger, Houston, your NAV is nominal. Take tac in.
+Roger.
+Mission control Houston, now taking data from the Orbiter Challenger range now about 184 nautical miles.
+Velocity 5,900 ft per second, her altitude 130,000 ft. Descending at a rate of 280 ft per second.
+Take care of data, looks good to us.
+Quick copy, Bob, and we just got data again. Let us take a look.
+Challenger now crossing the coastline over the Los Angeles area.
+Approaching uh Edwards.
+Houston, take care of data.
+Take care of data, welcome.
+Range now 70 nautical miles to touchdown. Velocity 2800 ft per second, altitude about 84,000 ft.
+We got good visual on EDD. We've had it for quite a while.
+We copy.
+Over my reporting good visual on the Edwards runway.
+Velocity now 1800 ft per second, altitude 71,000 ft. The range 44.9 nautical miles.
+Challenger shortly will intersect the heading alignment circle executing a 190° left overhead turn onto runway 17 on the lake bed.
+Challenger now subsonic.
+Altitude 47 47,000 ft. Range 25 nautical miles.
+We've got a very loud buffet, dick.
+We copy.
+Flight dynamics officer reports the ship looks good turning on the hack.
+Velocity now 660 ft per second, the altitude 20,000 ft.
+Challenger, Houston, on glide slope on centerline, surface winds 210 at 5.
+All right, thank you, Dick.
+Our altitude now 7,700 ft.
+Range now 4.5 nautical miles.
+2.2 nautical miles.
+Gear down.
+Three gears down and locked.
+Touchdown.
+Nose gear now coming down.
+Touchdown on main gear.
+Over my.
+
+secure and light breaking at the moment as Challenger rolls out on runway 17.
+
+Wheel stop.
+
+Houston, wheel stop, Challenger is a good ship.
+
+Challenger, Houston, welcome back. Nice job, Bob, and welcome home, Space Lab.
+
