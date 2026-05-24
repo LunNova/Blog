@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/514731",
+    "title": "rocmPackages.clr: add gfx950 and gfx1103 to gpuTargets",
+    "number": 514731,
+    "state": "MERGED",
+    "date": "2026-05-07",
+    "repo": "NixOS/nixpkgs",
+    "author": "LunNova",
+    "merged_by": "pbsds",
+    "role": "author"
+  },
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/517452",
+    "title": "[Backport release-25.11] calibre-web: fix build",
+    "number": 517452,
+    "state": "MERGED",
+    "date": "2026-05-06",
+    "repo": "NixOS/nixpkgs",
+    "author": "nixpkgs-ci",
+    "merged_by": "LunNova",
+    "role": "merger"
+  },
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/513834",
+    "title": "hello: enable __structuredAttrs",
+    "number": 513834,
+    "state": "MERGED",
+    "date": "2026-05-06",
+    "repo": "NixOS/nixpkgs",
+    "author": "lisanna-dettwyler",
+    "merged_by": "LunNova",
+    "role": "merger"
+  },
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/507670",
+    "title": "casacpp, libsakura, python3Packages.{casaconfig,casatools,casatasks}: init; casacore: update build inputs",
+    "number": 507670,
+    "state": "MERGED",
+    "date": "2026-05-06",
+    "repo": "NixOS/nixpkgs",
+    "author": "kiranshila",
+    "merged_by": "LunNova",
+    "role": "merger"
+  },
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/516911",
+    "title": "rocmPackages: 7.2.2 -> 7.2.3",
+    "number": 516911,
+    "state": "OPEN",
+    "date": "2026-05-05",
+    "repo": "NixOS/nixpkgs",
+    "author": "LunNova",
+    "merged_by": null,
+    "role": "author"
+  },
+  {
+    "url": "https://github.com/pytorch/pytorch/pull/182030",
+    "title": "[ROCm] Make AOTriton bundling optional via `BUILD_AOTRITON_INTO_WHEEL` flag",
+    "number": 182030,
+    "state": "OPEN",
+    "date": "2026-04-30",
+    "repo": "pytorch/pytorch",
+    "author": "LunNova",
+    "merged_by": null,
+    "role": "author"
+  },
+  {
+    "url": "https://github.com/ROCm/rocm-systems/pull/5591",
+    "title": "rccl: net_ib: fix signed-shift UB in wr_id encoding",
+    "number": 5591,
+    "state": "OPEN",
+    "date": "2026-04-29",
+    "repo": "ROCm/rocm-systems",
+    "author": "LunNova",
+    "merged_by": null,
+    "role": "author"
+  },
+  {
+    "url": "https://github.com/ROCm/rocm-systems/pull/5589",
+    "title": "rccl: fix dmabuf_fd close check using wrong comparison operator for -1 sentinel value",
+    "number": 5589,
+    "state": "OPEN",
+    "date": "2026-04-29",
+    "repo": "ROCm/rocm-systems",
+    "author": "LunNova",
+    "merged_by": null,
+    "role": "author"
+  },
+  {
+    "url": "https://github.com/nix-community/home-manager/pull/9139",
+    "title": "syncthing: avoid init for default gui address",
+    "number": 9139,
+    "state": "MERGED",
+    "date": "2026-04-27",
+    "repo": "nix-community/home-manager",
+    "author": "khaneliman",
+    "merged_by": "khaneliman",
+    "role": "approver"
+  },
+  {
+    "url": "https://github.com/NixOS/nix/pull/15417",
+    "title": "libstore: handle root path in RemoteFSAccessor::maybeLstat",
+    "number": 15417,
+    "state": "MERGED",
+    "date": "2026-03-09",
+    "repo": "NixOS/nix",
+    "author": "LunNova",
+    "merged_by": "Ericson2314",
+    "role": "author"
+  }
+]

@@ -198,6 +198,27 @@ I'm particularly interested in ML & Nix, generally open to exciting opportunitie
   font-style: italic;
   white-space: nowrap;
 }
+.contrib-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.contrib-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.contrib-text {
+  flex: 1;
+}
+.contrib-date {
+  margin-left: auto;
+  font-size: 0.82rem;
+  opacity: 0.55;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
 </style>
 
 <h3>Featured</h3>
@@ -279,6 +300,18 @@ I'm particularly interested in ML & Nix, generally open to exciting opportunitie
 {% for p in all_pages | get(key="articles/") | get(key="children") | slice(end=5) %}
     {{ post_macros::page_in_list(page=p) }}
 {% endfor %}
+</div>
+
+<h3>Recent collaboration</h3>
+<div class="contrib-list">
+<Tera>
+{% for c in load_data(path="recent-contributions.json") %}
+  <div class="contrib-item">
+    <span class="contrib-text">{% if c.role == "author" %}{% if c.state == "OPEN" %}Proposed{% else %}Authored{% endif %} <a href="{{ c.url }}">{{ c.repo }}#{{ c.number }}</a> — {{ c.title }}{% if c.merged_by and c.merged_by != c.author %}, merged by <a href="https://github.com/{{ c.merged_by }}">@{{ c.merged_by }}</a>{% endif %}{% elif c.role == "merger" %}Merged <a href="https://github.com/{{ c.author }}">@{{ c.author }}</a>'s <a href="{{ c.url }}">{{ c.repo }}#{{ c.number }}</a> — {{ c.title }}{% elif c.role == "approver" %}Approved <a href="https://github.com/{{ c.author }}">@{{ c.author }}</a>'s <a href="{{ c.url }}">{{ c.repo }}#{{ c.number }}</a> — {{ c.title }}{% else %}Reviewed <a href="https://github.com/{{ c.author }}">@{{ c.author }}</a>'s <a href="{{ c.url }}">{{ c.repo }}#{{ c.number }}</a> — {{ c.title }}{% endif %}</span>
+    <span class="contrib-date">{{ c.date }}</span>
+  </div>
+{% endfor %}
+</Tera>
 </div>
 
 <h3>Experience</h3>
