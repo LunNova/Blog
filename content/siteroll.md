@@ -32,3 +32,6 @@ Prior home to the best worst static site generator. I'm not explaining.
 
 **[aphyr.com](https://aphyr.com/)**  
 Classic [⌷ing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview) series.
+
+**[eriskii.net](https://eriskii.net/)**  
+Cool ML research, including the finding that [trained activation steering vectors can induce assistant behavior in a base model.](https://eriskii.net/research/instruct-vectors)
