@@ -12,6 +12,8 @@ dependency-reduced-pom.xml
 .direnv
 .pre-commit-config.yaml
 
+.env
+
 # Compiled #
 ############
 bin
