@@ -140,6 +140,33 @@ I'm particularly interested in ML & Nix, generally open to exciting opportunitie
   opacity: 0.4;
 }
 .blade-card:hover .blade-airflow { opacity: 0.6; }
+.oracle-card {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+.oracle-card .card-title,
+.oracle-card .card-desc {
+  position: relative;
+  z-index: 2;
+}
+.oracle-visual {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.oracle-svg {
+  height: 100%;
+  width: auto;
+  display: block;
+  opacity: 0.75;
+  position: absolute;
+  right: -0.5rem;
+  top: 0;
+  transition: opacity 0.15s;
+}
+.oracle-card:hover .oracle-svg { opacity: 1; }
 .exp-list {
   display: flex;
   flex-direction: column;
@@ -188,29 +215,58 @@ I'm particularly interested in ML & Nix, generally open to exciting opportunitie
     <div class="card-subtitle">CVE-2018-7118</div>
     <div class="card-desc">Too loud? Guess we have to hack it.</div>
     <div class="blade-visual">
-      <!-- <div class="blade-airflow">
-        <svg viewBox="0 0 160 200" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <marker id="af" viewBox="0 0 6 6" refX="3" refY="3" markerWidth="10" markerHeight="10" orient="auto-start-reverse">
-              <path d="M0,0.5 L6,3 L0,5.5 Z" fill="#888" opacity="0.6"/>
-            </marker>
-          </defs>
-          <g stroke="#888" stroke-width="0.7" fill="none" opacity="0.4">
-            <path d="M0,15 L40,22 L80,35 L120,50 L160,65" marker-mid="url(#af)" marker-end="url(#af)"/>
-            <path d="M0,30 L40,38 L80,52 L120,70 L160,90" marker-mid="url(#af)" marker-end="url(#af)"/>
-            <path d="M0,50 L40,58 L80,73 L120,92 L160,110" marker-mid="url(#af)" marker-end="url(#af)"/>
-            <path d="M0,115 L40,123 L80,137 L120,153 L160,170" marker-mid="url(#af)" marker-end="url(#af)"/>
-            <path d="M0,135 L40,145 L80,161 L120,177 L160,193" marker-mid="url(#af)" marker-end="url(#af)"/>
-            <path d="M0,155 L40,165 L80,181 L120,197 L160,213" marker-mid="url(#af)" marker-end="url(#af)"/>
-          </g>
-        </svg>
-      </div> -->
       <img class="blade-svg" src="/articles/cve-2018-7118-bladesystem-root/bladesystem-rear.svg" alt="HP BladeSystem c7000 rear view with 10 large fans">
     </div>
   </a>
-  <a class="featured-card" href="/articles/pattern-wishcast/">
-    <div class="card-title">pattern-wishcast: enum pattern types in 2025 rust</div>
-    <div class="card-desc">Approximating a cool upcoming? language feature</div>
+  <a class="featured-card oracle-card" href="/articles/steering-vector-activation-oracle/">
+    <div class="card-title">Trained steering vectors may work as activation oracles</div>
+    <div class="card-desc">≈1/600th the params, comparable accuracy, and some eval oddities in the AO paper.</div>
+    <div class="oracle-visual">
+      <svg class="oracle-svg" viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+        <defs>
+          <clipPath id="oracle-ball-clip">
+            <circle cx="100" cy="95" r="68"/>
+          </clipPath>
+          <radialGradient id="oracle-interior" cx="50%" cy="50%" r="55%">
+            <stop offset="0%" stop-color="#7a4fc4" stop-opacity="0.28"/>
+            <stop offset="100%" stop-color="#1a0a30" stop-opacity="0.4"/>
+          </radialGradient>
+          <radialGradient id="oracle-glow" cx="32%" cy="28%" r="80%">
+            <stop offset="0%" stop-color="#e8d4ff" stop-opacity="0.32"/>
+            <stop offset="55%" stop-color="#9a6fd4" stop-opacity="0.04"/>
+            <stop offset="100%" stop-color="#4a1f80" stop-opacity="0"/>
+          </radialGradient>
+          <marker id="oracle-arr" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="4.5" markerHeight="4.5" orient="auto">
+            <path d="M0,1 L7,4 L0,7 Z" fill="#fff"/>
+          </marker>
+        </defs>
+        <g>
+          <path d="M 86,170 L 82,202 L 118,202 L 114,170 Z" fill="#3a2750" fill-opacity="0.75" stroke="#8870a8" stroke-width="1"/>
+          <path d="M 86,170 L 82,202 L 86,202 L 90,170 Z" fill="#fff" fill-opacity="0.1"/>
+          <path d="M 108,170 L 110,202 L 118,202 L 114,170 Z" fill="#000" fill-opacity="0.35"/>
+          <ellipse cx="100" cy="166" rx="32" ry="3.5" fill="#3a2750" fill-opacity="0.75" stroke="#8870a8" stroke-width="1.2"/>
+          <ellipse cx="100" cy="166" rx="26" ry="2.5" fill="#1a0d2a" fill-opacity="0.7"/>
+          <!-- <ellipse cx="100" cy="206" rx="46" ry="8" fill="#3a2750" fill-opacity="0.75" stroke="#8870a8" stroke-width="1.2"/> -->
+          <!-- <path d="M 54,206 Q 54,216 100,219 Q 146,216 146,206" fill="#1a0d2a" fill-opacity="0.7" stroke="#8870a8" stroke-width="0.8"/> -->
+        </g>
+        <circle cx="100" cy="95" r="68" fill="url(#oracle-interior)" stroke="#a888d8" stroke-width="1.4"/>
+        <g clip-path="url(#oracle-ball-clip)" stroke="#c8a8ff" stroke-width="1.2" fill="none" opacity="0.9">
+          <path d="M 28,55 Q 100,75 172,55"/>
+          <path d="M 28,75 Q 100,85 172,75"/>
+          <path d="M 28,95 L 172,95"/>
+          <path d="M 28,115 Q 100,105 172,115"/>
+          <path d="M 28,135 Q 100,115 172,135"/>
+        </g>
+        <g clip-path="url(#oracle-ball-clip)" stroke="#fff" stroke-width="1.6" opacity="0.95">
+          <line x1="65" y1="75" x2="65" y2="58" marker-end="url(#oracle-arr)"/>
+          <line x1="105" y1="95" x2="105" y2="78" marker-end="url(#oracle-arr)"/>
+          <line x1="138" y1="115" x2="138" y2="98" marker-end="url(#oracle-arr)"/>
+          <line x1="75" y1="135" x2="75" y2="118" marker-end="url(#oracle-arr)"/>
+        </g>
+        <!-- <circle cx="100" cy="95" r="68" fill="url(#oracle-glow)" pointer-events="none"/> -->
+        <!-- <ellipse cx="72" cy="62" rx="15" ry="7" fill="#fff" opacity="0.28" pointer-events="none" transform="rotate(-28 72 62)"/> -->
+      </svg>
+    </div>
   </a>
   <a class="featured-card" href="/articles/ryzen-slow-short-rep-mov/">
     <div class="card-title">Zen 3's Amazing Slow Short Rep Mov</div>
