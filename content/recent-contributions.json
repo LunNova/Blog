@@ -1,58 +1,58 @@
 [
   {
-    "url": "https://github.com/NixOS/nixpkgs/pull/516911",
-    "title": "rocmPackages: 7.2.2 -> 7.2.3",
-    "number": 516911,
+    "url": "https://github.com/NixOS/nixpkgs/pull/545108",
+    "title": "zluda: 6-preview63 -> 6",
+    "number": 545108,
     "state": "MERGED",
-    "date": "2026-05-11",
+    "date": "2026-07-24",
+    "repo": "NixOS/nixpkgs",
+    "author": "VlaDexa",
+    "merged_by": "LunNova",
+    "role": "merger"
+  },
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/543692",
+    "title": "rocmPackages.aotriton: disable verbose logs for ninja install",
+    "number": 543692,
+    "state": "MERGED",
+    "date": "2026-07-20",
+    "repo": "NixOS/nixpkgs",
+    "author": "booxter",
+    "merged_by": "LunNova",
+    "role": "merger"
+  },
+  {
+    "url": "https://github.com/NixOS/nixpkgs/pull/543676",
+    "title": "rocmPackages.llvm: backport select-ptr combine so llvm-22 sdag fix ap…",
+    "number": 543676,
+    "state": "MERGED",
+    "date": "2026-07-20",
     "repo": "NixOS/nixpkgs",
     "author": "LunNova",
-    "merged_by": "LunNova",
+    "merged_by": "vcunat",
     "role": "author"
   },
   {
-    "url": "https://github.com/NixOS/nixpkgs/pull/514731",
-    "title": "rocmPackages.clr: add gfx950 and gfx1103 to gpuTargets",
-    "number": 514731,
+    "url": "https://github.com/NixOS/nixpkgs/pull/538824",
+    "title": "python3Packages.torchtune: fix alias after dropping",
+    "number": 538824,
     "state": "MERGED",
-    "date": "2026-05-07",
+    "date": "2026-07-06",
     "repo": "NixOS/nixpkgs",
-    "author": "LunNova",
-    "merged_by": "pbsds",
-    "role": "author"
-  },
-  {
-    "url": "https://github.com/NixOS/nixpkgs/pull/517452",
-    "title": "[Backport release-25.11] calibre-web: fix build",
-    "number": 517452,
-    "state": "MERGED",
-    "date": "2026-05-06",
-    "repo": "NixOS/nixpkgs",
-    "author": "nixpkgs-ci",
+    "author": "mdaniels5757",
     "merged_by": "LunNova",
     "role": "merger"
   },
   {
-    "url": "https://github.com/NixOS/nixpkgs/pull/513834",
-    "title": "hello: enable __structuredAttrs",
-    "number": 513834,
+    "url": "https://github.com/NixOS/nixpkgs/pull/538426",
+    "title": "rocmPackages.{rocshmem,hipsparselt}: init at 7.2.3",
+    "number": 538426,
     "state": "MERGED",
-    "date": "2026-05-06",
+    "date": "2026-07-05",
     "repo": "NixOS/nixpkgs",
-    "author": "lisanna-dettwyler",
-    "merged_by": "LunNova",
-    "role": "merger"
-  },
-  {
-    "url": "https://github.com/NixOS/nixpkgs/pull/507670",
-    "title": "casacpp, libsakura, python3Packages.{casaconfig,casatools,casatasks}: init; casacore: update build inputs",
-    "number": 507670,
-    "state": "MERGED",
-    "date": "2026-05-06",
-    "repo": "NixOS/nixpkgs",
-    "author": "kiranshila",
-    "merged_by": "LunNova",
-    "role": "merger"
+    "author": "CertainLach",
+    "merged_by": "GaetanLepage",
+    "role": "approver"
   },
   {
     "url": "https://github.com/pytorch/pytorch/pull/182030",
@@ -61,28 +61,6 @@
     "state": "OPEN",
     "date": "2026-04-30",
     "repo": "pytorch/pytorch",
-    "author": "LunNova",
-    "merged_by": null,
-    "role": "author"
-  },
-  {
-    "url": "https://github.com/ROCm/rocm-systems/pull/5591",
-    "title": "rccl: net_ib: fix signed-shift UB in wr_id encoding",
-    "number": 5591,
-    "state": "OPEN",
-    "date": "2026-04-29",
-    "repo": "ROCm/rocm-systems",
-    "author": "LunNova",
-    "merged_by": null,
-    "role": "author"
-  },
-  {
-    "url": "https://github.com/ROCm/rocm-systems/pull/5589",
-    "title": "rccl: fix dmabuf_fd close check using wrong comparison operator for -1 sentinel value",
-    "number": 5589,
-    "state": "OPEN",
-    "date": "2026-04-29",
-    "repo": "ROCm/rocm-systems",
     "author": "LunNova",
     "merged_by": null,
     "role": "author"
@@ -99,6 +77,17 @@
     "role": "approver"
   },
   {
+    "url": "https://github.com/NixOS/nix/pull/15417",
+    "title": "libstore: handle root path in RemoteFSAccessor::maybeLstat",
+    "number": 15417,
+    "state": "MERGED",
+    "date": "2026-03-09",
+    "repo": "NixOS/nix",
+    "author": "LunNova",
+    "merged_by": "Ericson2314",
+    "role": "author"
+  },
+  {
     "url": "https://github.com/triton-lang/triton/pull/9628",
     "title": "[AMD] Add GCN5.1 / gfx906 target",
     "number": 9628,
@@ -108,5 +97,16 @@
     "author": "LunNova",
     "merged_by": "antiagainst",
     "role": "author"
+  },
+  {
+    "url": "https://github.com/fufexan/nix-gaming/pull/350",
+    "title": "treewide: enforce nixfmt formatting",
+    "number": 350,
+    "state": "MERGED",
+    "date": "2026-03-01",
+    "repo": "fufexan/nix-gaming",
+    "author": "fufexan",
+    "merged_by": "fufexan",
+    "role": "approver"
   }
 ]
