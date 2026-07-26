@@ -19,11 +19,9 @@ sort_by: "title"
   --max-item: calc((100% - (var(--max-cols) - 1) * var(--gap)) / var(--max-cols));
   grid-template-columns: repeat(auto-fill, minmax(max(var(--min-item), var(--max-item)), 1fr));
   gap: var(--gap);
-  margin-bottom: 1.5rem;
+	margin: 1.5rem 0rem 1.5rem 0rem;
 }
 .featured-card {
-  border: 1px solid var(--luna_mane_purple, #555);
-  border-radius: 4px;
   padding: 1rem;
   text-decoration: none;
   color: inherit;
