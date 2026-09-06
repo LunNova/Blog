@@ -23,7 +23,7 @@
   },
   {
     "url": "https://github.com/NixOS/nixpkgs/pull/543676",
-    "title": "rocmPackages.llvm: backport select-ptr combine so llvm-22 sdag fix ap…",
+    "title": "rocmPackages.llvm: backport select-ptr patchset so sdag fix applies",
     "number": 543676,
     "state": "MERGED",
     "date": "2026-07-20",
